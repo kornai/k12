@@ -1,0 +1,45 @@
+{
+ "iso": "uka",
+ "name": "Kaburi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:50:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kaburi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaburi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "South Bird's Head languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/South_Bird%27s_Head_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University scholarly publication (surfaced in search for Kaburi)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3463909/view",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Kaburi word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KABURI",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kaburi in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/12397/ID",
+   "found_in_search": true
+  }
+ ]
+}

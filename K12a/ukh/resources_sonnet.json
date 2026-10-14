@@ -1,0 +1,45 @@
+{
+ "iso": "ukh",
+ "name": "Ukhwejo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:50:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ukhwejo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukhwejo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Christina Thornell abstract, WOCAL (Ukhwejo cluster)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.uni-koeln.de/phil-fak/afrikanistik/wocal/schedule/abstracts/2-5-3%20Christina%20Thornell.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Ukhwejo",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Ukhwejo",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Benkonjo in Central African Republic",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10794",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ukhwejo",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/565?hl=en",
+   "found_in_search": true
+  }
+ ]
+}
