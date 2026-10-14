@@ -1,0 +1,52 @@
+{
+ "iso": "vmv",
+ "name": "Maidu, Valley",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:10:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Konkow Maidu dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.konkow.org/pub/dict.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Organizing Linguistic Data for Language Revitalization: The Konkow Maidu Website and Database",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/f283a176-4829-4621-89d2-a1495bb01961",
+   "found_in_search": true
+  },
+  {
+   "title": "Valley Maidu numerals",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Maidu-Valley.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Konkow Wailaki Maidu Indian Cultural Preservation Association",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://actaonline.org/profile/konkow-wailaki-maidu-indian-cultural-preservation-association/",
+   "found_in_search": true
+  },
+  {
+   "title": "maidu.org",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://maidu.org/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Maidu guide",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2290/guide/6952",
+   "found_in_search": true
+  }
+ ]
+}

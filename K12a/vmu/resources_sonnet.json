@@ -1,0 +1,45 @@
+{
+ "iso": "vmu",
+ "name": "Muluridyi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:10:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Austlang: Muluridji (Y97)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/y97",
+   "found_in_search": true
+  },
+  {
+   "title": "South Australian Museum: Muluridji (QLD)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.samuseum.sa.gov.au/collection/archives/language_groups/muluridji",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Muluridyi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mulu1243.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Muluridyi",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3373",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: vmu",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/vmu/",
+   "found_in_search": true
+  }
+ ]
+}
