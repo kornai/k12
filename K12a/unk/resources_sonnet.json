@@ -1,0 +1,52 @@
+{
+ "iso": "unk",
+ "name": "Enawené-Nawé",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:07:41Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language Documentation of Enawene-Nawe (Arawak) (ELDP)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0572/",
+   "found_in_search": true
+  },
+  {
+   "title": "Enawene-Nawe (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2054",
+   "found_in_search": true
+  },
+  {
+   "title": "Povos Indigenas no Brasil: Enawene-Nawe",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://indios.org.br/en/povo/Enawen%C3%AA-naw%C3%AA",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Zorthea on alphabetic writing acquisition by the Enawene-Nawe",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistapedagogia.ufmt.br/wp-content/uploads/2025/08/resenha_Ana-Paula-06-11.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Master's dissertation on Enawene-Nawe schooling at CEJA Alternativo, Juina (UEMS)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://biblioteca.uems.br/publicos/download/96444",
+   "found_in_search": true
+  },
+  {
+   "title": "Legislative request on the Enawene Nawe school, Halataikwa (Assembleia Legislativa de Mato Grosso)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.al.mt.gov.br/storage/webdisco/cp/20190716100239155600.pdf",
+   "found_in_search": true
+  }
+ ]
+}
