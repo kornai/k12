@@ -1,0 +1,38 @@
+{
+ "iso": "tdv",
+ "name": "Atoro",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:45:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Toro language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Toro_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Atoro (tdv) audio",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tdv",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Turkwam in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15656",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language tdv",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tdv",
+   "found_in_search": true
+  }
+ ]
+}
