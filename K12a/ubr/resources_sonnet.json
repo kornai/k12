@@ -1,0 +1,45 @@
+{
+ "iso": "ubr",
+ "name": "Ubir",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:39:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ubir language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ubir_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ubir (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/ubir.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ubir (Verbix documentation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Ubir",
+   "found_in_search": true
+  },
+  {
+   "title": "Ubir Bible (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/UBRTBL",
+   "found_in_search": true
+  },
+  {
+   "title": "Ubir in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15680",
+   "found_in_search": true
+  }
+ ]
+}

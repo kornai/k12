@@ -1,0 +1,45 @@
+{
+ "iso": "ubm",
+ "name": "Upper Baram Kenyah",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:39:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "North Sarawakan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/North_Sarawakan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Upper Baram Kenyah language (Library of Congress authority)",
+   "type": "other",
+   "language": "English",
+   "url": "https://id.loc.gov/authorities/subjects/sh2007007017.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Borneo Dictionary: Kenyah Lebo' (Long Selatong entry)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://borneodictionary.com/kenyah-lebo-vo/long-selatong",
+   "found_in_search": true
+  },
+  {
+   "title": "Upper Baram Kenyah in Malaysia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/12625/MY",
+   "found_in_search": true
+  },
+  {
+   "title": "Borneo Post: Kenyah communities in upper Baram",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.theborneopost.com/?p=1317770",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "ubl",
+ "name": "Buhi’non Bikol",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:39:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bikol languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bikol_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Bikol (Buhinon) wordlist",
+   "type": "academic",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=710",
+   "found_in_search": true
+  },
+  {
+   "title": "Buhi'non Bikol in Philippines (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20528",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Bikol, Buhi'non",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/27531",
+   "found_in_search": true
+  }
+ ]
+}
