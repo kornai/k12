@@ -1,0 +1,45 @@
+{
+ "iso": "uku",
+ "name": "Ukue",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:53:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ukue language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukue_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ISO 639:uku (Wikipedia mirror)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:uku",
+   "found_in_search": true
+  },
+  {
+   "title": "Edoid languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Edoid_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article at unizik.edu.ng (relevance unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.unizik.edu.ng/ajill/article/download/153/132/289",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukue-Ehuen in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15697",
+   "found_in_search": true
+  }
+ ]
+}

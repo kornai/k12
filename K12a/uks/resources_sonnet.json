@@ -1,0 +1,73 @@
+{
+ "iso": "uks",
+ "name": "Kaapor Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:53:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ka'apor Sign Language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ka%CA%BCapor_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "ISO 639:uks (Wikipedia mirror)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:uks",
+   "found_in_search": true
+  },
+  {
+   "title": "Urubu-Kaapor Sign Language (Endangered Languages Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/7007?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation and description of Urubu-Ka'apor Sign Language (Culture in Crisis)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/documentation-and-description-of-urub%C3%BA-kaapor-sign-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Uks (Rosetta Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Uks",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaapor reference (CSULB)",
+   "type": "other",
+   "language": "English",
+   "url": "https://home.csulb.edu/~lemaster/South%20America/SA%20Brazil%20-%20Kaapor.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ka'apor (Povos Indigenas no Brasil)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://pib.socioambiental.org/en/Povo:Ka'apor",
+   "found_in_search": true
+  },
+  {
+   "title": "Ka'apor (Povos Indigenas no Brasil, alternate)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://indios.org.br/en/povo/kaapor",
+   "found_in_search": true
+  },
+  {
+   "title": "Ka'apor language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ka%CA%BCapor_language",
+   "found_in_search": true
+  }
+ ]
+}
