@@ -1,0 +1,45 @@
+{
+ "iso": "thz",
+ "name": "Tayart Tamajeq",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:17:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Towards an Electronic Dictionary of Tamajaq Language in Niger",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://aflat.org/node/316",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamajaq electronic dictionary slides (AfLaT 2009)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.aflat.org/files/aflat2009/slides/tamajaq.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Enguehard and Modi, Tamajaq electronic dictionary paper (ACL Anthology)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://preview.aclanthology.org/moar-dois/W09-0712.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tayart Tamajeq on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tayarttamajeq.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tamajeq",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/1793",
+   "found_in_search": true
+  }
+ ]
+}
