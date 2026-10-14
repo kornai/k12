@@ -1,0 +1,66 @@
+{
+ "iso": "tpt",
+ "name": "Tlachichilco Tepehua",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:35:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "PHOIBLE: Tlachichilco Tepehua phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/tpt",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tlachichilco Tepehua",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tlac1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tlachichilco Tepehua",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/TlachichilcoTepehua",
+   "found_in_search": true
+  },
+  {
+   "title": "Producción fonético-léxica en tepehua como segunda lengua (CLAC)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.ucm.es/index.php/CLAC/article/view/88219",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tlachichilco Tepehua resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/38943/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Tlachichilco Tepehua New Testament",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tpt",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth index: Tlachichilco Tepehua",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00i-Scripture_Index.php?iso=tpt",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tepehua, Tlachichilco",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tpt",
+   "found_in_search": true
+  }
+ ]
+}

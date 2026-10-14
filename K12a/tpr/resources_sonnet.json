@@ -1,0 +1,45 @@
+{
+ "iso": "tpr",
+ "name": "Tuparí",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:35:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Singerman (2018), The morphosyntax of Tupari, a Tupian language of the Brazilian Amazon (University of Chicago)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://knowledge.uchicago.edu/records/s4z1e-xtf32",
+   "found_in_search": true
+  },
+  {
+   "title": "Singerman (2018) dissertation summary (UMass PhonoList)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://websites.umass.edu/phonolist/?p=2559",
+   "found_in_search": true
+  },
+  {
+   "title": "Tupari language (Wikipedia), citing Alves dictionary 2004",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tupari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Predicados nominais (non-verbal predicates in Tupari languages), Museu Goeldi",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.museu-goeldi.br/jspui/bitstream/mgoeldi/2709/1/Predicados%20nominais%20.....pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "The Tupari corpus by Adam Singerman (AILLA)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A269477",
+   "found_in_search": true
+  }
+ ]
+}
