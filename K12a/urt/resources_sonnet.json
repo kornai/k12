@@ -1,0 +1,59 @@
+{
+ "iso": "urt",
+ "name": "Urat",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:18:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Urat - Melanesian Pidgin - English Dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/urat/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Urat dictionary copyright page (Webonary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/urat/overview/copyright/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wusyep Bwore tikin Got (Urat New Testament, PDF)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/pdf/urt/urt_all.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wusyep Bwore tikin Got (Urat New Testament, ePub)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/epub/urt.epub",
+   "found_in_search": true
+  },
+  {
+   "title": "Urat New Testament (DBS)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/URTWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Urat language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Urim languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urim_languages",
+   "found_in_search": true
+  }
+ ]
+}

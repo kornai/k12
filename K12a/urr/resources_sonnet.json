@@ -1,0 +1,45 @@
+{
+ "iso": "urr",
+ "name": "Löyöp",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:18:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Löyöp language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/L%C3%B6y%C3%B6p_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Löyöp (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/loyop.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Lehali language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lehali_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Löyöp (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3575",
+   "found_in_search": true
+  },
+  {
+   "title": "Löyöp (Verbix Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Loyop",
+   "found_in_search": true
+  }
+ ]
+}
