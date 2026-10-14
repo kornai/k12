@@ -1,0 +1,38 @@
+{
+ "iso": "tno",
+ "name": "Toromono",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:13:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Toromona language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Toromona_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Toromona (people)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Toromona",
+   "found_in_search": true
+  },
+  {
+   "title": "Tacanan languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tacanan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Toromono in Bolivia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21065",
+   "found_in_search": true
+  }
+ ]
+}
