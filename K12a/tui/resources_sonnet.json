@@ -1,0 +1,45 @@
+{
+ "iso": "tui",
+ "name": "Tupuri",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:22:07Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tupuri language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tupuri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tupuri (Tpuri) on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tupuri.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Seignobos and Tourneux: Histoire des Toupouri",
+   "type": "academic",
+   "language": "other",
+   "url": "https://halshs.archives-ouvertes.fr/halshs-03269154/file/Seignobos_Tourneux_Histoire%20des%20Toupouri.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tupuri in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15614/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tupuri language page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/tui",
+   "found_in_search": true
+  }
+ ]
+}

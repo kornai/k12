@@ -1,0 +1,38 @@
+{
+ "iso": "tuj",
+ "name": "Tugutil",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:22:07Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Togutil people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Togutil_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobelo language (Wikipedia), related language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tobelo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals data page: Tugutil, Halmahera",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tugutil.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: tuj page",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tuj",
+   "found_in_search": true
+  }
+ ]
+}
