@@ -1,0 +1,59 @@
+{
+ "iso": "tkl",
+ "name": "Tokelauan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:36:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gagana Tokelau: The Tokelau Language Guidelines (TKI Pasifika)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://pasifika.tki.org.nz/Pacific-languages/Gagana-Tokelau",
+   "found_in_search": true
+  },
+  {
+   "title": "Muakiga! An Introduction to Gagana Tokelau (unit)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://pasifika.tki.org.nz/content/download/1393/8238/file/Muakiga-unit+total.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "New Tokelauan language resource launched (Education Gazette)",
+   "type": "other",
+   "language": "English",
+   "url": "https://gazette.education.govt.nz/articles/new-tokelauan-language-resource-launched",
+   "found_in_search": true
+  },
+  {
+   "title": "Tokelau Language Week (NZ Curriculum online)",
+   "type": "other",
+   "language": "English",
+   "url": "https://newzealandcurriculum.tahurangi.education.govt.nz/te-v-iaho-o-te-gagana-tokelau-tokelau-language-week/5637151349.p",
+   "found_in_search": true
+  },
+  {
+   "title": "Tokelau language resource download kit (Teacher Talk)",
+   "type": "other",
+   "language": "other",
+   "url": "https://teachertalk.org.nz/products/tokelau-language-resource-download-kit",
+   "found_in_search": true
+  },
+  {
+   "title": "Matauala Tokelau dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.matauala.org.nz/dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Tokelauan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tokelauan_language",
+   "found_in_search": true
+  }
+ ]
+}

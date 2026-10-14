@@ -1,0 +1,31 @@
+{
+ "iso": "tkk",
+ "name": "Takpa (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:36:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bookkeeping: Takpa (Retired), Glottolog",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tkk",
+   "found_in_search": true
+  },
+  {
+   "title": "IANA language subtag record for tkk",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/tkk.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "Takpa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Takpa_language",
+   "found_in_search": true
+  }
+ ]
+}

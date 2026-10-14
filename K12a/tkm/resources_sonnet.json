@@ -1,0 +1,38 @@
+{
+ "iso": "tkm",
+ "name": "Takelma",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:36:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Takelma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Takelma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Takelma materials, ACLS collection (American Philosophical Society)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://indigenousguide.amphilsoc.org/entry/40056",
+   "found_in_search": true
+  },
+  {
+   "title": "Cow Creek Tribal Takelma Language (PBS Southern Oregon Responds)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.pbs.org/video/cow-creek-tribal-takelma-language-i3enal",
+   "found_in_search": true
+  },
+  {
+   "title": "A Language Within a Language (University of Oregon Cascade)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cascade.uoregon.edu/fall2015/humanities/a-language-within-a-language/index.html",
+   "found_in_search": true
+  }
+ ]
+}
