@@ -1,0 +1,31 @@
+{
+ "iso": "tuu",
+ "name": "Tututni",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:26:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Can a document help revitalize the Tututni language? (Smithsonian Recovering Voices)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://naturalhistory.si.edu/research/anthropology/programs/recovering-voices/outreach/news-research-updates/can-document-help-revitalize-tututni-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tututni overview (University of Missouri Athabaskan documentation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://dice.missouri.edu/assets/docs/nadene/Tutuni.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Coquille people (Wikipedia; related Coquille Athabaskan revitalization)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Coquille_people",
+   "found_in_search": true
+  }
+ ]
+}
