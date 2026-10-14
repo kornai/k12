@@ -1,0 +1,45 @@
+{
+ "iso": "urz",
+ "name": "Uru-Eu-Wau-Wau",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:22:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uru-Eu-Wau-Wau dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uru-Eu-Wau-Wau_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Uru-Eu-Wau-Wau (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uru-Eu-Wau-Wau",
+   "found_in_search": true
+  },
+  {
+   "title": "Betts, LaVera 2012 (Glottolog reference)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/309049",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista Lingua Viva article on the Uru-Eu-Wau-Wau",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.unir.br/index.php/linguaviva/article/download/1133/1229/4102",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/86633",
+   "found_in_search": true
+  }
+ ]
+}

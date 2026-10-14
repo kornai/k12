@@ -1,0 +1,45 @@
+{
+ "iso": "usi",
+ "name": "Usoi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:22:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SIL Bangladesh: the light which can illuminate the future (Usoi literacy and MLE)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.silbangladesh.org/sites/ban/files/the_light_which_can_illuminate_the_future.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Phonology of the Usoi Tripura dialect (Huziwara)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tufs.repo.nii.ac.jp/record/2054/files/jaas077005.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Usoi language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/usi",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC collection MMR1",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/MMR1",
+   "found_in_search": true
+  },
+  {
+   "title": "Tripura recordings (Research Data Australia)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://researchdata.edu.au/tripura-recordings/1700838",
+   "found_in_search": true
+  }
+ ]
+}
