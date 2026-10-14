@@ -499,3 +499,7 @@ txb	Tokharian B	2026-10-14T10:43:45Z	done	6	txb+txc+txe+txg
 txc	Tsetsaut	2026-10-14T10:43:45Z	done	5	txb+txc+txe+txg
 txe	Totoli	2026-10-14T10:43:45Z	done	6	txb+txc+txe+txg
 txg	Tangut	2026-10-14T10:43:45Z	done	7	txb+txc+txe+txg
+txh	Thracian	2026-10-14T10:45:30Z	done	7	txh+txi+txj+txm
+txi	Ikpeng	2026-10-14T10:45:30Z	done	5	txh+txi+txj+txm
+txj	Tarjumo	2026-10-14T10:45:30Z	done	1	txh+txi+txj+txm
+txm	Tomini	2026-10-14T10:45:30Z	done	5	txh+txi+txj+txm

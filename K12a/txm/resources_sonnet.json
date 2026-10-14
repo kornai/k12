@@ -1,0 +1,45 @@
+{
+ "iso": "txm",
+ "name": "Tomini",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:45:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tomini language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tomini_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tomini",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2793",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tomini verbs",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Tomini",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tomini in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15550",
+   "found_in_search": true
+  },
+  {
+   "title": "Praying for Indonesia: Who are the Tomini",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.prayingforindonesia.com/ethnic-groups/the-people-of-sulawesi/who-are-the-tomini/",
+   "found_in_search": true
+  }
+ ]
+}
