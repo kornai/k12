@@ -1,0 +1,52 @@
+{
+ "iso": "tum",
+ "name": "Tumbuka",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:24:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Free Tumbuka Phrasebook",
+   "type": "primer",
+   "language": "English",
+   "url": "https://freelanguage.org/node/77453",
+   "found_in_search": true
+  },
+  {
+   "title": "Tumbuka phrasebook (Wikivoyage)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://en.wikivoyage.org/wiki/Tumbuka_phrasebook",
+   "found_in_search": true
+  },
+  {
+   "title": "Elmslie 1923 Introductory Grammar of the Tumbuka Language (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/57905",
+   "found_in_search": true
+  },
+  {
+   "title": "Tumbuka grammar (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tumbuka_grammar",
+   "found_in_search": true
+  },
+  {
+   "title": "Tumbuka orthography (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tumbuka_orthography",
+   "found_in_search": true
+  },
+  {
+   "title": "WEBBALL bibliographic entry 20221",
+   "type": "academic",
+   "language": "other",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio_bas.php?id=20221",
+   "found_in_search": true
+  }
+ ]
+}
