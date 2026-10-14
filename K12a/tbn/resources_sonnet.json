@@ -1,0 +1,59 @@
+{
+ "iso": "tbn",
+ "name": "Tunebo, Barro Negro",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:25:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uwa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunebo (Chibchan documentation, University of Missouri)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dice.missouri.edu/assets/docs/chibchan/Tunebo.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Pradilla Rueda, Elena 1985 (Glottolog reference)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/31778",
+   "found_in_search": true
+  },
+  {
+   "title": "Stoddart, D.R. 1962 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/159174",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Eastern Tunebo in Colombia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11708/CO",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: tbn",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tbn",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tunebo",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3527",
+   "found_in_search": true
+  }
+ ]
+}

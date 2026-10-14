@@ -1,0 +1,38 @@
+{
+ "iso": "tbm",
+ "name": "Tagbu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:25:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tagbo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tagbo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tagbu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tagb1255.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagbu numerals (MPI-EVA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tagbu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tagbo in DR Congo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15176/CG",
+   "found_in_search": true
+  }
+ ]
+}
