@@ -1,0 +1,31 @@
+{
+ "iso": "wdy",
+ "name": "Wadjabangayi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:29:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wadjabangai (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wadjabangai",
+   "found_in_search": true
+  },
+  {
+   "title": "Bidjara language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bidjara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Binbi Wadyabay: Queensland Aboriginal and Torres Strait Islander Language (First Languages Australia; relevance to wdy unconfirmed)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.firstlanguages.org.au/news/txqqske3ddlmwspc74jretljgroq1r",
+   "found_in_search": true
+  }
+ ]
+}

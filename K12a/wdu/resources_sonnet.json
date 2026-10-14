@@ -1,0 +1,45 @@
+{
+ "iso": "wdu",
+ "name": "Wadjigu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:29:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wadjigu people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wadjigu_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Bidjara language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bidjara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG record E39",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/E39",
+   "found_in_search": true
+  },
+  {
+   "title": "Wadjigu people E39 (UQ Fryer Library manuscripts)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://manuscripts.library.uq.edu.au/index.php/wadjigu-people-e39",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland Aboriginal and Torres Strait Islander languages word lists",
+   "type": "other",
+   "language": "English",
+   "url": "https://data.gov.au/data/dataset/3fa7a159-f280-48f9-9a83-9209f73942ef",
+   "found_in_search": true
+  }
+ ]
+}
