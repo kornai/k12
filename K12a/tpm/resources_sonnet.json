@@ -1,0 +1,45 @@
+{
+ "iso": "tpm",
+ "name": "Tampulma",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:34:10Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tampulma dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/tampulma/",
+   "found_in_search": true
+  },
+  {
+   "title": "Gray and Gray 1969, Tampulma clauses (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/452308",
+   "found_in_search": true
+  },
+  {
+   "title": "Bergman 1964, grammatical sketch of Tampulma (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/12027",
+   "found_in_search": true
+  },
+  {
+   "title": "Tampulma awa siliminga sema, 1977 course (Glottolog record)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://glottolog.org/resource/reference/id/49658",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamprusi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tamprusi_language",
+   "found_in_search": true
+  }
+ ]
+}

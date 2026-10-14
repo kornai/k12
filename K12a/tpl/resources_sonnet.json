@@ -1,0 +1,52 @@
+{
+ "iso": "tpl",
+ "name": "Tlacoapa Me’phaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:34:10Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Talking dictionary to link Lawrence, Kansas, and Guerrero, Mexico (University of Kansas)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://news.ku.edu/news/article/2021/04/29/talking-dictionary-link-lawrence-kansas-and-guerrero-mexico",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Me'phaa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/meph1234",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Tlacoapa Me'phaa",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tpl/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Alliance: Tlapanec",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.elalliance.org/languages/tlapanec",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Tlacoapa Me'phaa",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tpl",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project resources for Tlapanec",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/hi/node/38942/resources",
+   "found_in_search": true
+  }
+ ]
+}
