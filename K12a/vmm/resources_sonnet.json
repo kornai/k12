@@ -1,0 +1,24 @@
+{
+ "iso": "vmm",
+ "name": "Mitlatongo Mixtec",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:07:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mitlatongo-Yutanduchi Mixtec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mitlatongo-Yutanduchi_Mixtec",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mixtec, Mitlatongo",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vmm",
+   "found_in_search": true
+  }
+ ]
+}
