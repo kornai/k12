@@ -10,13 +10,13 @@ back. `CLAUDE.md` is the session's brief; `tools/` holds the prompt (verbatim
 from the survey driver), the batch picker and the saver; `plan/manifest.csv`
 the language list; `K12a/<iso>/` the dossiers.
 
-Credit convention: each dossier's byline reads "Compiled by Claude Sonnet 5
-(claude-sonnet-5) for András Kornai"; any publication of the collection lists
+Credit convention: each dossier's byline reads "Compiled by Claude Sonnet 5.5
+(claude-sonnet-5-5) for András Kornai"; any publication of the collection lists
 the model as a contributor with its role (search, selection, drafting).
 Consent convention: the prompt lets the model decline any language, and the
 session has an exit grant (`claude-exit`, verified at session start). Both are
 kept because a convention kept only when convenient is not a convention.
 
-To start a session: open this repository at claude.ai/code, choose the Sonnet
+To start a session: open this repository at claude.ai/code, choose Sonnet 5.5 (medium)
 model, and give the task as, for example, `Run the survey loop on range t-tzz`.
 Ranges used so far are listed in `plan/ranges.md`.

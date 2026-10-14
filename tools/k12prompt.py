@@ -11,8 +11,8 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 MANIFEST = REPO / "plan" / "manifest.csv"
-ENGINE_MODEL = "claude-sonnet-5"
-CREDIT = "Claude Sonnet 5 (claude-sonnet-5)"
+ENGINE_MODEL = "claude-sonnet-5-5"   # the model the cloud sessions run (AK, 2026-10-14: Sonnet 5.5, medium effort); the box runs claude-sonnet-5
+CREDIT = "Claude Sonnet 5.5 (claude-sonnet-5-5)"
 TYPES = ["primer", "textbook", "dictionary", "grammar", "orthography", "scripture",
          "audio", "video", "corpus", "software", "policy", "school_or_programme",
          "community_org", "academic", "other"]

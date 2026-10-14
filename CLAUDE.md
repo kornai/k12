@@ -58,8 +58,8 @@ Your session is started with a range of ISO codes, e.g. "range t-tzz". Loop:
    "k12a: <first>-<last> (cloud)" && git push`. Also push before stopping for
    any reason.
 
-Model: this pass is attributed to Claude Sonnet 5 (`claude-sonnet-5`), which
-is what the byline and file names say. The session should run on that model;
+Model: the cloud sessions run Claude Sonnet 5.5 (`claude-sonnet-5-5`, medium effort), which
+is what the byline and the model field say (the file tag stays `_sonnet`, shared with the Sonnet 5 dossiers made on the author's machine). The session should run on that model;
 if you have reason to believe you are a different model, say so at the start
 and record it in your first commit message.
 
