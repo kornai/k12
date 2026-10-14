@@ -1,0 +1,31 @@
+{
+ "iso": "urw",
+ "name": "Sob",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:20:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sop language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sop_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ryan Harty 2021, Sob syllable profile and glide formation (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/587460",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Sop / Kari / Usino (urw)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Urw",
+   "found_in_search": true
+  }
+ ]
+}
