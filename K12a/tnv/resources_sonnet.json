@@ -1,0 +1,52 @@
+{
+ "iso": "tnv",
+ "name": "Tangchangya",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:17:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tanchangya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tanchangya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanchangya script (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tanchangya_script",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanchangya (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tanchangya.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Indigenous textbooks in school (Financial Express)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://old.thefinancialexpress.com.bd/public/print/indigenous-textbooks-in-school-1644681675",
+   "found_in_search": true
+  },
+  {
+   "title": "Saving our languages (Dhaka Tribune editorial)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.dhakatribune.com/opinion/editorial/12888/saving-our-languages",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Bangladesh (Mother Tongue Based Multilingual Education)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.silbangladesh.org/node/1486",
+   "found_in_search": true
+  }
+ ]
+}
