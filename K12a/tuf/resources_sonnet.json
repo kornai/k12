@@ -1,0 +1,31 @@
+{
+ "iso": "tuf",
+ "name": "Central Tunebo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:20:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Central Tunebo (Uw cuwa) dictionary on Webonary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/tunebo/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Tunebo, Central scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tuf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Central Tunebo in Colombia",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11279",
+   "found_in_search": true
+  }
+ ]
+}

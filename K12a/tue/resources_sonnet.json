@@ -1,0 +1,45 @@
+{
+ "iso": "tue",
+ "name": "Tuyuca",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:20:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tuyuca language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tuyuca_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Janet Barnes 1992: Diccionario tuyuca-espanol (Glottolog reference)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/75836",
+   "found_in_search": true
+  },
+  {
+   "title": "Janet Barnes 2000: Tuyuca dictionary, Intercontinental Dictionary Series (Glottolog reference)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/20718",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Tuyuca word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TUYUCA_2",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuyuca numerals (Channumerals)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tuyuca.htm",
+   "found_in_search": true
+  }
+ ]
+}
