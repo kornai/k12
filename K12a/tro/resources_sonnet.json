@@ -1,0 +1,38 @@
+{
+ "iso": "tro",
+ "name": "Naga, Tarao",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:50:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tarao language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tarao_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarao people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tarao_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarao Naga - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3504",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarao Naga bibliography - Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3504/bibliography",
+   "found_in_search": true
+  }
+ ]
+}

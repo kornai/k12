@@ -1,0 +1,38 @@
+{
+ "iso": "trn",
+ "name": "Trinitario",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:50:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mojeño Trinitario (Illustrations of the IPA), F. Rose",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/abs/mojeno-trinitario/8BD8F413069BDC73EE0906A27BF755D8",
+   "found_in_search": true
+  },
+  {
+   "title": "Trinitario - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2910?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Trinitario word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TRINITARIO",
+   "found_in_search": true
+  },
+  {
+   "title": "Visiting Scholar Spotlight: Françoise Rose",
+   "type": "academic",
+   "language": "English",
+   "url": "https://blogs.uoregon.edu/uolinguistics/?p=133",
+   "found_in_search": true
+  }
+ ]
+}
