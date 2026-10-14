@@ -1,0 +1,59 @@
+{
+ "iso": "vid",
+ "name": "Vidunda",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:58:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Luhala lwa Wavidunda - Vidunda Wisdom (G.38)",
+   "type": "other",
+   "language": "native",
+   "url": "https://www.koeppe.de/titel_luhala-lwa-wavidunda-vidunda-wisdom-g-38",
+   "found_in_search": true
+  },
+  {
+   "title": "Luhala lwa Wavidunda, publisher shop page",
+   "type": "other",
+   "language": "native",
+   "url": "https://shop.koeppe.de/en/?p=4089",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on Vidunda (journal.fi)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journal.fi/store/article/view/52597/16362",
+   "found_in_search": true
+  },
+  {
+   "title": "Vidunda language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vidunda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Vidunda people (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vidunda_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages: Vidunda",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1101?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Vidunda",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/vid",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "vgt",
+ "name": "Flemish Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:58:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Doof Vlaanderen and Adviescommissie Vlaamse Gebarentaal press release",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.doof.vlaanderen/sites/default/files/imce/persbericht_doof_vlaanderen_en_adviescommissie_vlaamse_gebarentaal_finaal.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Beleidsadviezen onderwijs VGT voor horende volwassenen",
+   "type": "policy",
+   "language": "other",
+   "url": "https://vlaanderen.be/cjm/sites/default/files/2023-01/Beleidsadviezen_m.b.t._een_kwalitatief_aanbod_onderwijs_VGT_voor_horende_volwassenen.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ACVGT advies 2018.11.14",
+   "type": "policy",
+   "language": "other",
+   "url": "https://vlaanderen.be/cjm/sites/default/files/2021-12/ACVGT-advies-2018.11.14.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Woordenboek Vlaamse Gebarentaal",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.sign-lang.uni-hamburg.de/lr/compendium/lex/vgtdictionary.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Signbank VGT",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.sign-lang.uni-hamburg.de/lr/compendium/lex/globalsignbankvgt.html",
+   "found_in_search": true
+  },
+  {
+   "title": "sign-lang@LREC Anthology: VGT dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.sign-lang.uni-hamburg.de/lrec/data/vgtdictionary.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Abstract: Lexicographic projects and VGT",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lirias.kuleuven.be/bitstream/123456789/522094/1/Abstract+Lexicographic+projects+and+VGT.pdf",
+   "found_in_search": true
+  }
+ ]
+}

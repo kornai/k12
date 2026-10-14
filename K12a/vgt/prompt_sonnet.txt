@@ -1,0 +1,35 @@
+You will research 4 languages (vgt, vic, vid, vif), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE vgt ===
+Please help me gather resources for the Flemish Sign Language language, both English and native. This is a sign language. The goal is a comprehensive K-12 curriculum for deaf and hearing learners that uses the sign language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: vgt; Glottocode: vlaa1235; family: Sign Language; macro-area: Eurasia. Reference description: Flemish Sign Language is a stable indigenous language of Belgium. It is a deaf community sign language. The language is used as a first language by deaf people of all ages.
+
+=== LANGUAGE vic ===
+Please help me gather resources for the Virgin Islands English Creole language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: vic; Glottocode: virg1240; family: Indo-European; macro-area: North America; approx. speakers: about 76,000. Reference description: Virgin Islands English Creole is an endangered indigenous language of U.S. Virgin Islands and British Virgin Islands. It is an English-based creole. The language is used as a first language by some people in every generation of the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE vid ===
+Please help me gather resources for the Vidunda language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: vid; Glottocode: vidu1238; family: Atlantic-Congo; macro-area: Africa. Reference description: Vidunda is a stable indigenous language of Tanzania. It belongs to the Niger-Congo language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE vif ===
+Please help me gather resources for the Vili language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: vif; Glottocode: vili1238; family: Atlantic-Congo; macro-area: Africa; approx. speakers: about 11,000. Reference description: Vili is a stable indigenous language of Congo, Angola, and Gabon. It belongs to the Niger-Congo language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

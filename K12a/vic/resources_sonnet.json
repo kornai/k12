@@ -1,0 +1,52 @@
+{
+ "iso": "vic",
+ "name": "Virgin Islands English Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:58:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Virgin Islands Creole (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Virgin_Islands_Creole",
+   "found_in_search": true
+  },
+  {
+   "title": "Virgin Islands English lexifier Creole and Politeness practices on the Island of Saint Croix",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repositorio.upr.edu/handle/11721/2924",
+   "found_in_search": true
+  },
+  {
+   "title": "Virgin Islands language slides",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.yellowpigs.net/virginislands/language/vislides.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Virgin Islands language page (edu-cyberpg.com)",
+   "type": "other",
+   "language": "English",
+   "url": "https://edu-cyberpg.com/Linguistics/vi.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Negerhollands Living Dictionary (different, extinct language)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://livingdictionaries.app/negerhollands/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Stein and van der Voort edition of Oldendorp's Criolisches Woerterbuch (Negerhollands, not vic)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110937985/html",
+   "found_in_search": true
+  }
+ ]
+}
