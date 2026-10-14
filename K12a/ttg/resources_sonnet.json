@@ -1,0 +1,45 @@
+{
+ "iso": "ttg",
+ "name": "Tutong",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:09:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tutong language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tutong_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tutong Language Documentation Project (Research Data Australia)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://researchdata.edu.au/tutong-language-documentation-project/12594",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC BN1-042",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/BN1/042",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC BN1-027",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/BN1/027",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC BN1-063",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/BN1/063",
+   "found_in_search": true
+  }
+ ]
+}

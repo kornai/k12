@@ -1,0 +1,45 @@
+{
+ "iso": "ttf",
+ "name": "Tuotomb",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:09:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Tuotomb entry",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/114877",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuotomb language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tuotomb_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuotomb numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tuotomb.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tuotomb language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ttf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tuotomb in Cameroon",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15646",
+   "found_in_search": true
+  }
+ ]
+}
