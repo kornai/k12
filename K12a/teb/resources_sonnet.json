@@ -1,0 +1,38 @@
+{
+ "iso": "teb",
+ "name": "Tetete",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:46:35Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tetete language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tetet%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tetete people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tetet%C3%A9_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tetete",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2151",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: teb",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Teb",
+   "found_in_search": true
+  }
+ ]
+}
