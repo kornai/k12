@@ -1,0 +1,52 @@
+{
+ "iso": "tyz",
+ "name": "Tày",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:57:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tày (Tiểng Tày) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tay.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tày language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Tay_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Echoes Across Vietnam's Highlands, Delta, and Coast: A Multilingual Corpus for Cham, Khmer, and Tay-Nung",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://arxiv.org/pdf/2607.08362",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal L2/22-208: Tay script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2022/22208-yo-lai-tay-script.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal L2/22-152: Tay script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2022/22152-yo-lai-tay-script.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "International Journal of Language Teaching and Education (Jul 2018), Tày language in northeast Vietnam",
+   "type": "academic",
+   "language": "English",
+   "url": "https://doaj.org/article/e90a9e1e91c448058e1c9e8473f5601b",
+   "found_in_search": true
+  }
+ ]
+}

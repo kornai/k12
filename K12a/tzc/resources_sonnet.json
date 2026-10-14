@@ -1,0 +1,45 @@
+{
+ "iso": "tzc",
+ "name": "Tzotzil, Chamula",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:57:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tzotzil language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tzotzil_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Laughlin, Great Tzotzil Dictionary of San Lorenzo Zinacantan (Smithsonian, 1975)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://repository.si.edu/handle/10088/1367?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tzotzil entry (lists Norma de escritura de la lengua tsotsil)",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/node/106949",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzotzil materials, William O. Bright Papers",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://indigenousguide.amphilsoc.org/entry/39182",
+   "found_in_search": true
+  },
+  {
+   "title": "Living Dictionary: Bats'i K'op Tsotsil entry",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/batsi-kop-tsotsil-tsot/entry/uvOCnOqcSqlFkntYgS1u",
+   "found_in_search": true
+  }
+ ]
+}

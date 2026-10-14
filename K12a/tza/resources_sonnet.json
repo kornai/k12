@@ -1,0 +1,45 @@
+{
+ "iso": "tza",
+ "name": "Tanzanian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:57:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "First digital dictionary for students with hearing impairment launched (The Citizen)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.thecitizen.co.tz/tanzania/oped/first-digital-dictionary-for-students-with-hearing-impairment-launched-2717340",
+   "found_in_search": true
+  },
+  {
+   "title": "First digital dictionary for students with hearing impairment launched (The Citizen, alternate link)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.thecitizen.co.tz/oped/1840568-5629538-37vgju/index.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanzanian sign languages - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tanzanian_sign_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "The challenges facing Tanzanian sign language learners: A case of special schools for the deaf",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.udom.ac.tz/items/bf60274f-a301-4213-af02-eec11be38684",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanzania PM launches sign language initiative",
+   "type": "policy",
+   "language": "English",
+   "url": "https://inclusivenews.com.ng/tanzania-pm-launches-sign-language-initiative/",
+   "found_in_search": true
+  }
+ ]
+}

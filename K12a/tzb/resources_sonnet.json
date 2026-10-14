@@ -1,0 +1,38 @@
+{
+ "iso": "tzb",
+ "name": "Tzeltal, Bachajón",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:57:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vocabulario tzeltal de Bachajón (Gerdel & Slocum 1965), Glottolog record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/77607",
+   "found_in_search": true
+  },
+  {
+   "title": "Tseltal-Spanish multidialectal dictionary (Polian)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://dictionaria.clld.org/contributions/tseltal",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzeltal language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tzb",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tzeltal resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/zh-hans/node/40390/resources",
+   "found_in_search": true
+  }
+ ]
+}
