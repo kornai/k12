@@ -1,0 +1,45 @@
+{
+ "iso": "tdh",
+ "name": "Thulung",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:41:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aspects of the Grammar of Thulung Rai: an Endangered Himalayan Language",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://lx.berkeley.edu/publications/aspects-grammar-thulung-rai-endangered-himalayan-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Description Heritage: Thulung",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ldh.clld.org/languages/tdh",
+   "found_in_search": true
+  },
+  {
+   "title": "Huma-Num CoCoon catalogue: Thulung (tdh)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=tdh",
+   "found_in_search": true
+  },
+  {
+   "title": "Thulung language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thulung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Thulung",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5101",
+   "found_in_search": true
+  }
+ ]
+}

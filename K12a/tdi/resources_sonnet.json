@@ -1,0 +1,45 @@
+{
+ "iso": "tdi",
+ "name": "Tomadino",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:41:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tomadino language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tomadino_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Tomadino wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=914",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tomadino",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Tomadino",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tomadino in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15546",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tomadino",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2796",
+   "found_in_search": true
+  }
+ ]
+}
