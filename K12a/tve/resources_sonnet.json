@@ -1,0 +1,31 @@
+{
+ "iso": "tve",
+ "name": "Te’un",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:29:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Teun language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Teun_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages catalogue entry for Te'un",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2792?hl=zh-cn",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Te'un in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15452",
+   "found_in_search": true
+  }
+ ]
+}
