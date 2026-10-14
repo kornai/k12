@@ -1,0 +1,38 @@
+{
+ "iso": "ukw",
+ "name": "Ukwuani-Aboh-Ndoni",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:55:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ukwuani-Aboh-Ndoni language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukwuani-Aboh-Ndoni_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Onikwu (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Onikwu",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukwuani-Aboh, Kwale in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/15699/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukwuani-Aboh-Ndoni language (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/ukw",
+   "found_in_search": true
+  }
+ ]
+}

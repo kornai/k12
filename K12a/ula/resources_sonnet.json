@@ -1,0 +1,73 @@
+{
+ "iso": "ula",
+ "name": "Fungwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:55:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fungwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fungwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Fungwa dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/fungwa/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Samuel Akinbo 2019 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/568114",
+   "found_in_search": true
+  },
+  {
+   "title": "Ifeoma Adiboshi 2018 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/568035",
+   "found_in_search": true
+  },
+  {
+   "title": "Ifeoma Adiboshi 2014 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/585678",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC Library open collections item on Fungwa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://open.library.ubc.ca/collections/24/items/1.0401457",
+   "found_in_search": true
+  },
+  {
+   "title": "Fungwa numerals (MPI Channumerals)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Fungwa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language profile: Fungwa",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ula",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of Cifungwa Folktales (ELDP)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0436/",
+   "found_in_search": true
+  }
+ ]
+}

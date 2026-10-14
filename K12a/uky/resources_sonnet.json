@@ -1,0 +1,38 @@
+{
+ "iso": "uky",
+ "name": "Kuuk-Yak",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:55:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kuuk Yak language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kuuk_Yak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kuuk Thaayorre language (Wikipedia), related language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kuuk_Thaayorre_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kuuk Thaayorre (Omniglot), related language",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/kuukthaayorre.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Kuuk Thaayorre (Gaby), related language",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mitpressbookstore.mit.edu/book/9783110653304",
+   "found_in_search": true
+  }
+ ]
+}
