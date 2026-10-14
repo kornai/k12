@@ -1,0 +1,38 @@
+{
+ "iso": "uly",
+ "name": "Buli",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:01:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ASJP: Buli (Nigeria)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/BULI_NIGERIA",
+   "found_in_search": true
+  },
+  {
+   "title": "Cosper 1999, Barawa Lexicon (Glottolog record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/136865",
+   "found_in_search": true
+  },
+  {
+   "title": "South Bauchi languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/South_Bauchi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference weball:4586",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/weball:4586",
+   "found_in_search": true
+  }
+ ]
+}

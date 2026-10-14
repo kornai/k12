@@ -1,0 +1,52 @@
+{
+ "iso": "ulu",
+ "name": "Uma’ Lung",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:01:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Uma' Lung",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/umal1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Uma' Lung profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/40474",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Uma' Lung bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/40474/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Challenge: Uma' Lung (Linguisten.de)",
+   "type": "other",
+   "language": "English",
+   "url": "https://blog.linguisten.de/post/186883236459/endangered-languages-challenge-uma-lung",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Uma' Lung (keu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_keu",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Uma' Lasan language (disambiguation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uma%CA%BC_Lasan_language",
+   "found_in_search": true
+  }
+ ]
+}
