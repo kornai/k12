@@ -1,0 +1,45 @@
+{
+ "iso": "tlf",
+ "name": "Telefol",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:47:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Telefol Dictionary (Healey and Healey, 1977)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/e2c324d2-d8c7-455c-98de-1cc204051024",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS reference list for Telefol (Healey grammar studies)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_tlf",
+   "found_in_search": true
+  },
+  {
+   "title": "Telefol language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Telefol_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Telefol",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tlf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Telefol",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10675",
+   "found_in_search": true
+  }
+ ]
+}

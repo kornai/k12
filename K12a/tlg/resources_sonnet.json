@@ -1,0 +1,52 @@
+{
+ "iso": "tlg",
+ "name": "Tofanma",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:47:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tofanma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tofanma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Namla-Tofanma languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Namla%E2%80%93Tofanma_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tofanma",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tofa1246",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Namla-Tofanma",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/pauwasi-river/west-pauwasi-river/namla-tofanma/start",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tofanma in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15527",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tofanma",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2795",
+   "found_in_search": true
+  }
+ ]
+}

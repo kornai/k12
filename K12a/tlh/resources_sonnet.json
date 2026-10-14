@@ -1,0 +1,38 @@
+{
+ "iso": "tlh",
+ "name": "Klingon",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:47:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Klingon course syllabus (Warner), University of Arizona Community Classroom",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://communityclassroom.arizona.edu/sites/default/files/2023-07/KlingonSyllabus_Warner.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Klingon course at Signum University (KLI list thread)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://lists.kli.org/archives/list/tlhingan-hol@lists.kli.org/thread/OHW6636JLX4GPE5STNQVV6Q4U5KSMXKF/",
+   "found_in_search": true
+  },
+  {
+   "title": "tlhIngan-Hol list archive, December 1998 (Okrand's dictionary discussion)",
+   "type": "other",
+   "language": "English",
+   "url": "https://kli.org/tlhIngan-Hol/1998/December/msg00093.html",
+   "found_in_search": true
+  },
+  {
+   "title": "tlhIngan-Hol list archive, July 1993 (KLI, HolQeD, postal course)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://kli.org/tlhIngan-Hol/1993/July/msg00031.html",
+   "found_in_search": true
+  }
+ ]
+}
