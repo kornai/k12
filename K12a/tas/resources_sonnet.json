@@ -1,0 +1,52 @@
+{
+ "iso": "tas",
+ "name": "Tay Boi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:18:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Susan Love (2000), thesis on Tay Boi, University of Adelaide (full text)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://web4.library.adelaide.edu.au/dspace/bitstream/2440/101230/1/02whole.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Susan Love (2000), thesis front matter",
+   "type": "academic",
+   "language": "English",
+   "url": "https://web4.library.adelaide.edu.au/dspace/bitstream/2440/101230/2/01front.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Adelaide repository record for Love thesis",
+   "type": "academic",
+   "language": "English",
+   "url": "https://web4.library.adelaide.edu.au/dspace/handle/2440/101230?mode=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Emergent systematicity in Tây Bồi (Vietnamese Pidgin French)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/engage/coe/article-details/5fa931acbf697b0012cceeed",
+   "found_in_search": true
+  },
+  {
+   "title": "Tây Bồi Pidgin French (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/T%C3%A2y_B%E1%BB%93i_Pidgin_French",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tay Boi",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tayb1240",
+   "found_in_search": true
+  }
+ ]
+}
