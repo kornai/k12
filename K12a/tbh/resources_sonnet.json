@@ -1,0 +1,52 @@
+{
+ "iso": "tbh",
+ "name": "Dharawal",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:24:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "New language resource launched as part of local Aboriginal cultural recognition (Dharawal Words, Phrases and Activities)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.ansto.gov.au/news/new-language-resource-launched-as-part-of-local-aboriginal-cultural-recognition",
+   "found_in_search": true
+  },
+  {
+   "title": "Briar Road Public School languages (Dharawal program)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://briarrd-p.schools.nsw.gov.au/learning-at-our-school/languages.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Oyster Bay school opens Aboriginal languages room",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.theleader.com.au/story/8965386/oyster-bay-school-opens-aboriginal-languages-room/",
+   "found_in_search": true
+  },
+  {
+   "title": "Reclaiming language is key to Aboriginal cultural identity and wellbeing (UNSW)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.unsw.edu.au/newsroom/news/2022/09/reclaiming-language-is-key-to-aboriginal-cultural-identity-and-w",
+   "found_in_search": true
+  },
+  {
+   "title": "Key Aboriginal language for Sydney region set to be revitalised (Paul Ramsay Foundation)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.paulramsayfoundation.org.au/news-resources/key-aboriginal-language-for-sydney-region-set-to-be-revitalised",
+   "found_in_search": true
+  },
+  {
+   "title": "Dharawal language revitalisation project given $5m boost (NIT)",
+   "type": "other",
+   "language": "English",
+   "url": "https://nit.com.au/05-12-2024/15235/exclusive-dharawal-language-revitalisation-project-given-5m-boost",
+   "found_in_search": true
+  }
+ ]
+}

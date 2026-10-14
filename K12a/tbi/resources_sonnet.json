@@ -1,0 +1,45 @@
+{
+ "iso": "tbi",
+ "name": "Gaam",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:24:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Gaahmg (Stirtz 2012, Leiden)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2963286/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Gaam language (Wikipedia; lists dictionaries)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gaam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Gaam (Gaahmg) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/gaam.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Gaam alphabet chart (Omniglot PDF)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/charts/gaam.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: tbi",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tbi/",
+   "found_in_search": true
+  }
+ ]
+}

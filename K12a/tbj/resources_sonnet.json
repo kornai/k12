@@ -1,0 +1,45 @@
+{
+ "iso": "tbj",
+ "name": "Tiang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:24:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Passion for 'pini' drives CQU student's groundbreaking Djaul Island publication",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.cqu.edu.au/news/707661/passion-for-pini-drives-cqu-students-groundbreaking-djaul-island-publication",
+   "found_in_search": true
+  },
+  {
+   "title": "A comprehensive grammar of Tiang (CQUniversity dataset)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://acquire.cqu.edu.au/articles/dataset/A_comprehensive_grammar_of_Tiang/23566965",
+   "found_in_search": true
+  },
+  {
+   "title": "Christoph Holz, CQUniversity research profile",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cqu.edu.au/research/current-research/profiles/598486/christoph-holz",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiang, TLOPO database",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://tlopo.clld.org/languages/tiang",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tiang_language",
+   "found_in_search": true
+  }
+ ]
+}
