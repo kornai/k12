@@ -1,0 +1,52 @@
+{
+ "iso": "vls",
+ "name": "West Flemish",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:05:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Brussels Times: The corner of France fighting to keep its Flemish dialect alive",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.brusselstimes.com/world/1809587/the-corner-of-france-fighting-to-keep-its-flemish-dialect-alive",
+   "found_in_search": true
+  },
+  {
+   "title": "West Flemish (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/West_Flemish",
+   "found_in_search": true
+  },
+  {
+   "title": "Flemish dialects (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Flemish_dialects",
+   "found_in_search": true
+  },
+  {
+   "title": "Research portal record: Dictionary of Flemish Dialects (WVD) related",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.researchportal.be/en/node/942425",
+   "found_in_search": true
+  },
+  {
+   "title": "Localazy: vls West Flemish",
+   "type": "software",
+   "language": "English",
+   "url": "https://hub.localazy.com/en/languages/vls-west-flemish",
+   "found_in_search": true
+  },
+  {
+   "title": "OpenStreetMap wiki: Key name:vls",
+   "type": "software",
+   "language": "English",
+   "url": "https://wiki.openstreetmap.org/wiki/Key:name:vls",
+   "found_in_search": true
+  }
+ ]
+}

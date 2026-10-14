@@ -1,0 +1,45 @@
+{
+ "iso": "vlp",
+ "name": "Tavanlav",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:05:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Valpei language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Valpei_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Espiritu Santo languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Espiritu_Santo_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog valp1237 (Valpei)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/valp1237.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page vlp",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/vlp",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Valpei in Vanuatu",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15767",
+   "found_in_search": true
+  }
+ ]
+}
