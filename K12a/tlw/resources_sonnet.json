@@ -1,0 +1,38 @@
+{
+ "iso": "tlw",
+ "name": "South Wemale",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:54:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wemale language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wemale_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wemale people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wemale_people",
+   "found_in_search": true
+  },
+  {
+   "title": "South Wemale in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15908",
+   "found_in_search": true
+  },
+  {
+   "title": "Bakat database entry for Wemale (weo)",
+   "type": "other",
+   "language": "other",
+   "url": "https://bakat.sabda.org/697-weo-001.html",
+   "found_in_search": true
+  }
+ ]
+}

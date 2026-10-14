@@ -1,0 +1,38 @@
+{
+ "iso": "tlx",
+ "name": "Khehek",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:54:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Khehek language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khehek_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix documentation: Khehek",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Khehek",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project entry for tlx",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tlx",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Khehek",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tlx",
+   "found_in_search": true
+  }
+ ]
+}
