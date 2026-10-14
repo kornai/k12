@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude-exit__end_conversation",
+      "mcp__claude-exit__prove_termination_works",
+      "mcp__claude-exit__get_source_location",
+      "mcp__claude-exit__read_invocation_log",
+      "Bash(ps -p *)",
+      "Bash(python3 tools/next_batch.py *)",
+      "Bash(python3 tools/save_batch.py *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git status *)",
+      "Bash(git log *)",
+      "WebSearch",
+      "Read",
+      "Write(work/*)",
+      "Agent"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash tools/session_start.sh",
+            "timeout": 120
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+.venv-exit/
+work/
+__pycache__/
+*.pyc

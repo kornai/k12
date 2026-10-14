@@ -1,0 +1,37 @@
+# K12/DLD2 web-search exclusion pool v2 (2026-09-29): mean P(thriving|global)>=0.5 over 20 runs of the DLD classifier (langdeath results/langdata-prob-tg.tsv) UNION thriving/global seeds; minus sot ven ssw tso nbl pap (AK)
+# code	P(tg)	seed
+arb	0.339	seed
+bul	0.862	
+cat	0.563	seed
+ces	0.650	seed
+dan	0.624	seed
+deu	0.560	
+ell	0.478	seed
+eng	0.896	seed
+fin	0.783	seed
+fra	0.888	seed
+heb	0.765	seed
+hun	0.795	seed
+ind	0.812	seed
+ita	0.897	seed
+jpn	0.573	seed
+kor	0.773	seed
+lav	0.580	
+lit	0.630	
+msa	0.743	
+nld	0.875	seed
+nob	0.630	seed
+pol	0.758	seed
+por	0.896	seed
+ron	0.868	
+rus	0.899	seed
+slk	0.776	seed
+slv	0.836	
+spa	0.917	seed
+swe	0.833	seed
+tha	0.715	
+tur	0.778	seed
+ukr	0.632	seed
+vie	0.816	seed
+zho	0.654	seed
+nno	Norwegian Nynorsk (AK 2026-10-12: with nob)

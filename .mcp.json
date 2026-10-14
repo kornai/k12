@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "claude-exit": {
+      "command": "bash",
+      "args": ["tools/claude-exit/run.sh"]
+    }
+  }
+}
