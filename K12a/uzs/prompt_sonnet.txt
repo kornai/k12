@@ -1,0 +1,16 @@
+Please help me gather resources for the Southern Uzbek language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: uzs; Glottocode: sout2699; family: Turkic; macro-area: Eurasia; approx. speakers: about 4,200,000. Reference description: Southern Uzbek is an official language in the parts of Afghanistan where it is spoken. It belongs to the Turkic language family and is part of the Uzbek macrolanguage. The language is used as a first language by all in the ethnic community. It is taught as a subject of instruction in education.
+
+Use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly; an honest short report is better than a padded one. Do not create or modify any files; put everything in your reply.
+
+Reply with exactly two fenced code blocks and nothing else:
+
+1. ```latex
+A complete document compilable with pdflatex (\documentclass[12pt]{article}, utf8 inputenc, T1 fontenc, hyperref), title "Southern Uzbek Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}, sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context. Give each resource with \url{...}.
+```
+2. ```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.
