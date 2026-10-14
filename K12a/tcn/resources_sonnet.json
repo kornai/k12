@@ -1,0 +1,73 @@
+{
+ "iso": "tcn",
+ "name": "Tichurong",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:34:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tichurong (Nepal) - Language Snapshot (LD&D)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lddjournal.org/article/id/1257",
+   "found_in_search": true
+  },
+  {
+   "title": "Tichurong (Nepal) - Language Snapshot, PDF",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.lddjournal.org/article/1257/galley/2500/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Honda 2018, preliminary report on Tichurong (ICSTLL 51)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/235280/1/proc_icstll51_25.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Honda 2018",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/572699",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Budha, Daurio and Turin 2021",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/602676",
+   "found_in_search": true
+  },
+  {
+   "title": "Max Planck EVA numerals: Tichurong",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tichurong.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tichurong language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tichurong_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tichurong (tich1238)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tich1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues language page (unverified; code dre)",
+   "type": "other",
+   "language": "other",
+   "url": "https://wikitongues.org/languages/dre/",
+   "found_in_search": true
+  }
+ ]
+}
