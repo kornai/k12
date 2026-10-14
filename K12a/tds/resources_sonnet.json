@@ -1,0 +1,38 @@
+{
+ "iso": "tds",
+ "name": "Doutai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:44:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Doutai language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Doutai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Doutai entry, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/1486",
+   "found_in_search": true
+  },
+  {
+   "title": "Clouse 1997, Lakes Plain classification",
+   "type": "academic",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/clouse-1997?page=87",
+   "found_in_search": true
+  },
+  {
+   "title": "Taori-So, Doutai in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/15262/ID",
+   "found_in_search": true
+  }
+ ]
+}

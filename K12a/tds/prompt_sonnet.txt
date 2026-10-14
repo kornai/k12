@@ -1,0 +1,35 @@
+You will research 4 languages (tdq, tdr, tds, tdt), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE tdq ===
+Please help me gather resources for the Tita language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tdq; Glottocode: tita1240; family: Atlantic-Congo; macro-area: Africa. Reference description: Tita is a stable indigenous language of Nigeria. It belongs to the Niger-Congo language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tdr ===
+Please help me gather resources for the Todrah language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tdr; Glottocode: todr1244; family: Austroasiatic; macro-area: Eurasia; approx. speakers: about 6,000. Reference description: Todrah is a stable indigenous language of Vietnam. It belongs to the Austro-Asiatic language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tds ===
+Please help me gather resources for the Doutai language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tds; Glottocode: dout1240; family: Lakes Plain; macro-area: Papunesia; approx. speakers: about 70. Reference description: Doutai is an endangered indigenous language of Indonesia. It belongs to the Lakes Plain language family. Direct evidence is lacking, but the language is thought to be used as a first language by adults only. It is not known to be taught in schools.
+
+=== LANGUAGE tdt ===
+Please help me gather resources for the Tetun Dili language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tdt; Glottocode: tetu1246; family: Austronesian; macro-area: Papunesia; approx. speakers: about 390,000. Reference description: Tetun Dili is an official national language of East Timor. It is a Tetun-based creole and used primarily as a second language. It is used as a language of instruction in education.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.
