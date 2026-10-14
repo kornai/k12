@@ -1,0 +1,45 @@
+{
+ "iso": "ukp",
+ "name": "Bukpe",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:52:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ukpe-Bayobiri language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukpe-Bayobiri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ukpe-Bayobiri in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15695",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language ukp",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/ukp",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Bukpe language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/ukp",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Ukpe-Bayogin, Ukpe language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/2285",
+   "found_in_search": true
+  }
+ ]
+}

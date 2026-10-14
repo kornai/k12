@@ -1,0 +1,31 @@
+{
+ "iso": "uki",
+ "name": "Kui",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:52:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kui language (India) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.com/wiki/Khondi",
+   "found_in_search": true
+  },
+  {
+   "title": "Khond language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khond_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kuvi language - Wikipedia (related language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kuvi_language",
+   "found_in_search": true
+  }
+ ]
+}

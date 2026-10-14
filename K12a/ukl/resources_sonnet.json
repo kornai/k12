@@ -1,0 +1,52 @@
+{
+ "iso": "ukl",
+ "name": "Ukrainian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:52:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Model curriculum for Ukrainian Sign Language, grades 5-6 (2023)",
+   "type": "policy",
+   "language": "native",
+   "url": "https://lib.iitta.gov.ua/id/eprint/748565",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukrainian Sign Language grade 5 textbook (Bilanova, Ivashchenko, Diakiv, 2024)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://lib.iitta.gov.ua/id/eprint/748566",
+   "found_in_search": true
+  },
+  {
+   "title": "NAES digital library item on Ukrainian Sign Language (grade 5 materials)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://lib.iitta.gov.ua/id/eprint/748558",
+   "found_in_search": true
+  },
+  {
+   "title": "Signbook of Ukrainian Sign Language (Kulbida et al., 2021)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://lib.iitta.gov.ua/732056/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukrainian Sign Language Dictionary for Parents (2012)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://lib.iitta.gov.ua/1987",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukrainian Sign Language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukrainian_Sign_Language",
+   "found_in_search": true
+  }
+ ]
+}
