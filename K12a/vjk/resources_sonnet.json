@@ -1,0 +1,45 @@
+{
+ "iso": "vjk",
+ "name": "Bajjika",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:00:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bajjika (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bajjika",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Bihar (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Languages_of_Bihar",
+   "found_in_search": true
+  },
+  {
+   "title": "Reference list citing Bharati Bajjika Hindi Kos and Kashyap's work (Benjamins)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://lwc1.benjamins.com/catalog/pbns.264.07kum",
+   "found_in_search": true
+  },
+  {
+   "title": "Grierson, Seven Grammars of the Dialects and Subdialects of the Bihari Language (BnF catalogue)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://catalogue.bnf.fr/ark:/12148/cb30541389q",
+   "found_in_search": true
+  },
+  {
+   "title": "Bajjika: Swadesh List Elicitation Sessions (ELDP)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0038/",
+   "found_in_search": true
+  }
+ ]
+}

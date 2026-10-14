@@ -1,0 +1,52 @@
+{
+ "iso": "vit",
+ "name": "Viti",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:00:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Viti language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Viti_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Viti bibliography (Endangered Languages Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/38113/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Roger Blench 2020 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/586182",
+   "found_in_search": true
+  },
+  {
+   "title": "Viti in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20770",
+   "found_in_search": true
+  },
+  {
+   "title": "Viti language (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/vit",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: vit",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/vit",
+   "found_in_search": true
+  }
+ ]
+}
