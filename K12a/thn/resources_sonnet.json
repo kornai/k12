@@ -1,0 +1,52 @@
+{
+ "iso": "thn",
+ "name": "Thachanadan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:11:31Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Thachanadan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thachanadan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "CIIL Sanchika special collection (Thachanadan)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://sanchika.ciil.org/communities/d4941508-a0b2-4b08-8f4f-8f694b3fbc94",
+   "found_in_search": true
+  },
+  {
+   "title": "CIIL Sanchika record",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://sanchika.ciil.org/handle/1/345",
+   "found_in_search": true
+  },
+  {
+   "title": "SPPEL: Thachanadan Moopan documentation",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.sppel.org/thachanadanmoopandoc.aspx",
+   "found_in_search": true
+  },
+  {
+   "title": "SPPEL language documentation: Thachanadan Moopan",
+   "type": "other",
+   "language": "English",
+   "url": "https://sppel.org/resources/language-documentation/thachanadan-moopan",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Thachanadan language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/thn",
+   "found_in_search": true
+  }
+ ]
+}
