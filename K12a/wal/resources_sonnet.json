@@ -1,0 +1,38 @@
+{
+ "iso": "wal",
+ "name": "Wolaytta",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:18:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Challenges of Mother Tongue Education: The Case of Wolaytta (Alemayehu Dogamo, AAU thesis)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://etd.aau.edu.et/items/8aebe3e6-dfd8-4ce8-ac10-b94cb33328cc",
+   "found_in_search": true
+  },
+  {
+   "title": "The Wolaytta Language (Lamberti and Sottile 1997)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_the-wolaytta-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolaytta language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wolaytta_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolaytta people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wolaytta_people",
+   "found_in_search": true
+  }
+ ]
+}

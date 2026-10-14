@@ -1,0 +1,45 @@
+{
+ "iso": "waj",
+ "name": "Waffa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:18:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waffa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waffa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Waffa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/eastern-highlands-kratke-range/eastern-highlands/kainantu/east-kainantu/waffa",
+   "found_in_search": true
+  },
+  {
+   "title": "Hotz and Stringer 1979 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/60073",
+   "found_in_search": true
+  },
+  {
+   "title": "McKaughan 1973 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/143540",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Waffa, Kami in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15815/PP",
+   "found_in_search": true
+  }
+ ]
+}
