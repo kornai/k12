@@ -1,0 +1,52 @@
+{
+ "iso": "ura",
+ "name": "Urarina",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:12:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario visual-URARINA (MINEDU school library file, contents unverified)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://bibliotecaescolar.minedu.gob.pe/bitstreams/e0432f95-fb42-4484-a6de-26d6fc5e1a5d/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Upper Chambira Urarina (Journal of the IPA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/product/3556B5DDB589F632E3F6F4DB5BA1F1B9/core-reader",
+   "found_in_search": true
+  },
+  {
+   "title": "Language and culture of the Urarina people of Peru: preparation of grammar and dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/language-and-culture-of-the-urarina-people-of-peru-preparation-of-grammar-and-dictionary-for-an-endangered-language",
+   "found_in_search": true
+  },
+  {
+   "title": "James Cook University research record on Urarina",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/80355/",
+   "found_in_search": true
+  },
+  {
+   "title": "Urarina (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urarina",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO language atlas: Urarina in Peru",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/en/node/72622",
+   "found_in_search": true
+  }
+ ]
+}

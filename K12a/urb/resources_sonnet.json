@@ -1,0 +1,59 @@
+{
+ "iso": "urb",
+ "name": "Kaapor",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:12:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Caldas 2009, Ka'apor-Portuguese bilingual dictionary model (UnB doctoral thesis)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://repositorio.unb.br/bitstream/10482/8867/1/2009_RaimundaBeneditaCristinaCaldas.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ka'apor language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ka%CA%BCapor_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ka'apor",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3151",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article on Ka'apor (Revista Formação Intercultural, UFAC)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufac.br/index.php/RFIR/article/download/3095/1887/",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article on Ka'apor (RECIMA21)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://recima21.com.br/recima21/article/download/1068/861/7425",
+   "found_in_search": true
+  },
+  {
+   "title": "Povos Indígenas no Brasil: Ka'apor",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://pib.socioambiental.org/en/Povo:Ka%27apor",
+   "found_in_search": true
+  },
+  {
+   "title": "Ka'apor Sign Language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ka%CA%BCapor_Sign_Language",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "upi",
+ "name": "Umeda",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:12:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Metamorphosis of the Cassowaries: Umeda society, language and ritual (Gell 1975), catalogue record",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.relbib.de/Record/1608574768?lng=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record: Gell 1975",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/80539",
+   "found_in_search": true
+  },
+  {
+   "title": "Sowanda language (Wikipedia; includes Umeda variety)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sowanda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/pt-br/node/98418",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Umeda in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15708",
+   "found_in_search": true
+  }
+ ]
+}
