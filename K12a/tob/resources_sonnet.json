@@ -1,0 +1,59 @@
+{
+ "iso": "tob",
+ "name": "Toba",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:19:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Learning to read and write in bilingual Qom contexts (Rosemberg, Ojea, Alam)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://l1research.org/article/download/27/25/49",
+   "found_in_search": true
+  },
+  {
+   "title": "Chapter on bilingual intercultural education in Chaco (Springer)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://link.springer.com/chapter/10.1007/978-3-031-25584-7_15",
+   "found_in_search": true
+  },
+  {
+   "title": "Education journal article (Mar del Plata)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://fh.mdp.edu.ar/revistas/index.php/r_educ/article/download/9196/9489",
+   "found_in_search": true
+  },
+  {
+   "title": "Toba Qom language (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tob",
+   "found_in_search": true
+  },
+  {
+   "title": "Avellana 2012, Forma y Funcion",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.unal.edu.co/index.php/formayfuncion/article/view/38504",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista de Dialectologia y Tradiciones Populares (2016)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://doaj.org/article/ea7ace08db6c4de1a5e2c373d8cd7c0a",
+   "found_in_search": true
+  },
+  {
+   "title": "Mennonite Mission: preservation of a language in Argentina",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.mennonitemission.net/news/in-argentina-mission-includes-the-preservation-of-a-language/",
+   "found_in_search": true
+  }
+ ]
+}
