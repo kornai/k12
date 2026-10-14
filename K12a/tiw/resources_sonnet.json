@@ -1,0 +1,45 @@
+{
+ "iso": "tiw",
+ "name": "Tiwi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:25:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tiwi (encyclopedia entry incl. Nguiu school literature centre)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tiwi",
+   "found_in_search": true
+  },
+  {
+   "title": "Osborne 1974, The Tiwi Language (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/697300",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS MS 2381 Lee Tiwi linguistic data books",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/MS2381.PDF",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiwi in AIATSIS Austlang",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/n20",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiwi Orientation (Countries and Their Cultures)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.everyculture.com/Oceania/Tiwi-Orientation.html",
+   "found_in_search": true
+  }
+ ]
+}

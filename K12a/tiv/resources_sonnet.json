@@ -1,0 +1,52 @@
+{
+ "iso": "tiv",
+ "name": "Tiv",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:25:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Dictionary of the Tiv Language (Abraham 1940), Glottolog record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/7621",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of the Tiv Language, British Museum library record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://library.britishmuseum.org/bib/4314",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiv (dzwa Tiv), Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tiv.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiv in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15505/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiv Living Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/tiv",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiv Living Dictionary, about page",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://livingdictionaries.app/tiv/about",
+   "found_in_search": true
+  }
+ ]
+}

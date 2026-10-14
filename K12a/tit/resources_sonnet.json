@@ -1,0 +1,59 @@
+{
+ "iso": "tit",
+ "name": "Tinigua",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:25:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tinigua language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tinigua_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiniguan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tiniguan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Tinigua numerals data sheet",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tinigua.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tinigua in Colombia (UNESCO WAL)",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/en/countries/colombia/languages/tinigua",
+   "found_in_search": true
+  },
+  {
+   "title": "Tinigua (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2146?hl=zh-cn",
+   "found_in_search": true
+  },
+  {
+   "title": "Guardianes de la lengua: Tinigua (educ.ar)",
+   "type": "video",
+   "language": "other",
+   "url": "https://www.educ.ar/recursos/157164/guardianes-de-la-lengua-tinigua",
+   "found_in_search": true
+  },
+  {
+   "title": "Colombia's indigenous languages disappearing",
+   "type": "other",
+   "language": "English",
+   "url": "https://colombiareports.com/colombias-indigenous-languages-disappearing/",
+   "found_in_search": true
+  }
+ ]
+}
