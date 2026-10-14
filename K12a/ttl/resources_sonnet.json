@@ -1,0 +1,45 @@
+{
+ "iso": "ttl",
+ "name": "Totela",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:10:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Totela language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Totela_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Totela numerals (MPI numerals database)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Totela.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Blog noting the Totela K41 chapter and PhD dissertation",
+   "type": "academic",
+   "language": "English",
+   "url": "https://blogs.helsinki.fi/crane/?p=235",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Totela scripture and audio",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=ttl",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Totela in Zambia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15571/ZA",
+   "found_in_search": true
+  }
+ ]
+}
