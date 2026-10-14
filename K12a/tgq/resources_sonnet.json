@@ -1,0 +1,45 @@
+{
+ "iso": "tgq",
+ "name": "Tring",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:04:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tring language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tring_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tring",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/trin1273.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Tring word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TRING",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tring in Malaysia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19545",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tring language tgq",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/tgq",
+   "found_in_search": true
+  }
+ ]
+}

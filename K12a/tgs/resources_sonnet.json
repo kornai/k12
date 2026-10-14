@@ -1,0 +1,45 @@
+{
+ "iso": "tgs",
+ "name": "Nume",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:04:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nume language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nume_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Nume writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/nume.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "TLOPO: Nume",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tlopo.clld.org/languages/nume",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Nume",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2427?hl=zh-cn",
+   "found_in_search": true
+  },
+  {
+   "title": "Pangloss: The languages of Gaua island (Nume corpus)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://pangloss.cnrs.fr/corpus/Nume?lang=en",
+   "found_in_search": true
+  }
+ ]
+}
