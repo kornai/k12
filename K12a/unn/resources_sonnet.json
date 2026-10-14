@@ -1,0 +1,38 @@
+{
+ "iso": "unn",
+ "name": "Kurnai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:09:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gunaikurnai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gunaikurnai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Gunaikurnai Language and Cultural Perspectives at Bairnsdale West Primary School",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://bwestps.vic.edu.au/learning-and-wellbeing/gunaikurnai-language-and-culture",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kurnai bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6694/bibliography?hl=pt-br",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kurnai resource record",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/40129",
+   "found_in_search": true
+  }
+ ]
+}

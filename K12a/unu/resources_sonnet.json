@@ -1,0 +1,38 @@
+{
+ "iso": "unu",
+ "name": "Unubahe",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:09:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Unubahe language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Unubahe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Unubahe",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/unub1234.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Rueck: Unubahe, a nearly extinct language (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/313374",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Unubahe wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/UNUBAHE",
+   "found_in_search": true
+  }
+ ]
+}

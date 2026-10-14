@@ -1,0 +1,38 @@
+{
+ "iso": "unr",
+ "name": "Mundari",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:09:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mundari Primer (CIIL-NCERT)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.ciil.gov.in/primers/Mundari_Primer.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal for Mundari Bani",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2021/21031r-mundari.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Mundari Bani (Endangered Alphabets)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.endangeredalphabets.net/?p=4431",
+   "found_in_search": true
+  },
+  {
+   "title": "Mundari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:unr",
+   "found_in_search": true
+  }
+ ]
+}
