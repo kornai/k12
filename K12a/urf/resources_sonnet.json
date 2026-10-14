@@ -1,0 +1,38 @@
+{
+ "iso": "urf",
+ "name": "Uradhi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:14:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uradhi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uradhi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Uradhi (dialect cluster), About the North",
+   "type": "academic",
+   "language": "English",
+   "url": "https://aboutthenorth.au/styled-59/styled-184/styled-238/styled-472/",
+   "found_in_search": true
+  },
+  {
+   "title": "Hale 1976 reference record (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/96843",
+   "found_in_search": true
+  },
+  {
+   "title": "Pama Language Centre: Yadhaykenu (related variety)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.pamacentre.org.au/yadhaykenyu/",
+   "found_in_search": true
+  }
+ ]
+}
