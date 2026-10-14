@@ -1,0 +1,31 @@
+{
+ "iso": "tua",
+ "name": "Wiarumus",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:17:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wiarumus language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wiarumus_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist for Wiarumus",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/WIARUMUS",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project bibliography for Wiarumus",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3489/bibliography",
+   "found_in_search": true
+  }
+ ]
+}

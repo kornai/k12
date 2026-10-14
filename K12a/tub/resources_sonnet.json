@@ -1,0 +1,66 @@
+{
+ "iso": "tub",
+ "name": "Tübatulabal",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:17:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tübatulabal language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/T%C3%BCbatulabal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Working Dictionary of Tübatulabal (Voegelin 1958), RelLex entry",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Working_Dictionary_of_T%C3%BCbatulabal",
+   "found_in_search": true
+  },
+  {
+   "title": "Tübatulabal grammar (Voegelin 1935), catalogue record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://search.ub.tum.de/vufind/Record/DE-604.BV021077820",
+   "found_in_search": true
+  },
+  {
+   "title": "Berkeley Language and Culture Atlas: Tübatulabal",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cla.berkeley.edu/languages/tubatulabal.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguist List job posting on Paka'anil documentation",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://listserv.linguistlist.org/pipermail/linguist/2004-December/025749.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record 109518",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/109518",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record 105067",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/105067",
+   "found_in_search": true
+  },
+  {
+   "title": "Smithsonian archives entry (sova-naa-1976-95-ref14231)",
+   "type": "other",
+   "language": "English",
+   "url": "https://si.edu/object/archives/components/sova-naa-1976-95-ref14231",
+   "found_in_search": true
+  }
+ ]
+}
