@@ -1,0 +1,66 @@
+{
+ "iso": "waz",
+ "name": "Wampur",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:22:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wampur language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wampur_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wampur language materials: lexis, word list, grammar sketch (ANU Archives)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://archivescollection.anu.edu.au/index.php/wampur-language-papua-new-guinea-includes-wampur-lexis-m-ross-and-d-tryon-1984-wampur-word-list-1984-and-field-notes-from-k-pataki-schweizer-1963-wampur-grammar-sketch-wampur-grammar-outline-syntactic-check-list-wampur-gahuan-word-list",
+   "found_in_search": true
+  },
+  {
+   "title": "Wampur numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Wampur.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wampur language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/waz",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wampur people group",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15847",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wampur",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/3150",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue record ANUA520_3505",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/SH2/ANUA520_3505",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue record ANUA520_3508",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/SH2/ANUA520_3508",
+   "found_in_search": true
+  }
+ ]
+}

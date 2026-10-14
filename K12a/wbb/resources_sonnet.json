@@ -1,0 +1,38 @@
+{
+ "iso": "wbb",
+ "name": "Wabo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:22:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wabo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wabo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wabo Language in Wabompi Village: Evaluation of Language Vitality and Endangerment",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tpls.academypublication.com/index.php/tpls/article/view/12523",
+   "found_in_search": true
+  },
+  {
+   "title": "Republika news report on BRIN Wabo documentation workshop",
+   "type": "other",
+   "language": "other",
+   "url": "https://news.republika.co.id/berita/tggmej416/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wabo, Woriasi",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15811",
+   "found_in_search": true
+  }
+ ]
+}
