@@ -1,0 +1,52 @@
+{
+ "iso": "tfi",
+ "name": "Gbe, Tofin",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:55:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tofin language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tofin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Schoch 2011, Sociolinguistic survey of Tofin area (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/161211",
+   "found_in_search": true
+  },
+  {
+   "title": "Toli language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/T%C9%94li_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tofin Gbe in Benin (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/15528",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth index entry for tfi",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00i-Scripture_Index.php?iso=tfi",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network, tfi",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tfi",
+   "found_in_search": true
+  }
+ ]
+}

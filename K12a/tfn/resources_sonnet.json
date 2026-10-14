@@ -1,0 +1,59 @@
+{
+ "iso": "tfn",
+ "name": "Tanaina",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:55:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dena'ina Athabaskan Junior Dictionary (Wassillie 1979)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Dena%27ina_Athabaskan_Junior_Dictionary:_Dena%27ina_Qenaga_Duch%27duldih",
+   "found_in_search": true
+  },
+  {
+   "title": "Kenai Tanaina Noun Dictionary (Kari 1974)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Kenai_Tanaina_Noun_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Dena'ina Topical Dictionary excerpts (qenaga.org)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://qenaga.org/learning/dtd",
+   "found_in_search": true
+  },
+  {
+   "title": "Dena'ina Language Institute (Kenaitze Indian Tribe)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.kenaitze.org/education/denaina-language-institute/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dena'ina (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/denaina.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Alaska Native Languages: Dena'ina Qenaga",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.alaskanativelanguages.org/dena-ina-qenaga-dena-ina",
+   "found_in_search": true
+  },
+  {
+   "title": "Dena'ina site, Kenai Peninsula College",
+   "type": "academic",
+   "language": "other",
+   "url": "https://denaina.kpc.alaska.edu",
+   "found_in_search": true
+  }
+ ]
+}

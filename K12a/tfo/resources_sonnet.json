@@ -1,0 +1,31 @@
+{
+ "iso": "tfo",
+ "name": "Tefaro",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:55:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tefaro language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tefaro_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tefaro, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5093?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Tefaro in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15317",
+   "found_in_search": true
+  }
+ ]
+}
