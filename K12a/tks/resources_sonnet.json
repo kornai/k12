@@ -1,0 +1,38 @@
+{
+ "iso": "tks",
+ "name": "Takestani",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:41:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Southern Tati: Takestani dialect (Taherkhani and Nelson, JIPA 2024), Cambridge Core",
+   "type": "academic",
+   "language": "English",
+   "url": "https://core-cms.cambridgecore.org/core/journals/journal-of-the-international-phonetic-association/article/southern-tati-takestani-dialect/9C2D1269604E1F8AAC18EAE6C7E92A5C",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Tati: Takestani dialect (University of Illinois experts record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://experts.illinois.edu/en/publications/southern-tati-takestani-dialect/",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Tati: Takestani dialect (EBSCO record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ebsco.com/articles/social-sciences-and-humanities/b4dcfd73-26c7-5e6b-9da2-b72dbf9a741d/southern-tati-takestani-dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Tati language (Iran), Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.org/wiki/Kabatei",
+   "found_in_search": true
+  }
+ ]
+}
