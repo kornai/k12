@@ -1,0 +1,38 @@
+{
+ "iso": "ttu",
+ "name": "Torau",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:14:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Torau overview (Surrey Morphology Group, Northwest Solomonic)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/torau/overview/",
+   "found_in_search": true
+  },
+  {
+   "title": "Torau dictionary (Surrey Morphology Group)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/torau/torau-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Torau language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Torau_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item NSBURU102 (Capell: Torau and Uruava notes)",
+   "type": "other",
+   "language": "English",
+   "url": "https://catalog.paradisec.org.au/repository/AC2/NSBURU102",
+   "found_in_search": true
+  }
+ ]
+}
