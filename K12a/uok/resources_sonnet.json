@@ -1,0 +1,24 @@
+{
+ "iso": "uok",
+ "name": "Uokha",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:10:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Edoid languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Edoid_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Elugbe, Ben Ohiomamhe 1989 (Glottolog reference entry)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/91279",
+   "found_in_search": true
+  }
+ ]
+}

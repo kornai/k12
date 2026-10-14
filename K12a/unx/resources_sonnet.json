@@ -1,0 +1,38 @@
+{
+ "iso": "unx",
+ "name": "Munda",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:10:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog bookkeeping page: Munda [unx] (retired code)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/unx",
+   "found_in_search": true
+  },
+  {
+   "title": "Mundari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mundari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Munda languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Munda_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Songs and conversation in Munda (CIIL Mysuru archive)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://sanchika.ciil.org/items/483b5b65-b804-4cba-9c3e-7e2608163518/full",
+   "found_in_search": true
+  }
+ ]
+}
