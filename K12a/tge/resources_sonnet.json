@@ -1,0 +1,45 @@
+{
+ "iso": "tge",
+ "name": "Tamang, Eastern Gorkha",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:58:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Tamang, Eastern Gorkha (east2346)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/east2346.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tamang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Tamang, Eastern Gorkha profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Nepal/TamangEasternGorkha.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamang sociolinguistic survey, Gorkha district (Scribd)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.scribd.com/document/736854705/Chapter",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tamang, Eastern Gorkha",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tge",
+   "found_in_search": true
+  }
+ ]
+}

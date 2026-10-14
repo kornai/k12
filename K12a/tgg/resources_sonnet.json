@@ -1,0 +1,45 @@
+{
+ "iso": "tgg",
+ "name": "Tangga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:58:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tangga language (Wikipedia, ISO 639 page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tgg",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanga people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tanga_people",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Tangga (wals code tga)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_tga",
+   "found_in_search": true
+  },
+  {
+   "title": "Cambridge Language Centre: Tanga",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langt/tanga.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tangga",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Tangga",
+   "found_in_search": true
+  }
+ ]
+}
