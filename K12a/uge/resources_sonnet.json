@@ -1,0 +1,45 @@
+{
+ "iso": "uge",
+ "name": "Ughele",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:46:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ughele language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ughele_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ughele (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/ughele.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ughele numbers (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/language/numbers/ughele.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ugele in Solomon Islands (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15689/BP",
+   "found_in_search": true
+  },
+  {
+   "title": "Ughele (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Ughele",
+   "found_in_search": true
+  }
+ ]
+}
