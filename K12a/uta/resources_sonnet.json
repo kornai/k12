@@ -1,0 +1,38 @@
+{
+ "iso": "uta",
+ "name": "Itang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:24:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Otank language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Otank_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Itang noun class system (Graz, 2023)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nuclaba.blogs.uni-hamburg.de/wp-content/uploads/2025/10/Itang-noun-class-system-Graz-20231208.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: uta",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=uta",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: uta",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/uta",
+   "found_in_search": true
+  }
+ ]
+}
