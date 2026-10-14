@@ -1,0 +1,38 @@
+{
+ "iso": "tbf",
+ "name": "Mandara",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:22:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mandara language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mandara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tabar Group (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tabar_Group",
+   "found_in_search": true
+  },
+  {
+   "title": "Tabar in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15156/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Mandara language (Global Recordings Network; contents unconfirmed)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tbf",
+   "found_in_search": true
+  }
+ ]
+}

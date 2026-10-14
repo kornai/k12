@@ -1,0 +1,45 @@
+{
+ "iso": "tbd",
+ "name": "Kaki Ae",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:22:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar sketch of the Kaki Ae language (J. M. Clifton, SIL Work Papers 39)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://commons.und.edu/sil-work-papers/vol39/iss1/2",
+   "found_in_search": true
+  },
+  {
+   "title": "Clifton 1997, The Kaki Ae language (Glottolog reference record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/79499",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaki Ae language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaki_Ae_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaki Ae word list (ASJP)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KAKI_AE",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaki Ae numerals (Max Planck channumerals)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kaki-Ae.htm",
+   "found_in_search": true
+  }
+ ]
+}
