@@ -1,0 +1,38 @@
+{
+ "iso": "wei",
+ "name": "Kiunum",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:31:58Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Were language (ISO 639:wei), Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:wei",
+   "found_in_search": true
+  },
+  {
+   "title": "Language name and location: Kiunum, Papua New Guinea (numerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kiunum.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The Anim Languages of Southern New Guinea",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/586710/",
+   "found_in_search": true
+  },
+  {
+   "title": "Anim languages, Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Anim_languages",
+   "found_in_search": true
+  }
+ ]
+}
