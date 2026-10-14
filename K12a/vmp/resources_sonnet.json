@@ -1,0 +1,66 @@
+{
+ "iso": "vmp",
+ "name": "Soyaltepec Mazatec",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:08:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cartillas in Mazateco de Soyaltepec (1954), Colegio de Mexico repository",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/d791sj007?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Mazateco de Soyaltepec primer, second record (Colegio de Mexico repository)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/dz010r92r?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Soyaltepec Mazatec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Soyaltepec_Mazatec",
+   "found_in_search": true
+  },
+  {
+   "title": "Soyaltepec Mazatec (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/vmp/",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: San Miguel Soyoltepec",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SAN_MIGUEL_SOYOLTEPEC",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Soyaltepec Mazatec",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=vmp",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Soyaltepec Mazatec language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/vmp",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mazateco, Soyaltepec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/vmp",
+   "found_in_search": true
+  }
+ ]
+}

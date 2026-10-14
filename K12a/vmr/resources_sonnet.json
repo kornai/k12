@@ -1,0 +1,59 @@
+{
+ "iso": "vmr",
+ "name": "Marenje",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:08:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Alfazema, Cantauile, Rijone and Kroger 2006 (Marenje grammar sketch, Glottolog reference record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/94422",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Marenje (mare1260)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mare1260.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record 577247",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/577247",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Marenje",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/MARENJE",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Marenje in Mozambique",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/19026/MZ",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Marenje language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/vmr",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Marenje",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=vmr",
+   "found_in_search": true
+  }
+ ]
+}
