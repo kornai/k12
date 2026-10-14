@@ -1,0 +1,38 @@
+{
+ "iso": "wdd",
+ "name": "Wandji",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:28:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wanzi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wanzi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wandji language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/wdd",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wandji in Gabon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15854/GB",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wandji",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wdd",
+   "found_in_search": true
+  }
+ ]
+}
