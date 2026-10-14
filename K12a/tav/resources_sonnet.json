@@ -1,0 +1,38 @@
+{
+ "iso": "tav",
+ "name": "Tatuyo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:19:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tatuyo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tatuyo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tatuyo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tatu1247",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Tatuyo wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TATUYO",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Tatuyo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_tty",
+   "found_in_search": true
+  }
+ ]
+}

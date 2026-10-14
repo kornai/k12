@@ -1,0 +1,45 @@
+{
+ "iso": "tay",
+ "name": "Atayal",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:19:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "S'uli Atayal first-grade textbook development (NTHU thesis)",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://etd.lib.nthu.edu.tw/detail/96f027f7a0022771614c8c99fd86b3df",
+   "found_in_search": true
+  },
+  {
+   "title": "Grammar analysis of Matu'uwal Atayal course materials (NTHU thesis)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://etd.lib.nthu.edu.tw/detail/22c79aea6e7bb240468f576ddd584e22",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Atayal",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/atayal.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Atayal narratives and culturally responsive curriculum (NAER)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ej.naer.edu.tw/JTR/ccount/click.php?id=357",
+   "found_in_search": true
+  },
+  {
+   "title": "News report on Atayal elders learning Latin alphabet (LTN)",
+   "type": "other",
+   "language": "other",
+   "url": "https://news.ltn.com.tw/news/focus/breakingnews/2868933",
+   "found_in_search": true
+  }
+ ]
+}

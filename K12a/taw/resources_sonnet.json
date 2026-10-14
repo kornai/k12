@@ -1,0 +1,38 @@
+{
+ "iso": "taw",
+ "name": "Tay",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:19:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tai language (New Guinea) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_language_(New_Guinea)",
+   "found_in_search": true
+  },
+  {
+   "title": "Tay numeral system (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tay.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai (Tay) numeral system, Papua New Guinea (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tai-Tay-NPG.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tai in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19111",
+   "found_in_search": true
+  }
+ ]
+}
