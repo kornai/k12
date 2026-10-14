@@ -1,0 +1,31 @@
+{
+ "iso": "wbk",
+ "name": "Waigali",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:24:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages catalogue entry citing Morgenstierne 1954, The Waigali Language",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node?page=389",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Waigali-English dictionary (community-contributed)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/wbk/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: Waigali",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wiktionary.com/wiki/Waigali",
+   "found_in_search": true
+  }
+ ]
+}

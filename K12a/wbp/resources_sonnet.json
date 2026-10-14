@@ -1,0 +1,52 @@
+{
+ "iso": "wbp",
+ "name": "Warlpiri",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:24:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Linguistic Innovation and Continuity: Teaching in and of Warlpiri Language at Yuendumu School",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/4370cec5-3e45-42eb-a317-9986d1c08945",
+   "found_in_search": true
+  },
+  {
+   "title": "From Linguistic Research Findings to Useful Products for Australian Aboriginal Communities",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.jcu.edu.au/etropic/article/view/3395",
+   "found_in_search": true
+  },
+  {
+   "title": "From Linguistic Research Findings to Useful Products (PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.jcu.edu.au/index.php/etropic/article/download/3395/3335/6535",
+   "found_in_search": true
+  },
+  {
+   "title": "Warlpiri Encyclopaedic Dictionary (AIATSIS)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://shop.aiatsis.gov.au/products/warlpiri-encyclopaedic-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS: cross-disciplinary work produces landmark Warlpiri dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/whats-new/news/cross-disciplinary-work-produces-landmark-warlpiri-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Artshub: landmark Warlpiri dictionary puts living ancient language first",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.artshub.com.au/news/news/landmark-warlpiri-dictionary-puts-living-ancient-language-first-2607244/",
+   "found_in_search": true
+  }
+ ]
+}

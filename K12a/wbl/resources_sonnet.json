@@ -1,0 +1,45 @@
+{
+ "iso": "wbl",
+ "name": "Wakhi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:24:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "zabanha.af Wakhi page (literacy primer, transfer primer, alphabet book, preschool primer, keyboard)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://zabanha.af/languages/wakhi",
+   "found_in_search": true
+  },
+  {
+   "title": "zabanha.af related Wakhi page",
+   "type": "primer",
+   "language": "native",
+   "url": "https://zabanha.af/node/11",
+   "found_in_search": true
+  },
+  {
+   "title": "Pamir Times: review of A Sociolinguistic Study of Wakhi Language of Northern Pakistan (mentions Wakhi Primer by Haqiqat Ali)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://pamirtimes.net/2014/10/21/book-review-a-sociolinguistic-study-of-wakhi-language-of-northern-pakistan/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Wakhi language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wakhi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Wakhi people (Wakhi Tajik Cultural Association)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wakhi_people",
+   "found_in_search": true
+  }
+ ]
+}
