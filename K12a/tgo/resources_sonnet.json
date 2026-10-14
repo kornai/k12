@@ -1,0 +1,52 @@
+{
+ "iso": "tgo",
+ "name": "Sudest",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:02:24Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sudest language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sudest_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sudest (Vanatina) - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/sudest.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language tgo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/tgo",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagula, Sud Est in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15179/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: tgo",
+   "type": "other",
+   "language": "other",
+   "url": "https://wikitongues.org/languages/tgo/",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Sudest",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Sudest",
+   "found_in_search": true
+  }
+ ]
+}
