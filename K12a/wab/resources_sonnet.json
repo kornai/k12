@@ -1,0 +1,52 @@
+{
+ "iso": "wab",
+ "name": "Yote",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:16:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yote language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yote_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wab language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wab_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yote numerals (Max Planck)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yote.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix endangered languages: Wab",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Wab",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wab",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/wab",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wab",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wab",
+   "found_in_search": true
+  }
+ ]
+}
