@@ -1,0 +1,52 @@
+{
+ "iso": "wbh",
+ "name": "Wanda",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:23:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wanda language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wanda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wanda people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wanda_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Wanda (Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Wanda",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Wanda word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WANDA",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wanda in Tanzania",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15851",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wanda language wbh",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/wbh",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "wbj",
+ "name": "Alagwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:23:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Alagwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Alagwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Alagwa: a South Cushitic language of Tanzania (Mous, 2016)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_alagwa-a-south-cushitic-language-of-tanzania",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Alagwa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_agw",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Alagwa in Tanzania",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10242",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Alagwa language wbj",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/wbj",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Alagwa",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wbj",
+   "found_in_search": true
+  }
+ ]
+}
