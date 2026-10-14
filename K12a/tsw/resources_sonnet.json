@@ -1,0 +1,52 @@
+{
+ "iso": "tsw",
+ "name": "Tsishingini",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:04:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Shingini language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shingini_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsishingini New Testament (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/TSWWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "eBible.org Tsishingini details",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/details.php?id=tsw",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsishingini (tsw) OT about page, eBible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/study/content/texts/tsw/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Tsishingini",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tsw",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tsishingini",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tsw",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "tst",
+ "name": "Tondi Songway Kiini",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:04:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Heath, A Grammar of Tondi Songway Kiini (CSLI, 2005), with TSK-English-French dictionary",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://web.stanford.edu/group/cslipublications/cslipublications/site/157586505X.shtml",
+   "found_in_search": true
+  },
+  {
+   "title": "Tondi Songway Kiini (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tondi_Songway_Kiini",
+   "found_in_search": true
+  },
+  {
+   "title": "Jeffrey Heath, Songhay languages page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://websites.umich.edu/~jheath/Songhay%20languages.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Tondi Songway Kiini",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/95674",
+   "found_in_search": true
+  }
+ ]
+}
