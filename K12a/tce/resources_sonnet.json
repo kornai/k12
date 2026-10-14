@@ -1,0 +1,59 @@
+{
+ "iso": "tce",
+ "name": "Tutchone, Southern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:31:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Southern Tutchone dictionary, English to Southern Tutchone by subject (YNLC)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://ynlc.ca/wp-content/uploads/st_dictionary_englishtost_bysubject.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Tutchone Noun Dictionary (UBC RelLex record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Southern_Tutchone_Noun_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "About the Dan Ke (Southern Tutchone) language (YNLC)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://ynlc.ca/?p=4033",
+   "found_in_search": true
+  },
+  {
+   "title": "Yukon University ATHA101 course outline (2016)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.yukonu.ca/sites/default/files/course-outlines/F_16_ATHA101_Bunbury_Instructing_Outline_Prepped_byAllison_.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yukon sisters create Southern Tutchone dictionary (CBC)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.cbc.ca/lite/story/1.6706168",
+   "found_in_search": true
+  },
+  {
+   "title": "10,000 pages of Yukon Indigenous language material published online (CBC)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.cbc.ca/lite/story/1.4761056",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Tutchone language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Southern_Tutchone_language",
+   "found_in_search": true
+  }
+ ]
+}
