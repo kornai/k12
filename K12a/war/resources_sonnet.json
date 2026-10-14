@@ -1,0 +1,73 @@
+{
+ "iso": "war",
+ "name": "Waray-Waray",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:20:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "MTB-MLE Grade 1: Waray Week 10 - Learner's Material",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://lrmds.deped.gov.ph/detail/4948",
+   "found_in_search": true
+  },
+  {
+   "title": "MTB-MLE Grade 1: Waray Week 12 Teacher's Guide",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://lrmds.deped.gov.ph/detail/4993",
+   "found_in_search": true
+  },
+  {
+   "title": "Diksiyonaryo Caton: Waray",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.philippinebooks.com/products/diksiyonaryo-caton-waray",
+   "found_in_search": true
+  },
+  {
+   "title": "Learning Waray-Waray: English-Waray and Waray-English Dictionary Vol. 2 (Orejola)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://origin-www.alibris.com/Learning-Waray-Waray-English-and-English-Waray-Dictionary-Vol-2-Dr-Orejola/book/52954064?qsort=p",
+   "found_in_search": true
+  },
+  {
+   "title": "Bisayan grammar and notes on Bisayan rhetoric and poetics",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://gutenberg.org/ebooks/69603",
+   "found_in_search": true
+  },
+  {
+   "title": "Swarthmore LING073: Waray",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikis.swarthmore.edu/ling073/Waray",
+   "found_in_search": true
+  },
+  {
+   "title": "Concise Waray dictionary (Scribd upload, provenance unverified)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.scribd.com/doc/269809110/Waray",
+   "found_in_search": true
+  },
+  {
+   "title": "Mother-Tongue Based Multilingual Education (MTBMLE) Initiatives in Region 8",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ijere.iaescore.com/index.php/IJERE/article/view/4462",
+   "found_in_search": true
+  },
+  {
+   "title": "UP Diliman journal article (contents not reviewed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.upd.edu.ph/index.php/archive/article/download/9334/8248",
+   "found_in_search": true
+  }
+ ]
+}

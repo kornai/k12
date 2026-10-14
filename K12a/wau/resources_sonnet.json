@@ -1,0 +1,45 @@
+{
+ "iso": "wau",
+ "name": "Waurá",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:20:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waurá language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waur%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wauja (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wauja",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Waurá",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38101",
+   "found_in_search": true
+  },
+  {
+   "title": "Estudos Linguísticos journal article (contents not reviewed)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistadogel.emnuvens.com.br/estudos-linguisticos/article/download/1226/779/3333",
+   "found_in_search": true
+  },
+  {
+   "title": "Estudos da Linguagem journal article (contents not reviewed)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos2.uesb.br/index.php/estudosdalinguagem/article/download/1013/864/1699",
+   "found_in_search": true
+  }
+ ]
+}
