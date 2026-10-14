@@ -1,0 +1,59 @@
+{
+ "iso": "tuz",
+ "name": "Turka",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:27:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Suggett and Suggett 2003 French-Turka lexicon (Glottolog reference)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/sil16:44699",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary: Turka (Tchourama) grammar section",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.webonary.work/tchourama/language/grammar/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Turka Phonology Sketch (Suggett 2005)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.webonary.work/tchourama/files/Turka_Phonology_Sketch.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Turka writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/turka.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary: Turka (Tchourama) entry",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/tchourama/?p=146854",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Burkina Faso page (contents unverified)",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://sil-burkina.org/fr/node/87",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Burkina Faso page (contents unverified)",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://sil-burkina.org/fr/node/89",
+   "found_in_search": true
+  }
+ ]
+}

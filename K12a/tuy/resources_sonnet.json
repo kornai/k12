@@ -1,0 +1,52 @@
+{
+ "iso": "tuy",
+ "name": "Tugen",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:27:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tugen language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tugen_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalenjin languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kalenjin_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tugen writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tugen.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Jerono (University of Edinburgh Nilotic blog PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://blogs.ed.ac.uk/nilotic/wp-content/uploads/sites/3585/2021/05/Jerono.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of the Nandi Language (related language, not Tugen)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_a-dictionary-of-the-nandi-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project entry for Tugen",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tuy",
+   "found_in_search": true
+  }
+ ]
+}

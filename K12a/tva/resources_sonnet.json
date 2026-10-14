@@ -1,0 +1,38 @@
+{
+ "iso": "tva",
+ "name": "Vaghua",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:27:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vaghua language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vaghua_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Northwest Solomonic: Choiseul bibliography (Surrey Morphology Group)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/bibliography/choiseul/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexicostatistical Study of the Languages of Choiseul Island",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/a48b5c1e-4825-4c41-8e12-53df64261c0c",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tavula, Vagua in Solomon Islands",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15300/BP",
+   "found_in_search": true
+  }
+ ]
+}
