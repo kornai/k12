@@ -1,0 +1,38 @@
+{
+ "iso": "tmn",
+ "name": "Taman",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:02:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Taman language (Indonesia) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taman_language_%28Indonesia%29",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamanic languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tamanic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Embaloh language (Wikipedia), a related but different language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Embaloh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dialectologia article on Tamanic (unverified content)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://raco.cat/index.php/Dialectologia/article/download/427266/521774/628251",
+   "found_in_search": true
+  }
+ ]
+}

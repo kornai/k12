@@ -1,0 +1,31 @@
+{
+ "iso": "tml",
+ "name": "Tamnim Citak",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:02:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Citak language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Citak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Citak, Tamnin in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11391",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Tamnim Citak (tml)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tml",
+   "found_in_search": true
+  }
+ ]
+}

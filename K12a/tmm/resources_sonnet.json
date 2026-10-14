@@ -1,0 +1,38 @@
+{
+ "iso": "tmm",
+ "name": "Tai Thanh",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:02:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tai Thanh language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Thanh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Thanh in Vietnam (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15192",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page: tmm",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/tmm",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE source 82626",
+   "type": "other",
+   "language": "English",
+   "url": "https://phoible.org/sources/82626",
+   "found_in_search": true
+  }
+ ]
+}
