@@ -1,0 +1,52 @@
+{
+ "iso": "tlu",
+ "name": "Tulehu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:52:50Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tulehu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tulehu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tulehu (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Tulehu",
+   "found_in_search": true
+  },
+  {
+   "title": "Tulehu (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tule1244.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Sou Amana Teru wordlist (Austronesian Basic Vocabulary Database)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=379",
+   "found_in_search": true
+  },
+  {
+   "title": "Northeast Ambonese Tulehu in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15625",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist, Tulehu",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/TULEHU",
+   "found_in_search": true
+  }
+ ]
+}
