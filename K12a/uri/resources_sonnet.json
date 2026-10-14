@@ -1,0 +1,45 @@
+{
+ "iso": "uri",
+ "name": "Urim",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:15:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Urim language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urim_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Torricelli languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Torricelli_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "MPI-EVA channumerals: Urim",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Urim.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Urim (uri)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_uri",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Urim",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Urim",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "iso": "urg",
+ "name": "Kobuka",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:15:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ASJP wordlist: Kobuka",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KOBUKA",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kobuka (urg) language page",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/urg",
+   "found_in_search": true
+  }
+ ]
+}
