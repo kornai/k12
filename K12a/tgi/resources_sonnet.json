@@ -1,0 +1,45 @@
+{
+ "iso": "tgi",
+ "name": "Lawunuia",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:00:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lawunuia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lawunuia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lawunuia counting system data",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Lawunuia.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record for Lawunuia",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/86628",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Lawunuia page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Lawunuia",
+   "found_in_search": true
+  },
+  {
+   "title": "History of Research in Austronesian Languages: Milne Bay Province (ANU)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/9966de95-7d52-4a35-a30a-3b550f59e8e1",
+   "found_in_search": true
+  }
+ ]
+}

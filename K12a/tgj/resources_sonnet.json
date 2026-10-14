@@ -1,0 +1,52 @@
+{
+ "iso": "tgj",
+ "name": "Tagin",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:00:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tagin Living Dictionary (AI4Arunachal)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/tagin",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagin Living Dictionary: about",
+   "type": "other",
+   "language": "English",
+   "url": "https://livingdictionaries.app/tagin/about",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO Atlas of the World's Languages: Tagin in India",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/index.php/en/countries/india/languages/tagin",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank source: Das Gupta, Tagin outline",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/sources/sDasGuptaTagin",
+   "found_in_search": true
+  },
+  {
+   "title": "Bangni-Tagin language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bangni-Tagin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Arunachal Times report on Tagin taught in schools",
+   "type": "policy",
+   "language": "English",
+   "url": "https://arunachaltimes.in/?p=194393",
+   "found_in_search": true
+  }
+ ]
+}

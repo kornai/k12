@@ -1,0 +1,66 @@
+{
+ "iso": "tgk",
+ "name": "Tajik",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:00:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tajikistan Grade 1 Curriculum - Tajik Language (learner.net)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://learner.net/u/tajikistan-grade-1-tajik-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Hippocrene Tajik-English Practical Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.hippocrenebooks.com/store/p318/TajikPracticalDictionary.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Harvard Caspiana: Language Resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://caspiana.omeka.fas.harvard.edu/exhibits/show/academic-resources/language-resources",
+   "found_in_search": true
+  },
+  {
+   "title": "EURALI 2022 paper (ACL Anthology)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://aclanthology.org/2022.eurali-1.9.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tajik Persian: Readings in History, Culture and Society",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://catalogue.glasgowkelvin.ac.uk/Record/25550",
+   "found_in_search": true
+  },
+  {
+   "title": "Tajik language resources (Universe of Memory)",
+   "type": "other",
+   "language": "English",
+   "url": "https://universeofmemory.com/tajik-language-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Free beginner Tajik vocabulary and grammar",
+   "type": "other",
+   "language": "English",
+   "url": "https://freelanguage.org/node/87940",
+   "found_in_search": true
+  },
+  {
+   "title": "Tajiki 1 textbook listing",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://agendabookshop.com/products/tajiki-1",
+   "found_in_search": true
+  }
+ ]
+}
