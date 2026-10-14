@@ -1,0 +1,38 @@
+{
+ "iso": "ugy",
+ "name": "Uruguayan Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:47:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Redalyc article on deaf education models in Uruguay (journal 3131, article 313169978059)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.redalyc.org/journal/3131/313169978059/313169978059.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Redalyc article on deaf education in Uruguay (journal 3131, article 313158902088)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.redalyc.org/journal/3131/313158902088/313158902088.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Estudios Sordos (FHCE, TUILSU)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.fhce.edu.uy/images/Administracion_de_la_ensenanza/IMPAR%202022/TUILSU/Estudios_Sordos.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "AES web (FHCE document)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://fhce.edu.uy/wp-content/uploads/2025/08/AES-web.pdf",
+   "found_in_search": true
+  }
+ ]
+}
