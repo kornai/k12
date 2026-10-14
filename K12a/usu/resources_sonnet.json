@@ -1,0 +1,38 @@
+{
+ "iso": "usu",
+ "name": "Uya",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:23:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sausi language (Wikipedia), distinct language also called Uya",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sausi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sausi, Uya in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14789",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Uya",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3409",
+   "found_in_search": true
+  }
+ ]
+}

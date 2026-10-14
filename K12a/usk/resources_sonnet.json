@@ -1,0 +1,52 @@
+{
+ "iso": "usk",
+ "name": "Usaghade",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:23:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Usaghade language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Usaghade_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Language contact and evidence of divergence and convergence in the morphology of Usaghade",
+   "type": "academic",
+   "language": "English",
+   "url": "https://typologyatcrossroads.unibo.it/article/view/16309",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Usakade in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/print/15742/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Usakade people group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15742",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Usaghade language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/usk",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Usaghade (no recordings listed)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/usk",
+   "found_in_search": true
+  }
+ ]
+}
