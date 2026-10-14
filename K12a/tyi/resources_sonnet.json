@@ -1,0 +1,66 @@
+{
+ "iso": "tyi",
+ "name": "Teke-Tsaayi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:51:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Teke Tyee-French dictionary (Webonary, SIL), foreword",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/teke-tyee/overview/foreword/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "West Teke (Teke-Tsaayi) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/westteke.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "West Teke language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/West_Teke_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Teke Tsaayi - ASJP",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WESTERN_TEKE_TSAAYI",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog teke1281",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/teke1281.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project - Tsaayi language tyi",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/tyi",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project - Tsaayi in Congo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15385/CF",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network - Teke-Tsaayi",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tyi",
+   "found_in_search": true
+  }
+ ]
+}
