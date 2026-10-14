@@ -1,0 +1,52 @@
+{
+ "iso": "umr",
+ "name": "Umbugarla",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:06:07Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Umbugarla language (Wikipedia, cites Davies 1989 sketch grammar)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Umbugarla_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG entry N43 Umbugarla",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/n43",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Umbugarla",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3424",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC GB43 Gavan Breen Umbugarla collection: item 002 (vocabulary)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/GB43/002",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC GB43 item 003 (vocabulary with Wuna grammar)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/GB43/items/003",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC GB43 item 026 (vocabulary and grammar notes)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/GB43/items/026",
+   "found_in_search": true
+  }
+ ]
+}
