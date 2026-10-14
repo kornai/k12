@@ -1,0 +1,52 @@
+{
+ "iso": "trr",
+ "name": "Taushiro",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:51:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Taushiro language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taushiro_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Amadeo García García (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Amadeo_Garc%C3%ADa_Garc%C3%ADa",
+   "found_in_search": true
+  },
+  {
+   "title": "SAPHON Taushiro phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Taushiro.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Taushiro numerals (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Taushiro.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project Taushiro bibliography",
+   "type": "academic",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/2163/bibliography?hl=pt-br",
+   "found_in_search": true
+  },
+  {
+   "title": "Reconocen oficialmente alfabetos de tres lenguas originarias de la Amazonia",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://www.actualidadambiental.pe/reconocen-oficialmente-alfabetos-de-tres-lenguas-originarias-de-la-amazonia/",
+   "found_in_search": true
+  }
+ ]
+}
