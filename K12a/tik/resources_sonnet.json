@@ -1,0 +1,52 @@
+{
+ "iso": "tik",
+ "name": "Tikar",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:20:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionnaire Tikar de Bankim (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/tikar/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Tikar dictionary foreword (Webonary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.org/tikar/overview/foreword/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth Tikar",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tik",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network Tikar",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tik",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project Tikar language page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/tik",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project Tikar, Twumwu",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15486",
+   "found_in_search": true
+  }
+ ]
+}

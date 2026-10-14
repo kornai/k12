@@ -1,0 +1,31 @@
+{
+ "iso": "tii",
+ "name": "Tiene",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:20:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tiene language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tiene_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page for Tiene",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tii",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project Tiene people group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15478",
+   "found_in_search": true
+  }
+ ]
+}
