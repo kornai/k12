@@ -1,0 +1,52 @@
+{
+ "iso": "tci",
+ "name": "Wára",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:32:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Upper Morehead language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Upper_Morehead_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wara Komnjo numerals (Chan numerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Wara-Komnjo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wurm and Sarsa: Organised phonology, Wara language (Glottolog reference)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/313393",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Wara PNG word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WARA_PNG",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: tci language page",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tci",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry (relevance unconfirmed)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10744?hl=de",
+   "found_in_search": true
+  }
+ ]
+}

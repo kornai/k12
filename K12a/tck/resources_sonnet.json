@@ -1,0 +1,38 @@
+{
+ "iso": "tck",
+ "name": "Tchitchege",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:32:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsege language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsege_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tchitchege",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5107",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tchitchege in Gabon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19532/GB",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: tck language page",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tck",
+   "found_in_search": true
+  }
+ ]
+}

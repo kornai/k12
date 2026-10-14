@@ -1,0 +1,31 @@
+{
+ "iso": "tch",
+ "name": "Turks and Caicos English Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:32:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Turks and Caicos Creole (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Creole",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: languages of Turks and Caicos Islands",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/glottolog?country=TC",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Turks and Caicos English Creole (no recordings listed)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tch",
+   "found_in_search": true
+  }
+ ]
+}
