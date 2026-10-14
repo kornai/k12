@@ -1,0 +1,52 @@
+{
+ "iso": "tsh",
+ "name": "Matsuva",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:58:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsuvan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsuvan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A rapid appraisal language survey of Tsuvan (Mayo-Tsanaga division, far north province)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.silcam.org/resources/archives/9192",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsuvan in Cameroon (UNESCO World Atlas of Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wal.unesco.org/countries/cameroon/languages/tsuvan",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language tsh",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tsh",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: tsh",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tsh",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: tsh",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tsh/",
+   "found_in_search": true
+  }
+ ]
+}

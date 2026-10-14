@@ -1,0 +1,38 @@
+{
+ "iso": "tsj",
+ "name": "Tshangla",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:58:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Tshangla (Brill; bookseller listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.betterworldbooks.com/product/detail/-9789004178274",
+   "found_in_search": true
+  },
+  {
+   "title": "Tshangla language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Tshangla",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Bjokapakha (Grollmann, Brill 2020), related language",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://boris.unibe.ch/id/eprint/120832",
+   "found_in_search": true
+  },
+  {
+   "title": "Mandala Library: Tshangla subject page",
+   "type": "other",
+   "language": "English",
+   "url": "https://mandala.library.virginia.edu/subjects/7390/overview/nojs",
+   "found_in_search": true
+  }
+ ]
+}

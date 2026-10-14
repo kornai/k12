@@ -1,0 +1,38 @@
+{
+ "iso": "tsk",
+ "name": "Tseku",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:58:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tseku language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tseku_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tseku language map page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tsek1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tseku in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/19656/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language tsk",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tsk",
+   "found_in_search": true
+  }
+ ]
+}
