@@ -1,0 +1,59 @@
+{
+ "iso": "tio",
+ "name": "Teop",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:22:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Teop-English Dictionary (Mosel, Dictionaria)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://dictionaria.clld.org/contributions/teop",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionaria: Teop language page",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://dictionaria.clld.org/languages/teop1238",
+   "found_in_search": true
+  },
+  {
+   "title": "Teop sketch grammar (Mosel and Thiesen, 2007)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/media/1147/teop_sketch_grammar_may07.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Northwest Solomonic: Teop overview (Surrey)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/teop/overview/",
+   "found_in_search": true
+  },
+  {
+   "title": "Multi-CAST Teop corpus (Bamberg)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://fis.uni-bamberg.de/handle/uniba/97606",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Teop project team",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/projects/teop/team/",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Teop poster",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/oceania-teop-print.pdf",
+   "found_in_search": true
+  }
+ ]
+}
