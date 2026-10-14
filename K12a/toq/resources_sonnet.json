@@ -1,0 +1,52 @@
+{
+ "iso": "toq",
+ "name": "Toposa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:25:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "UNICEF request for proposals: literacy primers P2-P3 in South Sudanese languages (Toposa not confirmed)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.ungm.org/Public/Notice/133550",
+   "found_in_search": true
+  },
+  {
+   "title": "Toposa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Toposa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Toposa alphabet and pronunciation",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/toposa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Spagnolo, Toposa grammar and dictionary (Glottolog reference entry)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/151013",
+   "found_in_search": true
+  },
+  {
+   "title": "Wycliffe: Toposa project profile",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.wycliffe.org/Main%20Uploads/Projects/PDF/Toposa%20Profile%20WEB.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Toposa people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Toposa_people",
+   "found_in_search": true
+  }
+ ]
+}

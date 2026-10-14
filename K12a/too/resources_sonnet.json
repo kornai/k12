@@ -1,0 +1,66 @@
+{
+ "iso": "too",
+ "name": "Xicotepec de Juárez Totonac",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:25:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lecturas en Totonaco (1981), El Colegio de México repository",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/hx11xh02x?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Totonac vocabulary (1965), El Colegio de México repository",
+   "type": "other",
+   "language": "other",
+   "url": "https://repositorio.colmex.mx/downloads/zc77st91s?locale=es",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Xicotepec Totonac (cites the ILV/SEP dictionary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/XICOTEPEC_TOTONAC",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Xicotepec de Juárez Totonac",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/too",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Northern Totonac",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38948",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Xicotepec de Juárez Totonac",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/too/",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Xicotepec de Juárez Totonac scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=too",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Totonac, Xicotepec de Juarez",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/too",
+   "found_in_search": true
+  }
+ ]
+}
