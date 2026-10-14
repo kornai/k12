@@ -1,0 +1,45 @@
+{
+ "iso": "vol",
+ "name": "Volapük",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:11:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Quick Look at Volapük",
+   "type": "primer",
+   "language": "English",
+   "url": "https://volapuk.evertype.com/quick-look-at-volapuk.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Linderfelt, Volapük: An Easy Method (HathiTrust)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://catalog.hathitrust.org/Record/101708893",
+   "found_in_search": true
+  },
+  {
+   "title": "Wörterbuch der Weltsprache: Vödabuk Volapüka (Evertype)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://evertype.com/books/dejong-worterbuch.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Evertype Publishing: Volapük",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.evertype.com/volapuk.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Volapük",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/volapuk.htm",
+   "found_in_search": true
+  }
+ ]
+}

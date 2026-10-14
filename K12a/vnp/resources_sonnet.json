@@ -1,0 +1,45 @@
+{
+ "iso": "vnp",
+ "name": "Tapesena",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:11:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vunapu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vunapu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Vunapu (vuna1239)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/vuna1239.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Vunapu",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Vunapu",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Vunapu in Vanuatu",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15805",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language vnp",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/vnp",
+   "found_in_search": true
+  }
+ ]
+}
