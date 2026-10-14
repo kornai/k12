@@ -1,0 +1,52 @@
+{
+ "iso": "twr",
+ "name": "Tarahumara, Southwestern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:41:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Joshua Project: Southwestern Tarahumara language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/twr",
+   "found_in_search": true
+  },
+  {
+   "title": "Samachique Tarahumara New Testament (related variety, not twr)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/TARWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tarahumara New Testament, eBible (tac, not twr)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/Bible/details.php?id=tacNT",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Western Tarahumara (tac, not twr)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tac",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tarahumara audio New Testament (tac, not twr)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m0b8632-new-testament-tac-western-tarahumara-baja-audio-bible/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarahumara Books (Don Burgess): free downloads incl. phrasebook; variety unspecified",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.tarahumarabooks.com/",
+   "found_in_search": true
+  }
+ ]
+}

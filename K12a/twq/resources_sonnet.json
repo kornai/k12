@@ -1,0 +1,38 @@
+{
+ "iso": "twq",
+ "name": "Tasawaq",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:41:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tasawaq language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tasawaq_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos Songhay dictionaries (lists Tasawaq-French thematic dictionary with audio)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/songhai_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Jeffrey Heath: Songhay languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://websites.umich.edu/~jheath/Songhay%20languages.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden scholarly publication on Songhay",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2937663/view",
+   "found_in_search": true
+  }
+ ]
+}

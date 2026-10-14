@@ -1,0 +1,52 @@
+{
+ "iso": "twu",
+ "name": "Termanu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:41:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Termanu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Termanu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "OAPEN open-access book (title not shown in search; relevance unverified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://library.oapen.org/bitstream/20.500.12657/52033/1/book.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC collection TWU2018",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/TWU2018",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Termanu (Gospel of Mark)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=twu",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Termanu",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/twu",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Termanu (related page)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/25547",
+   "found_in_search": true
+  }
+ ]
+}
