@@ -1,0 +1,38 @@
+{
+ "iso": "twa",
+ "name": "Twana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:34:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "tuwaduq: The Twana Language E-Dictionary Project (UBC RelLex)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/tuwaduq:_The_Twana_Language_E-Dictionary_Project",
+   "found_in_search": true
+  },
+  {
+   "title": "ICT News article on Twana language revival (Zack Fishman)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://ictnews.org/?p=38979",
+   "found_in_search": true
+  },
+  {
+   "title": "Twana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Twana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Twana people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Twana",
+   "found_in_search": true
+  }
+ ]
+}

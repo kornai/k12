@@ -1,0 +1,38 @@
+{
+ "iso": "tvy",
+ "name": "Pidgin, Timor",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:34:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Baxter 1990, Bidau Creole Portuguese study (Journal of Pidgin and Creole Languages)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.benjamins.com/catalog/jpcl.5.1.02bax",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Baxter 1990",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/307143",
+   "found_in_search": true
+  },
+  {
+   "title": "Bidau Creole Portuguese (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bidau_Creole_Portuguese",
+   "found_in_search": true
+  },
+  {
+   "title": "Timor Pidgin (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tvy/",
+   "found_in_search": true
+  }
+ ]
+}

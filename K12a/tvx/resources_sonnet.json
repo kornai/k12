@@ -1,0 +1,52 @@
+{
+ "iso": "tvx",
+ "name": "Taivoan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:34:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Living Dictionaries: Taivoan",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://livingdictionaries.app/taivoan",
+   "found_in_search": true
+  },
+  {
+   "title": "Living Dictionaries: Taivoan, about",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://livingdictionaries.app/taivoan/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Taivoan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taivoan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Reawakening the Taivoan Language (Wikitongues)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wikitongues.org/blog/reawakening-the-taivoan-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Benson Ko-Chou Fang (Wikitongues fellow)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wikitongues.org/fellows/benson-ko-chou-fang/",
+   "found_in_search": true
+  },
+  {
+   "title": "Taivoan people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taivoan",
+   "found_in_search": true
+  }
+ ]
+}
