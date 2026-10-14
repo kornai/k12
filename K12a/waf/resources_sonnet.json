@@ -1,0 +1,31 @@
+{
+ "iso": "waf",
+ "name": "Wakoná",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:17:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wakoná language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wakon%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ethnologue: waf",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ethnologue.com/language/waf",
+   "found_in_search": true
+  },
+  {
+   "title": "UFRJ repository record (bdor.sibi.ufrj.br/handle/doc/103)",
+   "type": "other",
+   "language": "other",
+   "url": "https://bdor.sibi.ufrj.br/handle/doc/103",
+   "found_in_search": true
+  }
+ ]
+}

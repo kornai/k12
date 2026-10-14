@@ -1,0 +1,38 @@
+{
+ "iso": "wae",
+ "name": "Walser",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:17:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Titsch: the German dialect from Gressoney",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.lovevda.it/en/database/10/tradition/gressoney-la-trinite/titsch-the-german-dialect-from-gressoney/447",
+   "found_in_search": true
+  },
+  {
+   "title": "Walser German (Titsch) - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://Www.wikipedia.org/wiki/Titsch",
+   "found_in_search": true
+  },
+  {
+   "title": "La langue walser (CEFAN, Université Laval)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://axl.cefan.ulaval.ca/europe/walser.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Walser (dialecte) - BnF data, dictionaries and glossaries category",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://data.bnf.fr/12167970/walser__dialecte_/en.pdf",
+   "found_in_search": true
+  }
+ ]
+}
