@@ -1,0 +1,45 @@
+{
+ "iso": "tzi",
+ "name": "Situ",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:59:03Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Situ language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Situ_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Gyalrong languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gyalrong_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Gyalrongic languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gyalrongic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Brag-bar kinship system in synchronic and diachronic perspectives (BSOAS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/bragbar-kinship-system-in-synchronic-and-diachronic-perspectives/BB56B51BD5591C33215224864FFA0CFE",
+   "found_in_search": true
+  },
+  {
+   "title": "Rgyalrongic lexical database article (PMC)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10446046",
+   "found_in_search": true
+  }
+ ]
+}

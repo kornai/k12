@@ -1,0 +1,73 @@
+{
+ "iso": "tzh",
+ "name": "Tzeltal",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:59:03Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tzeltal reader, Bats'i K'op series (library record)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://opac.biblio.iteso.mx/vufind/Record/000499546/Channels",
+   "found_in_search": true
+  },
+  {
+   "title": "Spanish grammar explained in Tzeltal, Ocosingo (1974)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/7d278v896?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzeltal primer, Lacandón variety (1954)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/c534fq90b?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Diccionario de la lengua tzeltal (BVFE record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.bvfe.es/en/directorio-bibliografico-diccionarios-vocabularios-glosarios-tratados-y-obras-lexicografia/17540-diccionario-de-la-lengua-tzeltal/imprimir.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzeltal dictionary, second edition (PDF)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://arqueologiamexicana.mx/sites/default/files/banco_imagenes/tzh_diccionario_ed2.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "El Colegio de México Tzeltal holding",
+   "type": "other",
+   "language": "other",
+   "url": "https://repositorio.colmex.mx/concern/books/c534fq89k?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "El Colegio de México Tzeltal holding",
+   "type": "other",
+   "language": "other",
+   "url": "https://repositorio.colmex.mx/concern/books/kd17cw054?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexicity Mayan page (Tzeltal grammar and bibliography links)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://oderalon.net/wiki/index.php/Lexicity/Mayan",
+   "found_in_search": true
+  },
+  {
+   "title": "Smithsonian repository item (Tzeltal-related, contents unconfirmed)",
+   "type": "other",
+   "language": "other",
+   "url": "https://repository.si.edu/items/318b5c11-94f8-46c6-a6ae-767cf580d5a5/full",
+   "found_in_search": true
+  }
+ ]
+}

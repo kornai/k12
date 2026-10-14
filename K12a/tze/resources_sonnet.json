@@ -1,0 +1,52 @@
+{
+ "iso": "tze",
+ "name": "Tzotzil, Chenalhó",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:59:03Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Great Tzotzil Dictionary of San Lorenzo Zinacantán (neighbouring dialect)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://repository.si.edu/handle/10088/1360",
+   "found_in_search": true
+  },
+  {
+   "title": "Smithsonian repository record, Zinacantán Tzotzil dictionary volume",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://repository.si.edu/handle/10088/1367",
+   "found_in_search": true
+  },
+  {
+   "title": "A Descriptive Grammar of the Tzotzil Language as Spoken in San Bartolomé de los Llanos (Sarles 1966)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.proquest.com/docview/302240547",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzotzil language (Wikipedia overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tzotzil_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings: Tzotzil, Chenalho audio",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/2681",
+   "found_in_search": true
+  },
+  {
+   "title": "Living Dictionaries Tsotsil entry (place name)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/batsi-kop-tsotsil-tsot/entry/VyPuoeNawoWHbcFjzBsj",
+   "found_in_search": true
+  }
+ ]
+}
