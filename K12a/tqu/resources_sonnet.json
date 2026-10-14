@@ -1,0 +1,45 @@
+{
+ "iso": "tqu",
+ "name": "Touo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:43:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vernacular literacy in the Touo language of the Solomon Islands",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.mpi.nl/publications/item_58044",
+   "found_in_search": true
+  },
+  {
+   "title": "Touo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Touo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Touo",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/touo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Touo numerals (MPI EVA Channumerals)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Touo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Digital documentation preserving Touo oral narratives (CU Boulder)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.colorado.edu/linguistics/2023/04/07/digital-documentation-preserving-touo-oral-narratives-across-globe",
+   "found_in_search": true
+  }
+ ]
+}
