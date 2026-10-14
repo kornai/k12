@@ -1,0 +1,45 @@
+{
+ "iso": "tes",
+ "name": "Tengger",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:52:52Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tenggerese dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tenggerese_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Tenggerese (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tenggerese",
+   "found_in_search": true
+  },
+  {
+   "title": "Tengger Javanese (Conners, Yale dissertation 2008)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://ling.yale.edu/media/417/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Tengger numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tengger.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Perpusnas catalogue record on Tenggerese ritual language",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ios.perpusnas.go.id/Record/IOS2744.18928/TOC",
+   "found_in_search": true
+  }
+ ]
+}

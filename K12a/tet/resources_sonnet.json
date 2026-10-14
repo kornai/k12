@@ -1,0 +1,59 @@
+{
+ "iso": "tet",
+ "name": "Tetun",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:52:52Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tetum, A Language For Everyone (course book listing)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://universidades.umlivro.com.br/tetum--a-language-for-everyone--tetun--lian-ida-ba-ema-hotu-hotu--1630269/p",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Tetum course TETM6002",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://programsandcourses.anu.edu.au/2019/course/TETM6002/First%20Semester/3443",
+   "found_in_search": true
+  },
+  {
+   "title": "Tetun Dili dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/tetun-dili/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "A Traveller's Dictionary in Tetun-English and English-Tetun (Morris)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://levlafayette.com/node/44",
+   "found_in_search": true
+  },
+  {
+   "title": "Morris Tetun dictionary, GNU Tetum project copy",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.gnu.org/software/tetum/contributors/cliffMorris-xhtml/pr04.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages in Education in East Timor",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.etwa.org.au/wp-content/uploads/2013/11/languages_education.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Timor-Leste: When do mother tongues divide? (Refworld)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://webarchive.archive.unhcr.org/20230518164944oe_/https://www.refworld.org/docid/4f7428972.html",
+   "found_in_search": true
+  }
+ ]
+}
