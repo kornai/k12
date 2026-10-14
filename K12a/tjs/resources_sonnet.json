@@ -1,0 +1,38 @@
+{
+ "iso": "tjs",
+ "name": "Tujia, Southern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:33:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tujia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tujia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tujia Southern numerals (MPI Language Survey)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tujia-Southern.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Tujia (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/1744?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of the Southern Tujia Language of China (ELDP archive)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk0260/",
+   "found_in_search": true
+  }
+ ]
+}
