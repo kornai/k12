@@ -1,0 +1,52 @@
+{
+ "iso": "wap",
+ "name": "Wapichan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:19:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gramática Pedagógica da Língua Wapichana (Museu do Índio)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://www.gov.br/museudoindio/pt-br/centrais-de-conteudo/livros-e-publicacoes/materiais-didaticos/arquivos/GramaticaWapichana.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wapishana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wapishana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "On Making A Wapichan Dictionary",
+   "type": "other",
+   "language": "English",
+   "url": "https://3quarksdaily.com/?p=36529",
+   "found_in_search": true
+  },
+  {
+   "title": "Demonstrativos, determinantes e definitude em Wapichana",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.ufpr.br/letras/article/view/50821",
+   "found_in_search": true
+  },
+  {
+   "title": "Wapishana numbers (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/language/numbers/wapishana.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Povos Indigenas no Brasil: Wapichana",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://pib.socioambiental.org/en/povo/Wapichana",
+   "found_in_search": true
+  }
+ ]
+}
