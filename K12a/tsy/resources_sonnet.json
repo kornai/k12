@@ -1,0 +1,38 @@
+{
+ "iso": "tsy",
+ "name": "Tebul Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:06:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tebul Sign Language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tebul_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tebul Dogon (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tebul_Dogon",
+   "found_in_search": true
+  },
+  {
+   "title": "Douentza Sign Language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Douentza_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tebul Ure information from Blench (2012)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/8735?hl=de",
+   "found_in_search": true
+  }
+ ]
+}

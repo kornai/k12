@@ -1,0 +1,52 @@
+{
+ "iso": "tsz",
+ "name": "Purepecha",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:06:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammar for P'urhepecha speakers: dialectal variation and standard (Monzón)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://revistaschilenas.uchile.cl/handle/2250/216755",
+   "found_in_search": true
+  },
+  {
+   "title": "Purhépecha instruction at the Universidad Intercultural Indígena de Michoacán (Universidad de Guadalajara repository)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://riudg.udg.mx/handle/20.500.12104/94656",
+   "found_in_search": true
+  },
+  {
+   "title": "Medina Pérez, Alberto 2006: Guía lingüística P'urhépecha (Glottolog)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/147735",
+   "found_in_search": true
+  },
+  {
+   "title": "Monzón, Cristina 2016: bibliography of Purepecha vocabularies (chapter PDF)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://colmich.repositorioinstitucional.mx/jspui/bitstream/1016/1130/1/Monz%c3%b3nCristina2016Cap%c3%adtulo.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lagunas: Arte y dictionario en lengua de michuacana",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://dare.uva.nl/id/9ea900a3-9879-45f2-ad5d-dc0d180cc9a6",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Purepecha (P'urhépecha)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/purepecha.htm",
+   "found_in_search": true
+  }
+ ]
+}
