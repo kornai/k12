@@ -1,0 +1,45 @@
+{
+ "iso": "two",
+ "name": "Tswapong",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:39:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Tswapong",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3813",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tswapong endangered language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Tswapong",
+   "found_in_search": true
+  },
+  {
+   "title": "Botswana Daily News: Setswapong Bible translation and Tswapong FM",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://dailynews.gov.bw/news-detail/92023",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tswapong in Botswana",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15602",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tswapong language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/two",
+   "found_in_search": true
+  }
+ ]
+}

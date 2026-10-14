@@ -1,0 +1,45 @@
+{
+ "iso": "twn",
+ "name": "Twendi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:39:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Twendi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Twendi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Twendi numerals (Connell), Max Planck EVA",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Twendi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: Category Twendi language",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/Category:Twendi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Twendi in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21360",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Twendi",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/532",
+   "found_in_search": true
+  }
+ ]
+}

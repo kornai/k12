@@ -1,0 +1,66 @@
+{
+ "iso": "twm",
+ "name": "Monpa, Tawang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:39:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammar sketch of Tawang Monpa (Tombleson, Himalayan Linguistics 21(2), 2022)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://journalpub.escholarship.org/himalayanlinguistics/article/35127/galley/26158/download",
+   "found_in_search": true
+  },
+  {
+   "title": "eScholarship item on Tawang Monpa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://escholarship.org/uc/item/1cq303bg",
+   "found_in_search": true
+  },
+  {
+   "title": "Lhama Wangchu 2002, An Introduction to the Tawang Monpa Language (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/40427",
+   "found_in_search": true
+  },
+  {
+   "title": "Hyslop and Tshering 2008, notes on Dakpa (Glottolog record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/58824",
+   "found_in_search": true
+  },
+  {
+   "title": "Hyslop and Tshering 2010, North East Indian Linguistics (Glottolog record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/679364",
+   "found_in_search": true
+  },
+  {
+   "title": "Copula system of Tawang Monpa (journal article)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.jbe-platform.com/content/journals/10.1075/ltba.17013.tom",
+   "found_in_search": true
+  },
+  {
+   "title": "Benjamins catalogue entry (contents unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lwc1.benjamins.com/catalog/ltba.37.2.03bod",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Tawang Monpa",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/twm/",
+   "found_in_search": true
+  }
+ ]
+}
