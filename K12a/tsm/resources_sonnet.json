@@ -1,0 +1,45 @@
+{
+ "iso": "tsm",
+ "name": "Turkish Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:00:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bakanlığın Güncel Türk İşaret Dili Sözlüğü'ne 150 Ülkeden 4 Milyondan Fazla Erişim Sağlandı",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://aile.gov.tr/haberler/bakanligin-guncel-turk-isaret-dili-sozlugune-150-ulkeden-4-milyondan-fazla-erisim-saglandi/",
+   "found_in_search": true
+  },
+  {
+   "title": "Türk İşaret Dili Sözlüğü önsöz (sozluk.gov.tr)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://Sozluk.Gov.Tr/dosyalar/onsoz.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "TİD Kullanıcılarının Türkçe Okuma ve Yazma Becerilerinin Geliştirilmesi için Malzeme (Bogazici)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.cmpe.boun.edu.tr/~gungort/papers/Turk%20Isaret%20Dili%20(TID)%20Kullanicilarinin%20Turkce%20Okuma%20ve%20Yazma%20Becerilerinin%20Gelistirilmesi%20icin%20Malzeme.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "İşaret Dili Nedir? (Nüfer İEML, MEB)",
+   "type": "other",
+   "language": "other",
+   "url": "https://niluferieml.meb.k12.tr/icerikler/isaret-dili_46306.html",
+   "found_in_search": true
+  },
+  {
+   "title": "23 Eylül Dünya İşaret Dilleri Günü TİD paneli",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.aile.gov.tr/eyhgm/haberler/23-eylul-dunya-isaret-dilleri-gunu-nde-turk-isaret-dilinin-dunu-bugunu-yarini-paneli-isitme-engellilerin-sesi-oldu/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "iso": "tsn",
+ "name": "Setswana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:00:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Via Afrika Setswana Home Language Grade 5 Learner's Book",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://viaafrika.com/?p=15741",
+   "found_in_search": true
+  },
+  {
+   "title": "Via Afrika Setswana Home Language Grade 6 Learner's Book",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://viaafrika.com/?p=15760",
+   "found_in_search": true
+  },
+  {
+   "title": "Via Afrika Setswana Home Language Grade 7 Learner's Book",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://viaafrika.com/?p=10214",
+   "found_in_search": true
+  },
+  {
+   "title": "Via Afrika Setswana Home Language Grade 8 Learner's Book",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://viaafrika.com/?p=10220",
+   "found_in_search": true
+  },
+  {
+   "title": "Via Afrika Setswana Home Language Grade 11 Learner's Book",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://viaafrika.com/?p=11451",
+   "found_in_search": true
+  },
+  {
+   "title": "Via Afrika Setswana Home Language Grade 7 Learner's Book (ePDF)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://viaafrika.com/?p=41251",
+   "found_in_search": true
+  },
+  {
+   "title": "Via Afrika Setswana Home Language Grade 8 Learner's Book (ePDF)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://viaafrika.com/?p=41253",
+   "found_in_search": true
+  },
+  {
+   "title": "Via Afrika Setswana Home Language Grade 9 Learner's Book (ePDF)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://viaafrika.com/?p=41255",
+   "found_in_search": true
+  },
+  {
+   "title": "WCED ePortal: Setswana HL Grade 12 assessment",
+   "type": "school_or_programme",
+   "language": "native",
+   "url": "https://wcedeportal.co.za/browse/grades/12/language/english/subjects/setswana-hl/topics/assessment",
+   "found_in_search": true
+  },
+  {
+   "title": "Oxford English-Setswana School Dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://clarkesbooks.co.za/products/english-setswana-school-dictionary-setswana-seesimane-thanodi-ya-sekolo",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "tsl",
+ "name": "Ts’ün-Lao",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:00:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsʻün-Lao language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ts%CA%BB%C3%BCn-Lao_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsun-Lao in Vietnam (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15599",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: tsl",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tsl",
+   "found_in_search": true
+  }
+ ]
+}
