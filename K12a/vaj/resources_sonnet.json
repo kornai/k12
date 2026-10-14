@@ -1,0 +1,31 @@
+{
+ "iso": "vaj",
+ "name": "Northwestern !Kung",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:51:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ekoka !Kung (Wikipedia; related variety, ISO knw)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ekoka_%C7%83Kung",
+   "found_in_search": true
+  },
+  {
+   "title": "!Kung languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/%C7%83Kung_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsammalex language page for !Xun (knw wordlist)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://tsammalex.clld.org/languages/knw",
+   "found_in_search": true
+  }
+ ]
+}

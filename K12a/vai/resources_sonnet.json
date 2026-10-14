@@ -1,0 +1,38 @@
+{
+ "iso": "vai",
+ "name": "Vai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:51:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Vai syllabary (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vai_syllabary",
+   "found_in_search": true
+  },
+  {
+   "title": "Vai (Unicode block)",
+   "type": "software",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vai_(Unicode_block)",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal chart for Vai",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2005/05053r-vai-chart.pdf",
+   "found_in_search": true
+  }
+ ]
+}
