@@ -1,0 +1,45 @@
+{
+ "iso": "ttn",
+ "name": "Towei",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:12:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Towei language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Towei_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pauwasi languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pauwasi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Towei word list entry",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TOWE",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Towei",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1487?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: ttn (no recordings listed)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/ttn",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "ttq",
+ "name": "Tawallammat Tamajaq",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:12:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tawallammat Tamajaq (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tawallammattamajaq.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tawellemet language (Wikipedia, ISO 639:ttq)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:ttq",
+   "found_in_search": true
+  },
+  {
+   "title": "Towards an Electronic Dictionary of Tamajaq Language in Niger",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://aflat.org/node/316",
+   "found_in_search": true
+  },
+  {
+   "title": "Enguehard and Modi 2009 (ACL Anthology PDF)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://preview.aclanthology.org/moar-dois/W09-0712.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: ttq scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00i-Scripture_Index.php?iso=ttq",
+   "found_in_search": true
+  },
+  {
+   "title": "Words of Life: Tamajeq East Tawallemet audio",
+   "type": "audio",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m025853-words-of-life-ttq-tamajeq-east-tawallemet-audio-bible/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tamajeq (Tamastrait)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/1793",
+   "found_in_search": true
+  }
+ ]
+}
