@@ -1,0 +1,45 @@
+{
+ "iso": "uby",
+ "name": "Ubykh",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:41:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "An Ubykh Sampler (John Colarusso)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://aheku.net/f1jok/files/4054/1-anubykhsampler.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ubykh grammar (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ubykh_grammar",
+   "found_in_search": true
+  },
+  {
+   "title": "Dumezil and Charachidze's work on Ubykh (Progressive Geographies)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://progressivegeographies.com/2023/04/28/indo-european-thought-in-twentieth-century-france-update-11-dumezil-and-charachidzes-work-on-ubykh-levi-strauss-and-his-archive-eliades-correspondence-koyr",
+   "found_in_search": true
+  },
+  {
+   "title": "In Memoriam Georges Charachidze (Abkhaz World)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://abkhazworld.com/aw/abkhazians/language/567-in-memoriam-georges-charachidze",
+   "found_in_search": true
+  },
+  {
+   "title": "Ubykh (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/ubykh.htm",
+   "found_in_search": true
+  }
+ ]
+}

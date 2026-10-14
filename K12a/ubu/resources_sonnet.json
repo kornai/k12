@@ -1,0 +1,73 @@
+{
+ "iso": "ubu",
+ "name": "Umbu-Ungu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:41:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Umbu-Ungu (June Head, 2011, SIL manuscript), Glottolog reference",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/308940",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Umbu-Ungu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/umbu1258",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems: mBo-Ungu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Bo-Ung.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "KITLV thesaurus: Umbu-Ungu language",
+   "type": "other",
+   "language": "English",
+   "url": "https://thesaurus-kitlv.library.leiden.edu/en/00006672.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Pulu Yemonga Ungu Kondemo (New Testament, No Penge) on eBible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/study/content/texts/ubu-nopenge/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Pulu Yemonga Ungu Kondemo (New Testament, No Penge) on cyber.bible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://cyber.bible/study/content/texts/ubu-nopenge/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Pulu Yemonga Ungu Kondemo (New Testament, Andelale) on eBible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/study/content/texts/ubu-andelale/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Pulu Yemonga Ungu Kondemo (New Testament, Andelale) on cyber.bible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://cyber.bible/study/content/texts/ubu-andelale/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC: Umbu-Ungu (Andelale) wordlist recording",
+   "type": "audio",
+   "language": "native",
+   "url": "https://admin-catalog.paradisec.org.au/collections/OCSEAN2/items/UBU_20240802",
+   "found_in_search": true
+  }
+ ]
+}

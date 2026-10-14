@@ -1,0 +1,52 @@
+{
+ "iso": "ude",
+ "name": "Udihe",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:41:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Udege alphabets (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Udege_alphabets",
+   "found_in_search": true
+  },
+  {
+   "title": "The Udeghe Language (Institute of Linguistics, RAS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingsib.iea.ras.ru/en/languages/udeghe.shtml",
+   "found_in_search": true
+  },
+  {
+   "title": "Udihe bibliography (Surrey Siberian Languages)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://siberianlanguages.surrey.ac.uk/resource/udihe-bibliography/",
+   "found_in_search": true
+  },
+  {
+   "title": "Atlas of Languages of the Peoples of Russia: Udege",
+   "type": "academic",
+   "language": "English",
+   "url": "https://atlaskmns.ru/page/en/lang_udegeicy_all.html",
+   "found_in_search": true
+  },
+  {
+   "title": "The Red Book of the Peoples of the Russian Empire: Udeghes",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.eki.ee/books/redbook/udeghes.shtml",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Udihe",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3021",
+   "found_in_search": true
+  }
+ ]
+}
