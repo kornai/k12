@@ -1,0 +1,35 @@
+You will research 4 languages (tmd, tme, tmf, tmg), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE tmd ===
+Please help me gather resources for the Haruai language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tmd; Glottocode: haru1245; family: Piawi; macro-area: Papunesia; approx. speakers: about 2,000. Reference description: Haruai is a stable indigenous language of Papua New Guinea. It belongs to the Piawi language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tme ===
+Please help me gather resources for the Tremembé language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tme; Glottocode: trem1235; family: Unattested; macro-area: South America. Reference description: Tremembé is a dormant language of Brazil. It is an unclassified language. The language is no longer used as a first language by any remaining members of the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tmf ===
+Please help me gather resources for the Toba-Maskoy language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tmf; Glottocode: toba1268; family: Lengua-Mascoy; macro-area: South America; approx. speakers: about 1,700. Reference description: Toba-Maskoy is an endangered indigenous language of Paraguay. It belongs to the Mascoyan language family. Direct evidence is lacking, but the language is thought to be used as a first language by a decreasing number of young people. It is not known to be taught in schools.
+
+=== LANGUAGE tmg ===
+Please help me gather resources for the Ternateño language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tmg; Glottocode: tern1248; family: Indo-European; macro-area: Papunesia. Reference description: Ternateño is an extinct language of Indonesia. It is a Portuguese-based creole.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

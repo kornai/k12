@@ -1,0 +1,45 @@
+{
+ "iso": "tmf",
+ "name": "Toba-Maskoy",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:58:40Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Toba-Maskoy language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Toba-Maskoy_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mascoian languages (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.com/wiki/Mascoyan",
+   "found_in_search": true
+  },
+  {
+   "title": "Toba-Maskoy numerals (Chan numerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Toba-Maskoy.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Sínteses article (Unicamp), content unverified",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.iel.unicamp.br/index.php/sinteses/article/view/1234/918",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Toba-Maskoy",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2141?hl=fr",
+   "found_in_search": true
+  }
+ ]
+}

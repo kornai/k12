@@ -1,0 +1,38 @@
+{
+ "iso": "tmg",
+ "name": "Ternateño",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:58:40Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Portugis (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Portugis",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Ternateño (Portuguese Ternatenyo)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/PortugueseTernatenyo",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Ternate Chabacano (related Philippine creole)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/ChavacanoTernate",
+   "found_in_search": true
+  },
+  {
+   "title": "APICS survey chapter: Ternate Chabacano (related Philippine creole)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://apics-online.info/surveys/44",
+   "found_in_search": true
+  }
+ ]
+}
