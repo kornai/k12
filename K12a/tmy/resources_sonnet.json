@@ -1,0 +1,45 @@
+{
+ "iso": "tmy",
+ "name": "Tami",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:07:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tami language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tami_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Vocabulary of Tami language by Bamler in German and concise grammar in Sio (ANU Archives)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://archivescollection.anu.edu.au/index.php/vocabulary-of-tami-language-by-bamler-in-german-and-concise-grammar-in-sio",
+   "found_in_search": true
+  },
+  {
+   "title": "Tami numerals (Chan numerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tami.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tami in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15233/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Tami alphabet and sample text (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tami.htm",
+   "found_in_search": true
+  }
+ ]
+}

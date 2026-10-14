@@ -1,0 +1,38 @@
+{
+ "iso": "tnb",
+ "name": "Tunebo, Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:07:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario bilingue con una gramatica Uw Cuwa (Tunebo), Headland 1997 (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/tunebo/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Ministerio de Cultura de Colombia, U'wa (mentions bilingual dictionary and introductory course)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.mincultura.gov.co:443/areas/poblaciones/noticias/Documents/U%C2%B4wa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Rochereau 1926, 1927, La lengua tuneba y sus dialectos (Glottolog reference)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/12914",
+   "found_in_search": true
+  },
+  {
+   "title": "Uwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uwa_language",
+   "found_in_search": true
+  }
+ ]
+}
