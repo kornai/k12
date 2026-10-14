@@ -1,0 +1,38 @@
+{
+ "iso": "tic",
+ "name": "Tira",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:18:58Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tiro language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tiro_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nuba Mountain Language Studies (includes Stevenson, Tira and Otoro: Two Kordofanian Grammars)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://koeppe.de/titel_nuba-mountain-language-studies",
+   "found_in_search": true
+  },
+  {
+   "title": "Nuba Mountain Language Studies (print listing)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_print_nuba-mountain-language-studies",
+   "found_in_search": true
+  },
+  {
+   "title": "Tira in Sudan (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15499",
+   "found_in_search": true
+  }
+ ]
+}

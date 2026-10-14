@@ -1,0 +1,38 @@
+{
+ "iso": "tig",
+ "name": "Tigré",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:18:58Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Literacy Use and Instruction in Multilingual Eritrea (Leeds)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://lucas.leeds.ac.uk/keyword/literacy/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tigre (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/4603",
+   "found_in_search": true
+  },
+  {
+   "title": "Tigre language project report (RITELL, Rhode Island College)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ritell.org/Resources/Documents/language%20project/Tigre.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tigre: a language betrayed from within (Upplitt magasin)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.upplittmagasin.se/artikel/tigre---a-language-betrayed-from-within",
+   "found_in_search": true
+  }
+ ]
+}
