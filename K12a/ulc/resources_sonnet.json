@@ -1,0 +1,59 @@
+{
+ "iso": "ulc",
+ "name": "Ulch",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:57:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Ulchi language (Languages of Siberia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingsib.iea.ras.ru/en/languages/ulch.shtml",
+   "found_in_search": true
+  },
+  {
+   "title": "Ulchi language atlas page",
+   "type": "other",
+   "language": "English",
+   "url": "https://atlaskmns.ru/page/en/lang_ulchi_all.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Gorbunova 2022, principles for an Ulch-Russian dictionary",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.philology.nsc.ru/journals/kis/pdf/CS_2022_2/08.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages and Folklore of Indigenous Peoples of Siberia, article 540",
+   "type": "academic",
+   "language": "other",
+   "url": "https://philology.nsc.ru/journals/ykns_en/article.php?id=540",
+   "found_in_search": true
+  },
+  {
+   "title": "Institute of Philology SB RAS, article 696",
+   "type": "academic",
+   "language": "other",
+   "url": "https://philology.nsc.ru/journals/kis_en/article.php?id=696",
+   "found_in_search": true
+  },
+  {
+   "title": "The Nanai Language (related language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingsib.iea.ras.ru/en/languages/nanai.shtml",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Ulch",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Ulch",
+   "found_in_search": true
+  }
+ ]
+}

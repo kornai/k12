@@ -1,0 +1,59 @@
+{
+ "iso": "uli",
+ "name": "Ulithian",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:57:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Habele Ulithian-English dictionary announcement (College of Micronesia-FSM)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.comfsm.fm/news/releases/habele4.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Ulithian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Ulithian",
+   "found_in_search": true
+  },
+  {
+   "title": "Pacific Worlds: Ulithi language and pronunciation",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.pacificworlds.com/yap/land/lang4.cfm",
+   "found_in_search": true
+  },
+  {
+   "title": "Pacific Worlds: Ulithi language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.pacificworlds.com/yap/stories/lang5.cfm",
+   "found_in_search": true
+  },
+  {
+   "title": "Pacific Worlds: Ulithi language (sea)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.pacificworlds.com/yap/sea/lang3.cfm",
+   "found_in_search": true
+  },
+  {
+   "title": "Pacific Worlds: Ulithi language (arrival)",
+   "type": "other",
+   "language": "English",
+   "url": "https://pacificworlds.com/yap/arrival/lang1.cfm",
+   "found_in_search": true
+  },
+  {
+   "title": "Улитийский язык (Ruwiki)",
+   "type": "other",
+   "language": "other",
+   "url": "https://ru.ruwiki.ru/wiki/%D0%A3%D0%BB%D0%B8%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA",
+   "found_in_search": true
+  }
+ ]
+}

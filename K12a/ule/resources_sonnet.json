@@ -1,0 +1,38 @@
+{
+ "iso": "ule",
+ "name": "Lule",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:57:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lule language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lule_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonocoté language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tonocot%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Drafts by J. Pedro Viegas Barros",
+   "type": "academic",
+   "language": "other",
+   "url": "https://uba.academia.edu/PedroViegasBarros",
+   "found_in_search": true
+  },
+  {
+   "title": "LIAMES article (Unicamp) on Lule/Machoni",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/download/1400/1390/1498",
+   "found_in_search": true
+  }
+ ]
+}
