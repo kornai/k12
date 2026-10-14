@@ -1,0 +1,45 @@
+{
+ "iso": "tsp",
+ "name": "Toussian, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:02:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tusya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tusya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Preliminary Account of the Northern Toussian Balafon Surrogate Language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2021.652740/pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Toussian numerals (MPI-EVA channumerals)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Toussian-Northern.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Toussian in Burkina Faso (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15573/UV",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Toussian (Wikitongues), related variety",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/wib/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "tsq",
+ "name": "Thai Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:02:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Thai Sign Language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thai_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Thai Sign Language Digital Dictionary, preface (Kasetsart University)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://pirun.ku.ac.th/~fhumalt/THSL/new_ThSL%20Digital%20Dict_23%20%20May%202007/Eng/preface.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "THSL dictionary preface (Kasetsart University)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://pirun.ku.ac.th/~fhumalt/THSL/THSL/html/nav_en/THSL_pref_e.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wild sign diet: online sharing dictionary for hearing impaired (KMUTT)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://kirim.kmutt.ac.th/converis/portal/detail/Publication/600529122?lang=en_GB",
+   "found_in_search": true
+  },
+  {
+   "title": "Free sign language courses list (SSRU Library)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://library.ssru.ac.th/news/view/s23126701",
+   "found_in_search": true
+  }
+ ]
+}
