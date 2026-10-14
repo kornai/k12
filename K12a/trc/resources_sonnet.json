@@ -1,0 +1,38 @@
+{
+ "iso": "trc",
+ "name": "Copala Triqui",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:44:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Copala Triqui - Spanish - English Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/copalatriqui/?p=146817",
+   "found_in_search": true
+  },
+  {
+   "title": "The Copala Triqui language and its relationships (Webonary overview)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.webonary.org/copalatriqui/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Copala Triqui - English - Spanish Learner's Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/copalatriqui/gac987ea9-e180-470c-a541-758bc6ec5a16",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary as entry to literacy and language documentation: A Copala Triqui case study",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/988ecc4b-6c3b-4e78-8de9-8c7fa6dbbb3a",
+   "found_in_search": true
+  }
+ ]
+}
