@@ -1,0 +1,45 @@
+{
+ "iso": "tba",
+ "name": "Aikanã",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:21:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aikanã language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aikan%C3%A3_language",
+   "found_in_search": true
+  },
+  {
+   "title": "LIAMES article on Aikanã body-part terms (cites Silva 2012 root dictionary)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8670923",
+   "found_in_search": true
+  },
+  {
+   "title": "Study of Aikanã oral vowels, Linguagem & Ensino (UFPel)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufpel.edu.br/index.php/rle/article/download/18288/12004",
+   "found_in_search": true
+  },
+  {
+   "title": "Aikanã, Povos Indígenas no Brasil (ISA)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://pib.socioambiental.org/en/povo/aikana",
+   "found_in_search": true
+  },
+  {
+   "title": "Southeastern Rondônia (DoBeS, MPI)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=2985",
+   "found_in_search": true
+  }
+ ]
+}

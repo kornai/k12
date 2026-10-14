@@ -1,0 +1,45 @@
+{
+ "iso": "tbb",
+ "name": "Tapeba",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:21:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Article on Tapeba differentiated schooling (UECE, CECiT)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.uece.br/index.php/CECiT/article/download/4734/8612/39493",
+   "found_in_search": true
+  },
+  {
+   "title": "UFC TCC (2023) on indigenous schooling, Tapeba",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufc.br/bitstream/riufc/75430/1/2023_tcc_flsousa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "UFC book chapter (2016) on Tapeba education",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufc.br/ri/bitstream/riufc/34491/1/2016_capliv_mfbfoliveiramhdieb.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Research, Society and Development article (content unverified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://rsdjournal.org/index.php/rsd/article/download/24346/21447",
+   "found_in_search": true
+  },
+  {
+   "title": "Em 38 anos de luta por território, indígenas Tapeba ainda não conseguiram demarcação em Caucaia (Diário do Nordeste)",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://diariodonordeste.verdesmares.com.br/ceara/em-38-anos-de-luta-por-territorio-indigenas-tapeba-ainda-nao-conseguiram-demarcacao-em-caucaia-1.3340572",
+   "found_in_search": true
+  }
+ ]
+}
