@@ -1,0 +1,38 @@
+{
+ "iso": "tcx",
+ "name": "Toda",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:37:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of the Toda Language (S. Sakthivel, Annamalai University, 1977)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0018991_Toda_Languag.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "OpenEdition (IFP) study citing Emeneau's Toda Grammar and Texts and Toda Songs",
+   "type": "academic",
+   "language": "other",
+   "url": "https://books.openedition.org/ifp/7716",
+   "found_in_search": true
+  },
+  {
+   "title": "A Bibliography for the Study of Nilagiri Hill Tribes",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0019063_A_Bibliography_for_the_study_of_nilagiri_hill_tribes.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Toda language (ISO 639:tcx)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tcx",
+   "found_in_search": true
+  }
+ ]
+}

@@ -67,3 +67,7 @@ tcp	Chin, Tawr	2026-10-14T07:35:33Z	done	4	tcp+tcq+tcs+tct
 tcq	Kaiy	2026-10-14T07:35:33Z	done	5	tcp+tcq+tcs+tct
 tcs	Torres Strait Creole	2026-10-14T07:35:33Z	done	6	tcp+tcq+tcs+tct
 tct	T’en	2026-10-14T07:35:33Z	done	4	tcp+tcq+tcs+tct
+tcu	Tarahumara, Southeastern	2026-10-14T07:37:21Z	done	7	tcu+tcw+tcx+tcy
+tcw	Tecpatlán Totonac	2026-10-14T07:37:21Z	done	6	tcu+tcw+tcx+tcy
+tcx	Toda	2026-10-14T07:37:21Z	done	4	tcu+tcw+tcx+tcy
+tcy	Tulu	2026-10-14T07:37:21Z	done	6	tcu+tcw+tcx+tcy
