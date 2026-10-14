@@ -1,0 +1,45 @@
+{
+ "iso": "tya",
+ "name": "Tauya",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:50:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Tauya (MacDonald thesis, University of Manitoba)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mspace.lib.umanitoba.ca/items/8283d204-6b0b-4cb6-9339-153296e37d66/full",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Tauya (De Gruyter Mouton, catalogue record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.oeaw.ac.at/resources/Record/9783110846027?lng=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Whitehead 1993 review of A Grammar of Tauya (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/52304",
+   "found_in_search": true
+  },
+  {
+   "title": "Tauya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://Www.Wikipedia.org/wiki/Tauya",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Tauya",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_tau",
+   "found_in_search": true
+  }
+ ]
+}

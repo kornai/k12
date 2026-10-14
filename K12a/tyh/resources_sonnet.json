@@ -1,0 +1,52 @@
+{
+ "iso": "tyh",
+ "name": "O’du",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:50:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "O'du language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/O%CA%BCdu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "O Du people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/O_Du_people",
+   "found_in_search": true
+  },
+  {
+   "title": "O'du numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/O'du.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The Ơ Đu people in Vietnam (SOAS)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://glocal.soas.ac.uk/o-du-community/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: O-Du in Vietnam",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/14118/VM",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: O-Du in Laos",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/14118/LA",
+   "found_in_search": true
+  }
+ ]
+}
