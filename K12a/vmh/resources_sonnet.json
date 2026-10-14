@@ -1,0 +1,31 @@
+{
+ "iso": "vmh",
+ "name": "Maraghei",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:06:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Maraghei dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Maraghei_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Maraghei (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Maraghei",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Maraghei endangered language entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Maraghei",
+   "found_in_search": true
+  }
+ ]
+}

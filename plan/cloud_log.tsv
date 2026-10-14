@@ -737,3 +737,7 @@ vmb	Barbaram	2026-10-14T19:06:01Z	done	3	vmb+vmc+vmd+vme
 vmc	Mixtec, Juxtlahuaca	2026-10-14T19:06:01Z	done	5	vmb+vmc+vmd+vme
 vmd	Koraga, Mudu	2026-10-14T19:06:01Z	done	5	vmb+vmc+vmd+vme
 vme	Masela, East	2026-10-14T19:06:01Z	done	4	vmb+vmc+vmd+vme
+vmf	Eastern Franconian	2026-10-14T19:06:49Z	done	6	vmf+vmg+vmh+vmi
+vmg	Vinitiri	2026-10-14T19:06:49Z	done	2	vmf+vmg+vmh+vmi
+vmh	Maraghei	2026-10-14T19:06:49Z	done	3	vmf+vmg+vmh+vmi
+vmi	Miwa	2026-10-14T19:06:49Z	done	5	vmf+vmg+vmh+vmi

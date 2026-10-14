@@ -1,0 +1,45 @@
+{
+ "iso": "vmi",
+ "name": "Miwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:06:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Miwa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/miwa1242",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: Miwa (K44)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/K44",
+   "found_in_search": true
+  },
+  {
+   "title": "Worrorran languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Worrorran_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Wunambal language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wunambal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Clendon, Worrorra (University of Adelaide Press), related language",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://unglue.it/work/198224/",
+   "found_in_search": true
+  }
+ ]
+}

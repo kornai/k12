@@ -1,0 +1,52 @@
+{
+ "iso": "vmf",
+ "name": "Eastern Franconian",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:06:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "East Franconian German (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/East_Franconian_German",
+   "found_in_search": true
+  },
+  {
+   "title": "Klepsch: Fränkisches Wörterbuch project (BAdW Akademie Aktuell)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://badw.de/fileadmin/pub/akademieAktuell/2007/23/03_Klepsch.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Eastern Franconian dictionaries",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.lexilogos.com/english/franconian_east_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Würzburg dialect dictionary (Deutsche Digitale Bibliothek)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.deutsche-digitale-bibliothek.de/item/3QIFN2W6LSR22MOUQ4PTKBESNDA6I4UB",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Rothenburg dialect dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://journals.wlb-stuttgart.de/index.php/wfr/article/download/11450/11320/21680",
+   "found_in_search": true
+  },
+  {
+   "title": "Gedichte in fränkischer Mundart (Deutsche Digitale Bibliothek)",
+   "type": "other",
+   "language": "native",
+   "url": "https://www.deutsche-digitale-bibliothek.de/item/2XQQO3OHR66RSAX6JWQLMFWSZ3YUWY3S",
+   "found_in_search": true
+  }
+ ]
+}
