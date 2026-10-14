@@ -1,0 +1,38 @@
+{
+ "iso": "tgw",
+ "name": "Sénoufo, Tagwana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:06:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tagwana-Djimini languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tagwana%E2%80%93Djimini_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Studies in African Linguistics (Sep 2021), Tagbana article listing",
+   "type": "academic",
+   "language": "English",
+   "url": "https://doaj.org/article/6bff25ec8de7409f9dfc1354a5068995",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagwana Senoufo in Cote d'Ivoire (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15181/IV",
+   "found_in_search": true
+  },
+  {
+   "title": "Senoufo, Tagwana: Fourgoula (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/16534",
+   "found_in_search": true
+  }
+ ]
+}

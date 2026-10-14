@@ -1,0 +1,52 @@
+{
+ "iso": "tgu",
+ "name": "Tanggu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:06:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tanggu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tanggu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ataitan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ataitan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanggu, New Guinea World (University of Zurich)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/keram-and-ramu-rivers/ramu-river/guam-and-moam-rivers/moam-river/igom-tanggu/tanggu",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanggu numerals (MPI-EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tanggu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tangu in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15254",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanggu (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10653",
+   "found_in_search": true
+  }
+ ]
+}
