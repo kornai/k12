@@ -1,0 +1,52 @@
+{
+ "iso": "uya",
+ "name": "Deko-Dusanga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:28:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uyanga language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uyanga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Decker and Abraham 2022 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/656699",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project bibliography for Doko-Uyanga",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3403/bibliography?hl=pt-br",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Doko-Uyanga (uya)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=uya",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Doko-Uyanga, Basanga in Nigeria",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11592",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Doko-Uyanga language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/uya",
+   "found_in_search": true
+  }
+ ]
+}

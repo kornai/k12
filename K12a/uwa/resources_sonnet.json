@@ -1,0 +1,52 @@
+{
+ "iso": "uwa",
+ "name": "Kuku-Uwanh",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:28:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Preservation projects in Queensland (2020), includes Aurukun language program covering Kugu",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.qld.gov.au/firstnations/cultural-awareness-heritage-arts/culture-arts/international-decade-indigenous-languages/preservation-projects-queensland/2020",
+   "found_in_search": true
+  },
+  {
+   "title": "Kugu Nganhcara language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kugu_Nganhcara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Kugu-Nganhcara / Kuku-Uwanh",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/92026",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Kuku-Uwanh (kuku1280)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/kuku1280",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland Aboriginal and Torres Strait Islander languages word lists",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.data.qld.gov.au/dataset/slq-aboriginal-languages-word-lists",
+   "found_in_search": true
+  },
+  {
+   "title": "Pama Language Centre: Wik-Alken current language activities",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.pamacentre.org.au/wik-alken-current-language-activities/",
+   "found_in_search": true
+  }
+ ]
+}

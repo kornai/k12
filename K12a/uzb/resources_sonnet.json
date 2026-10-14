@@ -1,0 +1,45 @@
+{
+ "iso": "uzb",
+ "name": "uzb",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:28:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uzbek: An Elementary Textbook (Georgetown University Press front matter)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://press.georgetown.edu/files/materials/9781589017061_Frontmatter.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Uzbek: an elementary textbook / O'zbek tili: birinchi bosqich (Cambridge Language Centre)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langu/data/uz_108.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Uzbek language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uzbek_language",
+   "found_in_search": true
+  },
+  {
+   "title": "CEERES Uzbek Language Resources (University of Chicago)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://ceeres.uchicago.edu/uzbek-language-resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot Uzbek books",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/books/language/uzbek.htm",
+   "found_in_search": true
+  }
+ ]
+}
