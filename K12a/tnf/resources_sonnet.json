@@ -1,0 +1,24 @@
+{
+ "iso": "tnf",
+ "name": "Tangshewi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:09:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Bookkeeping: Tangshewi (tang1374)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tang1374",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: tnf retired in ISO 639-3, merged with Dari [prs]",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tnf",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "tng",
+ "name": "Tobanga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:09:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tobanga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tobanga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobanga language (ISO 639 tng)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tng",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tobanga in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15520",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobanga New Testament (YouVersion)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/versions/3711",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobanga New Testament 1978 (Bibliatodo)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bibliatodo.com/ht/amp/bib-la/vesyon/tng1978",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Scripture resources in Tobanga",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tng",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tobanga",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/tng",
+   "found_in_search": true
+  }
+ ]
+}
