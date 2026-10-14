@@ -1,0 +1,38 @@
+{
+ "iso": "tct",
+ "name": "T’en",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:35:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: T'en (tenn1245)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tenn1245",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP T'en word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TEN",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: T'en language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Ten",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page tct",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tct",
+   "found_in_search": true
+  }
+ ]
+}

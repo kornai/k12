@@ -1,0 +1,45 @@
+{
+ "iso": "tcq",
+ "name": "Kaiy",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:35:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kaiy language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaiy_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Kaiy word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KAIY",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: tcq",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tcq",
+   "found_in_search": true
+  },
+  {
+   "title": "Taori-Kei, Kaiy in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15261",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: tcq (no recordings listed)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tcq",
+   "found_in_search": true
+  }
+ ]
+}

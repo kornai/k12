@@ -1,0 +1,38 @@
+{
+ "iso": "tcp",
+ "name": "Chin, Tawr",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:35:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Thor language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thor_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tawr in Myanmar (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15305",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page tcp",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tcp",
+   "found_in_search": true
+  },
+  {
+   "title": "MYANMAR Tawr (Asia Harvest profile)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Tawr.pdf",
+   "found_in_search": true
+  }
+ ]
+}

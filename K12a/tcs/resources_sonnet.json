@@ -1,0 +1,52 @@
+{
+ "iso": "tcs",
+ "name": "Torres Strait Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:35:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kali Ahmat profile (Tagai State College, Yumplatok and English)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.stories.qct.edu.au/post/kali-ahmat",
+   "found_in_search": true
+  },
+  {
+   "title": "Shnukal report on Torres Strait Creole vs Standard Australian English (AJIE)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ajie.atsis.uq.edu.au/ajie/article/download/359/299/918",
+   "found_in_search": true
+  },
+  {
+   "title": "AJIE article (second, content unconfirmed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ajie.atsis.uq.edu.au/ajie/article/download/376/316/952",
+   "found_in_search": true
+  },
+  {
+   "title": "Torres Strait Island languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Torres_Strait_Island_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Kriol, Yumplatok and Aboriginal English: Australia's contact languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://humanities.org.au/power-of-the-humanities/kriol-yumplatok-and-aboriginal-english-australias-contact-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "JCU Research Online record 32593",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/32593/",
+   "found_in_search": true
+  }
+ ]
+}
