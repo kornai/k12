@@ -1,0 +1,45 @@
+{
+ "iso": "tlo",
+ "name": "Talodi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:51:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Talodi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Talodi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Talodi-Heiban languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Talodi%E2%80%93Heiban_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University scholarly publication (Talodi-related; contents not verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%253A2716494/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University scholarly publication (Talodi-related; contents not verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2728068/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Talodi in Sudan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/22479/SU",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "tlq",
+ "name": "Tai Loi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:51:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tai Loi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Loi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Loi numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tai-Loi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Samtao numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Samtao.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tai Loi",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1245",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Hawaii eVols paper on Tai Loi (contents not verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://evols.library.manoa.hawaii.edu/server/api/core/bitstreams/bf7256bd-c7cf-4a1d-bd93-b71253c4f8f7/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tai Loi in Myanmar",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/16146/BM",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Tai Loi",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tlq/",
+   "found_in_search": true
+  }
+ ]
+}

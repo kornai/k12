@@ -1,0 +1,38 @@
+{
+ "iso": "tln",
+ "name": "Talondo’",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:51:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Talondo' language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Talondo%CA%BC_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Talondo - Verbix Endangered Languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Talondo",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Talondo'",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2788",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Talondo language",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tln",
+   "found_in_search": true
+  }
+ ]
+}
