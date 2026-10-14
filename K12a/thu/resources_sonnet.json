@@ -1,0 +1,31 @@
+{
+ "iso": "thu",
+ "name": "Thuri",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:15:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Thuri language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thuri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Thuri people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thuri_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Thuri",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/thu/",
+   "found_in_search": true
+  }
+ ]
+}

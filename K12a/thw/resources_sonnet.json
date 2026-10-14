@@ -1,0 +1,24 @@
+{
+ "iso": "thw",
+ "name": "Thudam",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:15:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Rosetta Project: Thudam (thw)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Thw",
+   "found_in_search": true
+  },
+  {
+   "title": "PanLex ISO 639-3 record",
+   "type": "other",
+   "language": "English",
+   "url": "https://app.panlex.org/panlinx/ex/2739046",
+   "found_in_search": true
+  }
+ ]
+}

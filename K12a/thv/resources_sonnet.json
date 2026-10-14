@@ -1,0 +1,45 @@
+{
+ "iso": "thv",
+ "name": "Tahaggart Tamahaq",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:15:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tamahaq dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/tamahaq/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamahaq language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tamahaq_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Tamahaq (thv)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=thv",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tamahaq, Tahaggart: Ghat",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/17129",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/94394",
+   "found_in_search": true
+  }
+ ]
+}
