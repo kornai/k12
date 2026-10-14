@@ -1,0 +1,45 @@
+{
+ "iso": "tni",
+ "name": "Tandia",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:11:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tandia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tandia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tandia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tand1253.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Tandia word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TANDIA",
+   "found_in_search": true
+  },
+  {
+   "title": "TransNewGuinea.org: Tandia",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/language/tandia",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix endangered languages: Tandia",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Tandia",
+   "found_in_search": true
+  }
+ ]
+}
