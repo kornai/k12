@@ -1,0 +1,59 @@
+{
+ "iso": "wca",
+ "name": "Yanomámi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:27:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ISA-hosted Portuguese-Yanomami dictionary (666 Portuguese verbs)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://acervo.socioambiental.org/sites/default/files/publications/yal00020.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Fargetti, Yanomami-Spanish illustrated dictionary (review record, UNESP repository)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://acervodigital.unesp.br/handle/11449/6410",
+   "found_in_search": true
+  },
+  {
+   "title": "Que lingua os yanomamis falam? (National Geographic Brasil; on Linguas Yanomami no Brasil)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.nationalgeographicbrasil.com/cultura/2023/05/que-lingua-os-yanomamis-falam",
+   "found_in_search": true
+  },
+  {
+   "title": "As linguas Yanomami em presente distopico (ISA)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://site-antigo.socioambiental.org/en/print/6890",
+   "found_in_search": true
+  },
+  {
+   "title": "Hutukara (document, University of Sao Paulo)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://ea.fflch.usp.br/sites/ea.fflch.usp.br/files/inline-files/Hutukara%20EN.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yanomam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yanom%C3%A1m_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yanomaman languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yanomaman_languages",
+   "found_in_search": true
+  }
+ ]
+}

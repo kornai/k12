@@ -1,0 +1,59 @@
+{
+ "iso": "wbw",
+ "name": "Woi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:27:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Wooi: An Austronesian language of Yapen Island, Western New Guinea (Sawaki, ANU thesis)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/3858e53a-82dd-498b-a7d0-e4684df9702b",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Wooi (full-text PDF)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/136851/1/Sawaki%20Thesis%202017.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Woi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Woi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wooi (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/wooi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wooi numerals (Max Planck EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Wooi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS project page for Wooi",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=1391",
+   "found_in_search": true
+  },
+  {
+   "title": "The documentation of Wooi (CELD)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://celd.phil-fak.uni-koeln.de/celd/the-documentation-of-wooi",
+   "found_in_search": true
+  }
+ ]
+}

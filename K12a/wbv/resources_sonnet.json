@@ -1,0 +1,45 @@
+{
+ "iso": "wbv",
+ "name": "Wajarri",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:27:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Official Launch of the Wadjarri Language Dictionary (YMAC)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.ymac.org.au/official-launch-of-the-wadjarri-language-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "YMAC tag page: Wajarri dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.ymac.org.au/tag/wajarri-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wajarri language (Wikipedia; cites Douglas 1981 and Marmion 1996 grammars)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wajarri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yamaji Language Centre (YMAC tag page)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.ymac.org.au/tag/yamaji-language-centre/",
+   "found_in_search": true
+  },
+  {
+   "title": "Irra Wangga (Geraldton) Language Program (YMAC tag page)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.ymac.org.au/tag/irra-wangga-geraldton-language-program/",
+   "found_in_search": true
+  }
+ ]
+}
