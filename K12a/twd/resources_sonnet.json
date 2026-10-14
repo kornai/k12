@@ -1,0 +1,52 @@
+{
+ "iso": "twd",
+ "name": "Twents",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:36:14Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zwart & Punte: de meerwaarde van streektaal voor spellingsonderwijs",
+   "type": "academic",
+   "language": "other",
+   "url": "https://schrijfakademie-2023.sites.uu.nl/wp-content/uploads/sites/951/2022/06/Willemijn-Zwart-Huub-Punte_de-meerwaarde-van-streektaal-voor-spellingsonderwijs.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wanink 1948, Twents-Achterhoeks Woordenboek benevens grammatica (Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/318705",
+   "found_in_search": true
+  },
+  {
+   "title": "Is Twents een taal?",
+   "type": "other",
+   "language": "other",
+   "url": "https://webwoordenboek.nl/kenniscentrum/is-twents-een-taal",
+   "found_in_search": true
+  },
+  {
+   "title": "De kleine Twents voor dummies (Peters and Scholtmeijer)",
+   "type": "grammar",
+   "language": "native",
+   "url": "https://www.hoeksteenboekhandel.nl/9789045357812/ellen-peters-harrie-scholtmeijer/de-kleine-twents-voor-dummies/",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Wanink's Twents-Achterhoeks Woordenboek, Taal en Tongval (DBNL)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dbnl.org/tekst/_taa014198301_01/_taa014198301_01_0170.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Doet 't Twents er nog toe? Lecture by Harry Nijhuis",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.utwente.nl/nl/ut-kring/gewis/activiteitenhistorie/2018/2018-02-20/",
+   "found_in_search": true
+  }
+ ]
+}

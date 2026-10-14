@@ -1,0 +1,38 @@
+{
+ "iso": "twc",
+ "name": "Teshenawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:36:14Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Teshenawa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Teshenawa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bade languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bade_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Bross 1997, history of extinct Auyo, Shira and Teshena languages (Glottolog record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/10548",
+   "found_in_search": true
+  },
+  {
+   "title": "Bross 1996, classification of Shiranci and Teshenanci (Glottolog record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/124081",
+   "found_in_search": true
+  }
+ ]
+}
