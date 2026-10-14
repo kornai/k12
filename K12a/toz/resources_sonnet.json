@@ -1,0 +1,38 @@
+{
+ "iso": "toz",
+ "name": "To",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:29:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "To language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/To_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: To (tooo1238)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tooo1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: To word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TO",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: To",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3517",
+   "found_in_search": true
+  }
+ ]
+}

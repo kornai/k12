@@ -1,0 +1,52 @@
+{
+ "iso": "tow",
+ "name": "Jemez",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:29:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Santa Fe New Mexican: Indigenous-language immersion schools aim to reverse cultural loss",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.santafenewmexican.com/news/local_news/indigenous-language-immersion-schools-aim-to-reverse-cultural-loss/article_cb68e890-f458-11ef-8072-e7099c694d6a.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Indigenous-language immersion schools aim to reverse cultural loss (Yahoo News)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.yahoo.com/news/indigenous-language-immersion-schools-aim-043500014.html",
+   "found_in_search": true
+  },
+  {
+   "title": "NAHM Webinar 3: Education Systems and Programs at Jemez Pueblo with Kevin Shendo",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.firstnations.org/wp-content/uploads/2024/12/NAHM-Webinar-3-Education-Systems-and-Programs-at-Jemez-Pueblo-with-Kevin-Shendo.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Albert B. Reagan Jemez vocabulary, NAA MS 1657 (Smithsonian)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://sirismm.si.edu/EADpdfs/NAA.MS1657.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Jemez language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Jemez_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Char-Koosta News: Jemez Pueblo strives to revitalize language, culture",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.charkoosta.com/news/jemez-pueblo-strives-to-revitalize-language-culture/article_0ce0fd5e-a8cd-11e9-8c34-932b8f4d412c.html",
+   "found_in_search": true
+  }
+ ]
+}
