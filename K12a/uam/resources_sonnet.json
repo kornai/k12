@@ -1,0 +1,31 @@
+{
+ "iso": "uam",
+ "name": "Uamué",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:37:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uamué language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uamu%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "List of unclassified languages of South America (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/List_of_unclassified_languages_of_South_America",
+   "found_in_search": true
+  },
+  {
+   "title": "Ethnologue: uam",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ethnologue.com/language/uam",
+   "found_in_search": true
+  }
+ ]
+}
