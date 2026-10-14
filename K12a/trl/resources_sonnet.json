@@ -1,0 +1,52 @@
+{
+ "iso": "trl",
+ "name": "Traveller Scottish",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:47:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gypsy Roma Traveller History Month 2022 Language Cards",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.gypsy-traveller.org/wp-content/uploads/2022/05/A_FFT_GRTHM_2022_Language-Cards_a4-1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Gypsy Roma Traveller History Month Language Cards (Telford copy)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.telford.gov.uk/download/downloads/id/21126/gypsy_roma_traveller_history_month_-_language_cards.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Multi-Layered Communication and Function in Scottish Traveller Cant (Traditiones, 2021)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ojs.zrc-sazu.si/traditiones/article/view/10534",
+   "found_in_search": true
+  },
+  {
+   "title": "Multi-Layered Communication and Function in Scottish Traveller Cant (full text)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ojs.zrc-sazu.si/traditiones/article/download/10534/9696/29588",
+   "found_in_search": true
+  },
+  {
+   "title": "Cant glossary on travellers.scot",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://travellers.scot/?p=91",
+   "found_in_search": true
+  },
+  {
+   "title": "Scottish Cant or Scots Romani (Gypsy Traveller)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.gypsy-traveller.org/scottish-cant-or-scots-romani/",
+   "found_in_search": true
+  }
+ ]
+}
