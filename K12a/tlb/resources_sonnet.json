@@ -1,0 +1,31 @@
+{
+ "iso": "tlb",
+ "name": "Tobelo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:45:23Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tobelo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tobelo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobelo writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tobelo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC field notes, North Halmahera",
+   "type": "audio",
+   "language": "English",
+   "url": "https://www.paradisec.org.au/fieldnotes/INHALM.htm",
+   "found_in_search": true
+  }
+ ]
+}
