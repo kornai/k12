@@ -1,0 +1,31 @@
+{
+ "iso": "tmj",
+ "name": "Samarokena",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:00:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Samarokena language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Samarokena_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwerbic languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwerbic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Samarkena, Tamaja in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14670",
+   "found_in_search": true
+  }
+ ]
+}

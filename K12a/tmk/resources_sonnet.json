@@ -1,0 +1,45 @@
+{
+ "iso": "tmk",
+ "name": "Northwestern Tamang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:00:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tamang as a Mother Tongue-Based Multilingual Education in Nepal: Prospects and Challenges",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.nepjol.info/index.php/mef/article/view/97701",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tamang",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tamang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/wtamang/overview/alphabet/",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Western_Tamang",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Tamang, Northwestern in Nepal",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Nepal/TamangNorthwestern.pdf",
+   "found_in_search": true
+  }
+ ]
+}
