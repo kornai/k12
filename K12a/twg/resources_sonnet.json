@@ -1,0 +1,38 @@
+{
+ "iso": "twg",
+ "name": "Tereweng",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:37:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tereweng language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tereweng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Alor-Pantar languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Alor%E2%80%93Pantar_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Blagar Tereweng word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/BLAGAR_TEREWENG",
+   "found_in_search": true
+  },
+  {
+   "title": "Tereweng in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15443",
+   "found_in_search": true
+  }
+ ]
+}

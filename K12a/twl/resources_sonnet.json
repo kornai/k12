@@ -1,0 +1,38 @@
+{
+ "iso": "twl",
+ "name": "Tawara",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:37:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tawara language page (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/twl",
+   "found_in_search": true
+  },
+  {
+   "title": "Tawara language (Joshua Project)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/twl",
+   "found_in_search": true
+  },
+  {
+   "title": "Tawara in Mozambique (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15302/MZ",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University publication listing Tawara as a Shona-Korekore variant",
+   "type": "academic",
+   "language": "other",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2938467/view",
+   "found_in_search": true
+  }
+ ]
+}

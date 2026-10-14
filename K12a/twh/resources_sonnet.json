@@ -1,0 +1,52 @@
+{
+ "iso": "twh",
+ "name": "Tai Dón",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:37:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tai Dón language (Cocoon/CRDO archive record and bibliography)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=twh",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tai Dón writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/taidon.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Dón language (Wikipedia, ISO 639 twh)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:twh",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tai Dam writing (related language)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/taidam.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Alphabets: Tai Dam script (related language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredalphabets.net/?p=420",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Dam in Laos (Joshua Project, related language)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/print/15187/LA",
+   "found_in_search": true
+  }
+ ]
+}
