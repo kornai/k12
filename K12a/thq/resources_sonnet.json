@@ -1,0 +1,31 @@
+{
+ "iso": "thq",
+ "name": "Mid-Eastern Tharu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:13:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Multilingual textbooks in a Kapilvastu school (Dangaura Tharu and Nepali), UCL Discovery",
+   "type": "academic",
+   "language": "English",
+   "url": "https://discovery.ucl.ac.uk/id/eprint/10169436/",
+   "found_in_search": true
+  },
+  {
+   "title": "Embracing teaching learning materials in Tharu Language (World Vision Nepal)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://www.wvi.org/stories/nepal/embracing-teaching-learning-materials-tharu-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dangaura Tharu thesis, Tribhuvan University",
+   "type": "academic",
+   "language": "English",
+   "url": "https://portal.tu.edu.np/downloads/Dangaura_Tharu_2023_09_20_20_23_06.pdf",
+   "found_in_search": true
+  }
+ ]
+}

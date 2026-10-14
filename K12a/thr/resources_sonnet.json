@@ -1,0 +1,59 @@
+{
+ "iso": "thr",
+ "name": "Rana Tharu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:13:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Embracing teaching learning materials in Tharu Language (World Vision Nepal)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.wvi.org/stories/nepal/embracing-teaching-learning-materials-tharu-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rana Tharu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Rana_Tharu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dhakal: Rana Tharu-Nepali-English Dictionary (LINGUIST List review)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://linguistlist.org/issues/26/4679/",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 26.650: Rana Tharu volume notice",
+   "type": "grammar",
+   "language": "native",
+   "url": "https://linguistlist.org/issues/26/650/",
+   "found_in_search": true
+  },
+  {
+   "title": "Notes on Rana Tharu grammar (Dhakal)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.academia.edu/43908543",
+   "found_in_search": true
+  },
+  {
+   "title": "Rana Tharu Verb Morphology (Bhatta 2018), Tribhuvan University",
+   "type": "academic",
+   "language": "English",
+   "url": "https://elibrary.tucl.edu.np/handle/123456789/21978",
+   "found_in_search": true
+  },
+  {
+   "title": "Rana Tharu people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Rana_Tharu_people",
+   "found_in_search": true
+  }
+ ]
+}

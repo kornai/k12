@@ -1,0 +1,52 @@
+{
+ "iso": "thp",
+ "name": "Thompson",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:13:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Thompson River Salish Dictionary (Thompson and Thompson 1996), UBC RelLex record",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Thompson_River_Salish_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Thompson River Salish Dictionary, UBC Arts Knowledge Base",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=3264",
+   "found_in_search": true
+  },
+  {
+   "title": "nłeʔkepmxcin FirstVoices (RelLex record)",
+   "type": "software",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/n%C5%82e%CA%94kepmxcin_FirstVoices",
+   "found_in_search": true
+  },
+  {
+   "title": "Interior Salish Language Resources (TOTABC)",
+   "type": "other",
+   "language": "other",
+   "url": "https://TOTABC.org/ind/resource/languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Thompson",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/85273",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Thompson / Nlaka'pamux",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/thompson.htm",
+   "found_in_search": true
+  }
+ ]
+}

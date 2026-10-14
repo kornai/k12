@@ -1,0 +1,52 @@
+{
+ "iso": "ths",
+ "name": "Thakali",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:13:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SEAMEO 2010 presentation on Nepal mother-tongue curriculum (Indresh Thakur)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.seameo.org/LanguageMDGConference2010/doc/presentations/day2/IndreshThakur-sn.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Turin research abstract mentioning a planned Thakali-Nepali dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.digitalhimalaya.com/projectteam/turin/abstracts/qcr.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Thakali language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thakali_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Thakali",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/thakali.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Who is Thakali? (Indigenous Voice)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://english.indigenousvoice.com/thakali",
+   "found_in_search": true
+  },
+  {
+   "title": "Turin: Mind Your Langs",
+   "type": "academic",
+   "language": "English",
+   "url": "https://markturin.sites.olt.ubc.ca/files/2018/07/Turin_Mind_Your_Langs.pdf",
+   "found_in_search": true
+  }
+ ]
+}
