@@ -1,0 +1,45 @@
+{
+ "iso": "vki",
+ "name": "Ija-Zuba",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:01:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Ija-Zuba (retired code, split into vkn and vkz)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ijaz1238",
+   "found_in_search": true
+  },
+  {
+   "title": "Koro Zuba language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Koro_Zuba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "South Plateau languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/South_Plateau_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Koro Zuba in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/20656",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Koro Ija",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/vki",
+   "found_in_search": true
+  }
+ ]
+}

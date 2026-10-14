@@ -1,0 +1,66 @@
+{
+ "iso": "vkl",
+ "name": "Kulisusu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:01:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Formation of Social Values through the Use of Kulisusu Language in North Buton Regency Elementary School Students",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ejurnal.warmadewa.ac.id/index.php/jret/article/view/8100",
+   "found_in_search": true
+  },
+  {
+   "title": "Kulisusu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kulisusu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Kulisusu",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/kulisusu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Kulisusu",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Kulisusu",
+   "found_in_search": true
+  },
+  {
+   "title": "Kulisusu Language Maintenance in Teenager Group on Ereke: Sociolinguistic Study",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ejurnal.warmadewa.ac.id/index.php/jret/article/view/323",
+   "found_in_search": true
+  },
+  {
+   "title": "Etnosia article (Universitas Hasanuddin)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journal.unhas.ac.id/index.php/etnosia/article/view/2576/pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Jurnal Ilmiah Universitas Dayan article",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.unidayan.ac.id/index.php/JIU/article/download/2260/369",
+   "found_in_search": true
+  },
+  {
+   "title": "Praying for Indonesia: Who are the Kulisusu?",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.prayingforindonesia.com/ethnic-groups/the-people-of-sulawesi/who-are-the-kulisusu/",
+   "found_in_search": true
+  }
+ ]
+}

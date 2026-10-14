@@ -1,0 +1,52 @@
+{
+ "iso": "vkj",
+ "name": "Kujarge",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:01:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kujargé language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kujarg%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kujarke people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kujarke_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kujarge",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/575?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Blazek: Kujarke and East Chadic (Folia Orientalia 52)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.pan.pl//Content/109618/PDF/FoliaOrientalia%2052-15%209%20Blazek.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "East Chadic B classification and description: progress report (JWAL 40.1)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journalofwestafricanlanguages.org/downloads/download/116-volume-40-number-1/601-east-chadic-b-classification-and-description-progress-report",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kujarge in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/11266",
+   "found_in_search": true
+  }
+ ]
+}

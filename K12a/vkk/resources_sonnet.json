@@ -1,0 +1,59 @@
+{
+ "iso": "vkk",
+ "name": "Kaur",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:01:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kaur language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaur_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikidata: Kaur",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikidata.org/wiki/Q3182322",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of multilingual practices in the Nasal speech community",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://researchdata.edu.au/documentation-multilingual-linguistic-speech-community/1467645",
+   "found_in_search": true
+  },
+  {
+   "title": "Belajar 100 kosakata bahasa Bengkulu sehari-hari dialek Kaur",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.goodnewsfromindonesia.id/2025/04/22/belajar-100-kosakata-bahasa-bengkulu-sehari-hari-dialek-kaur",
+   "found_in_search": true
+  },
+  {
+   "title": "Mengenal Suku Kaur di Bengkulu (detikSumbagsel)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.detik.com/sumbagsel/budaya/d-7167055/mengenal-suku-kaur-di-bengkulu-asal-usul-hingga-mata-pencaharian",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Kaur people profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Indonesia/Kaur.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Praying for Indonesia: Kaur",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.prayingforindonesia.com/?p=954",
+   "found_in_search": true
+  }
+ ]
+}
