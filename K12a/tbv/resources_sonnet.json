@@ -1,0 +1,38 @@
+{
+ "iso": "tbv",
+ "name": "Tobo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:28:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tobo-Kube language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tobo-Kube_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobo wordlist, Trans New Guinea database",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/language/tobo",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobo numerals (Chan numerals database)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tobo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobo in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15524",
+   "found_in_search": true
+  }
+ ]
+}
