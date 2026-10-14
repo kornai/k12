@@ -1,0 +1,38 @@
+{
+ "iso": "vkt",
+ "name": "Malay, Tenggarong Kutai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:03:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kutainese language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kutainese_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Study of address terms in Kutai Malay (Parole, Undip)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.undip.ac.id/index.php/parole/article/download/1575/1331",
+   "found_in_search": true
+  },
+  {
+   "title": "Phonological variation of Kutai Malay in Tenggarong, Kembang Janggut and Kotabangun (Loa journal)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ojs.badanbahasa.kemdikbud.go.id/jurnal/index.php/loa/article/download/1667/899",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Malay, Tenggarong Kutai",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/vkt",
+   "found_in_search": true
+  }
+ ]
+}
