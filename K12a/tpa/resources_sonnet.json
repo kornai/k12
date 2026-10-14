@@ -1,0 +1,38 @@
+{
+ "iso": "tpa",
+ "name": "Taupota",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:30:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Taupota language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taupota_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Taupota Gospel of Mark (eBible)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/details.php?id=tpa",
+   "found_in_search": true
+  },
+  {
+   "title": "Taupota, Maivara in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15291",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Taupota",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tpa",
+   "found_in_search": true
+  }
+ ]
+}

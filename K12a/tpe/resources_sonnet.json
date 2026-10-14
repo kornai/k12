@@ -1,0 +1,45 @@
+{
+ "iso": "tpe",
+ "name": "Tippera",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:30:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kokborok (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kokborok",
+   "found_in_search": true
+  },
+  {
+   "title": "Tripura government document on Kokborok in schools",
+   "type": "policy",
+   "language": "English",
+   "url": "https://ica.tripura.gov.in/sites/default/files/9923_22.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Govt committed to preserving minority languages: Tripura CM (NE Now)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://nenow.in/north-east-news/tripura/govt-committed-to-preserving-minority-languages-tripura-cm.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tripura board allows Kokborok in Roman script in examinations",
+   "type": "policy",
+   "language": "English",
+   "url": "https://compass.rauias.com/current-affairs/tripura-board-allows-kokborok-roman-script-examinations/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tripura LoP urges CM to allow students to write Kokborok paper in Bengali Roman script",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.theweek.in/wire-updates/national/2024/02/09/ces6-tr-kokborok-ld-debbarma.html",
+   "found_in_search": true
+  }
+ ]
+}
