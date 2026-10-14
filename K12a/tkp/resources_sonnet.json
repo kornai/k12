@@ -1,0 +1,45 @@
+{
+ "iso": "tkp",
+ "name": "Tikopia",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:39:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tikopia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tikopia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Firth: Tikopia-English Dictionary (catalogue record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ci.nii.ac.jp/ncid/BA04294009?l=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Firth draft dictionary manuscript, SOAS MS 380598",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://library.soas.ac.uk/Collection/MS_380598",
+   "found_in_search": true
+  },
+  {
+   "title": "Entries from Firth 1985 in Pollex-Online",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://pollex.eva.mpg.de/source/26/?page=22",
+   "found_in_search": true
+  },
+  {
+   "title": "Language resource listing for tkp (Huma-Num / CRDO)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=tkp",
+   "found_in_search": true
+  }
+ ]
+}

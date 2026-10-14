@@ -1,0 +1,52 @@
+{
+ "iso": "tkn",
+ "name": "Toku-No-Shima",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:39:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tokunoshima language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tokunoshima_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Study for Compilation of Tokunoshima Dialect Dictionary (KAKEN)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15320050/",
+   "found_in_search": true
+  },
+  {
+   "title": "Making paradigms of verbs and adjectives using a dialect corpus",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.um.si/index.php/slaviacentralis/en/article/view/653",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawaki, Nakajima, Fukushima: NWAVAP 2 presentation 2013",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www2.ninjal.ac.jp/past-events/nwavap02/SawakiNakajimaFukushima-NWAVAP2-2013.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Hosei University index: Grammar of the Tokunoshima Inokawa Dialect (Uchima) and Inokawa vocabulary (Nakamoto)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://www.en.hosei.ac.jp/LUC2HOSEI/cdata/luc2hosei_19504_jaen.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Repository record unii.repo.nii.ac.jp/records/216 (Japanese academic paper)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://unii.repo.nii.ac.jp/records/216",
+   "found_in_search": true
+  }
+ ]
+}
