@@ -1,0 +1,24 @@
+{
+ "iso": "thh",
+ "name": "Tarahumara, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:09:35Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Choguita Rarámuri (Caballero, Language Science Press; different Rarámuri variety, background only)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://langsci-press.org/catalog/book/324",
+   "found_in_search": true
+  },
+  {
+   "title": "Guide to the Choguita Rarámuri documentary collection (ScholarSpace; different variety, background only)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/24734",
+   "found_in_search": true
+  }
+ ]
+}

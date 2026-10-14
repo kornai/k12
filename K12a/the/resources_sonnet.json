@@ -1,0 +1,31 @@
+{
+ "iso": "the",
+ "name": "Central Tharu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:09:35Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Madhya-Purbiya Tharu speakers begin the first dictionary for their language (Webonary, 2014)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/2014/11/13/madhya-purbiya-tharu-speakers-begin-the-first-dictionary-for-their-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Language, education and knowledge-making (Cambridge; Dangaura Tharu textbooks, a different variety)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/books/abs/simultaneous-identities/language-education-and-knowledgemaking/489537F62DFD4A9BB5FEF7592C8C96C0",
+   "found_in_search": true
+  },
+  {
+   "title": "World Vision: Rana Tharu Books (mother-tongue education context, a different variety)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wvi.org/bs/node/122531",
+   "found_in_search": true
+  }
+ ]
+}
