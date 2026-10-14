@@ -1,0 +1,45 @@
+{
+ "iso": "ues",
+ "name": "Kioko",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:44:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kioko word list, Austronesian Basic Vocabulary Database",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=969",
+   "found_in_search": true
+  },
+  {
+   "title": "Kioko numerals, Max Planck Institute",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kioko.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kioko",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kiok1239.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Pancana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pancana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kioko-Kambowa in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12704",
+   "found_in_search": true
+  }
+ ]
+}
