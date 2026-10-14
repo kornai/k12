@@ -1,0 +1,38 @@
+{
+ "iso": "vmz",
+ "name": "Mazatlán Mazatec",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:11:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mazatlan Mazatec (vmz) HLT language database",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hlt.bme.hu/en/dld/language/1776",
+   "found_in_search": true
+  },
+  {
+   "title": "Mazatlan Mazatec (Wikipedia ISO 639 entry)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.com/wiki/ISO_639:vmz",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Mazatlan Mazatec",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=vmz",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mazatec, Mazatlan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vmz",
+   "found_in_search": true
+  }
+ ]
+}

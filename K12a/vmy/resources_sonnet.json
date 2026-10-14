@@ -1,0 +1,52 @@
+{
+ "iso": "vmy",
+ "name": "Ayautla Mazatec",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:11:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ayautla Mazatec (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ayau1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Ayautla Mazatec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ayautla_Mazatec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Ayautla Mazatec-German dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/vmy/de",
+   "found_in_search": true
+  },
+  {
+   "title": "New Testament in Mazateco, Ayautla",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/VMYWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Ayautla Mazatec",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=vmy",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Ayautla Mazatec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vmy",
+   "found_in_search": true
+  }
+ ]
+}

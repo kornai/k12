@@ -1,0 +1,59 @@
+{
+ "iso": "vnk",
+ "name": "Lovono",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:11:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lovono language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lovono_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Category: Lovono language (Wiktionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/Category:Lovono_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lovono (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Lovono",
+   "found_in_search": true
+  },
+  {
+   "title": "Fieldwork and languages (Francois)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://marama.huma-num.fr/AF-field.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC DT1-112: 400 word list of Vano",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.nabu-prod.paradisec.org.au/collections/DT1/items/112",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Lovono",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vnk",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Lovono",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/vnk/",
+   "found_in_search": true
+  }
+ ]
+}
