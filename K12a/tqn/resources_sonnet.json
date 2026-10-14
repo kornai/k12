@@ -1,0 +1,52 @@
+{
+ "iso": "tqn",
+ "name": "Tenino",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:41:31Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sahaptin resource site, University of Washington",
+   "type": "other",
+   "language": "English",
+   "url": "https://depts.washington.edu/sahaptin",
+   "found_in_search": true
+  },
+  {
+   "title": "Ichishkiin Sinwit: Yakama/Yakima Sahaptin Dictionary (Beavert and Hargus, 2010; Yakama dialect)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.tatteredcover.com/products/9780295989150",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Ichishkiin Sinwit Yakama/Yakima Sahaptin Dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/462418",
+   "found_in_search": true
+  },
+  {
+   "title": "Sahaptin language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sahaptin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tenino language fact sheet (DICE, University of Missouri)",
+   "type": "other",
+   "language": "English",
+   "url": "https://dice.missouri.edu/assets/docs/north-america-other/Tenino.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionaries and linguists (Sharon Hargus)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://faculty.washington.edu/sharon/Dictionaries_and_linguists.pdf",
+   "found_in_search": true
+  }
+ ]
+}

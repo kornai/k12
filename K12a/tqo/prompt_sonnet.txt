@@ -1,0 +1,35 @@
+You will research 4 languages (tqn, tqo, tqp, tqq), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE tqn ===
+Please help me gather resources for the Tenino language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tqn; Glottocode: teni1238; family: Sahaptian; macro-area: North America. Reference description: Tenino is an endangered indigenous language of the United States. It belongs to the Sahaptian language family. The language is used as a first language by older adults only. It is not known to be taught in schools.
+
+=== LANGUAGE tqo ===
+Please help me gather resources for the Toaripi language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tqo; Glottocode: toar1246; family: Eleman; macro-area: Papunesia; approx. speakers: about 64,000. Reference description: Toaripi is a stable indigenous language of Papua New Guinea. It belongs to the Trans-New Guinea language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tqp ===
+Please help me gather resources for the Tomoip language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tqp; Glottocode: tomo1244; family: Austronesian; macro-area: Papunesia; approx. speakers: about 1,000. Reference description: Tomoip is a stable indigenous language of Papua New Guinea. It belongs to the Austronesian language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tqq ===
+Please help me gather resources for the Tunni language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tqq; Glottocode: tunn1238; family: Afro-Asiatic; macro-area: Africa; approx. speakers: about 30,000. Reference description: Tunni is an endangered indigenous language of Somalia. It belongs to the Afro-Asiatic language family. Direct evidence is lacking, but the language is thought to be used as a first language by a decreasing number of young people. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

@@ -1,0 +1,45 @@
+{
+ "iso": "tqq",
+ "name": "Tunni",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:41:31Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Af Tunni: Grammar, Texts and Glossary of a Southern Somali Dialect (Tosco, 1997)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_print_af-tunni",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunni language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tunni_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunni (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tunni",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunni entry, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5053",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Rome Roma Tre repository record related to Tunni",
+   "type": "academic",
+   "language": "English",
+   "url": "https://arcadia.sba.uniroma3.it/handle/2307/2761?mode=full",
+   "found_in_search": true
+  }
+ ]
+}
