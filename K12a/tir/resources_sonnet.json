@@ -1,0 +1,80 @@
+{
+ "iso": "tir",
+ "name": "Tigrigna",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:24:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Weledo Tigrinya grammar book for diaspora children (press release)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.newswire.com/news/weledos-latest-tigrinya-book-expected-to-impact-how-tigrinya-mother-31201",
+   "found_in_search": true
+  },
+  {
+   "title": "Weledo Tigrinya book (press release, alternate)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.newswire.com/weledo-s-latest-tigrinya-book-expected/220072",
+   "found_in_search": true
+  },
+  {
+   "title": "Tigrinya for Beginners",
+   "type": "primer",
+   "language": "English",
+   "url": "https://betterread.com.au/book/tigrinya-for-beginners.do",
+   "found_in_search": true
+  },
+  {
+   "title": "Basic Tigrinya (audiobook)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://www.audiobooksnow.com/audiobook/basic-tigrinya/10319184/",
+   "found_in_search": true
+  },
+  {
+   "title": "The essential guide to Tigrinya (Cambridge Language Centre)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langt/data/tr_103.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tigrinya grammar (Cambridge Language Centre)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langt/data/tr_104.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Learn Tigrinya online (Goethe-Verlag)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.goethe-verlag.com/learn-tigrinya-online.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tigrinya at Penn (Penn Language Center)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://plc.sas.upenn.edu/languages/tigrinya",
+   "found_in_search": true
+  },
+  {
+   "title": "African Languages at Penn: Tigrinya",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.africa.upenn.edu/afl/tigrinya.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article on adult-education English materials in Eritrea",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lesllasp.journals.publicknowledgeproject.org/index.php/lesllasp/article/download/6184/5049/17833",
+   "found_in_search": true
+  }
+ ]
+}

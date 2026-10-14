@@ -1,0 +1,35 @@
+You will research 4 languages (tip, tiq, tir, tis), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE tip ===
+Please help me gather resources for the Trimuris language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tip; Glottocode: trim1239; family: Greater Kwerba; macro-area: Papunesia; approx. speakers: about 300. Reference description: Trimuris is a stable indigenous language of Indonesia. It belongs to the Tor-Kwerba language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tiq ===
+Please help me gather resources for the Tiéfo language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tiq; Glottocode: tief1242; family: Atlantic-Congo; macro-area: Africa; approx. speakers: about 1,000. Reference description: Tiéfo is an endangered indigenous language of Burkina Faso. It belongs to the Niger-Congo language family. The language is used as a first language by older adults only. It is not known to be taught in schools.
+
+=== LANGUAGE tir ===
+Please help me gather resources for the Tigrigna language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tir; Glottocode: tigr1271; family: Afro-Asiatic; macro-area: Africa; approx. speakers: about 150,000. Reference description: Tigrigna is a language of wider communication that originated in Eritrea and Ethiopia. It belongs to the Afro-Asiatic language family. The language is used as a first language by all in the ethnic community. It is used as a language of instruction in education.
+
+=== LANGUAGE tis ===
+Please help me gather resources for the Itneg, Masadiit language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tis; Glottocode: masa1307; family: Austronesian; macro-area: Papunesia; approx. speakers: about 7,500. Reference description: Masadiit Itneg is a stable indigenous language of the Philippines. It belongs to the Austronesian language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

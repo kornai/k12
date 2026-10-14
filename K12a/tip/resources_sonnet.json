@@ -1,0 +1,52 @@
+{
+ "iso": "tip",
+ "name": "Trimuris",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:24:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Trimuris language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Trimuris_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Foja Range languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Foja_Range_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwerba languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwerba_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Kwerba",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/northwest-new-guinea/foja-range/west-foja-range/apauwar-river/kwerba",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Trimuris in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19302",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: language page tip",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tip",
+   "found_in_search": true
+  }
+ ]
+}
