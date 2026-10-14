@@ -1,0 +1,45 @@
+{
+ "iso": "tdg",
+ "name": "Western Tamang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:40:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Western Tamang Dictionary 2017 (overview)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/wtamang/overview/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang Dictionary: introduction",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/wtamang/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang Dictionary: alphabet",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.webonary.org/wtamang/overview/alphabet/",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang Dictionary: download",
+   "type": "software",
+   "language": "English",
+   "url": "https://www.webonary.org/wtamang/download/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Everitt, Taylor and Tamang 1972, Tamang vocabulary (Glottolog reference)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/26744",
+   "found_in_search": true
+  }
+ ]
+}
