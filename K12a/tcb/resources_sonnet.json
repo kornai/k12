@@ -1,0 +1,45 @@
+{
+ "iso": "tcb",
+ "name": "Tanacross",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:29:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tanacross Learners' Dictionary (ANLC)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.uaf.edu/anlc/research-and-resources/research/research/tanacross_learners_dictionary.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanacross Learners' Dictionary Online",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=8128",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanacross Learners' Dictionary = Dihthaad Xt'een Iin Aandeg' dinahtlaa'",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=2832",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanacross Noun Dictionary (early word-lists)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/tanacross-noun-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanacross (ANLC language page)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://uaf.edu/anlc/languages-move/tanacross.php",
+   "found_in_search": true
+  }
+ ]
+}

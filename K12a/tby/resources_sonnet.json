@@ -1,0 +1,24 @@
+{
+ "iso": "tby",
+ "name": "Tabaru",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:29:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tabaru language (Wikipedia overview with references)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tabaru_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Tabaru (taba1263)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/taba1263",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tca",
+ "name": "Ticuna",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:29:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Socioambiental archive document on Ticuna teachers' writing code and bilingual materials (Torü Ouü'ügü; Ngi'ã Tanaütchicünaagü)",
+   "type": "other",
+   "language": "English",
+   "url": "https://acervo.socioambiental.org/sites/default/files/documents/TCD00174.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Socioambiental archive document on mother-tongue literacy",
+   "type": "other",
+   "language": "English",
+   "url": "https://acervo.socioambiental.org/sites/default/files/documents/F3D00024.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Educação indígena Ticuna e o processo de afirmação étnica na escola municipal Ebenézer",
+   "type": "academic",
+   "language": "other",
+   "url": "https://bdtd.ibict.br/vufind/Record/UPM_4e1c86e76a58d8e36df7bda3ad940d88",
+   "found_in_search": true
+  },
+  {
+   "title": "Soares, material didático Ticuna (LIAMES)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8648466",
+   "found_in_search": true
+  },
+  {
+   "title": "UFRJ dissertation on teaching Ticuna in Benjamin Constant",
+   "type": "academic",
+   "language": "other",
+   "url": "https://pantheon.ufrj.br/handle/11422/25425",
+   "found_in_search": true
+  },
+  {
+   "title": "A educação matematica na formação de professores indigenas: os professores Ticuna do Alto Solimões",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.repositorio.unicamp.br/acervo/detalhe/229749",
+   "found_in_search": true
+  }
+ ]
+}
