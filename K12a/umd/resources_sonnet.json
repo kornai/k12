@@ -1,0 +1,31 @@
+{
+ "iso": "umd",
+ "name": "Umbindhamu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:02:47Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Umpithamu language (Wikipedia; also spelled Umbindhamu)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Umpithamu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Laycock 1969",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/303408",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland language blog: Umbuygamu (related language, not umd)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/language-week-week-thirty-umbuygamu",
+   "found_in_search": true
+  }
+ ]
+}

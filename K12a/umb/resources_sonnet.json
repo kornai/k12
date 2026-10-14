@@ -1,0 +1,66 @@
+{
+ "iso": "umb",
+ "name": "Umbundu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:02:47Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Sketch of Umbundu (Schadeberg 1990)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_a-sketch-of-umbundu",
+   "found_in_search": true
+  },
+  {
+   "title": "Gramatica umbundu: a lingua do centro de Angola (Valente 1964), library catalogue record",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://library.africamuseum.be/bib/264652",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project Umbundu entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Umb",
+   "found_in_search": true
+  },
+  {
+   "title": "Umbundu language resources - Language Links Database",
+   "type": "other",
+   "language": "English",
+   "url": "https://universeofmemory.com/umbundu-language-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "New Umbundu New Testaments (American Bible Society)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.news.americanbible.org/blog/entry/god-answers-prayer-by-providing-new-testaments-to-the-umbundu-people-of-ang",
+   "found_in_search": true
+  },
+  {
+   "title": "Umbundu Bible text, Andelale 1998 edition (Digital Bible Society; language needs verification)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/UBUAND",
+   "found_in_search": true
+  },
+  {
+   "title": "New World Translation Released in Umbundu",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.jw.org/en/news/region/angola/New-World-Translation-Released-in-Umbundu/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Umbundu",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/149",
+   "found_in_search": true
+  }
+ ]
+}
