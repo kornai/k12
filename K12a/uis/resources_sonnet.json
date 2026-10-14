@@ -1,0 +1,38 @@
+{
+ "iso": "uis",
+ "name": "Uisai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:49:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uisai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uisai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Uisai",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5845",
+   "found_in_search": true
+  },
+  {
+   "title": "Paradisec series NSBUIS (Buin hinterland field notes)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://paradisec.org.au/fieldnotes/NSBUIS.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Paradisec catalog item AC1-002",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/collections/AC1/items/002",
+   "found_in_search": true
+  }
+ ]
+}

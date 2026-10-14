@@ -1,0 +1,52 @@
+{
+ "iso": "uhn",
+ "name": "Damal",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:49:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uhunduni languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uhunduni_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "MAF UK article on completion of Damal Bible translation",
+   "type": "other",
+   "language": "English",
+   "url": "https://maf-uk.org/?p=11637",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Damal",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=uhn",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Damal",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/uhn",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Damal Enggipilu",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/9090",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Damal, Amung in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11480",
+   "found_in_search": true
+  }
+ ]
+}

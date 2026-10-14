@@ -1,0 +1,52 @@
+{
+ "iso": "uig",
+ "name": "Uyghur",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:49:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uyghur: An Elementary Textbook (Georgetown University Press)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://press.georgetown.edu/Book/Uyghur",
+   "found_in_search": true
+  },
+  {
+   "title": "Uyghur: An Intermediate Textbook (University of Texas Press distribution)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://utpdistribution.com/9781626163645/uyghur",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Kansas Uyghur Language Guide",
+   "type": "academic",
+   "language": "English",
+   "url": "https://guides.lib.ku.edu/uyghur",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos Uyghur dictionary and keyboard page",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.lexilogos.com/english/uyghur_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "UKIJ ongoing projects (fonts and input method)",
+   "type": "software",
+   "language": "English",
+   "url": "https://ukij.org/en/index.php/projects/",
+   "found_in_search": true
+  },
+  {
+   "title": "Freedesktop bug 32576: Uyghur keyboard layout",
+   "type": "software",
+   "language": "English",
+   "url": "https://bugs.freedesktop.org/show_bug.cgi?id=32576",
+   "found_in_search": true
+  }
+ ]
+}
