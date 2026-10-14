@@ -1,0 +1,52 @@
+{
+ "iso": "wbq",
+ "name": "Waddar",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:25:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waddar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waddar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Waddar wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WADDAR",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems of Waddara (Vadari), MPI",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Waddar.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dravidian Etymological Dictionary (Burrow and Emeneau)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://dsal.uchicago.edu/dictionaries/burrow/new_frontmatter.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Vaddar (Hindu traditions) in India, Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/18288/IN",
+   "found_in_search": true
+  },
+  {
+   "title": "FontSpace language info for wbq (Telugu script)",
+   "type": "software",
+   "language": "English",
+   "url": "https://www.fontspace.com/languages/info/wbq-telu",
+   "found_in_search": true
+  }
+ ]
+}

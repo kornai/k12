@@ -1,0 +1,73 @@
+{
+ "iso": "wbs",
+ "name": "West Bengal Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:25:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Transforming Deaf Education: Supporting the futures of deaf children in West Bengal",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.ndcs.org.uk/deaf-child-worldwide/our-blog/transforming-deaf-education-supporting-the-futures-of-deaf-children-in-west-bengal",
+   "found_in_search": true
+  },
+  {
+   "title": "NIOS Indian Sign Language course, chapter 2",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.nios.ac.in/media/documents/230-ISL/Ch-2.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikisigns West Bengal Sign Language",
+   "type": "video",
+   "language": "other",
+   "url": "https://www.sign-lang.uni-hamburg.de/lr/compendium/lex/wikisignswestbengalsl.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Sign Language Studies 16(4)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ssl.gallaudet.edu/gupress/SLS/SLS16-4.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Project MUSE article 627362",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/627362",
+   "found_in_search": true
+  },
+  {
+   "title": "FASAL proceedings 2026",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.reed.edu/linguistics/khan/assets/FASALproc2026.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Deafness in Bangladesh (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Deafness_in_Bangladesh",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth page for wbs",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://scriptureearth.org/00eng.php?iso=wbs",
+   "found_in_search": true
+  },
+  {
+   "title": "Report of Workshop on ISL, Netaji Subhas Open University",
+   "type": "policy",
+   "language": "English",
+   "url": "https://soe.wbnsou.ac.in/seminar/reports/20250922_Report_Workshop_on_ISL.pdf",
+   "found_in_search": true
+  }
+ ]
+}

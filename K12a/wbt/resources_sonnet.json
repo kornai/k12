@@ -1,0 +1,52 @@
+{
+ "iso": "wbt",
+ "name": "Warnman",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:25:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Warnman language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warnman_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang A62: Warnman",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/A62",
+   "found_in_search": true
+  },
+  {
+   "title": "Saving language (ILAT mailing list, 2006), on the Warnman wordlist and sketch grammar",
+   "type": "other",
+   "language": "English",
+   "url": "https://listserv.linguistlist.org/pipermail/ilat/2006-March/002255.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Australian vocabularies list, ANU",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www0.anu.edu.au/linguistics/nash/aust/dsd/vocabs.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages catalogue page",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node?page=981",
+   "found_in_search": true
+  },
+  {
+   "title": "Victorian Collections search for Warnman",
+   "type": "other",
+   "language": "English",
+   "url": "https://victoriancollections.net.au/collections?q=warnman",
+   "found_in_search": true
+  }
+ ]
+}
