@@ -1,0 +1,31 @@
+{
+ "iso": "tns",
+ "name": "Tenis",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:15:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tenis language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tenis_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tenis",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2693",
+   "found_in_search": true
+  },
+  {
+   "title": "Mussau, Emirau, and Tench Islands, Papua New Guinea (Avondale repository)",
+   "type": "other",
+   "language": "English",
+   "url": "https://research.avondale.edu.au/handle/1897/19491117",
+   "found_in_search": true
+  }
+ ]
+}

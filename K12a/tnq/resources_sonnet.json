@@ -1,0 +1,52 @@
+{
+ "iso": "tnq",
+ "name": "Taíno",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:15:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "UPR InDiLPE Caribe: works and projects on Taino",
+   "type": "other",
+   "language": "English",
+   "url": "https://generales.uprrp.edu/indilpe-caribe/?p=220",
+   "found_in_search": true
+  },
+  {
+   "title": "List of works and projects on Taino (PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://generales.uprrp.edu/indilpe-caribe/wp-content/uploads/sites/28/2024/03/List-of-works-and-projects-on-Taino.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Taino",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/taino.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "IDIL 2022-2032 resources (Casa Areyto)",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://fr.idil2022-2032.org/resources/page/8/",
+   "found_in_search": true
+  },
+  {
+   "title": "IDIL 2022-2032 resources (Tainonaiki)",
+   "type": "other",
+   "language": "English",
+   "url": "https://idil2022-2032.org/resources/page/5/",
+   "found_in_search": true
+  },
+  {
+   "title": "Student blog mentioning Liga Guakia Taina-Ke",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://hawksites.newpaltz.edu/decolonize/category/student-blog/page/2/",
+   "found_in_search": true
+  }
+ ]
+}
