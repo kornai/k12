@@ -1,0 +1,66 @@
+{
+ "iso": "tdm",
+ "name": "Taruma",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:42:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Taruma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taruma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden student thesis: Taruma phonology and proposed orthography",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://studenttheses.universiteitleiden.nl/access/item%3A3454579/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Tracing the history of the Taruma people through plants, their names and ...",
+   "type": "academic",
+   "language": "English",
+   "url": "https://research.wur.nl/en/publications/tracing-the-history-of-the-taruma-people-through-plants-their-nam/",
+   "found_in_search": true
+  },
+  {
+   "title": "Appendices for Taruma plant-names study (dataset)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://research.wur.nl/en/datasets/appendices-for-tracing-the-history-of-the-taruma-people-through-p/",
+   "found_in_search": true
+  },
+  {
+   "title": "Naturalis repository item (content not verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.naturalis.nl/pub/800921/",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Taruma",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Taruma",
+   "found_in_search": true
+  },
+  {
+   "title": "Taruma Corpus (ELDP)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0708/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Taruma",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6969",
+   "found_in_search": true
+  }
+ ]
+}

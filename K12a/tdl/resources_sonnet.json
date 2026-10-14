@@ -1,0 +1,59 @@
+{
+ "iso": "tdl",
+ "name": "Kusur-Myet",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:42:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sur–Myet language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sur%E2%80%93Myet_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Decker et al. 2021, sociolinguistic profile (Glottolog record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/656697",
+   "found_in_search": true
+  },
+  {
+   "title": "Roger M. Blench 2023 (Glottolog record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/658379",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/96601",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kusur-Myet language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tdl",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tapshin people group",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15267",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kusur-Myet",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tdl",
+   "found_in_search": true
+  }
+ ]
+}

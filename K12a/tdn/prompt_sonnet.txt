@@ -1,0 +1,35 @@
+You will research 4 languages (tdl, tdm, tdn, tdo), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE tdl ===
+Please help me gather resources for the Kusur-Myet language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tdl; Glottocode: surr1238; family: Atlantic-Congo; macro-area: Africa; approx. speakers: about 5,000. Reference description: Kusur-Myet is an endangered indigenous language of Nigeria. It belongs to the Niger-Congo language family. The language is used as a first language by all adults in the ethnic community, but not all young people. It is not known to be taught in schools.
+
+=== LANGUAGE tdm ===
+Please help me gather resources for the Taruma language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tdm; Glottocode: taru1236; macro-area: South America; approx. speakers: about 9. Reference description: Taruma is an endangered indigenous language of Guyana. It is an isolate that is not known to be related to any other language. The language is used as a first language by the elderly only. It is not known to be taught in schools.
+
+=== LANGUAGE tdn ===
+Please help me gather resources for the Tondano language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tdn; Glottocode: tond1251; family: Austronesian; macro-area: Papunesia; approx. speakers: about 92,000. Reference description: Tondano is an endangered indigenous language of Indonesia. It belongs to the Austronesian language family. The language is used as a first language by older adults only. It is not known to be taught in schools.
+
+=== LANGUAGE tdo ===
+Please help me gather resources for the Teme language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tdo; Glottocode: teme1252; family: Atlantic-Congo; macro-area: Africa; approx. speakers: about 4,000. Reference description: Teme is a stable indigenous language of Nigeria. It belongs to the Niger-Congo language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.
