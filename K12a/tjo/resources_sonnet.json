@@ -1,0 +1,31 @@
+{
+ "iso": "tjo",
+ "name": "Tamazight, Temacine",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:31:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tugurt language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tugurt_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Tugurt/Temacine Tamazight",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/94298",
+   "found_in_search": true
+  },
+  {
+   "title": "Temacine (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.org/wiki/Temacine",
+   "found_in_search": true
+  }
+ ]
+}

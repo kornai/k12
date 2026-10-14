@@ -1,0 +1,59 @@
+{
+ "iso": "tjm",
+ "name": "Timucua",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:31:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Timucua language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Timucua_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Timucua Webonary lexicon (entry 9444)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/timucua/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "The Timucua Language (Webonary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/timucua/?p=146853",
+   "found_in_search": true
+  },
+  {
+   "title": "North Florida Journal of Anthropology article on Timucua",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.flvc.org/NFJA/article/download/123622/128600/213276",
+   "found_in_search": true
+  },
+  {
+   "title": "Broadwell: Intention and authorship in Timucua texts",
+   "type": "academic",
+   "language": "English",
+   "url": "https://people.clas.ufl.edu/broadwell/files/Intention-and-authorship-revised-to-meet-editors-requests.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia.edu listing: Timucua language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/Documents/in/Timucua_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Library of Congress blog: Writing Timucua in seventeenth-century Florida",
+   "type": "other",
+   "language": "English",
+   "url": "https://blogs.loc.gov/maps/2021/07/chi-mobi-writing-timucua-in-seventeenth-century-florida/",
+   "found_in_search": true
+  }
+ ]
+}
