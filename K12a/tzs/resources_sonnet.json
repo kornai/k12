@@ -1,0 +1,31 @@
+{
+ "iso": "tzs",
+ "name": "Tzotzil, San Andrés Larrainzar",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T11:02:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario Tzotzil de San Andres (Delgaty and Ruiz Sanchez, 1978), catalog record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/69837",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzotzil San Andres New Testament",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/TZOSAN",
+   "found_in_search": true
+  },
+  {
+   "title": "San Andres Larrainzar Tzotzil language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/2443",
+   "found_in_search": true
+  }
+ ]
+}
