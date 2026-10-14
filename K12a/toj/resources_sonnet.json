@@ -1,0 +1,38 @@
+{
+ "iso": "toj",
+ "name": "Tojolabal",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:22:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tojolabal literacy textbook (DGEI, SEP), author Concepcion de Jesus Gomez Lopez",
+   "type": "primer",
+   "language": "native",
+   "url": "https://dgeiib.basica.sep.gob.mx/files/fondo-editorial/acervo-historico/ah_00081.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SEP Nueva Escuela Mexicana resource 41529 (Tojolabal literature series)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://nuevaescuelamexicana.sep.gob.mx/contenido/recurso/41529/",
+   "found_in_search": true
+  },
+  {
+   "title": "SEP Nueva Escuela Mexicana resource 41547 (Tojolabal literature series)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://nuevaescuelamexicana.sep.gob.mx/contenido/recurso/41547/",
+   "found_in_search": true
+  },
+  {
+   "title": "SEP Nueva Escuela Mexicana resource 41464",
+   "type": "other",
+   "language": "native",
+   "url": "https://nuevaescuelamexicana.sep.gob.mx/contenido/recurso/41464/",
+   "found_in_search": true
+  }
+ ]
+}

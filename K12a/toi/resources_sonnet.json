@@ -1,0 +1,45 @@
+{
+ "iso": "toi",
+ "name": "Tonga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:22:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "An Outline of Chitonga Grammar (Hazel Carter, 2002)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.africanbookscollective.com/books/an-outline-of-chitonga-grammar",
+   "found_in_search": true
+  },
+  {
+   "title": "Gadsden Publishers, Zambia (publisher page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://africanbookscollective.com/?p=15987",
+   "found_in_search": true
+  },
+  {
+   "title": "Hopgood, Cecil Robert 1940 (Tonga Grammar), Glottolog record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/28513",
+   "found_in_search": true
+  },
+  {
+   "title": "Torrend, Julius 1932 (A Grammar of the Rhodesian Tonga), Glottolog record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/122642",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonga language (Zambia and Zimbabwe) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tonga_language_%28Zambia_and_Zimbabwe%29",
+   "found_in_search": true
+  }
+ ]
+}

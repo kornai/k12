@@ -1,0 +1,31 @@
+{
+ "iso": "tog",
+ "name": "Tonga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:22:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tonga language (Malawi) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tonga_language_%28Malawi%29",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonga people (Malawi) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tonga_people_%28Malawi%29",
+   "found_in_search": true
+  },
+  {
+   "title": "CiTonga, Nkhata Bay, Malawi (numerals data page)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Citonga.htm",
+   "found_in_search": true
+  }
+ ]
+}
