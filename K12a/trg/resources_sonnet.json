@@ -1,0 +1,31 @@
+{
+ "iso": "trg",
+ "name": "Lishán Noshan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:46:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Inter-Zab Jewish Neo-Aramaic (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Inter-Zab_Jewish_Neo-Aramaic",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project resources page",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/39005/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Inter-Zab Jewish Neo-Aramaic",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3697?hl=zh-cn",
+   "found_in_search": true
+  }
+ ]
+}
