@@ -1,0 +1,45 @@
+{
+ "iso": "tzm",
+ "name": "Central Atlas Tamazight",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T11:01:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Standard Moroccan Amazigh (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Standard_Moroccan_Amazigh",
+   "found_in_search": true
+  },
+  {
+   "title": "Research article on Amazigh textbooks (L1 Research)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://l1research.org/article/download/117/115",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden dissertation on language policy and planning of Amazigh in Morocco",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/4285960",
+   "found_in_search": true
+  },
+  {
+   "title": "Presentation a Rabat du premier manuel scolaire en langue amazighe",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://www.bladi.net/presentation-a-rabat-du-premier-manuel-scolaire-en-langue-amazighe.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Thesis volume 1 (HAL)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://halshs.archives-ouvertes.fr/tel-00669404v1/file/ThA_se_Vol1.pdf",
+   "found_in_search": true
+  }
+ ]
+}

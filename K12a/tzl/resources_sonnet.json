@@ -1,0 +1,45 @@
+{
+ "iso": "tzl",
+ "name": "Talossan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T11:01:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Talossa wiki: Language",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wiki.talossa.com/Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Talossa wiki: Comita per l'Utzil del Glhet (CUG)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wiki.talossa.com/CUG",
+   "found_in_search": true
+  },
+  {
+   "title": "Useful Talossan phrases (Omniglot)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://omniglot.com/language/phrases/talossan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Talossan (Linguifex)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguifex.com/wiki/Talossan",
+   "found_in_search": true
+  },
+  {
+   "title": "Talossa (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://EN.wikipedia.com/wiki/Talossa",
+   "found_in_search": true
+  }
+ ]
+}
