@@ -1,0 +1,38 @@
+{
+ "iso": "tad",
+ "name": "Tause",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:11:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Clouse (1997) Lakes Plain word lists, Trans New Guinea database",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/source/clouse-1997?page=9",
+   "found_in_search": true
+  },
+  {
+   "title": "Tause language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tause_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Tause (Tad)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tad",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tause in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15293",
+   "found_in_search": true
+  }
+ ]
+}

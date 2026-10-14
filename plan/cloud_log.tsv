@@ -1,0 +1,5 @@
+iso	name	when	status	resources	batch
+taa	Lower Tanana	2026-10-14T07:11:57Z	done	5	taa+tab+tac+tad
+tab	Tabasaran	2026-10-14T07:11:57Z	done	2	taa+tab+tac+tad
+tac	Western Tarahumara	2026-10-14T07:11:57Z	done	5	taa+tab+tac+tad
+tad	Tause	2026-10-14T07:11:57Z	done	4	taa+tab+tac+tad

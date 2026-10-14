@@ -1,0 +1,45 @@
+{
+ "iso": "tac",
+ "name": "Western Tarahumara",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:11:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Onorúgame nila ra'íchali (Western Tarahumara New Testament), eBible.org",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/details.php?id=tacNT",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Western Tarahumara",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tac",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tarahumara audio New Testament (MegaVoice)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m0b8632-new-testament-tac-western-tarahumara-baja-audio-bible/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tarahumara, Western",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tac",
+   "found_in_search": true
+  },
+  {
+   "title": "La Bufa Canyon / Don Burgess Tarahumara books and downloads (incl. phrasebook)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.tarahumarabooks.com/",
+   "found_in_search": true
+  }
+ ]
+}

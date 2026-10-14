@@ -1,0 +1,24 @@
+{
+ "iso": "tab",
+ "name": "Tabasaran",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:11:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tabasaran--Russian dictionary (Shikhalieva), SIL Webonary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/tabasaran/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Freelang Tabassaran dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.freelang.net/dictionary/tabassaran.php",
+   "found_in_search": true
+  }
+ ]
+}
