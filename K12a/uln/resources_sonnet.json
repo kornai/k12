@@ -1,0 +1,73 @@
+{
+ "iso": "uln",
+ "name": "Unserdeutsch",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:59:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Documenting Unserdeutsch (Rabaul Creole German): A workshop report (Bern)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://boris-portal.unibe.ch/entities/publication/15927e7c-c909-42b2-970a-cec0b18ed488",
+   "found_in_search": true
+  },
+  {
+   "title": "Documenting Unserdeutsch workshop report (Bern handle record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://boris-portal.unibe.ch/handle/20.500.12422/60693",
+   "found_in_search": true
+  },
+  {
+   "title": "Goetze et al. 2017, Documenting Unserdeutsch (PDF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.germanistik.unibe.ch/e40649/e40653/e714347/e714513/Goetze_et_al_2017_ger.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Documenting Unserdeutsch: Reversing colonial amnesia (Bern)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://boris.unibe.ch/121401/",
+   "found_in_search": true
+  },
+  {
+   "title": "Documenting unserdeutsch: reversing colonial amnesia (JCU)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/52477/",
+   "found_in_search": true
+  },
+  {
+   "title": "Bern repository record 121389",
+   "type": "academic",
+   "language": "English",
+   "url": "https://boris.unibe.ch/121389",
+   "found_in_search": true
+  },
+  {
+   "title": "DFG project details: Unserdeutsch documentation",
+   "type": "academic",
+   "language": "other",
+   "url": "https://gepris.dfg.de/gepris/projekt/275623802",
+   "found_in_search": true
+  },
+  {
+   "title": "AGD: Unserdeutsch corpus (UNSD)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://agd.ids-mannheim.de/UNSD_extern.shtml",
+   "found_in_search": true
+  },
+  {
+   "title": "EXMARaLDA: Unserdeutsch corpus available in the DGD",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://exmaralda.org/?p=6015",
+   "found_in_search": true
+  }
+ ]
+}

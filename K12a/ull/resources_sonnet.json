@@ -1,0 +1,45 @@
+{
+ "iso": "ull",
+ "name": "Ullatan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:59:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Ullatan language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ullatan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Ulladan",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ulladan",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Ullatan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ulla1237.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP word list: Ullatan",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/ULLATAN",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ulladan in India",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18282",
+   "found_in_search": true
+  }
+ ]
+}

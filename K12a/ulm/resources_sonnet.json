@@ -1,0 +1,52 @@
+{
+ "iso": "ulm",
+ "name": "Ulumanda’",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:59:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Ulumanda' language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ulumanda%CA%BC_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Brodkin 2019, West Sulawesi comparative paper (NUS 19.1)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://people.ucsc.edu/~ddbrodki/PDFs/Brodkin_NUS_19_1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Ulumanda' writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/ulumanda.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Ulumanda' numbers",
+   "type": "other",
+   "language": "other",
+   "url": "https://omniglot.com/language/numbers/ulumanda.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ulumanda in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15705",
+   "found_in_search": true
+  },
+  {
+   "title": "Praying for Indonesia: Ulumanda profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.prayingforindonesia.com/?p=1184",
+   "found_in_search": true
+  }
+ ]
+}
