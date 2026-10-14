@@ -1,0 +1,52 @@
+{
+ "iso": "txe",
+ "name": "Totoli",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:43:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "DoBeS Totoli language page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/projects/totoli/language/",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Totoli project (recordings and dictionary)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://dobes.mpi.nl/?p=1339",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Totoli poster",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/oceania-totoli-print.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Totoli language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Totoli_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Totoli people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Totoli_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Totoli",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Totoli",
+   "found_in_search": true
+  }
+ ]
+}
