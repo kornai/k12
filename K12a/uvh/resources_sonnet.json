@@ -1,0 +1,59 @@
+{
+ "iso": "uvh",
+ "name": "Uri",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:27:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uri language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Uri numerals (MPI channumerals)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Uri.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP word list: Uri, Papua New Guinea",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/URI_PAPUA_NEW_GUINEA",
+   "found_in_search": true
+  },
+  {
+   "title": "Trans New Guinea database: Uri words",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/word/sand?page=13",
+   "found_in_search": true
+  },
+  {
+   "title": "Uri (Erap) language and culture (Research Data Australia)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://researchdata.edu.au/uri-erap-language-culture/2045963",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC collection TW1 (Tom Webb; closed access, includes Uri New Testament)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/TW1",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Uri",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/uvh/",
+   "found_in_search": true
+  }
+ ]
+}
