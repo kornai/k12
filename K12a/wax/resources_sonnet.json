@@ -1,0 +1,31 @@
+{
+ "iso": "wax",
+ "name": "Marangis",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:21:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Marangis language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marangis_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Marangis",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10645",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: language information by source",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/98322",
+   "found_in_search": true
+  }
+ ]
+}
