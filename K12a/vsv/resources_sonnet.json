@@ -1,0 +1,52 @@
+{
+ "iso": "vsv",
+ "name": "Valencian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:14:40Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "FESORD CV poster, CNLSE congress 2022",
+   "type": "academic",
+   "language": "other",
+   "url": "https://cnlse.es/es/actividades/congreso-cnlse-2022/programa-congreso-cnlse-2022/resumenes/poster_minguet.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "FESORD CV summer activities document",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://www.fesord.org/wp-content/uploads/2019/05/190531-Apunt-verano-1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Valencian Sign Language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:vsv",
+   "found_in_search": true
+  },
+  {
+   "title": "UVdiscapacitat SIGNA-UNI software and resources (LSE vocabulary)",
+   "type": "software",
+   "language": "other",
+   "url": "https://www.uv.es/uvdiscapacidad/es/recursos/software.html",
+   "found_in_search": true
+  },
+  {
+   "title": "FESORD CV Memoria de actividades 2022",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://www.fesord.org/wp-content/uploads/2023/11/MEMORIA-DE-ACTIVIDADES-2022_compressed-1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "UPV introductory signs course information",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://casadelalumno.webs.upv.es/wp-content/uploads/2020/02/Informaci%C3%B3n_curso_signos.pdf",
+   "found_in_search": true
+  }
+ ]
+}

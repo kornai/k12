@@ -1,0 +1,38 @@
+{
+ "iso": "vto",
+ "name": "Vitou",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:14:40Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vitou language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vitou_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Fitou (New Guinea World)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/northwest-new-guinea/foja-range/orya-tor-river/tor-river/tor-coast/east-tor-coast/fitou",
+   "found_in_search": true
+  },
+  {
+   "title": "Betaf language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Betaf_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Vitou in Indonesia (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18956",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "vsi",
+ "name": "Moldova Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:14:40Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Integration of deaf children into general education schools failed, Association of the Deaf",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.old.ipn.md/en/integration-of-deaf-children-into-general-education-schools-failed-association-7967_1081845.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Hearing-impaired students experience difficulties in learning process, association",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.old.ipn.md/en/hearing-impaired-students-experience-difficulties-in-learning-process-associatio-7967_1027168.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Comments on draft Education 2030 implementation programme (Association of the Deaf)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://particip.gov.md/comment_attachments/4395__2599.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Maximciuc and Bargan, sign language in early deaf education (Jrlsd 041)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://asociatia-alpha.ro/Jrls/041-2025/Jrlsd-041-063.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "NGO report to UN CRC on Moldova",
+   "type": "policy",
+   "language": "English",
+   "url": "https://cnpdc.gov.md/sites/default/files/document/attachments/int_crc_ngo_mda_28936_e.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf in Moldova (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/19007/MD",
+   "found_in_search": true
+  },
+  {
+   "title": "Not many people in Moldova know sign language",
+   "type": "other",
+   "language": "English",
+   "url": "https://ipn.md/en/not-many-people-in-moldova-know-sign-language-7978_1045940.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Learning sign language - a huge step to inclusion",
+   "type": "other",
+   "language": "English",
+   "url": "https://euneighbourseast.eu/young-european-ambassadors/blog/blog-learning-sign-language-a-huge-step-to-inclusion/",
+   "found_in_search": true
+  }
+ ]
+}
