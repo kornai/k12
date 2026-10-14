@@ -1,0 +1,38 @@
+{
+ "iso": "tmq",
+ "name": "Tumleo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:04:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tumleo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tumleo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Tumleo wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TUMLEO_3",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages: Tumleo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10521",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tumleo in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15636",
+   "found_in_search": true
+  }
+ ]
+}

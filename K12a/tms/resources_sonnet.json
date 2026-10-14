@@ -1,0 +1,38 @@
+{
+ "iso": "tms",
+ "name": "Tima",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:04:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tima language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tima_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tima (Illustration of the IPA), Journal of the International Phonetic Association",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/tima/61F761BD22931D58598679FF1F8CD0B1",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Tima poster (MPI Nijmegen)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/africa-tima-print.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tima in Sudan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15490",
+   "found_in_search": true
+  }
+ ]
+}
