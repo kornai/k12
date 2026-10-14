@@ -1,0 +1,38 @@
+{
+ "iso": "txq",
+ "name": "Tii",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:46:48Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tii language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tii_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rote-Meto Comparative Dictionary (Edwards, ANU Press)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/52033",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tii bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/9129/bibliography?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Rotinese, Tii",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19494",
+   "found_in_search": true
+  }
+ ]
+}

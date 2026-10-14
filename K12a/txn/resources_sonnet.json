@@ -1,0 +1,59 @@
+{
+ "iso": "txn",
+ "name": "West Tarangan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:46:48Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tarangan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tarangan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: West Tarangan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/west2538",
+   "found_in_search": true
+  },
+  {
+   "title": "Nivens 1992 reference record (WALS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/refdb/record/Nivens-1992",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary: West Tarangan",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://acd.clld.org/languages/1104",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD wordlist: Tarangan Barat (Feruni)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=591",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: West Tarangan bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10070/bibliography?hl=zh-cn",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC INIJAK series (Aru and Kei Islands)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://paradisec.org.au/fieldnotes/INIJAK.htm",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "txr",
+ "name": "Tartessian",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:46:48Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tartessian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tartessian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Koch: classification of the SW inscriptions",
+   "type": "academic",
+   "language": "English",
+   "url": "https://aemap.ac.uk/media/uploads/PDFs/sw_classification_koch.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Koch: Palaeohispanica 10",
+   "type": "academic",
+   "language": "English",
+   "url": "https://aemap.ac.uk/media/uploads/PDFs/koch_palaeohispanica_10.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Barcelona repository document on Tartessian",
+   "type": "academic",
+   "language": "other",
+   "url": "https://diposit.ub.edu/dspace/bitstream/2445/217425/1/188238.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal: Palaeohispanic scripts",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2015/15119-palaeohispanic.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Iberian scripts",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/iberian.htm",
+   "found_in_search": true
+  }
+ ]
+}
