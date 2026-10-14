@@ -1,0 +1,31 @@
+{
+ "iso": "tbs",
+ "name": "Tanguat",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:27:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tanguat language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tanguat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Ramu River languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/keram-and-ramu-rivers/ramu-river/start",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tanguat in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15255",
+   "found_in_search": true
+  }
+ ]
+}
