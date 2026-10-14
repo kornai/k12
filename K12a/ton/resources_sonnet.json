@@ -1,0 +1,31 @@
+{
+ "iso": "ton",
+ "name": "Tongan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:24:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ko e Fakahinohino ki he Lea Faka-Tonga: The Tongan Language Guidelines (NZ)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://newzealandcurriculum.tahurangi.education.govt.nz/the-tongan-language-guidelines/5637168581.p",
+   "found_in_search": true
+  },
+  {
+   "title": "Teaching and learning lea faka Tonga (NZ)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://newzealandcurriculum.tahurangi.education.govt.nz/teaching-and-learning-lea-faka-tonga/5637175354.p",
+   "found_in_search": true
+  },
+  {
+   "title": "Minister of Education introduces new language policy for Tongan schools (Matangi Tonga)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://matangitonga.to/node/7201",
+   "found_in_search": true
+  }
+ ]
+}

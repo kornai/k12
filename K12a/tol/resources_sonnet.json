@@ -1,0 +1,59 @@
+{
+ "iso": "tol",
+ "name": "Tolowa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:24:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tolowa Dee-ni' Nation Wee-ya' (Language) Program",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.weeyadvn.com/about/",
+   "found_in_search": true
+  },
+  {
+   "title": "Now You're Speaking Tolowa (catalogue entry)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Now_You%27re_Speaking_Tolowa",
+   "found_in_search": true
+  },
+  {
+   "title": "Tolowa Dee-ni' Nation Dictionary (catalogue entry)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Tolowa_Dee-ni%27_Wee-ya%27-dvn",
+   "found_in_search": true
+  },
+  {
+   "title": "2018 Grammar Day 3 powerpoint",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.weeyadvn.com/userfiles/2018-Grammar-Day-3-powerpoint.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF grant BCS-0854556, Tolowa lexicon project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-0854556",
+   "found_in_search": true
+  },
+  {
+   "title": "Still, We Live On: film on Tolowa language revival",
+   "type": "video",
+   "language": "English",
+   "url": "https://now.humboldt.edu/news/still-we-live-film-showcases-tolowa-language-resilience-and-revival",
+   "found_in_search": true
+  },
+  {
+   "title": "Tolowa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tolowa_language",
+   "found_in_search": true
+  }
+ ]
+}
