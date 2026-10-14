@@ -1,0 +1,38 @@
+{
+ "iso": "veo",
+ "name": "Ventureño",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:56:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Mitsqanaqan' Ventureño-English, English-Mitsqanaqan' Ventureño Dictionary (Henry-Rodriguez 2019)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://scholarspace.manoa.hawaii.edu/collections/bf4ed241-69d9-477a-81a3-1605d499316f",
+   "found_in_search": true
+  },
+  {
+   "title": "Mitsqanaqan' Ventureño dictionary (UBC wiki)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/A_Mitsqanaqan%CC%93_Venture%C3%B1o_%E2%80%94_English,_English_%E2%80%94_Mitsqanaqan%CC%93_Venture%C3%B1o_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "CSUCI Chumash Dictionary: Language Family",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ciapps.csuci.edu/ChumashDictionary/About",
+   "found_in_search": true
+  },
+  {
+   "title": "Smithsonian NAA MS 858 finding aid (Harrington English-Chumash vocabulary)",
+   "type": "other",
+   "language": "other",
+   "url": "https://sirismm.si.edu/EADpdfs/NAA.MS858.pdf",
+   "found_in_search": true
+  }
+ ]
+}

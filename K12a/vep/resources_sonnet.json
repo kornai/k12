@@ -1,0 +1,38 @@
+{
+ "iso": "vep",
+ "name": "Veps",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:56:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Veps (vepsän kel') - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/veps.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Veps resources",
+   "type": "other",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/node/38618/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Kielipankki: Veps language models and tools",
+   "type": "software",
+   "language": "English",
+   "url": "https://www.kielipankki.fi/tools/giellalt_language_models/veps/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kielipankki: Veps group page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.kielipankki.fi/?p=29557",
+   "found_in_search": true
+  }
+ ]
+}
