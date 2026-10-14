@@ -1,0 +1,38 @@
+{
+ "iso": "tpz",
+ "name": "Tinputz",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:39:41Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tinputz language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tinputz_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tinputz Rural LLG (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tinputz_Rural_LLG",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurtatchi (Encyclopedia.com)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/kurtatchi",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC series NSBTIM, North East Bougainville",
+   "type": "audio",
+   "language": "other",
+   "url": "https://paradisec.org.au/fieldnotes/NSBTIM.htm",
+   "found_in_search": true
+  }
+ ]
+}

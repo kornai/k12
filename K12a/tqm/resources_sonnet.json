@@ -1,0 +1,38 @@
+{
+ "iso": "tqm",
+ "name": "Turumsa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:39:41Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Turumsa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Turumsa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Doso-Turumsa languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Doso%E2%80%93Turumsa_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Doso language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Doso_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Turumsa",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3512",
+   "found_in_search": true
+  }
+ ]
+}
