@@ -1,0 +1,66 @@
+{
+ "iso": "vem",
+ "name": "Vemgo-Mabas",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:55:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vemgo-Mabas language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vemgo-Mabas_language",
+   "found_in_search": true
+  },
+  {
+   "title": "The Mabas, Vizik & Vemgo (Mandara Mountains)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://mandaras.info/MabasVizikVemgo.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Sociolinguistic survey of the Glavda, Cineni and Vemgo-Mabas languages (SIL Cameroon)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.silcam.org/resources/archives/47435",
+   "found_in_search": true
+  },
+  {
+   "title": "Vemgo-Mabas numerals (Max Planck EVA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Vemgo-Mabas.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Vemgo Mabas 2",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/VEMGO_MABAS_2",
+   "found_in_search": true
+  },
+  {
+   "title": "Vemgo-Mabas in Cameroon (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/13173/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Vemgo-Mabas, Visik in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/13173/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Vengo-Mabas language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vem",
+   "found_in_search": true
+  }
+ ]
+}

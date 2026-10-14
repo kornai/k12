@@ -1,0 +1,38 @@
+{
+ "iso": "ven",
+ "name": "Venda",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:55:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Oxford First Bilingual Dictionary: Tshivenda and English",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://oxford.co.za/shop/resources-and-home-learning/resource-book/9780195988246-oxford-first-bilingual-dictionary-tshivenda-and-english/",
+   "found_in_search": true
+  },
+  {
+   "title": "Bilingual Dictionary English-Tshivenda, Tshivenda-English",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://clarkesbooks.co.za/products/bilingual-dictionary-english-tshivenda-tshivenda-english",
+   "found_in_search": true
+  },
+  {
+   "title": "New Tshivenda-English dictionary opens up world of words (Sowetan)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.sowetan.co.za/news/2025-04-09-new-venda-english-dictionary-opens-up-world-of-words/",
+   "found_in_search": true
+  },
+  {
+   "title": "Venda language resources (link collection)",
+   "type": "other",
+   "language": "English",
+   "url": "https://universeofmemory.com/venda-language-resources/",
+   "found_in_search": true
+  }
+ ]
+}
