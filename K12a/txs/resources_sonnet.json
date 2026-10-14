@@ -1,0 +1,45 @@
+{
+ "iso": "txs",
+ "name": "Tonsea",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:48:22Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tonsea language (Wikipedia)",
+   "type": "other",
+   "url": "https://en.wikipedia.org/wiki/Tonsea_language",
+   "language": "English",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Tonsea verb list",
+   "type": "dictionary",
+   "url": "https://docs.verbix.com/Languages/Tonsea",
+   "language": "other",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary: Tonsea",
+   "type": "academic",
+   "url": "https://acd.clld.org/languages/1081",
+   "language": "English",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Tonsea wordlist",
+   "type": "corpus",
+   "url": "https://asjp.clld.org/languages/TONSEA",
+   "language": "other",
+   "found_in_search": true
+  },
+  {
+   "title": "Tondano (Toundano): A Grammar Sketch of an Endangered Minahasan Language (related language)",
+   "type": "grammar",
+   "url": "https://routledge.com/Tondano-Toundano-A-Grammar-Sketch-of-an-Endangered-Minahasan-Language/Brickell/p/book/9781032253022",
+   "language": "English",
+   "found_in_search": true
+  }
+ ]
+}

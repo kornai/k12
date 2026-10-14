@@ -1,0 +1,31 @@
+{
+ "iso": "txx",
+ "name": "Tatana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:48:22Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tatana language (Wikipedia)",
+   "type": "other",
+   "url": "https://en.wikipedia.org/wiki/Tatana_language",
+   "language": "English",
+   "found_in_search": true
+  },
+  {
+   "title": "Tatana numerals list (Max Planck)",
+   "type": "corpus",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tatana.htm",
+   "language": "other",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record for Tatana",
+   "type": "academic",
+   "url": "https://glottolog.org/resource/reference/id/132711",
+   "language": "English",
+   "found_in_search": true
+  }
+ ]
+}

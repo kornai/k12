@@ -507,3 +507,7 @@ txn	West Tarangan	2026-10-14T10:46:48Z	done	7	txn+txo+txq+txr
 txo	Toto	2026-10-14T10:46:48Z	done	8	txn+txo+txq+txr
 txq	Tii	2026-10-14T10:46:48Z	done	4	txn+txo+txq+txr
 txr	Tartessian	2026-10-14T10:46:48Z	done	6	txn+txo+txq+txr
+txs	Tonsea	2026-10-14T10:48:22Z	done	5	txs+txt+txu+txx
+txt	Citak	2026-10-14T10:48:22Z	done	4	txs+txt+txu+txx
+txu	Kayapó	2026-10-14T10:48:22Z	done	3	txs+txt+txu+txx
+txx	Tatana	2026-10-14T10:48:22Z	done	3	txs+txt+txu+txx
