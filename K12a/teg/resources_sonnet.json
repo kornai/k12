@@ -1,0 +1,59 @@
+{
+ "iso": "teg",
+ "name": "Teke-Tege",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:48:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Latege dictionary (Webonary, P. Linton)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/latege/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Phrases non verbales du latege",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://www.webonary.work/latege/files/Phrases-non-verbales-du-latege.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Classes nominales et syntagmes nominaux du latege",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://www.webonary.work/latege/files/Classes-nominales-et-syntagmes-nominaux-du-latege.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "North Teke language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/North_Teke_language",
+   "found_in_search": true
+  },
+  {
+   "title": "North Teke (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/northteke.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Teke-Tege dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/teg/lib",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Northern Teke wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/NORTHERN_TEKE",
+   "found_in_search": true
+  }
+ ]
+}

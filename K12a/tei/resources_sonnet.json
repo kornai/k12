@@ -1,0 +1,31 @@
+{
+ "iso": "tei",
+ "name": "Aro",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:48:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aro language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aro_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of Aro [tei] (Culture in Crisis)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/documentation-of-aro-tei-a-torricelli-language-of-papua-newguinea",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of Aro [tei] (ELDP archive)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0613/",
+   "found_in_search": true
+  }
+ ]
+}

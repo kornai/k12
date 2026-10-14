@@ -1,0 +1,38 @@
+{
+ "iso": "teh",
+ "name": "Tehuelche",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:48:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Regunaga 2010, possessives and gender in Tehuelche (Liames)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://doaj.org/article/9bf8eb445e104265a871e0126cd9812e",
+   "found_in_search": true
+  },
+  {
+   "title": "Redalyc PDF on Tehuelche (title and author not confirmed)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.redalyc.org/pdf/2470/247033484012.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Diccionario de lengua Tehuelche (aonekko 'a'ien), Living Dictionaries",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/aonekko/entry/ZfAoEAmkrUEp0QOa6lSE",
+   "found_in_search": true
+  },
+  {
+   "title": "Tehuelche, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/86707",
+   "found_in_search": true
+  }
+ ]
+}
