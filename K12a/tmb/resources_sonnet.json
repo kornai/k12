@@ -1,0 +1,52 @@
+{
+ "iso": "tmb",
+ "name": "Avava",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:56:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Crowley 2006: The Avava Language of Central Malakula (Vanuatu), Glottolog reference",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/151851",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Open Research repository file (possibly Avava grammar)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstreams/80607528-418e-4d9a-af23-5088898bb720/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Avava language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Avava_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Avava",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=456",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Avava",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/avava.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Avava",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10209",
+   "found_in_search": true
+  }
+ ]
+}

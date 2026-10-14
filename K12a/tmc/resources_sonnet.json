@@ -1,0 +1,45 @@
+{
+ "iso": "tmc",
+ "name": "Tumak",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:56:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tumak language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tumak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tumak (tuma1260)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tuma1260.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Britannica: Tumak",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.britannica.com/topic/Tumak",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Tumak",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tmc",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tumak in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15630/CD",
+   "found_in_search": true
+  }
+ ]
+}
