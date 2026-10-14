@@ -1,0 +1,52 @@
+{
+ "iso": "tap",
+ "name": "Taabwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:16:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Taabwa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taabwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kitaabwa New Testament (eBible epub)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.ebible.org/epub/tap.epub",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Taabwa scripture index",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00i-Scripture_Index.php?iso=tap",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Taabwa resources (audio/video)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tap",
+   "found_in_search": true
+  },
+  {
+   "title": "African Proverbs: Taabwa e-book",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://afriprov.tangaza.ac.ke/wp-content/uploads/2008/11/ebooks_etoka_taabwa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tabwa in Zambia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15163/ZA",
+   "found_in_search": true
+  }
+ ]
+}

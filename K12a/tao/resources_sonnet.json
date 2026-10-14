@@ -1,0 +1,38 @@
+{
+ "iso": "tao",
+ "name": "Yami",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:16:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tao (Yami) Language e-Learning",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://taotech.url.tw/taoelearning/en/pages/home.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tao (Yami) language materials (pinyin.info)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://pinyin.info/news/2006/tao-yami-language-materials/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yami Documentation (ELDP archive)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0110/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yami in the Endangered Languages Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/10747?hl=zh-cn",
+   "found_in_search": true
+  }
+ ]
+}

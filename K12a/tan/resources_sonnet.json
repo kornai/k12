@@ -1,0 +1,31 @@
+{
+ "iso": "tan",
+ "name": "Tangale",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:16:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tangale language (Wikipedia, with reference list including Jungraithmayr's dictionary)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tangale_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tangale Bible Portions (YouVersion)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/versions/3241",
+   "found_in_search": true
+  },
+  {
+   "title": "Tangale in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15248",
+   "found_in_search": true
+  }
+ ]
+}
