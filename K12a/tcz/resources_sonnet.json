@@ -1,0 +1,52 @@
+{
+ "iso": "tcz",
+ "name": "Thado Chin",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:38:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Thadou (Thadou pao) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/thadou.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Thado in Myanmar (Burma) - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/11270/BM",
+   "found_in_search": true
+  },
+  {
+   "title": "Thadou in India - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18232",
+   "found_in_search": true
+  },
+  {
+   "title": "MYANMAR Thado - Asia Harvest",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Thado.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Chin, Thado: Khongzai - Global Recordings Network",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/8799",
+   "found_in_search": true
+  },
+  {
+   "title": "Bible Thadou Chin (tcz) audio - MegaVoice",
+   "type": "audio",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m027492-bible-tcz-thadou-chin-audio-bible/",
+   "found_in_search": true
+  }
+ ]
+}

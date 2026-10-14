@@ -1,0 +1,31 @@
+{
+ "iso": "tdb",
+ "name": "Panchpargania",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:38:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sadanic languages - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sadanic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurmali language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Kudmali",
+   "found_in_search": true
+  },
+  {
+   "title": "Puran unspecified in India - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/17913/IN",
+   "found_in_search": true
+  }
+ ]
+}
