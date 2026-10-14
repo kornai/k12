@@ -1,0 +1,52 @@
+{
+ "iso": "tse",
+ "name": "Tunisian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:57:03Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SignWriting for Deaf Education in Tunisia (slides, Balti, Bahri, Laajili)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://signwriting.org/symposium/archive/sws0015_Slides_Tunisia_SignWriting_Deaf_Education_Balti_Bahri_Laajili.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunisia SignWriting Deaf Education (abstract)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.signwriting.org/symposium/archive/sws0015_Abstract_Tunisia_SignWriting_Deaf_Education_Balti_Bahri_Laajili.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SignWriting Tunisia page (SignPuddle dictionary, workbook, Goldilocks storybooks)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://signwriting.org/tunisia",
+   "found_in_search": true
+  },
+  {
+   "title": "Deafness in Tunisia (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Deafness_in_Tunisia",
+   "found_in_search": true
+  },
+  {
+   "title": "Bicultural trilingual education model for deaf children in the Tunisian context (Frontiers in Education)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.frontiersin.org/articles/10.3389/feduc.2021.750584/pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Frontiers in Communication 2023 article on LST (no formal dictionary, LSF used in schools)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2023.1201148/pdf",
+   "found_in_search": true
+  }
+ ]
+}
