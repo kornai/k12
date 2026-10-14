@@ -1,0 +1,45 @@
+{
+ "iso": "uro",
+ "name": "Ura",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:17:22Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ura language (Papua New Guinea) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ura_language_(Papua_New_Guinea)",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Ura",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/urap1240",
+   "found_in_search": true
+  },
+  {
+   "title": "Ura (Papua New Guinea), Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3414",
+   "found_in_search": true
+  },
+  {
+   "title": "Topics in Ura Phonology and Morphophonology (Digital Pasifik record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://digitalpasifik.org/items/644428",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Ura",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/uro/",
+   "found_in_search": true
+  }
+ ]
+}
