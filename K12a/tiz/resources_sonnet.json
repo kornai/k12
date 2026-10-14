@@ -1,0 +1,38 @@
+{
+ "iso": "tiz",
+ "name": "Tai Hongjin",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:27:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tai Ya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Ya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Hongjin (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/taihongjin.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Hongjin Tai in China (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18500/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Hongjin Tai people-group profile (Asia Harvest)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/hongjin-tai.pdf",
+   "found_in_search": true
+  }
+ ]
+}

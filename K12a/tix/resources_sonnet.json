@@ -1,0 +1,45 @@
+{
+ "iso": "tix",
+ "name": "Tiwa, Southern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:27:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Southern Tiwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Southern_Tiwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Tiwa alphabet and pronunciation (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/southerntiwa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Smithsonian NAA MS 1027 finding aid: Isleta and Tiwa vocabularies",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sirismm.si.edu/EADpdfs/NAA.MS1027.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Tiwa (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/85513",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiwa language and culture (native-languages.org)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.native-languages.org/tiwa.htm",
+   "found_in_search": true
+  }
+ ]
+}
