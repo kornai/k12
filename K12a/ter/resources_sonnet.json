@@ -1,0 +1,45 @@
+{
+ "iso": "ter",
+ "name": "Terêna",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:51:09Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Journal article reviewing the 2005 UnB dissertation: Proposta do Dicionario Infantil Bilingue Terena-Portugues",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://repositorio.ufc.br/bitstream/riufc/24108/1/2013_art_cpoliveirarvferreira.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "UFRJ master's dissertation (2018) on Terena phonology, semantics and syntax",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://pantheon.ufrj.br/handle/11422/23516",
+   "found_in_search": true
+  },
+  {
+   "title": "UFMS dissertation: Descricao fonologica da lingua Terena (Aruak)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufms.br/jspui/bitstream/123456789/1119/1/Denise%20Silva.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lingua terena (Trabalho Indigenista library PDF, content not seen)",
+   "type": "other",
+   "language": "other",
+   "url": "https://biblioteca.trabalhoindigenista.org.br/wp-content/uploads/2018/06/lingua_terena.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on definiteness marking in Terena (Cadernos do IL, UFRGS)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://seer.ufrgs.br/index.php/cadernosdoil/article/download/128512/86922/547473",
+   "found_in_search": true
+  }
+ ]
+}

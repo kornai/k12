@@ -1,0 +1,38 @@
+{
+ "iso": "teo",
+ "name": "Ateso",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:51:09Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hilders and Lawrance 1956, An Introduction to the Ateso Language (WALS reference record)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://wals.info/refdb/record/Hilders-and-Lawrance-1956",
+   "found_in_search": true
+  },
+  {
+   "title": "CNRS REFLEX bibliography of Teso lexicons and grammars",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio.php?LGNOM=Teso",
+   "found_in_search": true
+  },
+  {
+   "title": "SOAS Library record: Ateso vocabulary and Henriksen typescripts (title only a reference number)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://library.soas.ac.uk/Collection/MS_380573",
+   "found_in_search": true
+  },
+  {
+   "title": "Teso language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Teso_language",
+   "found_in_search": true
+  }
+ ]
+}
