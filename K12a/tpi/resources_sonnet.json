@@ -1,0 +1,59 @@
+{
+ "iso": "tpi",
+ "name": "Tok Pisin",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:32:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tok Pisin (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tok_Pisin",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Tok Pisin course TOKP1002 (reading list incl. dictionary and course book)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://programsandcourses.anu.edu.au/2024/course/TOKP1002/First%20Semester/3167",
+   "found_in_search": true
+  },
+  {
+   "title": "APiCS Online: Tok Pisin",
+   "type": "academic",
+   "language": "English",
+   "url": "https://apics-online.info/contributions/22",
+   "found_in_search": true
+  },
+  {
+   "title": "Wantok Niuspepa",
+   "type": "other",
+   "language": "native",
+   "url": "https://en.wikipedia.org/wiki/Wantok_Niuspepa",
+   "found_in_search": true
+  },
+  {
+   "title": "Vernacular education in Papua New Guinea (UNESCO)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://unesdoc.unesco.org/ark:/48223/pf0000146660",
+   "found_in_search": true
+  },
+  {
+   "title": "Devpolicy 2016: bilingual education presentation",
+   "type": "policy",
+   "language": "English",
+   "url": "https://devpolicy.org/Events/2016/PNG-Update/1b_Devette-Chee.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Language ecology, language policy and pedagogical practice in a PNG Highland community (ANU)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/2f70cde3-c473-4dda-9982-6e6220a8a6f7",
+   "found_in_search": true
+  }
+ ]
+}

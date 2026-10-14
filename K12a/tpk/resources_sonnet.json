@@ -1,0 +1,52 @@
+{
+ "iso": "tpk",
+ "name": "Tupinikin",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:32:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "UFES course plan: teaching and research in indigenous languages (Tupinikim and Guarani degree)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://indigena.ufes.br/sites/indigena.ufes.br/files/field/anexo/plano_de_ensino_ensino_e_pesquisa_em_linguas_indigenas.docx.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "O tupi na aldeia tupinikim de Caieiras Velha em Aracruz-ES: uma questao de politica linguistica",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufes.br/items/5c3d17a4-0ed7-4d05-98d7-649448073a39/full",
+   "found_in_search": true
+  },
+  {
+   "title": "UFRJ dissertation on Tupinikim language policy",
+   "type": "academic",
+   "language": "other",
+   "url": "https://pantheon.ufrj.br/handle/11422/24447",
+   "found_in_search": true
+  },
+  {
+   "title": "Valdemir de Almeida Silva, UnB thesis 2016",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.unb.br/bitstream/10482/22777/1/2016_ValdemirdeAlmeidaSilva.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lingua Viva project (Espirito Santo government)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.es.gov.br/Noticia/projeto-destaca-artes-indigenas-como-forma-de-preservacao-da-lingua-tupiniquim",
+   "found_in_search": true
+  },
+  {
+   "title": "UFES: Tupinikim handicrafts as teaching material",
+   "type": "other",
+   "language": "other",
+   "url": "https://indigena.ufes.br/sites/indigena.ufes.br/files/field/anexo/tanga_colar_lanca_cocar_e_sambura.pdf",
+   "found_in_search": true
+  }
+ ]
+}
