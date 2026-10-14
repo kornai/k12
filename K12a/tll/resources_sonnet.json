@@ -1,0 +1,45 @@
+{
+ "iso": "tll",
+ "name": "Tetela",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:49:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Otetela and English dictionary (SOAS Digital Collections)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://digital.soas.ac.uk/AA00000710/00001/citation",
+   "found_in_search": true
+  },
+  {
+   "title": "Omatete, Alonge-Dikonda 1985 (Glottolog reference)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/86282",
+   "found_in_search": true
+  },
+  {
+   "title": "Tetela language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tetela_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tetela people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tetela_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Tetela (Otetela) - Omniglot, with Bible sample",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tetela.htm",
+   "found_in_search": true
+  }
+ ]
+}
