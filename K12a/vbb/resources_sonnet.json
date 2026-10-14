@@ -1,0 +1,59 @@
+{
+ "iso": "vbb",
+ "name": "Babar, Southeast",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:54:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Southeast Babar language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Southeast_Babar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Babar languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Babar_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Steinhauer, East Nusantara language contact (abstract PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sil-philippines-languages.org/ical/abstracts/Steinhauer_East%20Nusantara%20lg%20contact.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: South-East Babar word list",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=310",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Southeast Babar",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/SOUTHEAST_BABAR",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Babar, Southeast",
+   "type": "other",
+   "language": "native",
+   "url": "https://docs.verbix.com/Languages/BabarSoutheast",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Southeast Babar",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sout2883.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}

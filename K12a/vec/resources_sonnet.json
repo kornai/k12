@@ -1,0 +1,59 @@
+{
+ "iso": "vec",
+ "name": "Venetian",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:54:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Venetian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Venetian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Boerio, Dizionario del dialetto veneziano (1829), History Walks Venice",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://historywalksvenice.com/bibliography/boerio-1829/",
+   "found_in_search": true
+  },
+  {
+   "title": "Drusi and Vescovo, history of Venetian as a written language (Quaderns d'Italia)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://raco.cat/index.php/QuadernsItalia/article/download/26274/26108/26198",
+   "found_in_search": true
+  },
+  {
+   "title": "Lezioni di dialetto veneto nelle scuole, la proposta della Lega (Orizzonte Scuola)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.orizzontescuola.it/lezioni-di-dialetto-veneto-nelle-scuole-la-proposta-della-lega-i-bimbi-lo-imparino-fin-dallinfanzia/",
+   "found_in_search": true
+  },
+  {
+   "title": "Scuola, la Lega propone lezioni di dialetto per gli studenti del Veneto (Sky TG24)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://tg24.sky.it/politica/2022/11/17/scuola-lega-dialetto-veneto",
+   "found_in_search": true
+  },
+  {
+   "title": "Insegnamento del dialetto veneto a scuola e nelle trasmissioni tv (Money.it)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.money.it/insegnamento-dialetto-veneto-scuola-tramissioni-tv-proposta-lega",
+   "found_in_search": true
+  },
+  {
+   "title": "CV completo Alessandro Mocellin (school projects in Veneto)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.academiabonacreansa.eu/wp-content/uploads/2024/03/CV-completo-Alessandro-Mocellin-marzo-2024.pdf",
+   "found_in_search": true
+  }
+ ]
+}
