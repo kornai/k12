@@ -1,0 +1,31 @@
+{
+ "iso": "ttx",
+ "name": "Tutong 1",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:16:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tutong language (Wikipedia; concerns ttg, listed for disambiguation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tutong_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Brunei (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Languages_of_Brunei",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC BN1/019 Brunei language documentation item",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/BN1/019",
+   "found_in_search": true
+  }
+ ]
+}

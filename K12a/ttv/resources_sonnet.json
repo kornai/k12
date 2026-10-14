@@ -1,0 +1,45 @@
+{
+ "iso": "ttv",
+ "name": "Titan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:16:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Titan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Titan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Manus languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Manus_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Titan Materials (dictionary text files, research data record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://researchdata.edu.au/titan-materials/1425841",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Titan Grammar Master (sketch grammar, texts, vocabulary)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://catalog.paradisec.org.au/repository/CB4/TitanGrammarMaster",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC collection CB4: Titan materials",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.nabu-prod.paradisec.org.au/collections/CB4",
+   "found_in_search": true
+  }
+ ]
+}
