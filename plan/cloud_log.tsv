@@ -123,3 +123,7 @@ tfi	Gbe, Tofin	2026-10-14T07:55:55Z	done	6	tfi+tfn+tfo+tfr
 tfn	Tanaina	2026-10-14T07:55:55Z	done	7	tfi+tfn+tfo+tfr
 tfo	Tefaro	2026-10-14T07:55:55Z	done	3	tfi+tfn+tfo+tfr
 tfr	Teribe	2026-10-14T07:55:55Z	done	6	tfi+tfn+tfo+tfr
+tft	Ternate	2026-10-14T07:57:30Z	done	6	tft+tga+tgb+tgc
+tga	Sagalla	2026-10-14T07:57:30Z	done	7	tft+tga+tgb+tgc
+tgb	Tobilung	2026-10-14T07:57:30Z	done	7	tft+tga+tgb+tgc
+tgc	Tigak	2026-10-14T07:57:30Z	done	5	tft+tga+tgb+tgc

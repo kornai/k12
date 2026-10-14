@@ -1,0 +1,52 @@
+{
+ "iso": "tft",
+ "name": "Ternate",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:57:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wiktionary user page listing Ternate resources (Kamus Ternate-Indonesia; Struktur Bahasa Ternate; Fortgens texts)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/User:Alexlin01",
+   "found_in_search": true
+  },
+  {
+   "title": "Ternate affixation article, Universitas Khairun journal",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.unkhair.ac.id/index.php/bilingual/article/view/4639/2974",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Ternate verb overview",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Ternate",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden scholarly publications item (relevance to Ternate unverified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2930091/view",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC field notes, North Halmahera (contents unverified)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://www.paradisec.org.au/fieldnotes/INHALM.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ternate Malay: Grammar and Texts (a different language, Ternate Malay)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/archive/jakarta/ternate.php.html",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "tgb",
+ "name": "Tobilung",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:57:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Webonary Tobilung dictionary: introduction",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/tobilung/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Tobilung entry page",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/tobilung/en/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tobilung",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tobi1239.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Dusunic languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dusunic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "UMS paper on Tobilung traditional beliefs (komburongo)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://jurcon.ums.edu.my/ojums/index.php/GA/article/download/3636/2393/13408",
+   "found_in_search": true
+  },
+  {
+   "title": "UMS open educational resources record (relevance unverified)",
+   "type": "other",
+   "language": "other",
+   "url": "https://oer.ums.edu.my/handle/oer_source_files/2509",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tobilung in Malaysia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15523/MY",
+   "found_in_search": true
+  }
+ ]
+}
