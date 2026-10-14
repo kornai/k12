@@ -1,0 +1,52 @@
+{
+ "iso": "vas",
+ "name": "Vasavi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:53:44Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Vasavi language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vasavi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Vasavi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/vasa1239.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Vasavi",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=vas",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Vasave Bhil in India",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21022",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Vasava people",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vasava_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Vasavi",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vas",
+   "found_in_search": true
+  }
+ ]
+}

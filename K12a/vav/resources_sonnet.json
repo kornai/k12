@@ -1,0 +1,45 @@
+{
+ "iso": "vav",
+ "name": "Varli",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:53:44Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Varli language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Varli_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Warli people",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warli_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Rural India Online: Palghar school teacher pushes for Warli",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://ruralindiaonline.org/ur/articles/palghar-school-teacher-pushes-for-warli",
+   "found_in_search": true
+  },
+  {
+   "title": "Outlook India: What Do You Call Climate Change In Warli Language?",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.outlookindia.com/national/what-do-you-call-climate-change-in-warli-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Warli of Thana (Survey of Marathi Dialects VII), bookseller listing",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.exoticindia.com/book/details/warli-of-thana-survey-of-marathi-dialects-vii-old-and-rare-book-hcb879",
+   "found_in_search": true
+  }
+ ]
+}
