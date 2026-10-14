@@ -1,0 +1,52 @@
+{
+ "iso": "vao",
+ "name": "Vao",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:52:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Capell, A grammar of Atchin (Pacific Linguistics D-20), related language with Vao comparisons",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/144536/1/PL-D20.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC field notes series VVAO, Malekula north-east coast",
+   "type": "audio",
+   "language": "English",
+   "url": "https://paradisec.org.au/fieldnotes/VVAO.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Vanuatu people groups (Vao Bible translation reported in progress)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/countries/NH?page=5",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item VKS 69_25",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/VKS/items/69_25",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item Vao005",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/ASMPI/Vao005",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item Vao007",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/ASMPI/Vao007",
+   "found_in_search": true
+  }
+ ]
+}
