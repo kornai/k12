@@ -1,0 +1,31 @@
+{
+ "iso": "utr",
+ "name": "Etulo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:26:10Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammar of Etulo: A Niger-Congo (Idomoid) Language (Open Book Collective record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openbookcollective.org/books/book/5825837",
+   "found_in_search": true
+  },
+  {
+   "title": "Grammar of Etulo (Cambridge Thoth archive record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://thoth-arch.lib.cam.ac.uk/handle/1811/921",
+   "found_in_search": true
+  },
+  {
+   "title": "Interview with Chikelu Ezenwafor-Afuecheta, author of Etulo grammar (Philological Society)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://blog.philsoc.org.uk/2025/11/18/interview-with-chikelu-i-ezenwafor-afuecheta-the-author-of-etulo-a-niger-congo-idomoid-language/",
+   "found_in_search": true
+  }
+ ]
+}
