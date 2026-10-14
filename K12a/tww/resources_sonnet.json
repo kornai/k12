@@ -1,0 +1,52 @@
+{
+ "iso": "tww",
+ "name": "Tuwari",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:42:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tuwari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tuwari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Walio languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Walio_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tuwari",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tuwa1242",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuwari numerals (Channumerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tuwari.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tuwari",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3452",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tuwari in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15669",
+   "found_in_search": true
+  }
+ ]
+}

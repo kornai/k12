@@ -1,0 +1,45 @@
+{
+ "iso": "twx",
+ "name": "Tewe",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:42:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tewe proverbs bilingual dictionary project (repository record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://repositorio.ufcat.edu.br/handle/tede/6878",
+   "found_in_search": true
+  },
+  {
+   "title": "Tewe proverbs (repository item)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufcat.edu.br/items/a913fb7d-cdf4-4ce6-be32-0318d17bb48f",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tewe in Mozambique",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15456/MZ",
+   "found_in_search": true
+  },
+  {
+   "title": "Tewe people of Mozambique celebrate new audio Bible materials (MNN)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://www.mnnonline.org/news/tewe-people-of-mozambique-celebrate-new-audio-bible-materials/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tewe",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/twx",
+   "found_in_search": true
+  }
+ ]
+}
