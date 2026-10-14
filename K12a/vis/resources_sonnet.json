@@ -1,0 +1,31 @@
+{
+ "iso": "vis",
+ "name": "Vishavan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:59:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vishavan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vishavan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Vishavan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3397",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Vishavan bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3397/bibliography",
+   "found_in_search": true
+  }
+ ]
+}

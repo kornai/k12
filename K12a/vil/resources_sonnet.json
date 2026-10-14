@@ -1,0 +1,38 @@
+{
+ "iso": "vil",
+ "name": "Vilela",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:59:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vilela language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vilela_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lule-Vilela languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lule%E2%80%93Vilela_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Vilela numerals (MPI-EVA Chaco numerals)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Vilela.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Vilela",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/fr/node/103280",
+   "found_in_search": true
+  }
+ ]
+}
