@@ -1,0 +1,24 @@
+{
+ "iso": "toe",
+ "name": "Tomedes",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:20:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "IANA language subtag record for toe (deprecated)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/toe.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tomedes (tome1239)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tome1239.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}
