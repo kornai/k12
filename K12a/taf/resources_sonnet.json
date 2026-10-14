@@ -1,0 +1,59 @@
+{
+ "iso": "taf",
+ "name": "Tapirapé",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:13:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tapirapé language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tapirap%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bilingual school in the Apyãwa community (RBLA)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.scielo.br/j/rbla/a/xLNpDdSsQ6fW5F3B7fpwwHp/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Neologisms at Escola Estadual Indígena Tapi'itãwa (UnB journal)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.unb.br/index.php/lcapital/article/download/8598/7157/14864",
+   "found_in_search": true
+  },
+  {
+   "title": "Modern foreign language in the Tapi'itãwa school (Revista Prática Docente)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.cfs.ifmt.edu.br/periodicos/index.php/rpd/article/download/642/631/1254",
+   "found_in_search": true
+  },
+  {
+   "title": "Modern foreign language in the State Indigenous School Tapi'itãwa (record)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://oasisbr.ibict.br/vufind/Record/IFMT_f2dbaeecdcc990cadb914b9dd0885ec8",
+   "found_in_search": true
+  },
+  {
+   "title": "Morfossintaxe da língua tapirapé (thesis record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://oasisbr.ibict.br/vufind/Record/UNB_a01804ab48b2793206ff05613764bc56",
+   "found_in_search": true
+  },
+  {
+   "title": "Tapirapé dictionary proposal (UnB TCC, 2019)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://bdm.unb.br/bitstream/10483/27009/1/2019_NykMattheusCasseanoAndrade_tcc.pdf",
+   "found_in_search": true
+  }
+ ]
+}

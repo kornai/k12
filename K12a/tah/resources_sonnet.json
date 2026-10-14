@@ -1,0 +1,66 @@
+{
+ "iso": "tah",
+ "name": "Tahitian",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:13:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tahitian Academy (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tahitian_Academy",
+   "found_in_search": true
+  },
+  {
+   "title": "Eduscol document on regional languages (weekly Tahitian hour in 6ème)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://eduscol.education.fr/document/1043/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Fare Vāna'a download page 71",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.farevanaa.pf/fra/download/71",
+   "found_in_search": true
+  },
+  {
+   "title": "Fare Vāna'a download page 3",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.farevanaa.pf/fra/download/3",
+   "found_in_search": true
+  },
+  {
+   "title": "Évolution du site internet du Fare Vāna'a",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.service-public.pf/dgen/evolution-du-site-internet-du-fare-vanaa/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Tahitian dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/tahitien_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Reo app and site, trilingual version (Outremers360)",
+   "type": "software",
+   "language": "other",
+   "url": "https://outremers360.com/culture/polynesie-une-version-trilingue-pour-lapplication-et-le-site-reo",
+   "found_in_search": true
+  },
+  {
+   "title": "Learn Tahitian terms with reo",
+   "type": "other",
+   "language": "English",
+   "url": "https://tahitidanceonline.com/learn-tahitian-terms-with-reo/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tae",
+ "name": "Tariana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:13:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tariana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tariana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Tariana, from Northwest Amazonia (preface, Cambridge)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/books/grammar-of-tariana-from-northwest-amazonia/preface/5D332A41C99B84F1722398329C0290CE",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List review 15.606",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/15/606/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tariana grammar contents (PDF)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.aikhenvaldlinguistics.com/pdfs/tariana/language/tariana-grammar-contents.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Aikhenvald: Tariana research page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://aikhenvaldlinguistics.com/research/tariana",
+   "found_in_search": true
+  },
+  {
+   "title": "Le tariana (PDF)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.aikhenvaldlinguistics.com/pdfs/tariana/language/le-tariana.pdf",
+   "found_in_search": true
+  }
+ ]
+}
