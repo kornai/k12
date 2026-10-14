@@ -1,0 +1,52 @@
+{
+ "iso": "vut",
+ "name": "Vute",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:15:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vute (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/vute.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Vute",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=vut",
+   "found_in_search": true
+  },
+  {
+   "title": "Translation tips: Vute",
+   "type": "other",
+   "language": "English",
+   "url": "https://tips.translation.bible/tip_language/vut/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Vute language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vut",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Vute in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15807/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Vute language lexical resource (CoCoon)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=vut",
+   "found_in_search": true
+  }
+ ]
+}
