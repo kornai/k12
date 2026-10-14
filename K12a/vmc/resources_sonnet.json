@@ -1,0 +1,45 @@
+{
+ "iso": "vmc",
+ "name": "Mixtec, Juxtlahuaca",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:06:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AILLA Swadesh List: Piedra Azul, Juxtlahuaca",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A129133",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Juxtlahuaca Mixtec-English dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/vmc/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Juxtlahuaca Mixtec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/vmc",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Juxtlahuaca Mixtec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/vmc/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Catalogue: Southern Baja Mixtec",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10535?hl=es",
+   "found_in_search": true
+  }
+ ]
+}

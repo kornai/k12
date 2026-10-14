@@ -1,0 +1,45 @@
+{
+ "iso": "vmd",
+ "name": "Koraga, Mudu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:06:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Koraga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Koraga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Mudu Koraga",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5651",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Mudu Koraga bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5651/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Mudu Koraga",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mudu1241.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Koraga Language (monograph listing, Exotic India)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.exoticindiaart.com/book/details/NAM053/",
+   "found_in_search": true
+  }
+ ]
+}
