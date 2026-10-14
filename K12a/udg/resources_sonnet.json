@@ -1,0 +1,38 @@
+{
+ "iso": "udg",
+ "name": "Muduga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:43:07Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Muduga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Muduga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Attapady Kurumba language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Attapady_Kurumba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog languoid page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/pkr",
+   "found_in_search": true
+  },
+  {
+   "title": "Mudugar in India (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/17697",
+   "found_in_search": true
+  }
+ ]
+}
