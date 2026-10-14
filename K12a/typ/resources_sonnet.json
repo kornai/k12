@@ -1,0 +1,38 @@
+{
+ "iso": "typ",
+ "name": "Thaypan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:53:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gugu Thaypan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gugu_Thaypan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Thaypan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/thay1248",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang Y84 Kuku Thaypan",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/Y84",
+   "found_in_search": true
+  },
+  {
+   "title": "ELAR Cape York Paman documentation text samples (includes Kuku Thaypan)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/3446/samples/11510",
+   "found_in_search": true
+  }
+ ]
+}

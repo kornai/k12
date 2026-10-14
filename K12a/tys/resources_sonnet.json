@@ -1,0 +1,45 @@
+{
+ "iso": "tys",
+ "name": "Tày Sa Pa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:53:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sapa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sapa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Some preliminary comments on the phonological system of Tày Muang Bo lect (Sa Pa, Lao Cai)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://vjol.info.vn/dhcnhn/article/view/109852",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tay Sa Pa in Vietnam",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19578",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language page for tys",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/tys",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: language page for tys",
+   "type": "audio",
+   "language": "other",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/tys",
+   "found_in_search": true
+  }
+ ]
+}

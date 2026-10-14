@@ -1,0 +1,59 @@
+{
+ "iso": "tyr",
+ "name": "Tai Daeng",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:53:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tai Daeng language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Daeng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Viet script (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Viet_script",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tai Dam script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/taidon.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Cocoon/Huma-Num catalogue entry for Tai Daeng (tyr)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=tyr",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Daeng numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tai-Daeng.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tai Daeng in Laos",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15186/LA",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tai Daeng endangered language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/TaiDaeng",
+   "found_in_search": true
+  }
+ ]
+}
