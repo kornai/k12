@@ -1,0 +1,38 @@
+{
+ "iso": "tel",
+ "name": "Telugu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:49:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Telangana Board books (Careers360), pointing to SCERT Telangana e-Textbooks",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://school.careers360.com/boards/bse-telangana/telangana-board-books-for-class-10-bsar",
+   "found_in_search": true
+  },
+  {
+   "title": "Telugu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Telugu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Charles Philip Brown (Wikipedia)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Charles_Philip_Brown",
+   "found_in_search": true
+  },
+  {
+   "title": "Telugu dictionary links (Lexilogos)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/english/telugu_dictionary.htm",
+   "found_in_search": true
+  }
+ ]
+}

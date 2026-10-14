@@ -1,0 +1,45 @@
+{
+ "iso": "tem",
+ "name": "Themne",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:49:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Temne in Sierra Leone (Joshua Project; lists literacy primer)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15333/SL",
+   "found_in_search": true
+  },
+  {
+   "title": "Themne Literacy and Scripture Engagement (Lutheran Bible Translators)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://lbt.org/wp-content/uploads/2020/09/Themne-Literacy-and-Scripture-Engagement.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Temne language (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Temne_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lutheran Bible Translators: Sierra Leone",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://lbt.org/country/sierra-leone",
+   "found_in_search": true
+  },
+  {
+   "title": "Temne-Banta in Sierra Leone (Joshua Project)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10660/SL",
+   "found_in_search": true
+  }
+ ]
+}
