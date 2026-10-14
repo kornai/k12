@@ -1,0 +1,45 @@
+{
+ "iso": "vaf",
+ "name": "Vafsi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:50:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vafsi dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vafsi_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Vafsi Folk Tales (Reichert 2004), preface",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://reichert-verlag.de/media/pdf/9783895004230_preface.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Vafsi Folk Tales (Reichert 2004), sample",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://reichert-verlag.de/media/pdf/9783895004230_sample.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Tatic Vafsi wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/TATIC_VAFSI",
+   "found_in_search": true
+  },
+  {
+   "title": "ILEX Foundation: Stilo on Iranian folklore and dialects project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ilexfoundation.org/?p=233",
+   "found_in_search": true
+  }
+ ]
+}

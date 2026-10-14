@@ -1,0 +1,31 @@
+{
+ "iso": "vaa",
+ "name": "Vaagri Booli",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:50:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vaagri Booli language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vaagri_Booli_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Vaagri boli multilingual dictionary listing (Bharatavani)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://bharatavani.in/gujarati/bhashakosha?page=3",
+   "found_in_search": true
+  },
+  {
+   "title": "Vaagri Booli numerals (Max Planck Lingweb)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Vaagri-Booli.htm",
+   "found_in_search": true
+  }
+ ]
+}
