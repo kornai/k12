@@ -1,0 +1,73 @@
+{
+ "iso": "tpx",
+ "name": "Acatepec Me’phaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:38:02Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aprendiendo en Me'phaa o Tlapaneco (UNICEF Mexico)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.unicef.org/mexico/informes/aprendiendo-en-tlapaneco",
+   "found_in_search": true
+  },
+  {
+   "title": "Ajngaa me' phaa: lengua tlapaneca, Guerrero, primer ciclo: libro de lecturas (UPN catalogue)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://sibi.upn.mx/bib/99456",
+   "found_in_search": true
+  },
+  {
+   "title": "Programa de lengua me'phaa, Chilpancingo, Guerrero (UPN catalogue)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://sibi.upn.mx/bib/203465",
+   "found_in_search": true
+  },
+  {
+   "title": "UPN catalogue record (Me'phaa/Tlapanec material)",
+   "type": "other",
+   "language": "other",
+   "url": "https://sibi.upn.mx/bib/122690",
+   "found_in_search": true
+  },
+  {
+   "title": "UPN catalogue record (Me'phaa/Tlapanec material)",
+   "type": "other",
+   "language": "other",
+   "url": "https://sibi.upn.mx/bib/200810",
+   "found_in_search": true
+  },
+  {
+   "title": "Paul Radin 1935, Notes on the Tlapanec Language of Guerrero (Glottolog)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/96422",
+   "found_in_search": true
+  },
+  {
+   "title": "Tlapanec (Me'phaa) writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tlapanec.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "KU talking dictionary project, Me'phaa-English-Spanish (news item)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://news.ku.edu/news/article/2021/04/29/talking-dictionary-link-lawrence-kansas-and-guerrero-mexico",
+   "found_in_search": true
+  },
+  {
+   "title": "Tlapanec Acatepec John (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/TPXWBT",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "tpy",
+ "name": "Trumai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:38:02Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Reference Grammar of Trumai (Guirardello, 1999), Socioambiental record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://acervo.socioambiental.org/acervo/tesesdissertacoes/reference-grammar-trumai",
+   "found_in_search": true
+  },
+  {
+   "title": "A Reference Grammar of Trumai, Socioambiental record (mirror address)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://acervo-tmp.socioambiental.org/acervo/tesesdissertacoes/reference-grammar-trumai",
+   "found_in_search": true
+  },
+  {
+   "title": "Trumai, chapter by Guirardello-Damian (Langsci Press)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://langsci-press.org/catalog/view/167/741/840-1",
+   "found_in_search": true
+  },
+  {
+   "title": "Ergativity in Trumai (2010), Ergativity in Amazonia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.jbe-platform.com/content/books/9789027288509-tsl.89.09raq",
+   "found_in_search": true
+  },
+  {
+   "title": "Ergativity in Amazonia, chapter page (Benjamins)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lwc1.benjamins.com/catalog/tsl.89.09raq",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista Linguistica (UFRJ) article, content not checked",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.ufrj.br/index.php/rl/article/download/25562/13842/62713",
+   "found_in_search": true
+  },
+  {
+   "title": "Trumai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Trumai_language",
+   "found_in_search": true
+  }
+ ]
+}

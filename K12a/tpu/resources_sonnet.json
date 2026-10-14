@@ -1,0 +1,73 @@
+{
+ "iso": "tpu",
+ "name": "Tampuan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:38:02Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tampuan-English dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/tampuan/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tampuan Webonary entry page",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/tampuan/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Tampuan Khmer English Dictionary (2007), Center for Khmer Studies Library record",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://library.khmerstudies.org/bib/1674",
+   "found_in_search": true
+  },
+  {
+   "title": "Walter Dawson, paper on Tampuan education",
+   "type": "academic",
+   "language": "English",
+   "url": "https://icu.repo.nii.ac.jp/record/1403/files/KJ00004933597.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tampuan numerals (MPI-EVA)",
+   "type": "other",
+   "language": "native",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tampuan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tampuan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tampuan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tampuan people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tampuan_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Tampuan lexical record (Huma-Num CRDO)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=tpu",
+   "found_in_search": true
+  },
+  {
+   "title": "Tampuan writing system (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tampuan.htm",
+   "found_in_search": true
+  }
+ ]
+}

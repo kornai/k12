@@ -1,0 +1,52 @@
+{
+ "iso": "tpv",
+ "name": "Tanapag",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:38:02Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tanapag language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tanapag_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Saipan Carolinian Tanapag wordlist (ABVD)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=339",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: tpv",
+   "type": "other",
+   "language": "other",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tpv",
+   "found_in_search": true
+  },
+  {
+   "title": "Numbers in Carolinian (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/language/numbers/carolinian.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Pacific Worlds CNMI: Carolinian vocabulary",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.pacificworlds.com/cnmi/native/lang2.cfm",
+   "found_in_search": true
+  },
+  {
+   "title": "Pacific Worlds CNMI: language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.pacificworlds.com/cnmi/arrival/lang1.cfm",
+   "found_in_search": true
+  }
+ ]
+}
