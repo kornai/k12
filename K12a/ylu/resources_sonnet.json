@@ -1,0 +1,66 @@
+{
+ "iso": "ylu",
+ "name": "Aribwaung",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:53:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aribwaung language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aribwaung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Archives: Aribwaungg (Yalu) lexis, syntactic check list, notes, Ross grammar sketch and text",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://archivescollection.anu.edu.au/index.php/aribwaungg-yalu-language-papua-new-guinea-includes-lexis-syntactic-check-list-notes-yalu-from-malcolm-ross-grammar-sketch-and-text",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals: Aribwaung (Yalu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Aribwaung-Yalu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Aribwaung",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/ylu",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC SH2 ANUA520_4401",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/SH2/ANUA520_4401",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC SH2 ANUA520_4407",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/SH2/ANUA520_4407",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC SH2 ANUA520_4109",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/SH2/ANUA520_4109",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC SH2 ANUA520_4409",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.nabu-prod.paradisec.org.au/collections/SH2/items/ANUA520_4409",
+   "found_in_search": true
+  }
+ ]
+}

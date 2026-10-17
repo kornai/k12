@@ -1,0 +1,38 @@
+{
+ "iso": "yma",
+ "name": "Yamphe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:53:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yamphu: grammar, texts and lexicon (Rutgers, 1998), bookseller listing",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.boekwinkeltjes.nl/b/231029811/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yamphu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yamphu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yamphu (alt. name Yamphe)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3216",
+   "found_in_search": true
+  },
+  {
+   "title": "STEDT Yamphu etymological listing",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/group/31/1873",
+   "found_in_search": true
+  }
+ ]
+}
