@@ -1,0 +1,38 @@
+{
+ "iso": "yut",
+ "name": "Yopno",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pinkop Gen (Yopno New Testament and Psalms), eBible web edition",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/yut/FRT01.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Yopno Bible, complete PDF (eBible)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/pdf/yut/yut_all.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yopno Bible PDF (Scripture Earth)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/data/yut/PDF/00-PByut-web.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yopno Bible EPUB (eBible)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.ebible.org/epub/yut.epub",
+   "found_in_search": true
+  }
+ ]
+}
