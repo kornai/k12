@@ -1,0 +1,38 @@
+{
+ "iso": "xkg",
+ "name": "Kagoro",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Kagoro",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3250?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Kagoro",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Kagoro",
+   "found_in_search": true
+  },
+  {
+   "title": "Kita Maninka language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kita_Maninka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kagoro in Mali",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12413/ML",
+   "found_in_search": true
+  }
+ ]
+}
