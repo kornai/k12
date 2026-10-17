@@ -1,0 +1,59 @@
+{
+ "iso": "yer",
+ "name": "Tarok",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:34:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Tarok Language: Its Basic Principles and Grammar (Longtau, 2009)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_the-tarok-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarok language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tarok_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Blench 2000, Glottolog reference",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/134950",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarok young people's speech",
+   "type": "academic",
+   "language": "English",
+   "url": "https://api.equinoxpub.com/articles/28316",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarok Bible (eBible.org)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/details.php?id=yer",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarok Bible, about page (eBible.org)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://ebible.org/study/content/texts/yer/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tarok language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/yer",
+   "found_in_search": true
+  }
+ ]
+}
