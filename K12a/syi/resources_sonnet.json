@@ -1,0 +1,66 @@
+{
+ "iso": "syi",
+ "name": "Seki",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Seki language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Seki_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Seki (Sekiyani) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/seki.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot Seki chart (PDF)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/charts/seki.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Seki",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/95973",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Seki bibliography",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4615/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Seki (syi)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/syi/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexikos article on tone in dictionaries of Gabonese languages",
+   "type": "academic",
+   "language": "other",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/761/351",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Seki in Gabon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/19171/GB",
+   "found_in_search": true
+  }
+ ]
+}

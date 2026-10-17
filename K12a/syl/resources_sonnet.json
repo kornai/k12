@@ -1,0 +1,80 @@
+{
+ "iso": "syl",
+ "name": "Sylheti",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Let's Learn Sylheti",
+   "type": "primer",
+   "language": "English",
+   "url": "https://sylhetilanguage.net/learn-sylheti/",
+   "found_in_search": true
+  },
+  {
+   "title": "Sylheti Language Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://sylhetilanguage.net/test/",
+   "found_in_search": true
+  },
+  {
+   "title": "Living Dictionaries: Syloti",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://livingdictionaries.app/syloti/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Sylheti - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/sylheti.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikibooks: Sylheti/First Person",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://en.wikibooks.org/wiki/Sylheti/First_Person",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikibooks: Sylheti/Third Person",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://en.wikibooks.org/wiki/Sylheti/Third_Person",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: Syloti Nagri character entry",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://en.wiktionary.org/wiki/%EA%A0%8B",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: Syloti Nagri character entry",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://en.wiktionary.org/wiki/%EA%A0%86",
+   "found_in_search": true
+  },
+  {
+   "title": "Sylheti language resources (Universe of Memory)",
+   "type": "other",
+   "language": "English",
+   "url": "https://universeofmemory.com/sylheti-language-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Alphabets: Syloti Nagri",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.endangeredalphabets.net/?p=408",
+   "found_in_search": true
+  }
+ ]
+}
