@@ -1,0 +1,45 @@
+{
+ "iso": "yul",
+ "name": "Yulu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yulu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yulu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yulu - Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2307",
+   "found_in_search": true
+  },
+  {
+   "title": "Boyeldieu: similative and equative constructions (Benjamins)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://benjamins.com/catalog/tsl.117.10boy",
+   "found_in_search": true
+  },
+  {
+   "title": "Yulu numerals (MPI EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yulu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Brief grammar outlines of the Yulu and Kara languages (library record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.aiu.ac.ke/bib/64160",
+   "found_in_search": true
+  }
+ ]
+}
