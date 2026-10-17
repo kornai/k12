@@ -1,0 +1,38 @@
+{
+ "iso": "hsn",
+ "name": "Xiang Chinese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Synchronic and Diachronic Study of the Grammar of the Chinese Xiang Dialects (Wu 2011), catalogue record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9783110927481",
+   "found_in_search": true
+  },
+  {
+   "title": "New Xiang (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/New_Xiang",
+   "found_in_search": true
+  },
+  {
+   "title": "Xiangxiang dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xiangxiang_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Xiang (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/chinese/xiang.htm",
+   "found_in_search": true
+  }
+ ]
+}

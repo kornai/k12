@@ -1,0 +1,45 @@
+{
+ "iso": "kek",
+ "name": "Qꞌeqchiꞌ",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Q'eqchi', English, Spanish phrasebook and travel dictionary (bookseller listing)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://buxtonvillagebooks.com/book/9781731109422",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Q'eqchi' language and writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/qeqchi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Q'eqchi' Bible resources (listing 264)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?idx=264",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Q'eqchi' Bible resources (listing 2421)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?idx=2421",
+   "found_in_search": true
+  },
+  {
+   "title": "Q'eqchi' language overview (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:kek",
+   "found_in_search": true
+  }
+ ]
+}

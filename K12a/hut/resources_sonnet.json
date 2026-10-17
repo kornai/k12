@@ -1,0 +1,38 @@
+{
+ "iso": "hut",
+ "name": "Humla",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Humla Tibetan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Humla_Tibetan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "de Vries 2014, A Sociolinguistic Survey of Humla Tibetan (Glottolog record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/552808",
+   "found_in_search": true
+  },
+  {
+   "title": "Wilde 2001, Limi dialect phonology (ASJP source record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/sources/3045",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Humla",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/hut",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "gwf",
+ "name": "Gowro",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gowro language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gowro_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Gowro (Verbix endangered languages entry)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Gowro",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Gowro",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/gwf",
+   "found_in_search": true
+  },
+  {
+   "title": "Foundation for Endangered Languages: Gowro",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://fli-online.org/gowro/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "kej",
+ "name": "Kadar",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kadar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kadar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kadar people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kadar_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Kadar (Britannica)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.britannica.com/topic/Kadar",
+   "found_in_search": true
+  }
+ ]
+}

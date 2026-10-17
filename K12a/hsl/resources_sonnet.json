@@ -1,0 +1,45 @@
+{
+ "iso": "hsl",
+ "name": "Hausa Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hausa Sign Language project: Kano thematic sign dictionaries",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://hausa-sign-language.com/hausa-sign-language-2/",
+   "found_in_search": true
+  },
+  {
+   "title": "Maganar hannu / Hausa Sign Language (Buske series)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://buske.de/hbv_en/series/Maga",
+   "found_in_search": true
+  },
+  {
+   "title": "Hausa Sign Language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hausa_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "The Incorporation of Nigerian Signs in Deaf Education in Nigeria",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.peterlang.com/document/1095191",
+   "found_in_search": true
+  },
+  {
+   "title": "Sani Muhammad Jimada (Wikitongues fellow; HSL dictionary project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wikitongues.org/fellows/sani-muhammad-jimada/",
+   "found_in_search": true
+  }
+ ]
+}

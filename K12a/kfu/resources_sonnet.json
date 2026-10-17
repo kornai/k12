@@ -1,0 +1,38 @@
+{
+ "iso": "kfu",
+ "name": "Katkari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Descriptive analysis of Katkari dialect (S. B. Kulkarni, 1969), Glottolog reference",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/hh:gtd:Kulkarni:Katkari",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Katkari-English dictionary (community-built)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/kfu/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Katkari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Katkari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Katkari people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Katkari_people",
+   "found_in_search": true
+  }
+ ]
+}

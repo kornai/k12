@@ -1,0 +1,45 @@
+{
+ "iso": "gut",
+ "name": "Maléku Jaíka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Revista Electrónica Educare (2011): teaching indigenous languages incl. Maléku in Costa Rican schools",
+   "type": "academic",
+   "language": "other",
+   "url": "https://doaj.org/article/1fb5b2f1cac545bfb466b15ba40319ae",
+   "found_in_search": true
+  },
+  {
+   "title": "Maléku language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mal%C3%A9ku_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Maléku (malécu jaíca) (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/maleku.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Maléku",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/39280",
+   "found_in_search": true
+  },
+  {
+   "title": "Maleku: A Culture in Danger of Extinction (library record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://kimuk.conare.ac.cr/Record/PUNA_9e2859dc8fdceaa8df2f0fb7947e5693",
+   "found_in_search": true
+  }
+ ]
+}

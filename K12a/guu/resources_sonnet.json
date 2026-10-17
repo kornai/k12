@@ -1,0 +1,66 @@
+{
+ "iso": "guu",
+ "name": "Yanomamö",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diálogos entre a linguística, a educação e a antropologia na produção de materiais de alfabetização na língua sanöma (UFMG)",
+   "type": "primer",
+   "language": "other",
+   "url": "https://repositorio.ufmg.br/handle/1843/62336?mode=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Study of syllabic literacy method adapted to Parima B dialect (Universidad Central de Venezuela)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://saber.ucv.ve/jspui/handle/10872/18057",
+   "found_in_search": true
+  },
+  {
+   "title": "Práticas de Letramentos entre os Yanomae (UFPE dissertation)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufpe.br/jspui/bitstream/123456789/15294/1/Disserta%c3%a7%c3%a3o_Pr%c3%a1ticas_de_Letramentos_entre_os_Yanomae%202%20%281%29.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lizot, Jacques 1994 (Yanomami lexicon, Glottolog reference record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/131464",
+   "found_in_search": true
+  },
+  {
+   "title": "Review record of Yanomami-Spanish illustrated dictionary (UNESP)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://acervodigital.unesp.br/handle/11449/6410",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF BCS-0963595: Ninam dictionary project",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-0963595",
+   "found_in_search": true
+  },
+  {
+   "title": "Que língua os yanomamis falam? (National Geographic Brasil)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.nationalgeographicbrasil.com/cultura/2023/05/que-lingua-os-yanomamis-falam",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation and Description of the Yanomama of Papiu (ELDP archive)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0236/",
+   "found_in_search": true
+  }
+ ]
+}

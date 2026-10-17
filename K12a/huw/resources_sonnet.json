@@ -1,0 +1,38 @@
+{
+ "iso": "huw",
+ "name": "Hukumina",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hukumina language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hukumina_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Digging for the Roots of Language Death in Eastern Indonesia: The Cases of Kayeli and Hukumina",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/handle/1885/39691?mode=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages of Austronesia (OUP chapter)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://academic.oup.com/book/27194/chapter/196640810",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP database entry for Hukumina",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/HUKUMINA",
+   "found_in_search": true
+  }
+ ]
+}

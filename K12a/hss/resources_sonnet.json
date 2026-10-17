@@ -1,0 +1,31 @@
+{
+ "iso": "hss",
+ "name": "Harsusi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The documentation and ethnolinguistic analysis of Modern South Arabian: Harsusi (ELDP collection)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk0314/",
+   "found_in_search": true
+  },
+  {
+   "title": "Harsusi Texts from Oman (Stroomer), listing",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://reado.app/en/book/harsusi-texts-from-oman-harry-stroomer/9783447050975",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Harsusi lexicon entry",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/95881",
+   "found_in_search": true
+  }
+ ]
+}
