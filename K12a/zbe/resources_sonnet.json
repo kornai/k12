@@ -1,0 +1,66 @@
+{
+ "iso": "zbe",
+ "name": "Berawan, East",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "One Orthography, Four Lects: The Unified Berawan Orthography",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://publisher.unimas.my/ojs/index.php/BJK/article/view/2411",
+   "found_in_search": true
+  },
+  {
+   "title": "One Orthography, Four Lects (full text)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://publisher.unimas.my/ojs/index.php/BJK/article/view/2411/1012",
+   "found_in_search": true
+  },
+  {
+   "title": "Berawan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Berawan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Burkhardt: Terawan Berawan diphthongs",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sil-philippines-languages.org/ical/papers/burkhardt-terawan_berawan_dipthong.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Robert Blust recording RB1-003",
+   "type": "audio",
+   "language": "native",
+   "url": "https://researchdata.edu.au/rb1-003-robert-blust-recording/1577760",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue item RB1/003",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/RB1/003",
+   "found_in_search": true
+  },
+  {
+   "title": "Scholarspace record (Berawan search result)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/d68956e1-55ae-4d57-94a6-95ffb833d0cc/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Sarawak Museum: Berawan page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://museum.sarawak.gov.my/web/subpage/webpage_view/847",
+   "found_in_search": true
+  }
+ ]
+}
