@@ -1,0 +1,38 @@
+{
+ "iso": "ptt",
+ "name": "Enrekang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Enrekang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Enrekang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP word list: Enrekang",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/ENREKANG",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Duri (related language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/duri.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Duri dictionary on Webonary (related language)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/duri/?p=9444",
+   "found_in_search": true
+  }
+ ]
+}

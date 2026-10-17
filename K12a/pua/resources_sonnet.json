@@ -1,0 +1,66 @@
+{
+ "iso": "pua",
+ "name": "Western Highland Purepecha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SEP DGEIIB acervo historico ah_00097",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://dgeiib.basica.sep.gob.mx/files/fondo-editorial/acervo-historico/ah_00097.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SEP DGEIIB acervo historico ah_00067",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://dgeiib.basica.sep.gob.mx/files/fondo-editorial/acervo-historico/ah_00067.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SEP DGEIIB educacion intercultural cgeib_00062",
+   "type": "other",
+   "language": "other",
+   "url": "https://dgeiib.basica.sep.gob.mx/files/fondo-editorial/educacion-intercultural/cgeib_00062.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Dos lenguas para un poema (Nueva Escuela Mexicana)",
+   "type": "other",
+   "language": "other",
+   "url": "https://nuevaescuelamexicana.sep.gob.mx/contenido/coleccion/dos-lenguas-para-un-poema/",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistica Mexicana article on Purepecha grammar",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://linguisticamexicana-amla.colmex.mx/index.php/Linguistica_mexicana/article/download/385/355",
+   "found_in_search": true
+  },
+  {
+   "title": "Grammar for P'urhepecha speakers: dialectal variation and standard",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://revistaschilenas.uchile.cl/handle/2250/216755",
+   "found_in_search": true
+  },
+  {
+   "title": "Redalyc article on Purepecha",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.redalyc.org/pdf/1345/134553393006.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Arte de la lengua de Michoacan (Gilberti, 1558)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://linkgua-ediciones.com/en/producto/art-of-the-language-of-michoacan/",
+   "found_in_search": true
+  }
+ ]
+}

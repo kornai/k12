@@ -1,0 +1,38 @@
+{
+ "iso": "pud",
+ "name": "Punan Aput",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aput language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aput_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Punan Aput, Kalimantan (numerals project data page)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Punan-Aput.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Soriente and Inagaki: Kalimantan languages overview slides",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingdy.aa-ken.jp/wp-content/uploads/2012/01/120217_soriente_inagaki_h2.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Aput Punan in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14475",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "ptu",
+ "name": "Bambam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bambam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bambam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Bambam",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/bamb1270",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Bambam",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/bambam.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Mamasa language (Wikipedia, neighbouring language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mamasa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Bambam",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/ptu",
+   "found_in_search": true
+  }
+ ]
+}

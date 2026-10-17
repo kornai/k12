@@ -1,0 +1,52 @@
+{
+ "iso": "ptw",
+ "name": "Pentlatch",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pentlatch language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pentlatch_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Andreatta, Recalma, Urbanczyk: Boas's Pentlatch transcriptions (ICSNL 59)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingpapers.sites.olt.ubc.ca/files/2024/07/ICSNL59_Andreatta_Recalma_Urbanczyk_finished.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "APS: K'omoks materials, ACLS collection (Boas Comox and Pentlatch texts)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://indigenousguide.amphilsoc.org/entry/40023",
+   "found_in_search": true
+  },
+  {
+   "title": "Working Papers article, University of Victoria journals",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.uvic.ca/index.php/WPLC/article/view/21226/9592",
+   "found_in_search": true
+  },
+  {
+   "title": "YDLI: The Pentlatch Language",
+   "type": "other",
+   "language": "English",
+   "url": "https://ydli.org/langs/pentlatch.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: ptw",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Ptw",
+   "found_in_search": true
+  }
+ ]
+}
