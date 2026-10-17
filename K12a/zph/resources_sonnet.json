@@ -1,0 +1,38 @@
+{
+ "iso": "zph",
+ "name": "Zapotec, Totomachapan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:11:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Totomachapan Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Totomachapan_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Totomachapan Zapotec (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zph/",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Totomachapam",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Totomachapam",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Totomachapan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zph",
+   "found_in_search": true
+  }
+ ]
+}
