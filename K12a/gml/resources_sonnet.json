@@ -1,0 +1,38 @@
+{
+ "iso": "gml",
+ "name": "Middle Low German",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mittelniederdeutsches Handwörterbuch (Lübben)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://gutenberg.org/ebooks/61948",
+   "found_in_search": true
+  },
+  {
+   "title": "Reference Corpus Middle Low German / Low Rhenish (1200-1650), Münster",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://cris-portal.uni-muenster.de/portal/en/project/9492546",
+   "found_in_search": true
+  },
+  {
+   "title": "DFG project details: Reference Corpus Middle Low German",
+   "type": "academic",
+   "language": "English",
+   "url": "https://gepris.dfg.de/gepris/projekt/222400659",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Middle Low German translations",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/gml/mxv",
+   "found_in_search": true
+  }
+ ]
+}

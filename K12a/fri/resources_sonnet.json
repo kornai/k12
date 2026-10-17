@@ -1,0 +1,24 @@
+{
+ "iso": "fri",
+ "name": "Western Frisian (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Bookkeeping: Western Frisian (Retired)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/west2863",
+   "found_in_search": true
+  },
+  {
+   "title": "Language code information for Western Frisian (fry)",
+   "type": "other",
+   "language": "English",
+   "url": "https://localizely.com/language-code/fry/",
+   "found_in_search": true
+  }
+ ]
+}

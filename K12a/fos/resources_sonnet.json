@@ -1,0 +1,45 @@
+{
+ "iso": "fos",
+ "name": "Siraya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Siraya: Retrieving the Phonology, Grammar and Lexicon of a Dormant Formosan Language (Adelaar)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mitpressbookstore.mit.edu/book/9783110252958",
+   "found_in_search": true
+  },
+  {
+   "title": "Language revitalisation using historical texts: The case of Siraya (Joby)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ueaeprints.uea.ac.uk/id/eprint/99055",
+   "found_in_search": true
+  },
+  {
+   "title": "Review excerpt on Siraya (Project MUSE)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/530556",
+   "found_in_search": true
+  },
+  {
+   "title": "Siraya language finds its voice again in Taiwan (Mongabay)",
+   "type": "other",
+   "language": "English",
+   "url": "https://news.mongabay.com/2026/08/siraya-language-deemed-extinct-over-a-century-ago-finds-its-voice-again-in-taiwan/",
+   "found_in_search": true
+  },
+  {
+   "title": "Taiwan Today article on Siraya",
+   "type": "other",
+   "language": "English",
+   "url": "https://taiwantoday.tw/AMP/society/top-news/15091/{{url}}",
+   "found_in_search": true
+  }
+ ]
+}

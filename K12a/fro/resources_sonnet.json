@@ -1,0 +1,52 @@
+{
+ "iso": "fro",
+ "name": "Old French (842-ca. 1400)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lexicity: Franceis Old French guide",
+   "type": "other",
+   "language": "English",
+   "url": "https://oderalon.net/wiki/index.php/Lexicity/Franceis_Old_French",
+   "found_in_search": true
+  },
+  {
+   "title": "Kibler, An Introduction to Old French",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://backstory.london/products/9780873522922",
+   "found_in_search": true
+  },
+  {
+   "title": "Einhorn, Old French: A Concise Handbook (Cambridge Language Centre listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langf/data/fr_101.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Einhorn, Old French (e-book)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.redshelf.com/book/191915/old-french-191915-9780511864643-e-einhorn",
+   "found_in_search": true
+  },
+  {
+   "title": "Luquiens, An Introduction to Old French Phonology and Morphology",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.thriftbooks.com/w/an-introduction-to-old-french-phonology-and-morphology_frederick-bliss-luquiens/50285928/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire du moyen français (1330-1500)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://mdr-maa.org/resource/dictionnaire-du-moyen-francais-1330-1500/",
+   "found_in_search": true
+  }
+ ]
+}

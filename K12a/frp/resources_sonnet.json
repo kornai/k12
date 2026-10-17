@@ -1,0 +1,38 @@
+{
+ "iso": "frp",
+ "name": "Arpitan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Académie de Grenoble: semaine des langues régionales (documents with Franco-Provençal texts)",
+   "type": "other",
+   "language": "other",
+   "url": "https://savoie-educ.web.ac-grenoble.fr/sites/default/files/Media/document/semaine_langues_langues-regionales.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "BnF record: Franco-Provençal initiation method with small dictionary",
+   "type": "primer",
+   "language": "other",
+   "url": "https://catalogue.bnf.fr/ark:/12148/cb475034871",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistic overview of Franco-Provençal (HAL, LC18)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://halshs.archives-ouvertes.fr/ensl-00632464v1/file/LC18_francoprovencal.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Arpitan language (Simple English Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://simple.wikipedia.com/wiki/Arpitan_language",
+   "found_in_search": true
+  }
+ ]
+}
