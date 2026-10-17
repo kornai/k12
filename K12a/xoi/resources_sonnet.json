@@ -1,0 +1,38 @@
+{
+ "iso": "xoi",
+ "name": "Kominimung",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kominimung language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kominimung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kominimung - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10697",
+   "found_in_search": true
+  },
+  {
+   "title": "Kominimung bibliography - Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10697/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Kominimung in Papua New Guinea - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12763",
+   "found_in_search": true
+  }
+ ]
+}

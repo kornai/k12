@@ -1,0 +1,38 @@
+{
+ "iso": "xog",
+ "name": "Soga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Monolingual Lusoga Dictionary Faced with Demands from a New User Category",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/146",
+   "found_in_search": true
+  },
+  {
+   "title": "Compiling the First Monolingual Lusoga Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/434",
+   "found_in_search": true
+  },
+  {
+   "title": "The Monolingual Lusoga Dictionary Faced with Demands from a New User Category (AJOL)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ajol.info/index.php/lex/article/view/62723",
+   "found_in_search": true
+  },
+  {
+   "title": "Soga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.Wikipedia.com/wiki/Lusoga",
+   "found_in_search": true
+  }
+ ]
+}

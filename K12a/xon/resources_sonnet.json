@@ -1,0 +1,66 @@
+{
+ "iso": "xon",
+ "name": "Konkomba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Likpakpaanl (Konkomba) - English dictionary, Webonary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/likpakpaanl/about/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Konkomba language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Konkomba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record for Konkomba",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/sil16:35165",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Konkomba scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=xon",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Konkomba language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/xon",
+   "found_in_search": true
+  },
+  {
+   "title": "Konkomba people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Konkomba_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Konkomba - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/konkomba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ghana Institute of Linguistics, Literacy and Bible Translation (GILLBT)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.webonary.work/likpakpaanl/?p=23",
+   "found_in_search": true
+  }
+ ]
+}
