@@ -1,0 +1,38 @@
+{
+ "iso": "xch",
+ "name": "Chemakum",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:52:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Chemakum language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chemakum_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Chimakuan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chimakuan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Chemakum materials, ACLS collection (American Philosophical Society)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://indigenousguide.amphilsoc.org/index.php/entry/40008",
+   "found_in_search": true
+  },
+  {
+   "title": "Chemakum people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chemakum_people",
+   "found_in_search": true
+  }
+ ]
+}

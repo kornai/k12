@@ -1,0 +1,45 @@
+{
+ "iso": "xcl",
+ "name": "Classical-Middle Armenian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:52:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Intro to Classical Armenian",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://krapar.org/docs/Intro_to_Classical_Armenian.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Aspirantum: Classical Armenian (Grabar) syllabus, Lesson 1: Armenian Alphabet, the Sound System of Grabar",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://aspirantum.com/curriculum/classical-armenian-grabar-syllabus/armenian-alphabet-sound-system-of-grabar",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University: Klassiek Armeens course",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://studiegids.universiteitleiden.nl/courses/39198/klassiek-armeens",
+   "found_in_search": true
+  },
+  {
+   "title": "New Dictionary of the Armenian Language (2-volume set), Gorgias Press",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://gorgiaspress.com/new-dictionary-of-the-armenian-language-2-volume-set",
+   "found_in_search": true
+  },
+  {
+   "title": "Goettingen: lng xcl (Classical Armenian introductory unit)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://spw.uni-goettingen.de/projects/aig/lng-xcl.html",
+   "found_in_search": true
+  }
+ ]
+}

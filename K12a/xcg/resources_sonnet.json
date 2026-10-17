@@ -1,0 +1,45 @@
+{
+ "iso": "xcg",
+ "name": "Cisalpine Gaulish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:52:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cisalpine Gaulish (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Cisalpine_Gaulish",
+   "found_in_search": true
+  },
+  {
+   "title": "Lepontic language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lepontic_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexicon Leponticum (Digital Classicist wiki entry)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://wiki.digitalclassicist.org/Lexicon_Leponticum",
+   "found_in_search": true
+  },
+  {
+   "title": "Stifter, Cisalpine Celtic (Palaeohispanica 20, 2020), Maynooth repository",
+   "type": "academic",
+   "language": "English",
+   "url": "https://mural.maynoothuniversity.ie/id/eprint/14948/1/DS-Cisalpine-Celtic-2020.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Cisalpine Celtic (Academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/44688418/Cisalpine_Celtic",
+   "found_in_search": true
+  }
+ ]
+}
