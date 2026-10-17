@@ -1,0 +1,52 @@
+{
+ "iso": "wne",
+ "name": "Waneci",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:22:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wanetsi (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wanetsi",
+   "found_in_search": true
+  },
+  {
+   "title": "Wanetsi on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/wanetsi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Waneci wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WANECI",
+   "found_in_search": true
+  },
+  {
+   "title": "Hallberg 1992 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/120876",
+   "found_in_search": true
+  },
+  {
+   "title": "Waneci doculect database entry",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lemontree210.pythonanywhere.com/en/doculect/waneci",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO World Atlas of Languages record",
+   "type": "policy",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/node/73370",
+   "found_in_search": true
+  }
+ ]
+}

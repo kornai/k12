@@ -1,0 +1,52 @@
+{
+ "iso": "wng",
+ "name": "Wanggom",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:22:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wanggom people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wanggom_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Kombai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kombai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Wanggom (wang1299)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/wang1299.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Trans New Guinea database: Wanggom",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/language/wanggom?page=5",
+   "found_in_search": true
+  },
+  {
+   "title": "Kriens and Lebold 2010 wordlist source",
+   "type": "academic",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/kriens-and-lebold-2010?page=41",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wanggom in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/19493",
+   "found_in_search": true
+  }
+ ]
+}

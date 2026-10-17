@@ -1,0 +1,31 @@
+{
+ "iso": "wni",
+ "name": "Ndzwani Comorian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:22:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Comorian-English/English-Comorian (Shinzwani) Dictionary (Ottenheimer 2011)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/551282",
+   "found_in_search": true
+  },
+  {
+   "title": "Spelling Shinzwani: dictionary construction and orthographic choice in the Comoro Islands (Ottenheimer 2001)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/149583",
+   "found_in_search": true
+  },
+  {
+   "title": "Comorian languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Comorian_languages",
+   "found_in_search": true
+  }
+ ]
+}
