@@ -1,0 +1,45 @@
+{
+ "iso": "szb",
+ "name": "Ngalum",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:54:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngalum language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngalum_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngalum - New Guinea World (University of Zurich)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/central-west-new-guinea/digul-river-ok/ok/ngalum",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngalum people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngalum_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Suku Ngalum Ok, penjaga tradisi leluhur di Pegunungan Bintang (Good News from Indonesia)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.goodnewsfromindonesia.id/2025/03/06/suku-ngalum-ok-penjaga-tradisi-leluhur-di-pegunungan-bintang",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngalum - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10696?hl=pt-br",
+   "found_in_search": true
+  }
+ ]
+}

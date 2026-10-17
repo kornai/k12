@@ -1,0 +1,45 @@
+{
+ "iso": "sze",
+ "name": "Seze",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:54:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Seze language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Seze_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Klaus-Christian Küspert 2015 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/550165",
+   "found_in_search": true
+  },
+  {
+   "title": "Seze language profile (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/sze",
+   "found_in_search": true
+  },
+  {
+   "title": "Sezo (Verbix Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Sezo",
+   "found_in_search": true
+  },
+  {
+   "title": "Seze bibliography (Endangered Languages Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4607/bibliography",
+   "found_in_search": true
+  }
+ ]
+}

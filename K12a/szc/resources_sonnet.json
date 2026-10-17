@@ -1,0 +1,45 @@
+{
+ "iso": "szc",
+ "name": "Semaq Beri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:54:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Semaq Beri language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Semaq_Beri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nicole Kruspe 2015, Semaq Beri (Glottolog reference; Handbook of Austroasiatic Languages)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/450297",
+   "found_in_search": true
+  },
+  {
+   "title": "Semaq Beri Berua Lexicon (Kruspe Collection, Humlab Lund)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://archive.humlab.lu.se/flat/islandora/object/lat%3A10050_00_0000_0000_0004_09D7_6",
+   "found_in_search": true
+  },
+  {
+   "title": "Semoq Beri and Batek documentation project links (DoBeS)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/projects/semaq_beri_batek/links/",
+   "found_in_search": true
+  },
+  {
+   "title": "Semaq Beri - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/es/node/92472",
+   "found_in_search": true
+  }
+ ]
+}
