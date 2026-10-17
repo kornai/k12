@@ -1,0 +1,59 @@
+{
+ "iso": "wuh",
+ "name": "Wutunhua",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:36:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wutun language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wutun_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sandman: Wutun as a mixed language (abstract page)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.jbe-platform.com/content/journals/10.1075/jpcl.00103.san",
+   "found_in_search": true
+  },
+  {
+   "title": "Sandman: Sustainable Language 264 paper on Wutun",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.sgr.fi/sust/sust264/sust264_sandman.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Helsinki repository document on Wutun",
+   "type": "academic",
+   "language": "English",
+   "url": "https://helda.helsinki.fi/server/api/core/bitstreams/5e2bfb82-eda7-4d95-9bf3-8def8ef92b4d/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Log: Mixed languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://languagelog.ldc.upenn.edu/nll/?p=29508",
+   "found_in_search": true
+  },
+  {
+   "title": "ELDP archive: Primary data of Wutunhua",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0020/",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Wutun people-group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/qinghai/wutun.pdf",
+   "found_in_search": true
+  }
+ ]
+}

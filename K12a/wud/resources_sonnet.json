@@ -1,0 +1,45 @@
+{
+ "iso": "wud",
+ "name": "Wudu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:36:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wudu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wudu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Wudu (wudu1238)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/wudu1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ThoT Database: Wudu tonal status",
+   "type": "academic",
+   "language": "English",
+   "url": "https://thot.huma-num.fr/db/wudu1238/tonal_status",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wudu language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/wud",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wudu in Togo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19575",
+   "found_in_search": true
+  }
+ ]
+}

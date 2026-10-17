@@ -1,0 +1,24 @@
+{
+ "iso": "wua",
+ "name": "Wikngenchera",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:36:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kugu Nganhcara language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kugu_Nganhcara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik_languages",
+   "found_in_search": true
+  }
+ ]
+}

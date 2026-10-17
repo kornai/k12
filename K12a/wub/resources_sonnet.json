@@ -1,0 +1,45 @@
+{
+ "iso": "wub",
+ "name": "Wunambal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:36:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wunambal: A language of the North-West Kimberley Region, Western Australia (Carr, 2001)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://rune.une.edu.au/web/handle/1959.11/16787",
+   "found_in_search": true
+  },
+  {
+   "title": "Wunambal language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wunambal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AUSTLANG K39: Gaambera",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/K39",
+   "found_in_search": true
+  },
+  {
+   "title": "Handbook of Kimberley Languages (1988), AUSTLANG entry",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/k22",
+   "found_in_search": true
+  },
+  {
+   "title": "Strengthening Wunambal Gaambera Language and Culture (grant record)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.grants.gov.au/Ga/Show/7422f780-f244-42a1-91bd-0360edd03563",
+   "found_in_search": true
+  }
+ ]
+}
