@@ -1,0 +1,52 @@
+{
+ "iso": "xni",
+ "name": "Ngarigu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Koch: Ngarigu documentary sources (Language, Land and Song, ch. 11)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.elpublishing.org/docs/6/01/LLS-Chapter-11-Koch.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngarigo (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngarigo",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Ngarigu",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/NGARIGU",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record ozbib:850",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/ozbib:850",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ngarigu",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6712?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ngarigu resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/40144/resources",
+   "found_in_search": true
+  }
+ ]
+}

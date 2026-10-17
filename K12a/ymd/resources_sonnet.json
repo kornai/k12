@@ -1,0 +1,52 @@
+{
+ "iso": "ymd",
+ "name": "Muda",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:55:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Muda language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Muda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Muda",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5185",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Muda",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Muda",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Muda in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18612/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language ymd",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ymd",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Muda people group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/muda.pdf",
+   "found_in_search": true
+  }
+ ]
+}

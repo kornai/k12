@@ -1,0 +1,38 @@
+{
+ "iso": "ynl",
+ "name": "Dubuporo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:02:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yangulam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yangulam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yangulam (yang1298)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yang1298.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Yangulam word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/YANGULAM",
+   "found_in_search": true
+  },
+  {
+   "title": "Trans New Guinea database: Yangulam",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/language/yangulam?page=6",
+   "found_in_search": true
+  }
+ ]
+}

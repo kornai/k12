@@ -1,0 +1,52 @@
+{
+ "iso": "ymj",
+ "name": "Muji Yi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:56:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Muji Yi (ymj, retired code)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/ymj",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Moji language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Moji_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Muzi language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Muzi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Northern Muji in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20606",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Southern Muji in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18613/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Muji people-group profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/muji.pdf",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "ykm",
+ "name": "Kap",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:49:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yakamul language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yakamul_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Kap language",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Kap",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Kap (endangered languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Kap",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kap",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10522?hl=ru",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yakamul in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15955/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: ykm",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/ykm",
+   "found_in_search": true
+  }
+ ]
+}

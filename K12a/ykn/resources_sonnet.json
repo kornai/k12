@@ -1,0 +1,45 @@
+{
+ "iso": "ykn",
+ "name": "Kua-nsi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:49:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kua-nsi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kua-nsi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "IPA illustration of Kua-nsi (Journal of the IPA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://core-cms.cambridgecore.org/core/services/aop-cambridge-core/content/view/618FA2E06E6EA639FDED569F86718003/S0025100324000161a.pdf/ipa-illustration-of-kuansi.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals in Languages of Yi group: Kua-nsi Yi (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yi-Kua-nsi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kua-nsi in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20588",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language ykn",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/ykn",
+   "found_in_search": true
+  }
+ ]
+}

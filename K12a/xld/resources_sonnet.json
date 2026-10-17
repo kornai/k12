@@ -1,0 +1,66 @@
+{
+ "iso": "xld",
+ "name": "Lydian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lydian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.org/wiki/Maeonian",
+   "found_in_search": true
+  },
+  {
+   "title": "eDiAna dictionary entry (Lydian)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.ediana-remake.gwi.uni-muenchen.de/dictionary/471",
+   "found_in_search": true
+  },
+  {
+   "title": "eDiAna dictionary entry (Lydian, second)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.ediana-remake.gwi.uni-muenchen.de/dictionary/473",
+   "found_in_search": true
+  },
+  {
+   "title": "eDiAna Lydian corpus entry",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.ediana-remake.gwi.uni-muenchen.de/corpus/lydian/66",
+   "found_in_search": true
+  },
+  {
+   "title": "Lost Voices of Lydia: A New Edition of the Lydian Inscriptions (Carlsberg Foundation)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://carlsbergfondet.dk/en/what-we-have-funded/cf24-0951/",
+   "found_in_search": true
+  },
+  {
+   "title": "Britannica: Anatolian languages using an alphabet",
+   "type": "other",
+   "language": "English",
+   "url": "https://britannica.com/topic/Anatolian-languages/Languages-using-an-alphabet",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia.edu item on Lydian (Sardis stele)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/35571454",
+   "found_in_search": true
+  },
+  {
+   "title": "Lydian: The Anatolian Branch of Indo-European and Its Documentation",
+   "type": "other",
+   "language": "English",
+   "url": "https://gravitee.io/corpus/gen-1871/anatolian-languages/lydian.html",
+   "found_in_search": true
+  }
+ ]
+}

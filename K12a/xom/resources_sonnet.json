@@ -1,0 +1,45 @@
+{
+ "iso": "xom",
+ "name": "Komo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Komo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Komo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Koman languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Koman_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Komo (Go-kwom / Tta Komo) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/komo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Gwama: Introduction to the Language and Sociocultural Aspects (related language)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glocal.soas.ac.uk/afala2023-91/",
+   "found_in_search": true
+  },
+  {
+   "title": "Gwama Webonary introduction (related language, not Komo)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/gwama/overview/introduction/",
+   "found_in_search": true
+  }
+ ]
+}

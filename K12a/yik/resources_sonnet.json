@@ -1,0 +1,38 @@
+{
+ "iso": "yik",
+ "name": "Lalo, Dongshanba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:41:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lalo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lalo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Lalo (Lund University)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.lunduniversity.lu.se/lup/publication/00a3c596-d8d1-4438-a7fa-abe79ceead0a",
+   "found_in_search": true
+  },
+  {
+   "title": "Vitality and endangerment of the Lalo language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://benjamins.com/catalog/ltba.38.2.05tin",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: yik",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/yik",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "iso": "yos",
+ "name": "Yos",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:06:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Bookkeeping entry for retired code yos",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/yos",
+   "found_in_search": true
+  },
+  {
+   "title": "IANA language subtag record for yos (deprecated, merged into zom)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/yos.txt",
+   "found_in_search": true
+  }
+ ]
+}

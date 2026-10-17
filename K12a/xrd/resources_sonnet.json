@@ -1,0 +1,52 @@
+{
+ "iso": "xrd",
+ "name": "Gundungurra",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngunnawal–Gundungurra language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngunnawal%E2%80%93Gundungurra_language",
+   "found_in_search": true
+  },
+  {
+   "title": "R. H. Mathews, The Gundungurra Language (Project Gutenberg)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://gutenberg.org/cache/epub/21866/pg21866-images.html",
+   "found_in_search": true
+  },
+  {
+   "title": "The Gundungurra Language (ManyBooks)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://manybooks.net/titles/mathewsr2186621866.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Kohen 1993, A dictionary of the Gundungurra language (Glottolog record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/303015",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Gundungurra",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/xrd",
+   "found_in_search": true
+  },
+  {
+   "title": "Gundungurra word list",
+   "type": "other",
+   "language": "other",
+   "url": "https://new.marapco.com/dkb39/gundungurra-word-list",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "ykt",
+ "name": "Kathu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:50:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kathu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kathu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Kathu word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=965",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Kathu (endangered languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Kathu",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kathu in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20602/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kathu",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5193",
+   "found_in_search": true
+  }
+ ]
+}

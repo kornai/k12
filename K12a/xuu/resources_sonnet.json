@@ -1,0 +1,38 @@
+{
+ "iso": "xuu",
+ "name": "Khwedam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:06:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project entry for Khwe",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/95985",
+   "found_in_search": true
+  },
+  {
+   "title": "Güldemann 1998 NIED report",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.iaaw.hu-berlin.de/de/afrika/linguistik/mitarbeiter/prof-dr-phil-tom-gueldemann/dokumente/gueldemann-1998a-nied-report",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsammalex language entry xuu",
+   "type": "other",
+   "language": "English",
+   "url": "https://tsammalex.clld.org/languages/xuu-b",
+   "found_in_search": true
+  },
+  {
+   "title": "The New Humanitarian article on the Khwe community",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.thenewhumanitarian.org/node/226285",
+   "found_in_search": true
+  }
+ ]
+}

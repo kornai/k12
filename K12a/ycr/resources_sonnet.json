@@ -1,0 +1,59 @@
+{
+ "iso": "ycr",
+ "name": "Yilan Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yilan Creole (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yilan_Creole",
+   "found_in_search": true
+  },
+  {
+   "title": "Yilan Creole Japanese (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yilan_Creole_Japanese",
+   "found_in_search": true
+  },
+  {
+   "title": "Qiu Peng MA thesis, University of Alberta (2015)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://era.library.ualberta.ca/files/02870z43h/Qiu_Peng_201502_MA.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "The language endangerment of Yilan Creole in the postcolonial Atayal community of Taiwan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/84d4b5a9-7814-45e4-ae6b-b28a63f44fdf",
+   "found_in_search": true
+  },
+  {
+   "title": "When Japanese Met Atayal (The Language Closet)",
+   "type": "other",
+   "language": "English",
+   "url": "https://thelanguagecloset.com/2020/11/28/when-japanese-met-atayal-yilan-creole-japanese/",
+   "found_in_search": true
+  },
+  {
+   "title": "Taiwan's Yilan Creole: Revitalizing the only Japanese-based creole language (Global Voices)",
+   "type": "other",
+   "language": "English",
+   "url": "https://globalvoices.org/2025/05/08/taiwans-yilan-creole-revitalizing-the-only-japanese-based-creole-language-in-the-world/",
+   "found_in_search": true
+  },
+  {
+   "title": "Meet the Speakers of the World's Last Japanese-Based Creole Language (TaiwanPlus)",
+   "type": "video",
+   "language": "English",
+   "url": "https://www.taiwanplus.com/news/highlights/connected/250402014/meet-the-speakers-of-the-worlds-last-japanese-based-creole-language",
+   "found_in_search": true
+  }
+ ]
+}

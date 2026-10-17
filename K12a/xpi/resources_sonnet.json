@@ -1,0 +1,66 @@
+{
+ "iso": "xpi",
+ "name": "Pictish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pictish language: Inscriptions (Carla Nayland)",
+   "type": "other",
+   "language": "English",
+   "url": "https://carlanayland.org/essays/pictish_inscriptions.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistic Background to Pictish and the Pictish Symbols Writing System",
+   "type": "academic",
+   "language": "English",
+   "url": "https://davidmm.web.unc.edu/2026/03/16/note-1-linguistic-background-to-pictish-and-the-pictish-symbols-writing-system/",
+   "found_in_search": true
+  },
+  {
+   "title": "Inscriptions of Pictland (Padel, Edinburgh thesis, 1972)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://era.ed.ac.uk/handle/1842/9863",
+   "found_in_search": true
+  },
+  {
+   "title": "Inscriptions of Pictland (full item record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://era.ed.ac.uk/items/5905762f-5dcc-4a9b-a685-4ee63bb7f34b/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Inscriptions of Pictland (PDF download)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://era.ed.ac.uk/bitstreams/3e9154fd-a18b-4a62-a399-cdd209387ae7/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Pictish",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Pictish",
+   "found_in_search": true
+  },
+  {
+   "title": "Pictish Language The Mysterious Ogham Inscriptions of Scotland",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/125488632",
+   "found_in_search": true
+  },
+  {
+   "title": "Conference presentation abstract on Pictish inscriptions",
+   "type": "academic",
+   "language": "other",
+   "url": "https://istina.ipmnet.ru/conferences/presentations/404295798/",
+   "found_in_search": true
+  }
+ ]
+}

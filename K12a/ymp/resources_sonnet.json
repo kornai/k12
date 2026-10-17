@@ -1,0 +1,31 @@
+{
+ "iso": "ymp",
+ "name": "Yamap",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:58:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yamap language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yamap_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yamap in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15970",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yamap (ymp), no recordings listed",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/ymp",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "ynn",
+ "name": "Yana",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:02:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yahi dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yahi_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Yana traditional narratives (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yana_traditional_narratives",
+   "found_in_search": true
+  },
+  {
+   "title": "Yana Dictionary (Sapir and Swadesh, 1960), UBC RelLex entry",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Yana_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Yana materials, ACLS collection (American Philosophical Society)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://indigenousguide.amphilsoc.org/entry/39835",
+   "found_in_search": true
+  },
+  {
+   "title": "Sacred Texts: Native American, California (mirror; Yana content unverified)",
+   "type": "other",
+   "language": "English",
+   "url": "https://neonvagabond.xyz/mirrors/sacred-texts/nam/ca/yat/index.htm",
+   "found_in_search": true
+  }
+ ]
+}

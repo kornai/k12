@@ -1,0 +1,45 @@
+{
+ "iso": "yro",
+ "name": "Yaroamë",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:13:59Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Educacao escolar yanomami e potiguara (UFPB thesis)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufpb.br/jspui/handle/tede/6455",
+   "found_in_search": true
+  },
+  {
+   "title": "MPF: restructuring of school education for Yanomami children in Roraima",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.mpf.mp.br/o-mpf/unidades/pr-rr/noticias/mpf-pede-reestruturacao-urgente-da-educacao-escolar-para-3-5-mil-criancas-e-jovens-yanomami-em-roraima",
+   "found_in_search": true
+  },
+  {
+   "title": "Iphan recognises Yanomami linguistic diversity (Instituto Socioambiental)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://site-antigo.socioambiental.org/en/print/6272",
+   "found_in_search": true
+  },
+  {
+   "title": "Lengua e cultura yanomami: diccionario ilustrado yanomami-espanol (Fargetti)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://acervodigital.unesp.br/handle/11449/6410",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF grant: Ninam dictionary (related Yanomaman language)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-0963595",
+   "found_in_search": true
+  }
+ ]
+}

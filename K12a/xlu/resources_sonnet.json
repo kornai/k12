@@ -1,0 +1,59 @@
+{
+ "iso": "xlu",
+ "name": "Cuneiform Luwian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of the Luwian Language (Yakubovich, Rieken)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.harrassowitz-verlag.de/A_Grammar_of_the_Luwian_Language/title_9153.ahtml",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of Cuneiform Luvian (Melchert)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.ebook.de/de/product/53495205/h_craig_melchert_a_dictionary_of_cuneiform_luvian.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Cuneiform Luvian Lexicon (University of Gothenburg)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://databaser.ub.gu.se/cuneiform-luvian-lexicon/188893",
+   "found_in_search": true
+  },
+  {
+   "title": "eDiAna Cuneiform Luwian corpus: KBo 10.42",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.ediana-remake.gwi.uni-muenchen.de/corpus/cuneiform/1069",
+   "found_in_search": true
+  },
+  {
+   "title": "eDiAna Cuneiform Luwian corpus: KBo 17.33+",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.ediana-remake.gwi.uni-muenchen.de/corpus/cuneiform/1166",
+   "found_in_search": true
+  },
+  {
+   "title": "eDiAna Cuneiform Luwian corpus text 1203",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.ediana-remake.gwi.uni-muenchen.de/corpus/cuneiform/1203",
+   "found_in_search": true
+  },
+  {
+   "title": "eDiAna dictionary entry 1527",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.ediana-remake.gwi.uni-muenchen.de/dictionary/1527",
+   "found_in_search": true
+  }
+ ]
+}

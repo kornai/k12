@@ -1,0 +1,52 @@
+{
+ "iso": "xna",
+ "name": "Ancient North Arabian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "OCIANA: Online Corpus of the Inscriptions of Ancient North Arabia",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.orinst.ox.ac.uk/node/142271",
+   "found_in_search": true
+  },
+  {
+   "title": "OCIANA: Ancient North Arabian scripts overview",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ociana.osu.edu/scripts_north_arabian",
+   "found_in_search": true
+  },
+  {
+   "title": "Survey of the Ancient North Arabian inscriptions from the Dumat al-Jandal area",
+   "type": "academic",
+   "language": "English",
+   "url": "https://archaeopresspublishing.com/ojs/index.php/PSAS/article/view/1203",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden scholarly publication on Safaitic",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3283748/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Ahmad Al-Jallad: pre-prints and open-access books",
+   "type": "academic",
+   "language": "English",
+   "url": "https://osu.academia.edu/AhmadAlJallad",
+   "found_in_search": true
+  },
+  {
+   "title": "Jordan Times: New insights emerged into ancient Safaitic script",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.jordantimes.com/news/local/new-insights-emerged-ancient-safaitic-script",
+   "found_in_search": true
+  }
+ ]
+}

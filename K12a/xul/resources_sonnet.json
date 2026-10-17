@@ -1,0 +1,52 @@
+{
+ "iso": "xul",
+ "name": "Ngunawal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "School children benefit from language revival (AIATSIS)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/whats-new/news/school-children-benefit-language-revival",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngunnawal Language Revival Project (AIATSIS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/research/current-projects/ngunnawal-language-revival-project",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS publication record 116700",
+   "type": "other",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/publication/116700",
+   "found_in_search": true
+  },
+  {
+   "title": "First steps on the Ngunawal language revitalization journey",
+   "type": "academic",
+   "language": "English",
+   "url": "https://core.ac.uk/works/19007414",
+   "found_in_search": true
+  },
+  {
+   "title": "ScholarSpace record 10125/25315",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/25315",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Canberra event page (language materials and dictionary)",
+   "type": "other",
+   "language": "English",
+   "url": "https://canberra.edu.au/events/Home/Event/461692",
+   "found_in_search": true
+  }
+ ]
+}

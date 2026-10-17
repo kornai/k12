@@ -1,0 +1,73 @@
+{
+ "iso": "ybj",
+ "name": "Hasha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hasha language, Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hasha_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Blench, Roger M. 2006 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/599473",
+   "found_in_search": true
+  },
+  {
+   "title": "Blench, Roger 2007 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/150919",
+   "found_in_search": true
+  },
+  {
+   "title": "Blench, Roger 2012 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/120179",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Catalogue: Hasha",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/485",
+   "found_in_search": true
+  },
+  {
+   "title": "Field trip to record the status of some little-known Nigerian languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/84505",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: ybj",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=ybj",
+   "found_in_search": true
+  },
+  {
+   "title": "Hasha (Hàshà), Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/hasha.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Hasha, Verbix",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Hasha",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xlp",
+ "name": "Lepontic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "LexLep: The Cisalpine Celtic Languages",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lexlep.univie.ac.at/wiki/The_Cisalpine_Celtic_Languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Lepontic language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lepontic_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Lepontic",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/lepontic.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Stifter: Lepontic (Scribd)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://es.scribd.com/document/65123135/Stifter-Lepontic",
+   "found_in_search": true
+  },
+  {
+   "title": "Lepontische Inschriften aus dem Brembanatal",
+   "type": "academic",
+   "language": "other",
+   "url": "https://edoc.hu-berlin.de/18452/34440",
+   "found_in_search": true
+  },
+  {
+   "title": "Lepontisch (Roots of Europe, Copenhagen, 2010)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://rootsofeurope.ku.dk/kalender/arkiv_2012/celtic_spring/lepontisch_ws_2010.pdf",
+   "found_in_search": true
+  }
+ ]
+}

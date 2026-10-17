@@ -1,0 +1,24 @@
+{
+ "iso": "yei",
+ "name": "Yeni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:33:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yeni language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yeni_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yeni (yeni1253)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yeni1253.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}

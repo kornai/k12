@@ -1,0 +1,31 @@
+{
+ "iso": "xnn",
+ "name": "Kankanay, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Northern Kankanay-English Dictionary (SIL Webonary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/northernkankanay/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kankanaey language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kankanaey_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kankanaey-English Dictionary, Kibungan dialect (Webonary), a different variety",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/kankanaey/?p=159999",
+   "found_in_search": true
+  }
+ ]
+}

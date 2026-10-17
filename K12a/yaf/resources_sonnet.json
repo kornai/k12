@@ -1,0 +1,52 @@
+{
+ "iso": "yaf",
+ "name": "Yaka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:18:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yaka (Yiyáká) - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yaka.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot Yaka chart (PDF)",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://www.omniglot.com/charts/yaka.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kyota, Kutumisa B. 1999 (Glottolog record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/127261",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Yaka dictionary: alphabet (Republic of Congo variety, verify)",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://www.webonary.work/yaka/overview/alphabet/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Yaka dictionary: entries explained",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/yaka/overview/entries-explained/",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Yaka dictionary: foreword",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/yaka/overview/foreword/?lang=en",
+   "found_in_search": true
+  }
+ ]
+}

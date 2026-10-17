@@ -1,0 +1,73 @@
+{
+ "iso": "xls",
+ "name": "Lusitanian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lusitanian language (overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:xls",
+   "found_in_search": true
+  },
+  {
+   "title": "Writing to the Gods in North-Western Roman Hispania",
+   "type": "academic",
+   "language": "English",
+   "url": "https://una-editions.fr/writing-to-the-gods-in-north-western-roman-hispania/",
+   "found_in_search": true
+  },
+  {
+   "title": "Stifter et al. study on Lusitanian (Maynooth University repository)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://mural.maynoothuniversity.ie/11398/1/Stifter",
+   "found_in_search": true
+  },
+  {
+   "title": "Docta UCM study of Lusitanian epigraphy",
+   "type": "academic",
+   "language": "other",
+   "url": "https://docta.ucm.es/rest/api/core/bitstreams/5bcef4ad-a05e-4e0d-9d8d-1205cbabca97/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Universidad de Zaragoza thesis text on Lusitanian inscriptions",
+   "type": "academic",
+   "language": "other",
+   "url": "https://zaguan.unizar.es/record/70251/files/texto_completo.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Masaryk University digital library PDF",
+   "type": "academic",
+   "language": "other",
+   "url": "https://digilib.phil.muni.cz/_flysystem/fedora/pdf/114048.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia.edu paper 9563554",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.academia.edu/9563554",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia.edu paper 31989410",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.academia.edu/31989410",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia.edu paper 193620",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.academia.edu/193620",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "yki",
+ "name": "Yoke",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:47:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yoke language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yoke_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lower Mamberamo languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lower_Mamberamo_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yoke",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/87899",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pauwi, Yoke in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14346",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yoke language (yki)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/yki",
+   "found_in_search": true
+  }
+ ]
+}

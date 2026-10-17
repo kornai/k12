@@ -1,0 +1,52 @@
+{
+ "iso": "xny",
+ "name": "Nyiyaparli",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wangka Maya Pilbara Aboriginal Language Centre: Nyiyaparli language page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/nyiyaparli",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangka Maya: Nyiyaparli cultural introduction",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/nyiyaparli/01-cultural-introduction",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: Nyiyaparli",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/a50",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Niabali (Nyiyaparli)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Niabali",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Open Research repository item (possibly related to Battin's Nyiyaparli grammar thesis; not confirmed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/e4a2bcc6-cda7-4380-af64-174b486fa7d4",
+   "found_in_search": true
+  },
+  {
+   "title": "Nyiyaparli native title claim description",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.drbilldayanthropologist.com/resources/NYIYAPARLI CLAIM DESCRIPTION 030903.pdf",
+   "found_in_search": true
+  }
+ ]
+}

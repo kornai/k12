@@ -1,0 +1,52 @@
+{
+ "iso": "ykr",
+ "name": "Yekora",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:49:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yekora language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yekora_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Yekora wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/YEKORA",
+   "found_in_search": true
+  },
+  {
+   "title": "Trans New Guinea database: Yekora",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/language/yekora?page=4",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals: Yekora, Papua New Guinea (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yekora.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yekora in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16016/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: ykr",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/ykr",
+   "found_in_search": true
+  }
+ ]
+}

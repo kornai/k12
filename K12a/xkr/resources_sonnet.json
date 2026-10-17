@@ -1,0 +1,45 @@
+{
+ "iso": "xkr",
+ "name": "Xakriabá",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Xakriabá language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xakriab%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Strategies for reclaiming Akwẽ Xakriabá through songs (Cadernos de Linguística, 2024)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://cadernos.abralin.org/index.php/cadernos/article/download/691/900/13606",
+   "found_in_search": true
+  },
+  {
+   "title": "Gestão territorial na Terra Indígena Xakriabá e a geopolítica das retomadas",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.revistas.una.ac.cr/index.php/geografica/article/view/3022",
+   "found_in_search": true
+  },
+  {
+   "title": "Tecnologia vira ferramenta contra o apagamento da língua dos Xakriabás (Estado de Minas)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.em.com.br/gerais/2026/04/amp/7401314-mg-tecnologia-vira-ferramenta-contra-o-apagamento-da-lingua-dos-xakriabas.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tecnologia vira ferramenta contra o apagamento da língua dos Xakriabás (Correio Braziliense)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.correiobraziliense.com.br/brasil/2026/04/7401337-tecnologia-vira-ferramenta-contra-o-apagamento-da-lingua-dos-xakriabas.html",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "yol",
+ "name": "Yola",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:05:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yola dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yola_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Yola dialect (Encyclopedia.pub)",
+   "type": "other",
+   "language": "English",
+   "url": "https://encyclopedia.pub/entry/27969",
+   "found_in_search": true
+  },
+  {
+   "title": "Yola Dialect (Wexford Hub)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wexfordhub.com/yola-dialect/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yola record, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/110358/printable/print",
+   "found_in_search": true
+  }
+ ]
+}

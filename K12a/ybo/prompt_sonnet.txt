@@ -1,0 +1,35 @@
+You will research 4 languages (ybo, ybx, yby, ych), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE ybo ===
+Please help me gather resources for the Yabong language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: ybo; Glottocode: yabo1240; family: Nuclear Trans New Guinea; macro-area: Papunesia; approx. speakers: about 1,500. Reference description: Yabong is a stable indigenous language of Papua New Guinea. It belongs to the Trans-New Guinea language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE ybx ===
+Please help me gather resources for the Yawiyo language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: ybx; Glottocode: yawi1238; family: Walioic; macro-area: Papunesia; approx. speakers: about 66. Reference description: Yawiyo is an endangered indigenous language of Papua New Guinea. It belongs to the Sepik language family. The language is used as a first language by all adults in the ethnic community, but not all young people. It is not known to be taught in schools.
+
+=== LANGUAGE yby ===
+Please help me gather resources for the Yaweyuha language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yby; Glottocode: yawe1241; family: Nuclear Trans New Guinea; macro-area: Papunesia; approx. speakers: about 2,000. Reference description: Yaweyuha is a stable indigenous language of Papua New Guinea. It belongs to the Trans-New Guinea language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE ych ===
+Please help me gather resources for the Chesu language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: ych; Glottocode: ches1238; family: Sino-Tibetan; macro-area: Eurasia. Reference description: Chesu is an endangered indigenous language of China. It belongs to the Sino-Tibetan language family. Direct evidence is lacking, but the language is thought to be used as a first language by adults only. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

@@ -1,0 +1,38 @@
+{
+ "iso": "xnq",
+ "name": "Xingoni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Algumas notas gramaticais sobre Xingoni (SIL Mozambique, 2008)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://publikationen.ub.uni-frankfurt.de/opus4/files/22301/SILMozambique_GramaticaisXingoni.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngoni language (Mozambique) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngoni_language_(Mozambique)",
+   "found_in_search": true
+  },
+  {
+   "title": "Xingoni in Mozambique (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/21982",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngoni (Chingoni / Xingoni) (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/ngoni.htm",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "ykh",
+ "name": "Khamnigan Mongol",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:47:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Khamnigan Mongol (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khamnigan_Mongol",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Khamnigan Mongol",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kham1281",
+   "found_in_search": true
+  },
+  {
+   "title": "Janhunen: Khamnigan Mongol (grammar sketch, 2003)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/cldf:janhunen:03:1",
+   "found_in_search": true
+  },
+  {
+   "title": "Yu: A Study of the Mongol Khamnigan Spoken in Northeastern Mongolia (2011)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/39648",
+   "found_in_search": true
+  },
+  {
+   "title": "Basic vocabularies of several Khamnigan communities in China and Mongolia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cris.huji.ac.il/en/publications/basic-vocabularies-of-several-khamnigan-communities-in-china-mong/",
+   "found_in_search": true
+  },
+  {
+   "title": "Basic vocabularies of three groups of Khamnigans",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.altaist.org/?p=5201",
+   "found_in_search": true
+  },
+  {
+   "title": "Comparative Dictionary of Mongolic Languages (Yamakoshi)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://mongolicbv.aa-ken.jp/download/download_version_20260325.html",
+   "found_in_search": true
+  }
+ ]
+}

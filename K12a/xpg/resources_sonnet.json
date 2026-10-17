@@ -1,0 +1,66 @@
+{
+ "iso": "xpg",
+ "name": "Phrygian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Introduction to Phrygian (course PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.uvm.edu/~jbailly/courses/Indo-European/EggyPhrygian%20(1).pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Corpus Inscriptionum Neo-Phrygiarum II (Calder)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/journals/journal-of-hellenic-studies/article/corpus-inscriptionum-neophrygiarumii/81BE82C4646F67EC61EB5AC1F65632F7",
+   "found_in_search": true
+  },
+  {
+   "title": "Corpus Inscriptionum Neo-Phrygiarum III (Calder)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/journals/journal-of-hellenic-studies/article/corpus-inscriptionum-neophrygiarum-iii/BABC2A2F5103F5057F70DAE520933142",
+   "found_in_search": true
+  },
+  {
+   "title": "New Neo-Phrygian inscriptions",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/new-neophrygian-inscriptions/D4413A3A4728D10F0A3DAA8425BF4224",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexicon of the Phrygian Inscriptions (Obrador Cursach dissertation)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://tesisenred.net/handle/10803/650834?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Greek-Phrygian contact and sociolinguistic context in the Neo-Phrygian corpus",
+   "type": "academic",
+   "language": "English",
+   "url": "https://produccioncientifica.usal.es/documentos/659fe270aaaaaa46358cc728",
+   "found_in_search": true
+  },
+  {
+   "title": "Phrygian paper (NBU repository)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://eprints.nbu.bg/id/eprint/2641/1/8.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Phrygian language overview",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:xpg",
+   "found_in_search": true
+  }
+ ]
+}

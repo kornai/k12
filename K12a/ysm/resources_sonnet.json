@@ -1,0 +1,66 @@
+{
+ "iso": "ysm",
+ "name": "Myanmar Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:16:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "JICA: Supporting Social Welfare Administrator Training (standardized MSL teaching materials)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.jica.go.jp/myanmar/english/activities/activity08.html",
+   "found_in_search": true
+  },
+  {
+   "title": "MyanmarSignWriting Fingerspelling Keyboards slides (sws72)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.signwriting.org/archive/public/files/sws72_MyanmarSignWriting_Fingerspelling_Keyboards_slide.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Two Fingerspelling Keyboard Layouts for Myanmar SignWriting",
+   "type": "software",
+   "language": "English",
+   "url": "https://meral.edu.mm/record/7671/files/Two%20Fingerspelling%20Keyboard%20Layouts%20for%20Myanmar%20SignWriting.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "MERAL record 7668",
+   "type": "academic",
+   "language": "English",
+   "url": "https://meral.edu.mm/records/7668",
+   "found_in_search": true
+  },
+  {
+   "title": "MERAL record 7691",
+   "type": "academic",
+   "language": "English",
+   "url": "https://meral.edu.mm/records/7691",
+   "found_in_search": true
+  },
+  {
+   "title": "Myanmar sign language alphabet and number gesture images (JIIST paper)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ph05.tci-thaijo.org/index.php/JIIST/article/download/101/95",
+   "found_in_search": true
+  },
+  {
+   "title": "Myanmar page (David Bar-Tzur, The Interpreter's Friend)",
+   "type": "other",
+   "language": "English",
+   "url": "https://theinterpretersfriend.com/indj/dcoew/myanmar.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Myanmar Sign Language (IEEE DataPort)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://ieee-dataport.org/documents/myanmar-sign-language",
+   "found_in_search": true
+  }
+ ]
+}

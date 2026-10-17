@@ -1,0 +1,45 @@
+{
+ "iso": "yre",
+ "name": "Yaouré",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:12:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yaure language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yaure_language",
+   "found_in_search": true
+  },
+  {
+   "title": "CNRS WEBBALL bibliography for Yaouré",
+   "type": "academic",
+   "language": "other",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio.php?LGNOM=Yao",
+   "found_in_search": true
+  },
+  {
+   "title": "Yaouré New Testament (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/YREWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Yaouré scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=yre",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yaoure audio",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/yre",
+   "found_in_search": true
+  }
+ ]
+}

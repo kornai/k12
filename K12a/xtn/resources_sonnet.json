@@ -1,0 +1,59 @@
+{
+ "iso": "xtn",
+ "name": "Northern Tlaxiaco Mixtec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:58:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ASJP: Mixtec Northern Tlaxiaco",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/MIXTEC_NORTHERN_TLAXIACO",
+   "found_in_search": true
+  },
+  {
+   "title": "El Nuevo Testamento en el mixteco del norte de Tlaxiaco (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/XTNWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "eBible.org: Mixtec, Northern Tlaxiaco",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/xtn/copyright.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mixteco, Tlaxiaco Norte",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/14036/US",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mixtec, Northern Tlaxiaco",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/xtn",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Northern Tlaxiaco, Yosoñama",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/14129",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Northern Tlaxiaco, Santiago Nundiche",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/25422",
+   "found_in_search": true
+  }
+ ]
+}

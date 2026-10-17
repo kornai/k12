@@ -1,0 +1,66 @@
+{
+ "iso": "xma",
+ "name": "Mushungulu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Somali Chizigula dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/somali-chizigula/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Zigula language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zigula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zigula language (xma, Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:xma",
+   "found_in_search": true
+  },
+  {
+   "title": "Mushungulu (Verbix Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Mushungulu",
+   "found_in_search": true
+  },
+  {
+   "title": "Menkhaus 2003 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/27783",
+   "found_in_search": true
+  },
+  {
+   "title": "Zigula in Somalia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13892/SO",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page xma",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/xma",
+   "found_in_search": true
+  },
+  {
+   "title": "Somali Bantus (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.org/wiki/Mushungulu",
+   "found_in_search": true
+  }
+ ]
+}

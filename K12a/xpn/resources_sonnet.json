@@ -1,0 +1,73 @@
+{
+ "iso": "xpn",
+ "name": "Kapinawá",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Caminhando pela cultura e lutas dos povos Kapinawá em Buíque-PE: um relato de campo",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufpe.br/revistas/mutiro/article/view/254320",
+   "found_in_search": true
+  },
+  {
+   "title": "Caminhando pela cultura e lutas dos povos Kapinawá (PDF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufpe.br/revistas/mutiro/article/download/254320/43354/220513",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista Anthropológicas article (content not verified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufpe.br/revistas/revistaanthropologicas/article/download/23671/19327/46669",
+   "found_in_search": true
+  },
+  {
+   "title": "UFRPE TCC, Joelma Carla da Silva (content not verified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repository.ufrpe.br/bitstream/123456789/5673/1/tcc_joelmacarladasilva.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "UEG conference paper (content not verified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://anais.ueg.br/index.php/spi/article/download/16952/13554/51374",
+   "found_in_search": true
+  },
+  {
+   "title": "Kapinawá language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kapinaw%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Paratió language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Parati%C3%B3_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kapinawá (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kapinaw%C3%A1",
+   "found_in_search": true
+  },
+  {
+   "title": "BnF RAMEAU notice: Kapinawá",
+   "type": "other",
+   "language": "other",
+   "url": "https://catalogue.bnf.fr/ark:/12148/cb18115807g",
+   "found_in_search": true
+  }
+ ]
+}

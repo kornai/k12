@@ -1,0 +1,45 @@
+{
+ "iso": "yok",
+ "name": "Yokuts",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:05:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fresno State Chukchansi Yokuts Revitalization Project / ILG research",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://cah.fresnostate.edu/linguistics/research/ilg.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Yokuts languages (Berkeley Survey of California Languages)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cla.berkeley.edu/languages/yokuts.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Yawelmani Yokuts (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.com/wiki/Yawelmani",
+   "found_in_search": true
+  },
+  {
+   "title": "Newman, The Yawelmani Dialect of Yokuts (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/556815",
+   "found_in_search": true
+  },
+  {
+   "title": "Chukchansi Yokuts (Journal of the IPA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/abs/chukchansi-yokuts/EF895162E70C7C3B00350181BDBEBC69",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "xug",
+ "name": "Kunigami",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:03:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kunigami language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kunigami_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Oshio, Mutsuko 1999: Okinawa Iejima hogen jiten (Glottolog reference)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/471840",
+   "found_in_search": true
+  },
+  {
+   "title": "Oshio, Mutsuko 2009: Shinpan Okinawa Iejima hogen jiten (Glottolog reference)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/575735",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe: Kunigami pages",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/bib/xug",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary Kunigami entry citing JLect",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://en.wiktionary.org/wiki/%E3%81%82%E3%82%93%E3%81%A0%E3%83%BC",
+   "found_in_search": true
+  }
+ ]
+}

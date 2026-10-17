@@ -1,0 +1,35 @@
+You will research 4 languages (yre, yri, yrk, yrl), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE yre ===
+Please help me gather resources for the Yaouré language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yre; Glottocode: yaou1238; family: Mande; macro-area: Africa; approx. speakers: about 40,000. Reference description: Yaouré is a stable indigenous language of Côte d’Ivoire. It belongs to the Niger-Congo language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE yri ===
+Please help me gather resources for the Yarí language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yri; Glottocode: yari1235; family: Bookkeeping; macro-area: South America
+
+=== LANGUAGE yrk ===
+Please help me gather resources for the Nenets language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yrk; Glottocode: nene1249; family: Uralic; macro-area: Eurasia; approx. speakers: about 24,000. Reference description: Nenets is an endangered indigenous language of the Russian Federation. It belongs to the Uralic language family. The language is used as a first language by all adults in the ethnic community, but not all young people. It is used as a language of instruction in some schools.
+
+=== LANGUAGE yrl ===
+Please help me gather resources for the Nhengatu language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yrl; Glottocode: nhen1239; family: Tupian; macro-area: South America; approx. speakers: about 8,000. Reference description: Nhengatu is an endangered indigenous language of Brazil, Colombia, and Venezuela. It belongs to the Tupian language family. The language is used as a first language by all adults in the ethnic community, but not all young people. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

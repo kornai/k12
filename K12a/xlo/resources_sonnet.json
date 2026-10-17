@@ -1,0 +1,52 @@
+{
+ "iso": "xlo",
+ "name": "Loup A",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of the Nipmuck Language (Gustafson), University of Manitoba record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mspace.lib.umanitoba.ca/handle/1993/2306",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of the Nipmuck Language (Gustafson), alternate record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mspace.lib.umanitoba.ca/items/0fb2392b-6422-49c0-8498-7f45d1f1a243",
+   "found_in_search": true
+  },
+  {
+   "title": "Gustafson thesis: Nipmuck grammar (PDF on nipmuck.org)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.nipmuck.org/uploads/5/0/7/7/50775337/gustafson_thesis_nipmuck_grammar.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Loup (A) document on nipmuck.org",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.nipmuck.org/uploads/5/0/7/7/50775337/loup_(a)_sappir.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Loup languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Loup_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Languagehat: Five lost languages rediscovered in Massachusetts",
+   "type": "other",
+   "language": "English",
+   "url": "https://languagehat.com/five-lost-languages-rediscovered-in-massachusetts/",
+   "found_in_search": true
+  }
+ ]
+}

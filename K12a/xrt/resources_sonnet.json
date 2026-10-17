@@ -1,0 +1,52 @@
+{
+ "iso": "xrt",
+ "name": "Aranama-Tamique",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aranama language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aranama_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Coahuiltecan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Coahuiltecan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Swanton 1940 (ASJP source record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/sources/1953",
+   "found_in_search": true
+  },
+  {
+   "title": "Aranama people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aranama_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Texas Beyond History: Native peoples of the Spanish mission period",
+   "type": "other",
+   "language": "English",
+   "url": "https://texasbeyondhistory.net/espiritu/native.html",
+   "found_in_search": true
+  },
+  {
+   "title": "NPS San Antonio Missions historical study (Campbell)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.nps.gov/parkhistory/online_books/saan/campbell/sec3.htm",
+   "found_in_search": true
+  }
+ ]
+}

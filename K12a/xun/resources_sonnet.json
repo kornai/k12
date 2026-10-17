@@ -1,0 +1,31 @@
+{
+ "iso": "xun",
+ "name": "Unggaranggu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Unggarrangu (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Unggarrangu",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Unggarrangu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ungg1243",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang K39: Gaambera (related but distinct language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/K39",
+   "found_in_search": true
+  }
+ ]
+}

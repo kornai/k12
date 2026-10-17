@@ -1,0 +1,52 @@
+{
+ "iso": "xxm",
+ "name": "Minkin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:11:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Minkin language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Minkin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mingginda language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mingginda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tangkic languages (Wikipedia mirror)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://static.hlt.bme.hu/semantics/external/pages/jokuc/en.wikipedia.org/wiki/Tangkic_languages.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Minkin - Wiktionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.com/wiki/Minkin",
+   "found_in_search": true
+  },
+  {
+   "title": "Mingin people - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mingin_people",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland: International Year of Indigenous Languages word week",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-forty-nine",
+   "found_in_search": true
+  }
+ ]
+}

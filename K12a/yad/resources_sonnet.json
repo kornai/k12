@@ -1,0 +1,52 @@
+{
+ "iso": "yad",
+ "name": "Yagua",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario Yagua-Castellano (Powlison 1995), Glottolog reference",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/40727",
+   "found_in_search": true
+  },
+  {
+   "title": "Aspects of the Grammar of Yagua (Payne 1985), Glottolog reference",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/305221",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Description Heritage: Yagua",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ldh.clld.org/languages/yad",
+   "found_in_search": true
+  },
+  {
+   "title": "Yagua language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yagua_language",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO World Atlas of Languages: Yagua in Peru",
+   "type": "policy",
+   "language": "other",
+   "url": "https://ar.wal.unesco.org/countries/peru/languages/yagua",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yagua",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/yagua.htm",
+   "found_in_search": true
+  }
+ ]
+}

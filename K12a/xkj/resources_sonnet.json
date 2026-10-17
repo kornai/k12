@@ -1,0 +1,52 @@
+{
+ "iso": "xkj",
+ "name": "Kajali",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kajali language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kajali_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kajal, Iran (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kajal,_Iran",
+   "found_in_search": true
+  },
+  {
+   "title": "Tati language (Iran) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tati_language_(Iran)",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kajali",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kaja1247.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "The Tati dialect of Kajal (BSOAS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/tati-dialect-of-kajal/7EFEFA45AB2E3362C0C5456D8A674661",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Kajali",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Kajali",
+   "found_in_search": true
+  }
+ ]
+}

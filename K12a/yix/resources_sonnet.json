@@ -1,0 +1,52 @@
+{
+ "iso": "yix",
+ "name": "Axi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:45:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Axi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Axi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wu Zili 2014, Axi Yiyu gaiyao (Glottolog reference entry)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/699775",
+   "found_in_search": true
+  },
+  {
+   "title": "Sani language (Wikipedia; different language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sani_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Early Yi-script materials including Yi Script Literacy Textbook (U Tokyo library page; language served unverified)",
+   "type": "primer",
+   "language": "other",
+   "url": "https://u-parl.lib.u-tokyo.ac.jp/?p=3392",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhang and Tsung 2019, Bilingual Education and Minority Language Maintenance in China (bookseller page)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.hugendubel.de/de/buch_gebunden/-34390859-produkt-details.html",
+   "found_in_search": true
+  },
+  {
+   "title": "The Enlightenment of Huayin Qimeng on the Use of Yi Language and Yi Language Education",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hrmars.com/ijarbss/article/view/26425/The-Enlightenment-of-Huayin-Qimeng-on-the-Use-of-Yi-Language-and-Yi-Language-Education",
+   "found_in_search": true
+  }
+ ]
+}

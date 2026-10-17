@@ -1,0 +1,66 @@
+{
+ "iso": "xsp",
+ "name": "Silopi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:54:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Silopi language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Silopi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Silopi word list",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/SILOPI",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog languoid page (id sili1247)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sili1247",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Silopi bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3228/bibliography?hl=ru",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Silopi in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14177/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Silopi language (xsp)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/xsp",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: xsp",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=xsp",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Silopi (xsp)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/xsp",
+   "found_in_search": true
+  }
+ ]
+}

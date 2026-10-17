@@ -1,0 +1,38 @@
+{
+ "iso": "xpo",
+ "name": "Pochutec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pochutec language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pochutec_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Boas 1917, El Dialecto Mexicano de Pochutla, Oaxaca (Glottolog record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/84550",
+   "found_in_search": true
+  },
+  {
+   "title": "Boas 2017, The Mexicano (Nahuatl) dialect of Pochutla, Oaxaca (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/672495",
+   "found_in_search": true
+  },
+  {
+   "title": "Pochutec materials, ACLS collection (American Philosophical Society)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://indigenousguide.amphilsoc.org/index.php/entry/39903",
+   "found_in_search": true
+  }
+ ]
+}

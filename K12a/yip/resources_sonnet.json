@@ -1,0 +1,31 @@
+{
+ "iso": "yip",
+ "name": "Pholo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:44:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pholo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pholo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Phola language (Wikipedia; a different language, for disambiguation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Phola_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pholo in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21077",
+   "found_in_search": true
+  }
+ ]
+}

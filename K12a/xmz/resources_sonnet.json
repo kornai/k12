@@ -1,0 +1,59 @@
+{
+ "iso": "xmz",
+ "name": "Mori Bawah",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mori Bawah language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mori_Bawah_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mori language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mori_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Mori Bawah",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/moribawah.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Mori Bawah (Watu) wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=902",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Mori Bawah",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/MoriBawah",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mori Bawah in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/13814/ID",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mori Bawah",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/708",
+   "found_in_search": true
+  }
+ ]
+}

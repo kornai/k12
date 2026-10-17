@@ -1,0 +1,52 @@
+{
+ "iso": "ykl",
+ "name": "Khlula",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:47:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Khlula language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khlula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zokhuo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zokhuo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Khlula bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4964/bibliography?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Khlula",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/khlu1236.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Khlula in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21075",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Khlula",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ykl/",
+   "found_in_search": true
+  }
+ ]
+}

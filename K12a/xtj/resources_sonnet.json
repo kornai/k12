@@ -1,0 +1,45 @@
+{
+ "iso": "xtj",
+ "name": "San Juan Teita Mixtec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:58:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ASJP: San Juan Teita Mixtec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/SAN_JUAN_TEITA_MIXTEC",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: San Juan Teita Mixtec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/xtj/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: San Juan Teita Mixteco in Mexico",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14701/mx",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mixtec, San Juan Teita",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/xtj",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: San Juan El Alto",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/27261",
+   "found_in_search": true
+  }
+ ]
+}

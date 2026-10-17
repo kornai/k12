@@ -1,0 +1,38 @@
+{
+ "iso": "xta",
+ "name": "Alcozauca Mixtec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:56:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario básico del mixteco de Xochapa, Guerrero (Johnson, González de Guzmán, Stark 2006) - Glottolog reference",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/50994",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Mixtec Alcozauca",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/MIXTEC_ALCOZAUCA",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Alcozauca Mixtec-English",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/xta/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mixtec, Alcozauca",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/xta",
+   "found_in_search": true
+  }
+ ]
+}

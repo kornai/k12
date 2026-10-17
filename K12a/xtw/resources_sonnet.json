@@ -1,0 +1,38 @@
+{
+ "iso": "xtw",
+ "name": "Tawandê",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:01:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nambikwaran languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nambikwaran_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Nambikwara language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nambikwara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PanLex entry for ISO 639-3 xtw",
+   "type": "other",
+   "language": "English",
+   "url": "https://apps.panlex.org/panlinx/ex/2746683",
+   "found_in_search": true
+  },
+  {
+   "title": "Tawande in Brazil (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19354",
+   "found_in_search": true
+  }
+ ]
+}

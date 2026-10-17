@@ -1,0 +1,31 @@
+{
+ "iso": "yej",
+ "name": "Yevanic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:33:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yevanic (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yevanic",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yevanic resources",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38751/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yevanic",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/38751",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "xki",
+ "name": "Kenyan Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kenyan school system is trying sign language for all children (Global Partnership for Education)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://globalpartnership.org/blog/kenyan-school-system-trying-sign-language-all-children",
+   "found_in_search": true
+  },
+  {
+   "title": "Sign language for all in Kenyan schools (Deaf Child Worldwide)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.ndcs.org.uk/deaf-child-worldwide/our-blog/sign-language-for-all-in-kenyan-schools",
+   "found_in_search": true
+  },
+  {
+   "title": "Bill to pave way for sign language use in schools (People Daily)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://peopledaily.digital/news/bill-to-pave-way-for-sign-language-use-in-schools/amp",
+   "found_in_search": true
+  },
+  {
+   "title": "Kenyatta University repository: KSL in schools study",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ir-library.ku.ac.ke/handle/123456789/7503?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Kenyan Sign Language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:xki",
+   "found_in_search": true
+  },
+  {
+   "title": "Rothenborg-Jensen and Yego 2011 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/320492",
+   "found_in_search": true
+  },
+  {
+   "title": "How Kenyan sign language works and where to learn it (K24)",
+   "type": "other",
+   "language": "English",
+   "url": "https://k24.digital/lifestyle/life-hacks/international-week-of-the-deaf-how-kenyan-sign-language-works-and-where-to-learn-it",
+   "found_in_search": true
+  }
+ ]
+}

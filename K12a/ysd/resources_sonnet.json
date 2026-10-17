@@ -1,0 +1,45 @@
+{
+ "iso": "ysd",
+ "name": "Samatao",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:15:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Linguistics of the Tibeto-Burman Area 39(1): Samatao article",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.jbe-platform.com/content/journals/10.1075/ltba.39.1.06yu",
+   "found_in_search": true
+  },
+  {
+   "title": "Samatao numerals (MPI EVA Leipzig)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Samatao.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Samatao",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Samatao",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Samatao in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20613",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Samatao (ysd)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/ysd",
+   "found_in_search": true
+  }
+ ]
+}

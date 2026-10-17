@@ -1,0 +1,31 @@
+{
+ "iso": "yec",
+ "name": "Yeniche",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:32:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Die jenische Sprache (Engelbert Wittich), Project Gutenberg",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.gutenberg.org/ebooks/50779",
+   "found_in_search": true
+  },
+  {
+   "title": "Efing: Wörterbuch Lützenhardter Jenisch (PDF)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://germanistik.uni-wuppertal.de/fileadmin/germanistik/Personal/Efing/Efing_Woerterbuch_LJ.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Jenisch (Yenish) overview",
+   "type": "academic",
+   "language": "English",
+   "url": "https://kratylos.org/~raphael/languageContact/ELA/languages/Jenisch.html",
+   "found_in_search": true
+  }
+ ]
+}

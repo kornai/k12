@@ -1,0 +1,52 @@
+{
+ "iso": "xka",
+ "name": "Kalkoti",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kalkoti language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kalkoti_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Language name and location: Kalkoti, Dir Kohistan, Pakistan (numerals data sheet)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kalkoti.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalkoti language turns into written form (FLI)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://fli-online.org/kalkoti-language-turns-into-written-form/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalkoti, a language spoken by all community children (FLI)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://fli-online.org/kalkoti-a-language-spoken-by-all-community-children/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dartmouth Linguistic Discovery item (document 899)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/1/document/899",
+   "found_in_search": true
+  },
+  {
+   "title": "Dartmouth Linguistic Discovery item (article 423)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/1/xmlpage/1/article/423",
+   "found_in_search": true
+  }
+ ]
+}

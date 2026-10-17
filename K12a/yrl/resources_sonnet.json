@@ -1,0 +1,59 @@
+{
+ "iso": "yrl",
+ "name": "Nhengatu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:12:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Revista LI 15 (UFSCar Leetra), bilingual Nheengatu materials",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.leetra.ufscar.br/files/biblioteca/revista_li_15.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista LI especial 3 (UFSCar Leetra)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.leetra.ufscar.br/files/biblioteca/revista_li_especial_3.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Nheengatu offered by IFAM Language Center (Portal Amazônia)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://portalamazonia.com/educacao/nheengatu-e-ofertado-por-centro-de-idiomas-do-ifam-em-municipio-do-amazonas/",
+   "found_in_search": true
+  },
+  {
+   "title": "UFAM dissertation on co-official indigenous languages in São Gabriel da Cachoeira",
+   "type": "academic",
+   "language": "other",
+   "url": "https://tede.ufam.edu.br/handle/tede/11209",
+   "found_in_search": true
+  },
+  {
+   "title": "Curso de Língua Geral (Nheengatu), Navarro, USP",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://tupi.fflch.usp.br/sites/tupi.fflch.usp.br/files/CURSO%20DE%20L%C3%8DNGUA%20GERAL%20(NHEENGATU).pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Nheengatu translation platform by UFC researchers (Diário do Nordeste)",
+   "type": "software",
+   "language": "other",
+   "url": "https://diariodonordeste.verdesmares.com.br/ceara/nheengatu-cearenses-criam-plataforma-para-traducao-da-unica-lingua-viva-descendente-do-tupi-antigo-1.3229012",
+   "found_in_search": true
+  },
+  {
+   "title": "Researchers create app for translating Nheengatu (IHU Unisinos)",
+   "type": "software",
+   "language": "other",
+   "url": "https://ihu.unisinos.br/categorias/621911-pesquisadores-criam-aplicativo-para-traducao-da-unica-lingua-viva-descendente-do-tupi",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "iso": "xmu",
+ "name": "Kamu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kamu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kamu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kamu people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kamu_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Daly languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eastern_Daly_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kamu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kamu1258",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Catalogue: Kamu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3239?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Catalogue: Kamu bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3239/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP word list: Kamor",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KAMOR",
+   "found_in_search": true
+  },
+  {
+   "title": "Mark Harvey 2003 (Glottolog reference record ozbib:2658)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/ozbib:2658",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record ozbib:2659",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/ozbib:2659",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Endangered Languages, Kamu",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Kamu",
+   "found_in_search": true
+  }
+ ]
+}

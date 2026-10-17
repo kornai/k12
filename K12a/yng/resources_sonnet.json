@@ -1,0 +1,45 @@
+{
+ "iso": "yng",
+ "name": "Yango",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:00:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngbaka languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngbaka_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Monzombo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Monzombo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Yango word list",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/YANGO",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yango bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4600/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Yango (endangered languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Yango",
+   "found_in_search": true
+  }
+ ]
+}

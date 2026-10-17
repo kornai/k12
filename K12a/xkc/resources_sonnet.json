@@ -1,0 +1,38 @@
+{
+ "iso": "xkc",
+ "name": "Kho’ini",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kho'ini dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kho%27ini_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Khoini",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Khoini",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kho'ini",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3252?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kho'ini (khoi1250)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/khoi1250.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "ylr",
+ "name": "Yalarnnga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:53:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The grammar of Yalarnnga: a language of western Queensland (Breen &amp; Blake, 2007)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/146740/1/584_Breen&amp;Blake.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Yalarnnga wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/YALARNNGA",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Yalarnnga",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/yala1262",
+   "found_in_search": true
+  },
+  {
+   "title": "Yalarnnga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yalarnnga_language",
+   "found_in_search": true
+  }
+ ]
+}

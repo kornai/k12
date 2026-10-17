@@ -1,0 +1,59 @@
+{
+ "iso": "xlc",
+ "name": "Lycian A",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary of the Lycian Language (Melchert, Beech Stave Press)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://isdistribution.com/?p=1436030",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Lycian Language (publisher PDF sheet)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.isdistribution.com/PDF/c6eae5d4-36c6-47a7-9eb3-af660fa429cb.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "eDiAna dictionary entry (Lycian)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.ediana-remake.gwi.uni-muenchen.de/dictionary/3014",
+   "found_in_search": true
+  },
+  {
+   "title": "eDiAna - Dictionary of the Minor Languages of Ancient Anatolia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.digitalclassicist.org/EDiAna_–_Dictionary_of_the_Minor_Languages_of_Ancient_Anatolia",
+   "found_in_search": true
+  },
+  {
+   "title": "Melchert, Prague 2019 paper on Lycian",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.ucla.edu/people/Melchert/melchertprague2019.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lycian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:xlc",
+   "found_in_search": true
+  },
+  {
+   "title": "Britannica: Anatolian languages using an alphabet",
+   "type": "other",
+   "language": "English",
+   "url": "https://britannica.com/topic/Anatolian-languages/Languages-using-an-alphabet",
+   "found_in_search": true
+  }
+ ]
+}

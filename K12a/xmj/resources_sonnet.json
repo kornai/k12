@@ -1,0 +1,45 @@
+{
+ "iso": "xmj",
+ "name": "Majera",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Majera language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Majera_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Majera",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2305?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo: xmj",
+   "type": "other",
+   "language": "English",
+   "url": "https://finto.fi/lexvo/en/page/xmj",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Majera in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/13230/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Majera in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/13230/CD",
+   "found_in_search": true
+  }
+ ]
+}

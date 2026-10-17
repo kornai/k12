@@ -1,0 +1,66 @@
+{
+ "iso": "ybb",
+ "name": "Yemba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "yemba.net (Yemba learning site)",
+   "type": "software",
+   "language": "native",
+   "url": "https://yemba.net/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yemba-French online dictionary (yemba.net)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://yemba.net/wdict/index.php?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Yemba dictionary: introduction",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/yamba/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Grassfields Bantu Fieldwork: Dschang Lexicon (LDC2003L01)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.ldc.upenn.edu/LDC2003L01",
+   "found_in_search": true
+  },
+  {
+   "title": "Analyse contrastive des parlers Yemba du departement de la Menoua",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_print_analyse-contrastive-des-parlers-yemba-du-departement-de-la-menoua-de-l-ouest-cameroun",
+   "found_in_search": true
+  },
+  {
+   "title": "Yemba language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yemba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yemba writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yemba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Cameroon archive search, Yemba",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.silcam.org/fr/resources/search/publisher/17604/worktype/15888/language/ybb",
+   "found_in_search": true
+  }
+ ]
+}

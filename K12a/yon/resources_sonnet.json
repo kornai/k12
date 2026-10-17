@@ -1,0 +1,45 @@
+{
+ "iso": "yon",
+ "name": "Yongkom",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:06:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yonggom language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yonggom_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yongkom",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/98502",
+   "found_in_search": true
+  },
+  {
+   "title": "Yonggom fieldwork materials, New Guinea",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://researchdata.edu.au/yonggom-fieldwork-materials-new-guinea/1408847",
+   "found_in_search": true
+  },
+  {
+   "title": "Yonggom numerals (Max Planck EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yonggom.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Yongkom New Testament (God ye weng karadmo), eBible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/yon/FRT01.htm",
+   "found_in_search": true
+  }
+ ]
+}

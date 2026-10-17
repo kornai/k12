@@ -1,0 +1,45 @@
+{
+ "iso": "xmp",
+ "name": "Kuku-Mu’inh",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kugu Nganhcara language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kugu_Nganhcara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kugu Muminh (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://troywiki.duckdns.org/content/wikipedia_en_all_maxi_2024-01/A/Kugu-Muminh",
+   "found_in_search": true
+  },
+  {
+   "title": "Edward River, Queensland (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Edward_River,_Queensland",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Cape York sample entry",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/3446/samples/11510",
+   "found_in_search": true
+  },
+  {
+   "title": "Cape York, Australia (Lund University field sites)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://projekt.ht.lu.se/lacola/field-sites/cape-york-australia/",
+   "found_in_search": true
+  }
+ ]
+}

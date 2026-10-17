@@ -1,0 +1,31 @@
+{
+ "iso": "yds",
+ "name": "Yiddish Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:32:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yiddish Sign Language (Jewish Languages Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://jewishlanguages.org/yiddish-sign-language",
+   "found_in_search": true
+  },
+  {
+   "title": "IANA language subtag template: yds",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/yds.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf Chassidim Community (JDCC)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://jdcc.org/?p=1510",
+   "found_in_search": true
+  }
+ ]
+}

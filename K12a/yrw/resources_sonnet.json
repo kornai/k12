@@ -1,0 +1,59 @@
+{
+ "iso": "yrw",
+ "name": "Yarawata",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:15:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yarawata language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yarawata_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Yarawata wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/YARAWATA",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog Yarawata (yara1250)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yara1250.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yarawata language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/yrw",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yarawata in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15993",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: yrw",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=yrw",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yarawata",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3165",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xsa",
+ "name": "Sabaic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sabaic (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sabaic",
+   "found_in_search": true
+  },
+  {
+   "title": "Ancient South Arabian (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ancient_South_Arabian",
+   "found_in_search": true
+  },
+  {
+   "title": "Biella 1982, Dictionary of Old South Arabic: Sabaean Dialect (Glottolog record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/457791",
+   "found_in_search": true
+  },
+  {
+   "title": "DFG project: Sabaic dictionary (Jena)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://gepris.dfg.de/gepris/projekt/210365926",
+   "found_in_search": true
+  },
+  {
+   "title": "CNR repository record on Sabaic",
+   "type": "academic",
+   "language": "other",
+   "url": "https://iris.cnr.it/handle/20.500.14243/374864",
+   "found_in_search": true
+  },
+  {
+   "title": "r/OldSouthArabian",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://reddit.birdcat.cafe/r/OldSouthArabian",
+   "found_in_search": true
+  }
+ ]
+}

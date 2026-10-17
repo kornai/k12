@@ -1,0 +1,59 @@
+{
+ "iso": "xpa",
+ "name": "Pirriya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language of the Week: Birria (State Library of Queensland)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/language-week-week-two-birria",
+   "found_in_search": true
+  },
+  {
+   "title": "Pirriya language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pirriya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Pirriya wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PIRRIYA",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Open Research download (probably Breen 1990, unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstreams/ad09bb41-42fc-48ee-b97b-7d27c2fd91e6/download",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Open Research download (unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstreams/8c107f99-568b-4347-98ac-e823afe0ca3d/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Pirriya",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6796?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Sydney archives record (unexamined)",
+   "type": "other",
+   "language": "English",
+   "url": "https://archives-search.sydney.edu.au/nodes/view/18622",
+   "found_in_search": true
+  }
+ ]
+}

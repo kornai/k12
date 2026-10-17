@@ -1,0 +1,38 @@
+{
+ "iso": "yen",
+ "name": "Yendang (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:34:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Bookkeeping: Yendang (Retired)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/yen",
+   "found_in_search": true
+  },
+  {
+   "title": "Yendang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yendang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "IANA language subtag record ynq",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/ynq.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yendang",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/ynq",
+   "found_in_search": true
+  }
+ ]
+}

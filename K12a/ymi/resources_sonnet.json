@@ -1,0 +1,59 @@
+{
+ "iso": "ymi",
+ "name": "Moji",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:56:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Moji language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Moji_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Loloish languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Loloish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Muzi language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Muzi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Moji",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Moji",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Moji",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3179?hl=zh-cn",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Moji in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20605/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language ymi",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ymi",
+   "found_in_search": true
+  }
+ ]
+}

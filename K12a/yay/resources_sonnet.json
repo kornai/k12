@@ -1,0 +1,45 @@
+{
+ "iso": "yay",
+ "name": "Agwagwune",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gwune language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gwune_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Agwagwune numerals (Max Planck Institute database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Agwagwune.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Agwagwune, Akurakura in Nigeria",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10188/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Agwagwune (Erei)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/6760",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Agwagwune (Abayongo)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/2941",
+   "found_in_search": true
+  }
+ ]
+}

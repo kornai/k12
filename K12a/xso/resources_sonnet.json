@@ -1,0 +1,45 @@
+{
+ "iso": "xso",
+ "name": "Solano",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:54:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Solano language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Solano_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Solano people - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Solano_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Coahuiltecan languages - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Coahuiltecan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistic material from the tribes of Southern Texas and Northeastern Mexico (UBC Wiki)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Linguistic_material_from_the_tribes_of_Southern_Texas_and_Northeastern_Mexico",
+   "found_in_search": true
+  },
+  {
+   "title": "INAH journal article (Noroeste de Mexico), relevance unverified",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.inah.gob.mx/index.php/noroestedemexico/article/download/21844/23230/45540",
+   "found_in_search": true
+  }
+ ]
+}

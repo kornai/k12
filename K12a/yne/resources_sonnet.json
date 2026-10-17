@@ -1,0 +1,38 @@
+{
+ "iso": "yne",
+ "name": "Lang’e",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:00:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lang'e language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lang%27e_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lang'e in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20604",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page: yne",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/yne",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: yne (La'u)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/yne",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "yde",
+ "name": "Yangum Dey",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:30:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yangum language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yangum_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yangum Dey (yde)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/yde",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Yangum Dey wordlist",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/YANGUM_DEY",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yangum Dey in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18977",
+   "found_in_search": true
+  }
+ ]
+}

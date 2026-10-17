@@ -1,0 +1,52 @@
+{
+ "iso": "yiu",
+ "name": "Awu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:45:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lope language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lope_language",
+   "found_in_search": true
+  },
+  {
+   "title": "List of lesser-known Loloish languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/List_of_lesser-known_Loloish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Awu, Northern (Asia Harvest profile)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/awu-northern.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Awu, Southeastern (Asia Harvest profile)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/awu-southeastern.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Awu",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/yiu",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yi, Xiangtang (relation to Awu unverified)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/6254",
+   "found_in_search": true
+  }
+ ]
+}

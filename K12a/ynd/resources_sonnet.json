@@ -1,0 +1,38 @@
+{
+ "iso": "ynd",
+ "name": "Yandruwandha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:00:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Innamincka Words: Yandruwandha dictionary and stories (ANU Press)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://press.anu.edu.au/publications/innamincka-words-yandruwandha-dictionary-and-stories",
+   "found_in_search": true
+  },
+  {
+   "title": "Innamincka Words (OAPEN open-access record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/32427",
+   "found_in_search": true
+  },
+  {
+   "title": "OAPEN full-text PDF (Yandruwandha volume, title not stated in search result)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://library.oapen.org/bitstream/id/89c1553e-930f-4f3b-ab11-034bf6b1f339/610991.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yandruwandha language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yandruwandha_language",
+   "found_in_search": true
+  }
+ ]
+}

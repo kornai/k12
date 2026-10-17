@@ -1,0 +1,52 @@
+{
+ "iso": "xtp",
+ "name": "Mixtec, San Miguel Piedras",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "San Miguel Piedras Mixtec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/San_Miguel_Piedras_Mixtec",
+   "found_in_search": true
+  },
+  {
+   "title": "San Miguel Piedras Mixtec (ASJP)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/SAN_MIGUEL_PIEDRAS_MIXTEC",
+   "found_in_search": true
+  },
+  {
+   "title": "PanLex listing for xtp",
+   "type": "other",
+   "language": "English",
+   "url": "https://apps.panlex.org/panlinx/ex/2746642",
+   "found_in_search": true
+  },
+  {
+   "title": "Mixtec, San Miguel Piedras (Global Recordings Network)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/xtp",
+   "found_in_search": true
+  },
+  {
+   "title": "San Miguel Piedras Mixtec (Wikitongues)",
+   "type": "video",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/xtp/",
+   "found_in_search": true
+  },
+  {
+   "title": "San Miguel Piedras Mixteco in Mexico (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14709/MX",
+   "found_in_search": true
+  }
+ ]
+}

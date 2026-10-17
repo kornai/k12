@@ -1,0 +1,52 @@
+{
+ "iso": "yim",
+ "name": "Yimchungru Naga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:43:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hindi Yimchungrü English dictionary (B. B. Kumar, 1973), STEDT record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/BBK-Yim",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yimchungru Naga",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5709/guide/9489",
+   "found_in_search": true
+  },
+  {
+   "title": "Bible app listing (Yimkhiung Naga Bible; text not confirmed)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/ca/versions/1063",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yimchungra in India",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18347",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yimchungru Naga (Wai)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/14622",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yimchungru Naga (Pherrongre)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/14620",
+   "found_in_search": true
+  }
+ ]
+}

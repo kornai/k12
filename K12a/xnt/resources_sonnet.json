@@ -1,0 +1,38 @@
+{
+ "iso": "xnt",
+ "name": "Narragansett",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Narragansett language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Narragansett_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Key Into the Language of America (Project Gutenberg)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://m.gutenberg.org/ebooks/63701",
+   "found_in_search": true
+  },
+  {
+   "title": "A key into the language of America (Internet Archive)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://archive.org/details/bub_gb_wOfpAPRxlVYC",
+   "found_in_search": true
+  },
+  {
+   "title": "Roger Williams (American Antiquarian Society, English to Algonquian)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collections.americanantiquarian.org/EnglishtoAlgonquian/rogerwilliams",
+   "found_in_search": true
+  }
+ ]
+}

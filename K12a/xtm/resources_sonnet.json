@@ -1,0 +1,59 @@
+{
+ "iso": "xtm",
+ "name": "Magdalena Peñasco Mixtec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:58:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Peñasco Mixtec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pe%C3%B1asco_Mixtec",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: xtm terms from Oaxaca",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/Category:xtm:Oaxaca,_Mexico",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Magdalena Penasco Mixteco",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14704",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mixtec, Magdalena Penasco",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/xtm",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Magdalena Penasco, San Mateo",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/6443",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Magdalena Penasco, Tlacotepec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/4068",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Magdalena Penasco, San Cristobal Amoltepec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/25419",
+   "found_in_search": true
+  }
+ ]
+}

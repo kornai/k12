@@ -1,0 +1,52 @@
+{
+ "iso": "yno",
+ "name": "Yong",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:02:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yong language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yong_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kra-Dai languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kra%E2%80%93Dai_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Yong in Thailand (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16053",
+   "found_in_search": true
+  },
+  {
+   "title": "Yong language profile (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/yno",
+   "found_in_search": true
+  },
+  {
+   "title": "Yong people-group profile (Asia Harvest, PDF)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Thailand/Yong.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Srinakharinwirot University repository document (content unverified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ir.swu.ac.th/bitstreams/64bd6a5e-fba7-4cba-b430-88336c719564/download",
+   "found_in_search": true
+  }
+ ]
+}

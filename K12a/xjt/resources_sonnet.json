@@ -1,0 +1,59 @@
+{
+ "iso": "xjt",
+ "name": "Jaitmatang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yaithmathang (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yaithmathang",
+   "found_in_search": true
+  },
+  {
+   "title": "Dhudhuroa and Yaithmathang languages and social groups in north-east Victoria - a reconstruction",
+   "type": "academic",
+   "language": "English",
+   "url": "https://press-files.anu.edu.au/downloads/press/p74631/html/ch09.html?page=12",
+   "found_in_search": true
+  },
+  {
+   "title": "High Country Cosmos: Jaitmathang",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.hgcosmos.org/assets/culture/AZ/J/Jaitmathang.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Increasing the accessibility of information on the indigenous languages of Victoria",
+   "type": "academic",
+   "language": "English",
+   "url": "https://open.sydneyuniversitypress.com.au/9781920899554/rl-increasing-the-accessibility-of-information-on-the-indigenous-languages-of-victoria.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Jaithmathang senior elders reconnect with their original country (Mountain Journal)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://themountainjournal.com/2021/06/29/jaithmathang-senior-elders-reconnect-with-their-original-country/",
+   "found_in_search": true
+  },
+  {
+   "title": "Jaithmathang senior elders reconnect with their ancestral country (NECMA)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.necma.vic.gov.au/News-Events/News/ArtMID/431/ArticleID/1629/Jaithmathang-senior-elders-reconnect-with-their-ancestral-MPP-and-original-country",
+   "found_in_search": true
+  },
+  {
+   "title": "VCE Aboriginal Languages of Victoria Study Design 2023",
+   "type": "policy",
+   "language": "English",
+   "url": "https://vcaa.vic.edu.au/sites/default/files/2026-06/2023AboriginalLanguagesVictoriaSD.docx",
+   "found_in_search": true
+  }
+ ]
+}

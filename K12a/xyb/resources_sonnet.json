@@ -1,0 +1,17 @@
+{
+ "iso": "xyb",
+ "name": "Yandjibara",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:12:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ASJP database entry for Yandjibara",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/YANDJIBARA",
+   "found_in_search": true
+  }
+ ]
+}

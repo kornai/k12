@@ -1,0 +1,38 @@
+{
+ "iso": "xmc",
+ "name": "Makhuwa-Marrevone",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Makhuwa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Makhuwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Marrevoni (Makhuwa Cluster) - Wycliffe South Africa",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://wycliffe.org.za/en/marrevoni",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Makhuwa-Marrevone in Mozambique",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13421",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Makhuwa-Marrevone",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/xmc",
+   "found_in_search": true
+  }
+ ]
+}

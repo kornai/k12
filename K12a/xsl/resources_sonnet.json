@@ -1,0 +1,52 @@
+{
+ "iso": "xsl",
+ "name": "South Slavey",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "South Slavey Topical Dictionary, Second Edition (DDEC)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=2954",
+   "found_in_search": true
+  },
+  {
+   "title": "South Slavey Topical Dictionary, Katl'odehche Dialect",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=2939",
+   "found_in_search": true
+  },
+  {
+   "title": "SSDEC document (PDF)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.ssdec.net/_files/ugd/072827_ec9a31ee98dd4832a2154aaf5c921874.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC RelLex: South Slavey Intro",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/South_Slavey_Intro",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC knowledge base entry",
+   "type": "academic",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=8550",
+   "found_in_search": true
+  },
+  {
+   "title": "South Slave Divisional Education Council (Wikipedia)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/South_Slave_Divisional_Education_Council",
+   "found_in_search": true
+  }
+ ]
+}

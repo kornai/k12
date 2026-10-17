@@ -1,0 +1,52 @@
+{
+ "iso": "ymr",
+ "name": "Malasar",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:58:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Malasar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Malasar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "SPPEL Malasar documentation project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sppel.org/malasardoc.aspx",
+   "found_in_search": true
+  },
+  {
+   "title": "SPPEL language documentation resources: Malasar",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sppel.org/resources/language-documentation/malasar",
+   "found_in_search": true
+  },
+  {
+   "title": "Max Planck EVA: Malasar numerals",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Malasar.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Malasar people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Malasar_people",
+   "found_in_search": true
+  },
+  {
+   "title": "CIIL Sanchika special collection (content unverified)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://sanchika.ciil.org/communities/a4c3ec04-9357-4511-8858-89098b27bceb",
+   "found_in_search": true
+  }
+ ]
+}

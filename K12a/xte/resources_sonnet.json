@@ -1,0 +1,52 @@
+{
+ "iso": "xte",
+ "name": "Ketengban",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:57:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ketengban language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ketengban_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Ketengban",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/ketengban.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Ketengban",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/central-west-new-guinea/momuna-mek/mek/east-mek/ketengban",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Ketengban-English",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/xte/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Ketengban",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=xte",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kupel, Ketengban in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12866/ID",
+   "found_in_search": true
+  }
+ ]
+}

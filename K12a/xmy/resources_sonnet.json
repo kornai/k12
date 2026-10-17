@@ -1,0 +1,52 @@
+{
+ "iso": "xmy",
+ "name": "Mayaguduna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mayi-Kutuna language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mayi-Kutuna_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mayi-Kutuna people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mayi-Kutuna_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Gavan Breen 1981",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/64840",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Sharpe 1983",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/2586",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Mayi-Kutuna",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3237?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Breen collection GB30 item 001",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/collections/GB30/items/001",
+   "found_in_search": true
+  }
+ ]
+}

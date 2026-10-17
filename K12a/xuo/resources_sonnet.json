@@ -1,0 +1,38 @@
+{
+ "iso": "xuo",
+ "name": "Kuo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kuo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kuo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kuo numerals (Max Planck EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kuo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kuo in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/12864/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kuo language (xuo)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/xuo",
+   "found_in_search": true
+  }
+ ]
+}

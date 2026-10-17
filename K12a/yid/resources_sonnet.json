@@ -1,0 +1,59 @@
+{
+ "iso": "yid",
+ "name": "yid",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:40:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "KlezCalifornia Tam: Tastes of Yiddish Culture for Kids and Teens",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://ingeveb.org/pedagogy/tam-tastes-of-yiddish-culture-for-kids-teens",
+   "found_in_search": true
+  },
+  {
+   "title": "Yiddish Book Center resource kits for teachers",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.yiddishbookcenter.org/educational-programs/resources-teachers/resource-kits-teachers",
+   "found_in_search": true
+  },
+  {
+   "title": "Yiddish Book Center programs and resources for teachers",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.yiddishbookcenter.org/educational-programs/programs-and-resources-teachers",
+   "found_in_search": true
+  },
+  {
+   "title": "When Uriel Weinreich's Dictionary Was New (1968), YIVO",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://archives.yivo.org/When-Uriel-Weinreichs-Dictionary-Was-New",
+   "found_in_search": true
+  },
+  {
+   "title": "Workmen's Circle Boston Yiddish courses (2014 announcement)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://mailman.yale.edu/pipermail/mendele/2014-September/000900.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Weekly Reader: The History of Yiddish Education",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.yiddishbookcenter.org/language-literature-culture/weekly-reader/weekly-reader-history-yiddish-education",
+   "found_in_search": true
+  },
+  {
+   "title": "YIVO-Bard summer program (Uriel Weinreich Program)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://summerprogram.yivo.org/from-the-pages-of-yedies-38",
+   "found_in_search": true
+  }
+ ]
+}

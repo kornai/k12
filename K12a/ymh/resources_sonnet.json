@@ -1,0 +1,52 @@
+{
+ "iso": "ymh",
+ "name": "Mili",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:56:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Mili language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mili_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Duota language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Duota_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Mili (mili1235)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mili1235.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mili in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18596/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language ymh",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ymh",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Mili people-group profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/mili.pdf",
+   "found_in_search": true
+  }
+ ]
+}

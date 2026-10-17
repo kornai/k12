@@ -1,0 +1,31 @@
+{
+ "iso": "yda",
+ "name": "Yanda",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:30:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yanda language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yanda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project bibliography entry 6741 (language identity unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6741/bibliography?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "Yandruwandha language (Wikipedia; distinct language, for disambiguation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yandruwandha_language",
+   "found_in_search": true
+  }
+ ]
+}

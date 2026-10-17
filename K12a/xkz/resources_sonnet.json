@@ -1,0 +1,66 @@
+{
+ "iso": "xkz",
+ "name": "Kurtokha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Kurtöp (Hyslop, Brill 2017)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://search.ub.tum.de/vufind/Record/DE-604.BV044677704",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Kurtöp (Hyslop 2011 dissertation, ProQuest)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.proquest.com/docview/868530580",
+   "found_in_search": true
+  },
+  {
+   "title": "BBS report on the Kurtöp-English-Dzongkha dictionary (June 2025)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.bbs.bt/?p=223819",
+   "found_in_search": true
+  },
+  {
+   "title": "Documenting Kurtoep in a historical perspective: a grammar, dictionary and texts",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/documenting-kurtoep-in-a-historical-perspective-a-grammar-dictionary-and-texts",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurtöp language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kurt%C3%B6p_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurtokha in Bhutan (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12878",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of Kurtöp (ELDP archive)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0179/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurtöp, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/96917",
+   "found_in_search": true
+  }
+ ]
+}

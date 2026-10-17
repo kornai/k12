@@ -1,0 +1,52 @@
+{
+ "iso": "xng",
+ "name": "Middle Mongol",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Middle Mongol (ISO 639:xng overview)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:xng",
+   "found_in_search": true
+  },
+  {
+   "title": "Middle Mongol (encyclopedia.pub entry)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://encyclopedia.pub/entry/32585",
+   "found_in_search": true
+  },
+  {
+   "title": "Monumenta Altaica: Mukaddimat al-adab (Poppe)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://altaica.ru/e_mukadd.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Monumenta Altaica: Mukaddimat al-adab (starlingdb mirror)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://altaica.c4.starlingdb.org/e_mukadd.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos Mongolian dictionary page",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://lexilogos.com/english/mongolian_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "A Modern Mongolian-English Dictionary (Indiana University Press)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://iupress.org/9780933070196/a-modern-mongolian-english-dictionary",
+   "found_in_search": true
+  }
+ ]
+}

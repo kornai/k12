@@ -1,0 +1,45 @@
+{
+ "iso": "xsr",
+ "name": "Sherpa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:55:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "CBSE Sherpa Secondary Syllabus 2024-25 (names Sherpai Sumtak Tang Tri-Tsom)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.cbseacademic.nic.in/web_material/CurriculumMain25/Sec/Sherpa_Sec_2024-25.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Bharatavani Sherpa resources (grammar and composition, learning aids)",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://bharatavani.in/sherpa/bhashakosha",
+   "found_in_search": true
+  },
+  {
+   "title": "Bharatavani Sherpa dictionary listing",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://sec.bharatavani.in/sherpa/bhashakosha",
+   "found_in_search": true
+  },
+  {
+   "title": "Sherpa-English and English-Sherpa Dictionary with Literary Tibetan and Nepali Equivalents",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://vedamsbooks.com/books/sherpa_english_and_english_sherpa_dictionary_with_literary_tibetan_and_nepali_equivalents",
+   "found_in_search": true
+  },
+  {
+   "title": "Kelly 2004: A Grammar and Glossary of the Sherpa Language",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/100639",
+   "found_in_search": true
+  }
+ ]
+}

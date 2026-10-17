@@ -1,0 +1,66 @@
+{
+ "iso": "ysn",
+ "name": "Sani",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:16:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sani language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sani_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sani (Nip-dop) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/sani.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Sani Script (BabelStone)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.babelstone.co.uk/Yi/Sani.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Kobe City University of Foreign Studies annual report nenpo61-04",
+   "type": "academic",
+   "language": "other",
+   "url": "https://kobe-cufs.repo.nii.ac.jp/record/2583/files/nenpo61-04.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Sino-Tibetan languages paper (Kyoto University repository)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/275708/1/Sino.Tibetan.lang_5_085.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "STEDT group page (Southeastern Loloish)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/group/47/699",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Sani people group profile (Yunnan)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/sani.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: second Sani people group profile (sanie)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/sanie.pdf",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "xth",
+ "name": "Yitha Yitha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:57:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yitha Yitha language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yitha_Yitha_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Macdonald 1886, Yit-tha (Glottolog reference)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/59575",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yitha Yitha",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/xth",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yitha Yitha",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6747",
+   "found_in_search": true
+  },
+  {
+   "title": "UQ manuscripts: Yitha Yitha language D7",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://manuscripts.library.uq.edu.au/index.php/yitha-yitha-language-d7",
+   "found_in_search": true
+  }
+ ]
+}

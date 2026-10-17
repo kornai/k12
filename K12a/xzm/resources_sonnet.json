@@ -1,0 +1,45 @@
+{
+ "iso": "xzm",
+ "name": "Zemgalian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Semigallian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Semigallian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Semigallia (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Semigallia",
+   "found_in_search": true
+  },
+  {
+   "title": "Žiemgalių kalba ir jos reliktai",
+   "type": "academic",
+   "language": "other",
+   "url": "https://lituanistika.lt/content/30803",
+   "found_in_search": true
+  },
+  {
+   "title": "Žiemgalių kalbos palikimas Lietuvos Žiemgaloje",
+   "type": "academic",
+   "language": "other",
+   "url": "https://lituanistika.lt/content/109050",
+   "found_in_search": true
+  },
+  {
+   "title": "Zemgale tourism guide (includes Semigallian language entry)",
+   "type": "other",
+   "language": "other",
+   "url": "https://zemgale.lv/lv/media/1335/download",
+   "found_in_search": true
+  }
+ ]
+}

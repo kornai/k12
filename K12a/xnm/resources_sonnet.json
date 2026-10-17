@@ -1,0 +1,38 @@
+{
+ "iso": "xnm",
+ "name": "Ngumbarl",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngumbarl language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngumbarl_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang K4: Ngumbarl",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/K4",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngumbarl people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngumbarl_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Nyulnyulan languages (Wikipedia, archived copy)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://webcf.waybackmachine.org/web/20220216151533/https://en.wikipedia.org/wiki/Nyulnyulan_languages",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xwg",
+ "name": "Kwegu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:08:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hieda: Koegu vocabulary (Kyoto University repository)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/68358/1/ASM_S_14_1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Osaka University repository item saak_003_131 (Hieda, Koegu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/71074/saak_003_131.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwegu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwegu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwegu people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwegu_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kwegu",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2677?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kwegu in Ethiopia",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18363/ET",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "ynk",
+ "name": "Yupik, Naukan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:02:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Naukan Yupik Eskimo Dictionary (2004), review/description by Jacobson, Etudes/Inuit/Studies",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://id.erudit.org/iderudit/013937ar",
+   "found_in_search": true
+  },
+  {
+   "title": "Etudes/Inuit/Studies 2005 article abstract on the Naukan dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.erudit.org/en/journals/etudinuit/2005-v29-n1-2-etudinuit1430/013937ar/abstract",
+   "found_in_search": true
+  },
+  {
+   "title": "Etudes/Inuit/Studies 2005 related article (PDF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.erudit.org/fr/revues/etudinuit/2005-v29-n1-2-etudinuit1430/013953ar.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Bering Straits language resources: yupik eskimo dictionary vol 2 (language coverage unverified)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://beringstraits.com/language-resources/yupik_eskimo_dictonary_vol_2",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS Online resources for Yupik (Naukan)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openpolar.no/Record/ftolac:oai:wals.info:yna",
+   "found_in_search": true
+  },
+  {
+   "title": "The languages of Asia's easternmost frontier (Pt 2)",
+   "type": "other",
+   "language": "English",
+   "url": "https://thelanguagecloset.com/2024/08/31/the-languages-of-asias-easternmost-frontier-pt-2/",
+   "found_in_search": true
+  }
+ ]
+}

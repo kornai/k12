@@ -1,0 +1,45 @@
+{
+ "iso": "xut",
+ "name": "Kuthant",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:06:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gkuthaarn language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gkuthaarn_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Garandi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Garandi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sidney H. Ray 1907 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/472081",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS MS 932 finding aid",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/MS932.PDF",
+   "found_in_search": true
+  },
+  {
+   "title": "Idioma kuthant (Spanish Wikipedia mirror)",
+   "type": "other",
+   "language": "other",
+   "url": "https://wiki.undernet.uy/content/wikipedia_es_all_maxi_2025-08/Idioma_kuthant",
+   "found_in_search": true
+  }
+ ]
+}

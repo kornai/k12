@@ -1,0 +1,38 @@
+{
+ "iso": "xur",
+ "name": "Urartian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:06:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Urartian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urartian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "The Urartian language (resources) - Palaeolexicon",
+   "type": "academic",
+   "language": "English",
+   "url": "https://palaeolexicon.com/Urartian",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University repository item on Urartian",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%253A3656156/view",
+   "found_in_search": true
+  },
+  {
+   "title": "JAOS review of a concise Urartian grammar",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://lockwoodonlinejournals.com/index.php/jaos/article/download/1114/916",
+   "found_in_search": true
+  }
+ ]
+}

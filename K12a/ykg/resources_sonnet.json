@@ -1,0 +1,45 @@
+{
+ "iso": "ykg",
+ "name": "Northern Yukaghir",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:46:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Historical Dictionary of Yukaghir (Nikolaeva 2006), De Gruyter",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110892840/html",
+   "found_in_search": true
+  },
+  {
+   "title": "A Historical Dictionary of Yukaghir, catalogue record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9783110892840",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List review (issue 17.2562)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/17/2562/",
+   "found_in_search": true
+  },
+  {
+   "title": "SOAS Research Online item 4018",
+   "type": "academic",
+   "language": "English",
+   "url": "https://eprints.soas.ac.uk/4018",
+   "found_in_search": true
+  },
+  {
+   "title": "Bibliography of Tundra Yukaghir (Surrey Siberian Languages)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://siberianlanguages.surrey.ac.uk/resource/bibliography-tundra-yukaghir/",
+   "found_in_search": true
+  }
+ ]
+}

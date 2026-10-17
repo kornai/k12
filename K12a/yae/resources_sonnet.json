@@ -1,0 +1,45 @@
+{
+ "iso": "yae",
+ "name": "Pumé",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pumé language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pum%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Esmeralda-Yaruroan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Esmeralda%E2%80%93Yaruroan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Native Land: Yaruro Pumé (lists the Guerreiro de Pirela 2015 grammar)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://native-land.ca/maps-old/languages/yaruro-pume/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages: Pumé bibliography (Mosonyi 1966 and others)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/1644/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals of Pumé (Dyck 1994 fieldwork)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Pume-Ven.htm",
+   "found_in_search": true
+  }
+ ]
+}

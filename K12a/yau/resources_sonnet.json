@@ -1,0 +1,45 @@
+{
+ "iso": "yau",
+ "name": "Hodï",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:22:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hodï language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hod%C3%AF_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Hodï language (Wikipedia ISO 639:yau)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:yau",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Catalogue: Hodï",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2902",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Jöti endangered language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Joti",
+   "found_in_search": true
+  },
+  {
+   "title": "EcuRed: Hoti",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.ecured.cu/Hoti",
+   "found_in_search": true
+  }
+ ]
+}

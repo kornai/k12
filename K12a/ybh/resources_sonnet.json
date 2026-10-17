@@ -1,0 +1,52 @@
+{
+ "iso": "ybh",
+ "name": "Yakkha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Yakkha (Schackow 2015), Language Science Press",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://langsci-press.org/catalog/book/66",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Yakkha, Open Textbook Library",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://open.umn.edu/opentextbooks/formats/2010",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Yakkha, langsci GitHub repository",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.github.com/langsci/66",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Yakkha, OAPEN record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://0-library-oapen-org.catalogue.libraries.london.ac.uk/handle/20.500.12657/32844",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Yakkha project page, MPI EVA",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.eva.mpg.de/linguistics/past-research-resources/documentation-and-description/a-grammar-of-yakkha/",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation and grammatical description of Yakkha, Nepal (ELDP collection)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0293/",
+   "found_in_search": true
+  }
+ ]
+}

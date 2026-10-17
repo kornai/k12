@@ -1,0 +1,45 @@
+{
+ "iso": "yac",
+ "name": "Yali, Pass Valley",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yali language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yali_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yali",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yali.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pass Valley Yali in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15968",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Pass Valley Yali (yac)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=yac",
+   "found_in_search": true
+  },
+  {
+   "title": "Translation tips for Pass Valley Yali",
+   "type": "other",
+   "language": "native",
+   "url": "https://tips.translation.bible/tip_language/yac/",
+   "found_in_search": true
+  }
+ ]
+}

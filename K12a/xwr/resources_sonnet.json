@@ -1,0 +1,45 @@
+{
+ "iso": "xwr",
+ "name": "Kwerba Mamberamo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:09:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kwerba Mamberamo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwerba_Mamberamo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kwerba Mamberamo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kwer1263",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Kwerba Mamberamo wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KWERBA_MAMBERAMO",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwerba Mamberano numerals (Chan numerals database)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kwerba-Mamberamo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Kwerba family",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/northwest-new-guinea/foja-range/west-foja-range/apauwar-river/kwerba",
+   "found_in_search": true
+  }
+ ]
+}

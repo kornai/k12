@@ -1,0 +1,52 @@
+{
+ "iso": "yla",
+ "name": "Ulwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:50:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Ulwa (Papua New Guinea), Russell Barlow",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://langsci-press.org/catalog/book/372",
+   "found_in_search": true
+  },
+  {
+   "title": "Yaul language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yaul_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Refubium FU Berlin record (Ulwa-related)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://refubium.fu-berlin.de/handle/fub188/41180?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yaul in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16004",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ulwa",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10509",
+   "found_in_search": true
+  },
+  {
+   "title": "Russell Barlow, MPI-EVA staff page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.eva.mpg.de/linguistic-and-cultural-evolution/staff/russell-barlow/",
+   "found_in_search": true
+  }
+ ]
+}

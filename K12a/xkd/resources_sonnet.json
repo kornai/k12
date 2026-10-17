@@ -1,0 +1,45 @@
+{
+ "iso": "xkd",
+ "name": "Kayan, Mendalam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kayan language (Borneo) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:bfg",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Kalimantan (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Languages_of_Kalimantan",
+   "found_in_search": true
+  },
+  {
+   "title": "Mendalam Kayan in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12592",
+   "found_in_search": true
+  },
+  {
+   "title": "An encounter with a fellow Kayan at Putussibau, Indonesia (Kajo Magazine)",
+   "type": "other",
+   "language": "English",
+   "url": "https://kajomag.com/kayan-putussibau-indonesia/",
+   "found_in_search": true
+  },
+  {
+   "title": "CREM-CNRS archive: Kayan recording (pudo anak, berceuse)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://archives.crem-cnrs.fr/archives/items/CNRSMH_I_2011_016_006_06/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xkf",
+ "name": "Khengkha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kheng language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kheng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Khengkha",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/xkf",
+   "found_in_search": true
+  },
+  {
+   "title": "Sino-Tibetan languages vocabulary comparison including Khengkha (Kyoto University)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/263979/1/Sino.Tibetan.lang_4_121.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kheng in Bhutan (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12658",
+   "found_in_search": true
+  },
+  {
+   "title": "Kheng people profile (Asia Harvest)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.people-groups.asiaharvest.org/Bhutan/Kheng.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Understanding and Appreciating Zhemgang (Zhemgang Dzongkhag)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://zhemgang.gov.bt/wp-content/uploads/2025/06/Understanding-and-Appreciating-Zhemgang.pdf",
+   "found_in_search": true
+  }
+ ]
+}

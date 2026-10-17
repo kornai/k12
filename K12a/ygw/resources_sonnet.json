@@ -1,0 +1,45 @@
+{
+ "iso": "ygw",
+ "name": "Yagwoia",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:38:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yagwoia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yagwoia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lloyd 1973, The Angan Language Family (word lists, Trans New Guinea database)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/lloyd-1973",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yagwoia in Papua New Guinea",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15943",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yagwoia",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/ygw",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Yagwoia",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ygw/",
+   "found_in_search": true
+  }
+ ]
+}

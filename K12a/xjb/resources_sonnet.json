@@ -1,0 +1,59 @@
+{
+ "iso": "xjb",
+ "name": "Minjungbal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mibiny languages immortalised in new dictionary (Gurgun Mibinyah, Sharpe 2020)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.nit.com.au/mibiny-languages-immortalised-in-new-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "The Words of the Mibiny Peoples immortalised in New Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.yarn.com.au/blogs/yarn-in-the-community/the-words-of-the-mibiny-peoples-immortalised-in-new-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "February 2020 academic specialist (publisher listing for Gurgun Mibinyah)",
+   "type": "other",
+   "language": "English",
+   "url": "https://publishers.newsouthbooks.com.au/collections/february-2020-academic-specialist/",
+   "found_in_search": true
+  },
+  {
+   "title": "Muurrbay Bundjalung dictionary: Minyungbal, name of a language spoken about Tweed Heads",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://bundjalung.dalang.com.au/language/view_word/3475",
+   "found_in_search": true
+  },
+  {
+   "title": "Muurrbay Bundjalung dictionary: Minyungbal dialect(s)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://bundjalung.dalang.com.au/language/view_word/3476",
+   "found_in_search": true
+  },
+  {
+   "title": "Tweed Regional Museum: Aboriginal cultural heritage",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://museum.tweed.nsw.gov.au/explore/aboriginal-cultural-heritage",
+   "found_in_search": true
+  },
+  {
+   "title": "Coodjingburra: our story",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://coodjingburrahome.com/our-story",
+   "found_in_search": true
+  }
+ ]
+}

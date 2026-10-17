@@ -1,0 +1,45 @@
+{
+ "iso": "xwe",
+ "name": "Gbe, Xwela",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:08:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Joshua Project: Xwela Gbe in Benin",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15926/BN",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: xwe",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=xwe",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: xwe",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/xwe",
+   "found_in_search": true
+  },
+  {
+   "title": "Phla language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Phla_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Xwla-Gbe numerals (MPI EVA; related language xwl)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Gbe-Western-Xwla.htm",
+   "found_in_search": true
+  }
+ ]
+}

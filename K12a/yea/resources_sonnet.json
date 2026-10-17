@@ -1,0 +1,38 @@
+{
+ "iso": "yea",
+ "name": "Ravula",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:32:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ravula language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ravula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ravula (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/ravula.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ravula (Wikitongues)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/yea/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yerava in India (Joshua Project)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/18343/IN",
+   "found_in_search": true
+  }
+ ]
+}

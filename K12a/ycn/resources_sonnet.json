@@ -1,0 +1,66 @@
+{
+ "iso": "ycn",
+ "name": "Yucuna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Magdalena Lemus Serrano, academia.edu profile (dissertation on Yukuna nominalization)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://inalco.academia.edu/MagdalenaLemusSerrano",
+   "found_in_search": true
+  },
+  {
+   "title": "Lemus Serrano dissertation, Yukuna (academia.edu)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.academia.edu/44761451",
+   "found_in_search": true
+  },
+  {
+   "title": "SAPhon Yucuna phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Yucuna.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Yucuna alphabet and grammar exhibit",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://iris.siue.edu/eng-318/exhibits/show/yucunalanguage/alphabet-grammer",
+   "found_in_search": true
+  },
+  {
+   "title": "Yucuna language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.com/wiki/Yukuna",
+   "found_in_search": true
+  },
+  {
+   "title": "A preliminary linguistic survey of Yucuna (ELDP project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/a-preliminary-linguistic-survey-of-yucuna-an-endangered-language-of-colombia",
+   "found_in_search": true
+  },
+  {
+   "title": "Yucuna documentation collection (ELDP archive)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0406/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yucuna (Jukuna) on Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/yucuna.htm",
+   "found_in_search": true
+  }
+ ]
+}

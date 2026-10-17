@@ -1,0 +1,24 @@
+{
+ "iso": "xnk",
+ "name": "Nganakarti",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nhanhagardi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nhanhagardi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang A93: Nhanhagardi",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/A93",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "yle",
+ "name": "Yélî Dnye",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:51:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Yélî Dnye: The Papuan language of Rossel Island (MPI record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.mpi.nl/publications/item3372004/grammar-yeli-dnye-papuan-language-rossel-island",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Yélî Dnye (OAPEN open access)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/57212?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Yélî Dnye (De Gruyter open access listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://search.hli.ie/DeGruytereBooksOA/9783110733853",
+   "found_in_search": true
+  }
+ ]
+}

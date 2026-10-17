@@ -1,0 +1,45 @@
+{
+ "iso": "xto",
+ "name": "Tokharian A",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary and Thesaurus of Tocharian A (Carling and Pinault), Harrassowitz",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.harrassowitz-verlag.de/Dictionary_and_Thesaurus_of_Tocharian_A/titel_7218.ahtml",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary and Thesaurus of Tocharian A (book listing)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://eichendorff21.de/buch/9783447120029/",
+   "found_in_search": true
+  },
+  {
+   "title": "A revised and digitised lexicon over Tocharian A (Swedish Research Council grant)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.rj.se/en/grants/2002/a-revised-and-digitised-lexicon-over-tocharian-a/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lund University typology infrastructure (CEToM and CeDICT corpora)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://projekt.ht.lu.se/typology/infrastructure/",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 36.2329",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/36/2329",
+   "found_in_search": true
+  }
+ ]
+}

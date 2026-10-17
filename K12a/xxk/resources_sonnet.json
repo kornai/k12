@@ -1,0 +1,52 @@
+{
+ "iso": "xxk",
+ "name": "Ke’o",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:11:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Kéo: an Austronesian language of East Nusantara (Baird, ANU)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/handle/1885/9446",
+   "found_in_search": true
+  },
+  {
+   "title": "Illustration of the IPA: Ke'o (Baird, JIPA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://core-cms.cambridgecore.org/core/services/aop-cambridge-core/content/view/DCA34C5739D6011776B40F1ECC9799BC/S0025100302000178a.pdf/keo.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Baird Ke'o collection description",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/LRB2/DV",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Baird Ke'o notebook NB1",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/LRB2/NB1",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Baird Ke'o notebook NB2",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/LRB2/NB2",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Baird Ke'o notebook NB4",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/LRB2/NB4",
+   "found_in_search": true
+  }
+ ]
+}

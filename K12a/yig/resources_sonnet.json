@@ -1,0 +1,38 @@
+{
+ "iso": "yig",
+ "name": "Wusa Nasu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:40:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nasu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nasu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nasu people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nasu_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Nasu Wusa people-group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/guizhou/nasu-wusa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Nasu, Wusa language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/yig",
+   "found_in_search": true
+  }
+ ]
+}

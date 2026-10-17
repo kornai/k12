@@ -1,0 +1,24 @@
+{
+ "iso": "xlg",
+ "name": "Ancient Ligurian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "What Did Palaeo-European Peoples Write? Local Languages of the Western Mediterranean (Antigone)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://antigonejournal.com/2023/05/western-mediterranean-ancient-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "Liguri (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.com/wiki/Liguri",
+   "found_in_search": true
+  }
+ ]
+}

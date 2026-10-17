@@ -1,0 +1,52 @@
+{
+ "iso": "xod",
+ "name": "Kokoda",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lourens de Vries 2004: The Kokoda language (in A Short Grammar of Inanwatan), bibliographic record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/29954",
+   "found_in_search": true
+  },
+  {
+   "title": "Uppsala University: Two talks on South Bird's Head languages (Kokoda verb system)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.uu.se/institution/lingvistik-och-filologi/kalendarium/arkiv/2026-06-05-two-talks-on-south-birds-head-languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Kokoda language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kokoda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: South Sorong Regency",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/South_Sorong_Regency",
+   "found_in_search": true
+  },
+  {
+   "title": "bakat.sabda.org: 301 xod 001 (content not examined)",
+   "type": "other",
+   "language": "other",
+   "url": "https://bakat.sabda.org/301-xod-001.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Eksistensi Bahasa Kokoda dan dialek bahasa Indonesia masyarakat Kokoda dalam pelestarian identitas (El-Tarbawi)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://e-jurnal.iainsorong.ac.id/index.php/El-Tarbawi/article/view/3136",
+   "found_in_search": true
+  }
+ ]
+}

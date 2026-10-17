@@ -1,0 +1,45 @@
+{
+ "iso": "yih",
+ "name": "Western Yiddish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:41:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Western Yiddish (Jewish Languages Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.jewishlanguages.org/western-yiddish",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Yiddish (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2990/guide/6641",
+   "found_in_search": true
+  },
+  {
+   "title": "Verterbukh Yiddish dictionary (Princeton LibGuide)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://libguides.princeton.edu/az/verterbukh-yiddish-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yiddish books",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.omniglot.com/books/language/yiddish.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "UCF Libraries guide to Yiddish (Judeo-German) PJ range",
+   "type": "other",
+   "language": "English",
+   "url": "https://guides.ucf.edu/cnpj/pj5061",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "xpw",
+ "name": "Tasmanian, Northwestern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Peerapper language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Peerapper_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tasmanian languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Western_Tasmanian_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Plomley 1976, A Word-List of the Tasmanian Aboriginal Languages (Glottolog record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/20405",
+   "found_in_search": true
+  },
+  {
+   "title": "Bowern 2012 (Glottolog record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/306230",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Northwestern Tasmanian languoid page",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/nort1442",
+   "found_in_search": true
+  }
+ ]
+}

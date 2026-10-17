@@ -1,0 +1,45 @@
+{
+ "iso": "yga",
+ "name": "Malyangapa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:35:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Malyangapa project (Peter K. Austin)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://peterkaustin.com/projects/malyangapa-project/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yarli language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yarli_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Malyangapa word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/MALYANGAPA",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia.edu paper on Malyangapa/Yarli (title not shown in search result)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/2099279",
+   "found_in_search": true
+  },
+  {
+   "title": "The Yarli Project 4 (Corner Country)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://visitcornercountry.com.au/wp-content/uploads/2024/03/The-Yarli-Project-4.pdf",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "xww",
+ "name": "Wemba Wemba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:11:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Deniliquin Indigenous Language Project (Yarkuwa)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.yarkuwa.org.au/deniliquin-Indigenous-language-project",
+   "found_in_search": true
+  },
+  {
+   "title": "Wurrekangurr Wamba Wamba / Wemba Wemba dictionary and learning site",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.yarkuwa.org.au/wurrekangurr",
+   "found_in_search": true
+  },
+  {
+   "title": "Wurrekangurr resource document",
+   "type": "other",
+   "language": "English",
+   "url": "https://yarkuwa.org.au/wurrekangurr/resources/4/document",
+   "found_in_search": true
+  },
+  {
+   "title": "Yarkuwa Indigenous Knowledge Centre - About",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.yarkuwa.org.au/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Yarkuwa culture site - About",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://culture.yarkuwa.org.au/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Wemba Wemba language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wemba_Wemba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wemba Wemba (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/wembawemba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wemba Wemba iPad app",
+   "type": "software",
+   "language": "native",
+   "url": "https://apps.apple.com/us/app/id1610933655",
+   "found_in_search": true
+  }
+ ]
+}

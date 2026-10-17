@@ -1,0 +1,38 @@
+{
+ "iso": "ypp",
+ "name": "Phupa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:09:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Phupha language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Phupha_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Phupha language, ISO 639:ypz (Wikipedia mirror)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:ypz",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Phupa in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20611",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Phupha in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20628",
+   "found_in_search": true
+  }
+ ]
+}

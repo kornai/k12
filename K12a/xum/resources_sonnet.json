@@ -1,0 +1,45 @@
+{
+ "iso": "xum",
+ "name": "Umbrian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Umbrian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Umbrian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Iguvine Tablets (Wikipedia)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Iguvine_Tablets",
+   "found_in_search": true
+  },
+  {
+   "title": "Umbrian language (Britannica)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://britannica.com/topic/Umbrian-language",
+   "found_in_search": true
+  },
+  {
+   "title": "The Umbrian language (Italia antica project, University of Florence)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.prin-italia-antica.unifi.it/p151.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Umbrian language (Encyclopedia.pub)",
+   "type": "other",
+   "language": "English",
+   "url": "https://encyclopedia.pub/entry/31388",
+   "found_in_search": true
+  }
+ ]
+}

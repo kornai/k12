@@ -1,0 +1,38 @@
+{
+ "iso": "xkh",
+ "name": "Karahawyana",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Karahawyana",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kara1475",
+   "found_in_search": true
+  },
+  {
+   "title": "Waiwai language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waiwai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ISO 639-3 record for xkh (retired)",
+   "type": "other",
+   "language": "English",
+   "url": "https://gfzpublic.gfz-potsdam.de/cone/iso639-3/resource/xkh",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Karafawyana in Brazil",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12522/BR",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "iso": "ysl",
+ "name": "Slovenian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:16:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Slovenski znakovni jezik (izbirni predmet) curriculum",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.gov.si/assets/ministrstva/MIZS/Dokumenti/Osnovna-sola/Ucni-nacrti/izbirni/3-letni-lahko-krajsi/Slovenski_znakovni_jezik_izbirni.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Za boljse moznosti uporabnikov slovenskega znakovnega jezika v vzgoji in izobrazevanju (gov.si, 2023)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.gov.si/novice/2023-06-02-za-boljse-moznosti-uporabnikov-slovenska-znakovnega-jezika-v-vzgoji-in-izobrazevanju/",
+   "found_in_search": true
+  },
+  {
+   "title": "Javno posvetovanje o potrebah uporabnikov znakovnega jezika pri vzgojno-izobrazevalnem delu (20 Oct 2026)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.gov.si/dogodki/2026-10-20-javno-posvetovanje-o-potrebah-uporabnikov-znakovnega-jezika-pri-vzgojno-izobrazevalnem-delu/",
+   "found_in_search": true
+  },
+  {
+   "title": "LREC sign-language workshop paper on Slovenian Sign Language (Hamburg)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.sign-lang.uni-hamburg.de/lrec/pub/16019.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SZJ lexicography article (srl.si)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://srl.si/ojs/srl/article/view/4089/3560",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal of Language and Education, Dec 2023 (video reference grammar of SZJ)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://doaj.org/article/1be6afd6904d47e7bfa8168834f5d117",
+   "found_in_search": true
+  },
+  {
+   "title": "Education journal article (University of Maribor)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journals.um.si/index.php/education/article/view/2986/2285",
+   "found_in_search": true
+  },
+  {
+   "title": "INSIGN national report Slovenia",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.uni-siegen.de/zew/insign/outcomes/communication_challenges/files/national_report_-_insign_-_slovenia_-_final.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ISJT 2014 proceedings paper",
+   "type": "academic",
+   "language": "other",
+   "url": "https://nl.ijs.si/isjt14/proceedings/isjt2014_29.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Slovenian sign language getting a boost (Slovenia Times)",
+   "type": "other",
+   "language": "English",
+   "url": "https://sloveniatimes.com/41453/slovenian-sign-language-getting-a-boost",
+   "found_in_search": true
+  },
+  {
+   "title": "Online platform launched to develop Slovenian sign language (STA)",
+   "type": "software",
+   "language": "English",
+   "url": "https://english.sta.si/3362027/online-platform-launched-to-develop-slovenian-sign-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Znakovni jezik je jezik in ne orodje za komunikacijo z gluho osebo (RTV SLO)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.rtvslo.si/dostopno/clanki/znakovni-jezik-je-jezik-in-ne-orodje-za-komunikacijo-z-gluho-osebo/507749",
+   "found_in_search": true
+  },
+  {
+   "title": "SIRikt 2013 poster",
+   "type": "other",
+   "language": "other",
+   "url": "https://skupnost.sio.si/sio_arhiv/sirikt/www.sirikt.si/slo/prispevki/plakati/947.html",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "yko",
+ "name": "Iyasa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:49:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yasa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yasa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yasa",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yasa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yasa in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15998/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yasa (yko)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/yko?hl=fr",
+   "found_in_search": true
+  }
+ ]
+}

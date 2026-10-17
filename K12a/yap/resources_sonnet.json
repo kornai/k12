@@ -1,0 +1,45 @@
+{
+ "iso": "yap",
+ "name": "Yapese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:21:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yaat nu Waqab (Tales of Yap), 1978 Yapese reader - ScholarSpace record (may be this link or the next)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://hdl.handle.net/10125/39969",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Hawaii ScholarSpace item (possibly the Yapese reader record)",
+   "type": "other",
+   "language": "other",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/e96eb3a9-b191-432b-9d18-953ee7031b67/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Yapese Living Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/yapese",
+   "found_in_search": true
+  },
+  {
+   "title": "Yapese language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:yap",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Guam study on English teaching materials in Yap",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.uog.edu/_resources/files/schools-and-colleges/college-of-liberal-arts-and-social-sciences/pai/v12/9.CHOCHOL.FINAL.BENEFITS.Mats.Yap.11.1.21._copy.pdf",
+   "found_in_search": true
+  }
+ ]
+}

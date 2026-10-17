@@ -1,0 +1,52 @@
+{
+ "iso": "yes",
+ "name": "Nyankpa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:34:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nyankpa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nyankpa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Blench 2008, Glottolog reference",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/25430",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Nyankpa page",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/nyankpa/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Nyankpa",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00i-Scripture_Index.php?iso=yes",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Nyankpa in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16029",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Nyankpa",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/yes",
+   "found_in_search": true
+  }
+ ]
+}

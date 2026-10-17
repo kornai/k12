@@ -1,0 +1,24 @@
+{
+ "iso": "xxt",
+ "name": "Tambora",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:12:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tambora language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tambora_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Article arguing Tambora was a Papuan language (Oceanic Linguistics, Project MUSE)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/228921",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "ylo",
+ "name": "Naluo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:52:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Naruo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Naruo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Aluo language (Wikipedia; distinct language, for disambiguation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aluo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Naluo",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5132",
+   "found_in_search": true
+  },
+  {
+   "title": "Naluo in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18620",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Naluo people-group profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/naluo.pdf",
+   "found_in_search": true
+  }
+ ]
+}

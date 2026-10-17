@@ -1,0 +1,45 @@
+{
+ "iso": "yax",
+ "name": "Yauma",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Mbunda language (ISO 639:yax)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:yax",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yauma",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5082",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Yauma endangered language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Yauma",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Yauma scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=yax",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yauma language profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/yax",
+   "found_in_search": true
+  }
+ ]
+}

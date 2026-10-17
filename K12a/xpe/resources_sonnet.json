@@ -1,0 +1,115 @@
+{
+ "iso": "xpe",
+ "name": "Liberia Kpelle",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gbɛlɛɛ-kɔlɔi 2b Kpelle reader (1960)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://collections.libraries.indiana.edu/africancollections/items/show/7405",
+   "found_in_search": true
+  },
+  {
+   "title": "Better Jallah's vision for Liberia (Kpelle literacy classes)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://lbt.org/better-jallahs-vision-for-liberia/",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List review of Winkler Kpelle-English dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/10/68/",
+   "found_in_search": true
+  },
+  {
+   "title": "WKU sabbatical report on Kpelle dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://digitalcommons.wku.edu/sabb_rpt/4",
+   "found_in_search": true
+  },
+  {
+   "title": "WKU Herald: professor documents Kpelle",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wkuherald.com/48111/life/professor-helps-document-african-language-for-the-first-time",
+   "found_in_search": true
+  },
+  {
+   "title": "WEBBALL bibliography entry for Kpelle",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio_bas.php?id=24606",
+   "found_in_search": true
+  },
+  {
+   "title": "Westermann and Melzian 1930 (WALS reference)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://wals.info/refdb/record/Westermann-and-Melzian-1930",
+   "found_in_search": true
+  },
+  {
+   "title": "Kpelle syllabary",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kpelle_syllabary",
+   "found_in_search": true
+  },
+  {
+   "title": "About Kpelle (LCTL resources guide)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wisc.pb.unizin.org/lctlresources/chapter/about-kpelle/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kpelle language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kpelle_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lutheran Bible Translators release on Kpelle Bible",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://lbt.org/?p=12077",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kpelle in Liberia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/pray/cards/ROG3/LI/Ctry/PeopNameInCountry",
+   "found_in_search": true
+  },
+  {
+   "title": "ELCA blog on Lutheran Church in Liberia Kpelle Bible translation",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://blogs.elca.org/handinhand/?p=2864",
+   "found_in_search": true
+  },
+  {
+   "title": "HathiTrust record: Book of Genesis in Kpelle",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://catalog.hathitrust.org/Record/011809845",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kpelle",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/kpe",
+   "found_in_search": true
+  }
+ ]
+}

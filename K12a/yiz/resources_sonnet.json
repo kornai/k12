@@ -1,0 +1,31 @@
+{
+ "iso": "yiz",
+ "name": "Azhe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:46:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Azhe language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Azhe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ache Yi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ache_Yi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Azhe people-group profile (Asia Harvest)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/azhe.pdf",
+   "found_in_search": true
+  }
+ ]
+}

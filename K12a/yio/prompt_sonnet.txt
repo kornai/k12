@@ -1,0 +1,35 @@
+You will research 4 languages (yil, yim, yin, yio), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE yil ===
+Please help me gather resources for the Yindjilandji language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yil; Glottocode: yind1248; family: Pama-Nyungan; macro-area: Australia. Reference description: Yindjilandji is an extinct language of Australia. It belongs to the Australian language family.
+
+=== LANGUAGE yim ===
+Please help me gather resources for the Yimchungru Naga language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yim; Glottocode: yimc1240; family: Sino-Tibetan; macro-area: Eurasia; approx. speakers: about 92,000. Reference description: Yimchungru Naga is a stable indigenous language of India. It belongs to the Sino-Tibetan language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE yin ===
+Please help me gather resources for the Riang Lai language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yin; Glottocode: yinc1238; family: Austroasiatic; macro-area: Eurasia. Reference description: Riang Lai is an endangered indigenous language of Myanmar. It belongs to the Austro-Asiatic language family. The language is used as a first language by some people in every generation of the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE yio ===
+Please help me gather resources for the Dayao Yi language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yio; Glottocode: daya1245; family: Bookkeeping
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

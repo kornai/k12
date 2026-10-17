@@ -1,0 +1,66 @@
+{
+ "iso": "xms",
+ "name": "Moroccan Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Let's Communicate: online Moroccan sign language dictionary (Hands Along the Nile)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.handsalongthenile.org/mounir-launches-lets-communicate/",
+   "found_in_search": true
+  },
+  {
+   "title": "Zero Project: Improving Deaf Children's Reading Through Technology",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://zeroproject.org/view/project/b1d89655-9917-eb11-a813-0022489b3a6d",
+   "found_in_search": true
+  },
+  {
+   "title": "LREC sign-language workshop paper (Hamburg)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.sign-lang.uni-hamburg.de/lrec/pub/16033.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Moroccan Sign Language STEM thesaurus and Arabic concordancer (Qatar Foundation proceedings)",
+   "type": "software",
+   "language": "English",
+   "url": "https://qscience.com/content/papers/10.5339/qfarf.2013.ICTP-05",
+   "found_in_search": true
+  },
+  {
+   "title": "IFES electoral lexicon in Moroccan Sign Language",
+   "type": "video",
+   "language": "English",
+   "url": "https://ifes.org/news/video-ifes-creates-electoral-lexicon-moroccan-sign-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Hands Along the Nile page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.handsalongthenile.org/?p=1943",
+   "found_in_search": true
+  },
+  {
+   "title": "MSL Generator, rule-based Arabic-to-MSL machine translation (BUCC 2025)",
+   "type": "software",
+   "language": "English",
+   "url": "https://aclanthology.org/2025.bucc-1.1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "National Academies PEER project PGA_152065",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sites.nationalacademies.org/pga/peer/PGA_152065",
+   "found_in_search": true
+  }
+ ]
+}

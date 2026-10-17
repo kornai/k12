@@ -1,0 +1,59 @@
+{
+ "iso": "xmt",
+ "name": "Matbat",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Matbat (Magey dialect) lexicon, Remijsen, University of Edinburgh DataShare",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://datashare.ed.ac.uk/handle/10283/796",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexical comparanda for 14 Austronesian varieties of Raja Ampat (Zenodo)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://zenodo.org/records/14716166",
+   "found_in_search": true
+  },
+  {
+   "title": "Matbat language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Matbat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Matbat verbs",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Matbat",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Misool Ma'ya wordlist (neighbouring language, comparison only)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/MISOOL_MAYA",
+   "found_in_search": true
+  },
+  {
+   "title": "Raja Ampat marine conservation area: culture and heritage",
+   "type": "other",
+   "language": "English",
+   "url": "https://kkprajaampat.com/en/culture-heritage/",
+   "found_in_search": true
+  },
+  {
+   "title": "Matlow people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Matlow_people",
+   "found_in_search": true
+  }
+ ]
+}
