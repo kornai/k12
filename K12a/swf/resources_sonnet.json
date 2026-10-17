@@ -1,0 +1,52 @@
+{
+ "iso": "swf",
+ "name": "Sere",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Sere language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sere_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Sere",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sere1264",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals in Sere (Max Planck EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Sere.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ethnologue subgroup page (Ubangian)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.ethnologue.com/subgroup/1029/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sere in DR Congo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14865",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Sere (swf)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/swf/",
+   "found_in_search": true
+  }
+ ]
+}

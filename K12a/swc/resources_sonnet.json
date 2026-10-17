@@ -1,0 +1,45 @@
+{
+ "iso": "swc",
+ "name": "Congo Swahili",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Congo Swahili",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Congo_Swahili",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Hunter 1959, A Manual of Congo Swahili Grammar",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/154276",
+   "found_in_search": true
+  },
+  {
+   "title": "Study of Lubumbashi Swahili (Qucosa attachment)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ul.qucosa.de/api/qucosa%3A14609/attachment/ATT-0/",
+   "found_in_search": true
+  },
+  {
+   "title": "Elon grammar: Swahili in the Democratic Republic of the Congo",
+   "type": "other",
+   "language": "English",
+   "url": "https://elon.io/grammar/swahili/countries/democratic-republic-of-congo",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth / Bible.is Swahili (swc)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00i-Scripture_Index.php?iso=swc",
+   "found_in_search": true
+  }
+ ]
+}

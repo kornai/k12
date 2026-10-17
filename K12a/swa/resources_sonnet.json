@@ -1,0 +1,101 @@
+{
+ "iso": "swa",
+ "name": "swa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kiswahili syllabus, lower primary (Zanzibar)",
+   "type": "policy",
+   "language": "native",
+   "url": "https://moez.go.tz/dox/syllabus/kiswahili_lower_primary.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Syllabus Kiswahili S1-S6 Zanzibar 2009",
+   "type": "policy",
+   "language": "native",
+   "url": "https://maktaba.tetea.org/study-aids/primary/Syllabus - Kiswahili - S1-S6 Zanzibar - 2009 (Kiswahili).pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "USAID-hosted Kiswahili Standard One reading teaching guide",
+   "type": "primer",
+   "language": "native",
+   "url": "https://pdf.usaid.gov/pdf_docs/PA00KH6S.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Columbia University Libraries: Swahili resources (includes African Storybook)",
+   "type": "other",
+   "language": "English",
+   "url": "https://library.columbia.edu/libraries/global/virtual-libraries/african_studies/languages/swahili.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Evaluation of A-level Kiswahili textbooks under the 1991 textbook policy in Tanzania",
+   "type": "academic",
+   "language": "English",
+   "url": "https://libraryrepository.udsm.ac.tz/items/599be783-4311-40f4-a597-09b826ecef6e",
+   "found_in_search": true
+  },
+  {
+   "title": "Kioo cha Lugha article on TET Kiswahili textbooks",
+   "type": "academic",
+   "language": "native",
+   "url": "https://journals.udsm.ac.tz/index.php/kcl/article/view/6138/4969",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexikos article on Swahili dictionaries",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/1798/1036",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexikos article on Swahili lexicography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/1273/786",
+   "found_in_search": true
+  },
+  {
+   "title": "NJAS review mentioning the Helsinki Corpus of Swahili",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://njas.fi/njas/article/download/679/502/1243",
+   "found_in_search": true
+  },
+  {
+   "title": "Hunspell Swahili spell-checker README",
+   "type": "software",
+   "language": "English",
+   "url": "https://git.stg.centos.org/source-git/hunspell-sw/blob/c8/f/README_sw_TZ.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth Swahili scripture index",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00i-Scripture_Index.php?iso=swh",
+   "found_in_search": true
+  },
+  {
+   "title": "YouVersion Swahili Bible versions",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://bible.com/languages/swh",
+   "found_in_search": true
+  },
+  {
+   "title": "Swahili Christian resources: audio Bible",
+   "type": "audio",
+   "language": "native",
+   "url": "https://swahilichristian.missionresources.com/audio-bible.html",
+   "found_in_search": true
+  }
+ ]
+}
