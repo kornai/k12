@@ -1,0 +1,45 @@
+{
+ "iso": "zgb",
+ "name": "Zhuang, Guibei",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Joshua Project: Zhuang, Guibei language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/zgb",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Guibei Zhuang in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/19805",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Guibei",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zgb",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Luocheng",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/ja/language/4980",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang (macrolanguage)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/zha",
+   "found_in_search": true
+  }
+ ]
+}

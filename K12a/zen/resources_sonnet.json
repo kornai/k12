@@ -1,0 +1,38 @@
+{
+ "iso": "zen",
+ "name": "Zenaga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionnaire zenaga-francais (Tome 1) / Dictionnaire francais-zenaga (Tome 2), C. Taine-Cheikh",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_dictionnaire-zenaga-francais-tome-1-dictionnaire-francais-zenaga-tome-2",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire francais-zenaga (berbere de Mauritanie), bookseller listing",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://abebooks.com/9783896459275/Dictionnaire-fran%C3%A7ais-z%C3%A9naga-berb%C3%A8re-Mauritanie-3896459279/plp",
+   "found_in_search": true
+  },
+  {
+   "title": "Zenaga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zenaga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zenaga numerals, Trarza region, Mauritania",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Zenaga.htm",
+   "found_in_search": true
+  }
+ ]
+}
