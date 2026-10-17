@@ -1,0 +1,59 @@
+{
+ "iso": "wyb",
+ "name": "Wangaaybuwan-Ngiyambaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:41:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngiyampaa Wordworld (AIATSIS shop)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://shop.aiatsis.gov.au/products/ngiyampaa-wordworld",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngiyambaa: the Language of the Wangaaybuwan (Donaldson 1980)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/publication/35862",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngiyampaa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngiyampaa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Wangaaybuwan-Ngiyambaa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/wang1291",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/92257",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record (second)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38813",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngiyampaa Wangaaypuwan Dictionary website",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wangaaypuwan.org.au",
+   "found_in_search": true
+  }
+ ]
+}
