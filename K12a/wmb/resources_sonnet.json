@@ -1,0 +1,45 @@
+{
+ "iso": "wmb",
+ "name": "Wambaya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:17:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Wambaya, Northern Territory (Australia) (Nordlinger 1998), University of Melbourne record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://findanexpert.unimelb.edu.au/scholarlywork/1198607-a-grammar-of-wambaya--northern-australia",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wambaya",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/108885",
+   "found_in_search": true
+  },
+  {
+   "title": "Central NT languages -- resources (ANU)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www0.anu.edu.au/linguistics/nash/aust/resources.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wambaya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wambaya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wambaya people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wambaya_people",
+   "found_in_search": true
+  }
+ ]
+}
