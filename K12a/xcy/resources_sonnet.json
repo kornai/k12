@@ -1,0 +1,52 @@
+{
+ "iso": "xcy",
+ "name": "Cayuse",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:54:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "CTUIR Language Program (Education Department)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://ctuir.org/departments/education/language/",
+   "found_in_search": true
+  },
+  {
+   "title": "The Language of Nixyáawii (CTUIR)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://ctuir.org/about/language/",
+   "found_in_search": true
+  },
+  {
+   "title": "CTUIR History and Culture",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://ctuir.org/about/history-culture/",
+   "found_in_search": true
+  },
+  {
+   "title": "CTUIR dictionary entry: Cayuse people (Weyíletpuu)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://dictionary.ctuir.org/?p=46373",
+   "found_in_search": true
+  },
+  {
+   "title": "Coyote Stories: Looking into language extinction",
+   "type": "other",
+   "language": "English",
+   "url": "https://cuj.ctuir.org/?p=4308",
+   "found_in_search": true
+  },
+  {
+   "title": "Cayuse Tribe of Washington and Oregon (Legends of America)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.legendsofamerica.com/cayuse-tribe/",
+   "found_in_search": true
+  }
+ ]
+}

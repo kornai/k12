@@ -1,0 +1,66 @@
+{
+ "iso": "xda",
+ "name": "Darkinyung",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:54:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Darkinyung Grammar and Dictionary: Revitalising a Language from Historical Sources",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://muurrbay.org.au/publications/dictionaries-grammar/darkinyung-grammar-and-dictionary-revitalising-a-language-from-historical-sources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Brand new day for the Darkinyung language (PARADISEC)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.paradisec.org.au/blog/2008/12/brand-new-day-for-the-darkinyung-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Darkinung thesis abstract (G. E. Ford, 2013, University of Sydney)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ses.library.usyd.edu.au/bitstream/handle/2123/7745/GE%20Ford%202013%2c%20Darkinung%20Abstract.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Darkinjung language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Darkinjung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Darkinung country, Darkinung people, and Darkinung culture (History of Aboriginal Sydney)",
+   "type": "other",
+   "language": "English",
+   "url": "https://historyofaboriginalsydney.edu.au/north-west/darkinung-country-darkinung-people-and-darkinung-culture",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of Sydney entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://dictionaryofsydney.org/node/67399",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of Sydney entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://dictionaryofsydney.org/node/65937",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of Sydney entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://dictionaryofsydney.org/node/10577",
+   "found_in_search": true
+  }
+ ]
+}

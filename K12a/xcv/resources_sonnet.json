@@ -1,0 +1,31 @@
+{
+ "iso": "xcv",
+ "name": "Chuvantsy",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:54:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Chuvan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chuvan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Atlas of the Peoples of North-East Siberia: Chuvan language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://atlaskmns.ru/page/en/lang_chuvancy_all.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Atlas of the Peoples of North-East Siberia: Chuvan people",
+   "type": "academic",
+   "language": "English",
+   "url": "https://atlaskmns.ru/page/en/people_chuvancy_common.html",
+   "found_in_search": true
+  }
+ ]
+}

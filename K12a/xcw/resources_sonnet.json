@@ -1,0 +1,45 @@
+{
+ "iso": "xcw",
+ "name": "Coahuilteco",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:54:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Coahuiltecan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Coahuiltecan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Comecrudan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Comecrudan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Garza language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Garza_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Coahuiltecan language (Indigenous Cultures)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.indigenouscultures.org/coahuiltecan-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Coahuilteco word list (ASJP)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/COAHUILTECO",
+   "found_in_search": true
+  }
+ ]
+}
