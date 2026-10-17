@@ -1,0 +1,66 @@
+{
+ "iso": "eya",
+ "name": "Eyak",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Alaska Native Languages Archive: Eyak",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://www.alaskanativelanguages.org/eyak",
+   "found_in_search": true
+  },
+  {
+   "title": "Eyak Dictionary (UBC RelLex documentation)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Eyak_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Eyak language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eyak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Eyak (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/eyak.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Daxunhyuuga Eyak language revitalization (Pawanka Fund 2021)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://pawankafund.org/ano/2021/daxunhyuuga-eyak-language-revitalization/",
+   "found_in_search": true
+  },
+  {
+   "title": "Pawanka Fund Eyak e-learning project",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://pawankafund.org/?p=4540",
+   "found_in_search": true
+  },
+  {
+   "title": "Eyak language and culture are growing globally (Cordova Times)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.thecordovatimes.com/2018/08/03/eyak-language-and-culture-are-growing-globally/",
+   "found_in_search": true
+  },
+  {
+   "title": "Reviving a dead Alaska Native language (ADN)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.adn.com/rural-alaska/article/reviving-dead-alaska-native-language/2011/06/23",
+   "found_in_search": true
+  }
+ ]
+}

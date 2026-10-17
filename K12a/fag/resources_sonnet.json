@@ -1,0 +1,52 @@
+{
+ "iso": "fag",
+ "name": "Finongan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Finongan dictionary (Webonary), foreword",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/finongan/overview/foreword/",
+   "found_in_search": true
+  },
+  {
+   "title": "Finongan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Finongan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Finongan counting systems (MPI EVA channumerals)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Finongan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Finungwan in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11210",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Finongan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/fag",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Finongan",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/fag/",
+   "found_in_search": true
+  }
+ ]
+}

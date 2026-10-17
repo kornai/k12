@@ -1,0 +1,52 @@
+{
+ "iso": "evn",
+ "name": "Evenki",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Evenki orthography (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Evenki_orthography",
+   "found_in_search": true
+  },
+  {
+   "title": "Evenki grammar (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Evenki_grammar",
+   "found_in_search": true
+  },
+  {
+   "title": "Nedjalkov, Evenki (Routledge 1997), book listing",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://booktopia.com.au/evenki-igor-nedjalkov/book/9780415026406.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Evenki",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/evenki.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Evenki language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:evn",
+   "found_in_search": true
+  },
+  {
+   "title": "Evenk language (Arctic Megapedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://arctic-megapedia.com/en/?p=2658",
+   "found_in_search": true
+  }
+ ]
+}

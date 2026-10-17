@@ -1,0 +1,52 @@
+{
+ "iso": "eyo",
+ "name": "Keiyo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Keiyo language (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/eyo",
+   "found_in_search": true
+  },
+  {
+   "title": "Keiyo Kalenjin in Kenya (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/18971/KE",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalenjin New Testament Published (Translator Bible Society)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.tbsbibles.org/news/694686/Kalenjin-New-Testament-Published.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The Kalenjin Translation Project (TBS)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.tbsbibles.org/news/662491/The-Kalenjin-Translation-Project.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalenjin Old Testament Files Received (TBS)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.tbsbibles.org/news/727603/Kalenjin-Old-Testament-Files-Received.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Geyo (Keiyo) audio-visual lessons, Global Recordings Network",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/3019",
+   "found_in_search": true
+  }
+ ]
+}

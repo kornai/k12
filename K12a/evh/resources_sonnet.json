@@ -1,0 +1,38 @@
+{
+ "iso": "evh",
+ "name": "Uvbie",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Proposed Orthography of Uvwie (University of Benin repository)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://repository.uniben.edu/taxonomy/term/2261",
+   "found_in_search": true
+  },
+  {
+   "title": "Efeturi - University of Benin repository PDF",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.uniben.edu/sites/default/files/2026-02/EFETURI.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Uvbie language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uvbie_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Uvbie, Evrie in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15753",
+   "found_in_search": true
+  }
+ ]
+}

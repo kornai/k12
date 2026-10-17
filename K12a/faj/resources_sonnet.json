@@ -1,0 +1,59 @@
+{
+ "iso": "faj",
+ "name": "Kursav",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kursav language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kursav_language",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Kursav",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/madang-upper-yuat-river/madang/west-madang/sogeram-and-tomui-rivers/sogeram-river/east-sogeram-river/kursav",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kursav",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2215?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kursav",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/faj",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue record DD1/341",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/DD1/341",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue record DD1 item 136",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/collections/DD1/items/136",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue record DD1/377",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/DD1/377",
+   "found_in_search": true
+  }
+ ]
+}
