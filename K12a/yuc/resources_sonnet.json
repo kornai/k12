@@ -1,0 +1,59 @@
+{
+ "iso": "yuc",
+ "name": "Yuchi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yuchi Language Project seeks to revitalize indigenous identity (Harvard Gazette)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://news.harvard.edu/gazette/story/2017/11/yuchi-language-project-seeks-to-revitalize-indigenous-identity-through-common-tongue/",
+   "found_in_search": true
+  },
+  {
+   "title": "We Are Still Here: The Yuchi Language Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://atomicscribe.com/we-are-still-here-the-yuchi-language-project/",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF BCS-0345694 Euchee dictionary documentation grant",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-0345694",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yuchi resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/37636/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yuchi sample",
+   "type": "audio",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/1002/samples/11604?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yuchi language guide",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1002/guide",
+   "found_in_search": true
+  },
+  {
+   "title": "Yuchi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:yuc",
+   "found_in_search": true
+  }
+ ]
+}
