@@ -1,0 +1,87 @@
+{
+ "iso": "xal",
+ "name": "Kalmyk-Oirat",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:45:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The structure of an electronic textbook of Kalmyk language: problems and prospects",
+   "type": "academic",
+   "language": "other",
+   "url": "https://nit.tuva.asia/nit/en/article/view/206",
+   "found_in_search": true
+  },
+  {
+   "title": "Educational portal \"Khalmg Keln\" (Kalmyk language): status and development",
+   "type": "academic",
+   "language": "other",
+   "url": "https://nit.tuva.asia/nit/en/article/view/110",
+   "found_in_search": true
+  },
+  {
+   "title": "Special Papers, Issue 13, Early Kalmyk Primers and Other Schoolbooks",
+   "type": "primer",
+   "language": "other",
+   "url": "https://mongoliasociety.org/monsoc-shop-1/p/special-papers-issue-13-early-kalmyk-primers-and-other-schoolbooks",
+   "found_in_search": true
+  },
+  {
+   "title": "7000 Languages: Kalmyk conversational course",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.7000.org/kalmyk",
+   "found_in_search": true
+  },
+  {
+   "title": "Ghilyana Dordzhieva (Wikitongues fellow, Kalmyk classes)",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://wikitongues.org/fellows/ghilyana-dordzhieva/",
+   "found_in_search": true
+  },
+  {
+   "title": "Freelang Kalmyk dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.freelang.net/dictionary/kalmyk.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Freelang Oirat dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://mail.freelang.net/dictionary/oirat.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Swarthmore Linguistics: Kalmyk resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikis.swarthmore.edu/ling073/Kalmyk",
+   "found_in_search": true
+  },
+  {
+   "title": "Indiana University CeLT: Kalmyk language information",
+   "type": "other",
+   "language": "English",
+   "url": "https://celt.indiana.edu/portal/Kalmyk",
+   "found_in_search": true
+  },
+  {
+   "title": "Comparative studies of Kalmyk and Oirat (ELDP archive)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0516/",
+   "found_in_search": true
+  },
+  {
+   "title": "The Oxford Guide to the Transeurasian Languages (chapter)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://academic.oup.com/book/41762/chapter/354238642",
+   "found_in_search": true
+  }
+ ]
+}

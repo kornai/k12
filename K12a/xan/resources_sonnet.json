@@ -1,0 +1,66 @@
+{
+ "iso": "xan",
+ "name": "Xamtanga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:45:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Xamtanga 3 Project Profile (Seed Company)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://seedcompany.com/wp-content/uploads/2024/07/Xamtanga-3-Project-Profile.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Xamtanga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xamtanga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Chloé Darmon 2015, A morphosyntactic description of Xamtanga (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/548296",
+   "found_in_search": true
+  },
+  {
+   "title": "Oxford Handbook of Ethiopian Languages: Xamtanga chapter",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://academic.oup.com/edited-volume/46265/chapter/405502216",
+   "found_in_search": true
+  },
+  {
+   "title": "The morpheme -(ä)ŋä in Xamtanga (Darmon)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://benjamins.com/catalog/tsl.117.15dar",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Xamtanga wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/XAMTANGA",
+   "found_in_search": true
+  },
+  {
+   "title": "Xamir people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xamir_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Wag Hemra Zone (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wag_Hemra_Zone",
+   "found_in_search": true
+  }
+ ]
+}
