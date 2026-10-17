@@ -1,0 +1,38 @@
+{
+ "iso": "yab",
+ "name": "Yuhup",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Hup (Epps), related language",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://shop.falter.at/detail/9783110195880/a-grammar-of-hup",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Hup (dissertation version, University of Virginia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://libraetd.lib.virginia.edu/public_view/ns064640z",
+   "found_in_search": true
+  },
+  {
+   "title": "Nadahup languages (overview)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nadahup_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Hunter-Gatherer database: Yuhup language entry with vocabulary list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://huntergatherer.la.utexas.edu/languages/language/123",
+   "found_in_search": true
+  }
+ ]
+}
