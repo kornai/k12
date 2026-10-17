@@ -1,0 +1,52 @@
+{
+ "iso": "xkp",
+ "name": "Kabatei",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Kabatei (kaba1276)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kaba1276.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Kabatei (kbt)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_kbt",
+   "found_in_search": true
+  },
+  {
+   "title": "Tati language (Iran) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tati_language_(Iran)",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Kabatei",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Kabatei",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kabatei",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3247?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Essays on typology of Iranian Languages (library record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://vufind.lib.tsu.ru/Record/libtsu.1013260/Details",
+   "found_in_search": true
+  }
+ ]
+}

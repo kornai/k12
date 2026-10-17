@@ -1,0 +1,38 @@
+{
+ "iso": "xko",
+ "name": "Kiorr",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kiorr language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kiorr_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kiorr in Laos (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12706",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page xko",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/xko",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: xko",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/xko",
+   "found_in_search": true
+  }
+ ]
+}
