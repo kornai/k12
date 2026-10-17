@@ -1,0 +1,52 @@
+{
+ "iso": "yka",
+ "name": "Yakan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:46:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yakan-English Dictionary (Behrens) on Webonary, credits and acknowledgements",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.org/yakan/?p=146819",
+   "found_in_search": true
+  },
+  {
+   "title": "Yakan dictionary on Webonary, foreword",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/yakan/overview/foreword/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yakan dictionary on Webonary, entry page",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/yakan/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Filipinas Library catalogue entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.filipinaslibrary.org.ph/biblio/53539",
+   "found_in_search": true
+  },
+  {
+   "title": "Yakan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yakan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yakan writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yakan.htm",
+   "found_in_search": true
+  }
+ ]
+}

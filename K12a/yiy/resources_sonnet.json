@@ -1,0 +1,45 @@
+{
+ "iso": "yiy",
+ "name": "Yir-Yoront",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:46:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yir-Yoront Lexicon: Sketch and Dictionary of an Australian Language (Alpher 1991), catalogue record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://bvbvf1.bib-bvb.de/vufind/Record/DE-604.BV004553057/Details",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Yir-Yoront pages (Alpher amendments and corrections)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.anu.edu.au/linguistics/nash/aust/YY/",
+   "found_in_search": true
+  },
+  {
+   "title": "Rigsby 1993 review of Alpher (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/6084",
+   "found_in_search": true
+  },
+  {
+   "title": "UQ manuscripts: Yir-Yoront language",
+   "type": "other",
+   "language": "English",
+   "url": "https://manuscripts.library.uq.edu.au/index.php/yir-yoront-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yir-Yoront language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yir-Yoront_language",
+   "found_in_search": true
+  }
+ ]
+}
