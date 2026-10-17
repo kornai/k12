@@ -1,0 +1,73 @@
+{
+ "iso": "svs",
+ "name": "Savosavo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "DoBeS Savosavo project page (MPI Nijmegen)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=1259",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Savosavo (Claudia Wegener, De Gruyter Mouton, 2012)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110289657/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Savosavo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:svs",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Savosavo",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/svs",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Savosavo poster",
+   "type": "other",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/oceania-savosavo-print.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "DoReCo corpus: Savosavo",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://doreco.huma-num.fr/languages/savo1255",
+   "found_in_search": true
+  },
+  {
+   "title": "TEITOK interface for DoReCo Savosavo",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://teitok.huma-num.fr/doreco/savo1255/index.php",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Tryon collection DT1-163 (Savosavo)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/DT1/items/163",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Capell recordings AC1-013 (includes Savosavo)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/AC1/013",
+   "found_in_search": true
+  }
+ ]
+}
