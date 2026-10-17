@@ -1,0 +1,59 @@
+{
+ "iso": "wic",
+ "name": "Wichita",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:03:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wichita Vocab Builder (Language Conservancy app)",
+   "type": "software",
+   "language": "native",
+   "url": "https://apps.apple.com/app/id6464505392",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Conservancy: languages we work with (Wichita)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://languageconservancy.org/languages-we-work-with/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wichita revitalization thesis (Hodges, 2018), SHAREOK",
+   "type": "academic",
+   "language": "English",
+   "url": "https://shareok.org/handle/11244/299837",
+   "found_in_search": true
+  },
+  {
+   "title": "Wichita (DoBeS archive poster)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/americas-wichita-print.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wichita Language Program Collection (Sam Noble Museum)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/native-american-languages-collections/wichita-language-program-collection",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Learning and Teaching (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/109792",
+   "found_in_search": true
+  },
+  {
+   "title": "Wichita Tribe research starter (EBSCO)",
+   "type": "other",
+   "language": "English",
+   "url": "https://ebsco.com/research-starters/social-sciences-and-humanities/wichita-tribe",
+   "found_in_search": true
+  }
+ ]
+}

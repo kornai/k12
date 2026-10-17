@@ -1,0 +1,31 @@
+{
+ "iso": "whu",
+ "name": "Kayan, Wahau",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:03:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wahau Kayan in Indonesia (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12593",
+   "found_in_search": true
+  },
+  {
+   "title": "Wahau Kayan language page (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/whu",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalimantan language documentation overview (Soriente and Inagaki, handout)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingdy.aa-ken.jp/wp-content/uploads/2012/01/120217_soriente_inagaki_h2.pdf",
+   "found_in_search": true
+  }
+ ]
+}
