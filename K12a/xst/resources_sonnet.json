@@ -1,0 +1,45 @@
+{
+ "iso": "xst",
+ "name": "Silt'e (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:55:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Silt'e as a Medium of Instruction (Addis Ababa University thesis, 2010)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://etd.aau.edu.et/items/86e3de77-027c-4b4a-b4f6-a98a1fe4334a",
+   "found_in_search": true
+  },
+  {
+   "title": "Silt'e language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Silt%CA%BCe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bustorf, Selti (Encyclopaedia Aethiopica 4) on Scribd",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.scribd.com/doc/47724774/Bustorf-EAE4-Selti",
+   "found_in_search": true
+  },
+  {
+   "title": "AAU document citing a Silt'e-Amharic-English dictionary (Gutt, 1997)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://etd.aau.edu.et/bitstreams/969ece9a-43ec-4152-9e9c-ba2186b27091/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: xst (Silti, Selti, East Gurage)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Xst",
+   "found_in_search": true
+  }
+ ]
+}

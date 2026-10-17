@@ -1,0 +1,52 @@
+{
+ "iso": "xsv",
+ "name": "Sudovian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:55:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sudovian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sudovian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yotvingians (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yotvingians",
+   "found_in_search": true
+  },
+  {
+   "title": "Jotvingiu kalbos aspektai (Lituanistika)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.lituanistika.lt/content/59440",
+   "found_in_search": true
+  },
+  {
+   "title": "Seniausios zinios apie suduvius-jotvingius ir ju ivardijimo problema (Lituanistika)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://lituanistika.lt/content/104730",
+   "found_in_search": true
+  },
+  {
+   "title": "Terra Sudorum (Ukrainian Week)",
+   "type": "other",
+   "language": "English",
+   "url": "https://ukrainianweek.com/terra-sudorum/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo entry for xsv",
+   "type": "other",
+   "language": "English",
+   "url": "https://finto.fi/lexvo/en/page/xsv",
+   "found_in_search": true
+  }
+ ]
+}

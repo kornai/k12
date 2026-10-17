@@ -1,0 +1,38 @@
+{
+ "iso": "xsu",
+ "name": "Sanumá",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:55:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dicionario Sanoma-Portugues, Portugues-Sanoma, Alfabetico e Tematico (2024)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://japiim.museudoindio.gov.br/dic/sanoma/assets/pdf/dicionario_sanoma_completo.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Borgman 1990: Sanuma (grammar sketch), SIL Brazil archive",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.silbrazil.org/resources/archives/1973",
+   "found_in_search": true
+  },
+  {
+   "title": "Phonology and morphosyntax of Sanoma (Yanomami), USP doctoral thesis",
+   "type": "academic",
+   "language": "other",
+   "url": "https://teses.usp.br/teses/disponiveis/8/8139/tde-18122019-164856/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "DICE: Sanuma",
+   "type": "other",
+   "language": "English",
+   "url": "https://dice.missouri.edu/assets/docs/south-america-other/Sanuma.pdf",
+   "found_in_search": true
+  }
+ ]
+}
