@@ -1,0 +1,38 @@
+{
+ "iso": "yxu",
+ "name": "Yuyu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yuyu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yuyu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Horgen 2004, The languages of the Lower Murray (La Trobe MA thesis)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/306364",
+   "found_in_search": true
+  },
+  {
+   "title": "Moorhouse 1846, Vocabulary and outline of grammar of the Murray River language (NLA)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://nla.gov.au/nla.obj-1126543819/view",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG entry S19",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/s19",
+   "found_in_search": true
+  }
+ ]
+}

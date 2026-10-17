@@ -1,0 +1,38 @@
+{
+ "iso": "yxy",
+ "name": "Yabula Yabula",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bowe and Morey 1999, The Yorta Yorta (Bangerang) Language of the Murray Goulburn including Yabula Yabula",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/c0ddf545-58b8-46a9-a087-fb46f254b7d5/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Yabula-Yabula language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yabula-Yabula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Victorian Aboriginal languages (Museums Victoria)",
+   "type": "other",
+   "language": "English",
+   "url": "https://museumsvictoria.com.au/bunjilaka/about-us/first-peoples/victorian-aboriginal-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "VCAA Aboriginal Languages of Victoria history document",
+   "type": "policy",
+   "language": "English",
+   "url": "https://vcaa.vic.edu.au:443/Documents/alcv/History.pdf",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "iso": "yxm",
+ "name": "Yinwum",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yinwum (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yinwum",
+   "found_in_search": true
+  },
+  {
+   "title": "Yinwum (hgcosmos.org cultural note PDF)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.hgcosmos.org/assets/culture/AZ/Y/Yinwum.pdf",
+   "found_in_search": true
+  }
+ ]
+}
