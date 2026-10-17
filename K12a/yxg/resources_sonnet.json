@@ -1,0 +1,31 @@
+{
+ "iso": "yxg",
+ "name": "Yagara",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yagara Dictionary and Salvage Grammar (ANU Press)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://press.anu.edu.au/publications/series/asia-pacific-linguistics/yagara-dictionary-salvage-grammar",
+   "found_in_search": true
+  },
+  {
+   "title": "Yagara Dictionary and Salvage Grammar (OAPEN)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/89785",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Hat: yakka",
+   "type": "other",
+   "language": "English",
+   "url": "https://languagehat.com/yakka/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "yxl",
+ "name": "Yardliyawarra",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yardliyawara (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yardliyawara",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: Yardliyawara (L7)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/L7",
+   "found_in_search": true
+  },
+  {
+   "title": "Adnyamathanha language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Adnyamathanha_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mobile Language Team",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mobilelanguageteam.com.au/?p=229",
+   "found_in_search": true
+  },
+  {
+   "title": "The Yarli Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://visitcornercountry.com.au/wp-content/uploads/2024/03/The-Yarli-Project-4.pdf",
+   "found_in_search": true
+  }
+ ]
+}
