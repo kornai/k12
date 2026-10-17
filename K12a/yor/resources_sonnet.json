@@ -1,0 +1,45 @@
+{
+ "iso": "yor",
+ "name": "Yoruba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:06:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "USAID donates textbook in local language to pupils in Oyo",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://nannews.ng/usaid-donates-textbook-in-local-language-to-pupils-in-oyo/",
+   "found_in_search": true
+  },
+  {
+   "title": "Primary 1 Yoruba Language Scheme of Work 2026 (HeadTeacher.ng, commercial)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.headteacher.ng/product/primary-1-yoruba-language-scheme-of-work-2026-new-national-curriculum/",
+   "found_in_search": true
+  },
+  {
+   "title": "Promoting quality control in Yoruba language textbooks for primary schools in Nigeria",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.ezenwaohaetorc.org/index.php/IJAAS/article/view/1-2016-010",
+   "found_in_search": true
+  },
+  {
+   "title": "Teacher's experiences of using Yoruba as a medium of instruction in primary classes",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.up.ac.za/items/a8bd99a3-8158-47eb-a270-7589cb10ee3c/full",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Ibadan repository item on Yoruba in lower primary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.ui.edu.ng/items/9a7877d6-9817-4355-9aff-332ba6ec28db",
+   "found_in_search": true
+  }
+ ]
+}

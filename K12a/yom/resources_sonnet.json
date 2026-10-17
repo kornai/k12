@@ -1,0 +1,52 @@
+{
+ "iso": "yom",
+ "name": "Kiyombe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:06:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Open Kiyombe Contemporary New Testament and Psalms (PDF)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://eBible.org/pdf/yom/yom_all.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Open Kiyombe Contemporary New Testament and Psalms (EPUB)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.ebible.org/epub/yom.epub",
+   "found_in_search": true
+  },
+  {
+   "title": "French-Kiyombe lexicon (Biyoko Mabua)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://e.lavoisier.fr/extract/523164",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary and grammar of the Kongo language (Bentley; San Salvador variety)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://catalog.hathitrust.org/Record/008584146",
+   "found_in_search": true
+  },
+  {
+   "title": "Kongo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kongo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Kikongo resources (not confirmed as Kiyombe)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=kng",
+   "found_in_search": true
+  }
+ ]
+}
