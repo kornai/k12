@@ -1,0 +1,59 @@
+{
+ "iso": "pmr",
+ "name": "Manat",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Manat language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Manat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Manat",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/madang-upper-yuat-river/madang/west-madang/sogeram-and-tomui-rivers/sogeram-river/manat",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Manat (payn1244)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/payn1244",
+   "found_in_search": true
+  },
+  {
+   "title": "Chan numerals database: Manat",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Manat.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue DD1-052",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/DD1/052",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue DD1-055",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/DD1/055",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Manat",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4979",
+   "found_in_search": true
+  }
+ ]
+}

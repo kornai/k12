@@ -1,0 +1,45 @@
+{
+ "iso": "pmo",
+ "name": "Pom",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pom Dictionary (talking dictionary) by Benham-Chandler & Gasser",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://talkingdictionary.swarthmore.edu/pom/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Pom language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pom_language",
+   "found_in_search": true
+  },
+  {
+   "title": "CrossGram: Pom",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/pomm1237",
+   "found_in_search": true
+  },
+  {
+   "title": "Pom numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Pom.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pom in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14435",
+   "found_in_search": true
+  }
+ ]
+}

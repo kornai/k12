@@ -1,0 +1,38 @@
+{
+ "iso": "pmb",
+ "name": "Pambia",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pambia language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pambia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zande languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zande_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Pambia",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PAMBIA",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank Pambia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/pamb1243",
+   "found_in_search": true
+  }
+ ]
+}

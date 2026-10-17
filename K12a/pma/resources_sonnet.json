@@ -1,0 +1,45 @@
+{
+ "iso": "pma",
+ "name": "Paama",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Paamese Language of Vanuatu (Crowley 1982, PL B-87)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/145173/1/PL-B87.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of Paamese (Crowley 1992, PL C-121)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/145802/1/PL-C121.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "The language of Paama (New Hebrides) (ANU repository)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/handle/1885/132944",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 5.1263 (dictionary notice)",
+   "type": "other",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/5/1263/",
+   "found_in_search": true
+  },
+  {
+   "title": "Paamese language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Paamese_language",
+   "found_in_search": true
+  }
+ ]
+}

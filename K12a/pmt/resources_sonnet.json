@@ -1,0 +1,31 @@
+{
+ "iso": "pmt",
+ "name": "Tuamotuan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Dictionary of Some Tuamotuan Dialects of the Polynesian Language (Stimson, 1964)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://archive.org/details/dictionaryofsome00stim/page/n5/mode/2up",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuamotuan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tuamotuan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Langue des Tuamotu (Ministere de la Culture)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.culture.gouv.fr/fr/thematiques/portail-langues-en-france/langues/langue-des-tuamotu",
+   "found_in_search": true
+  }
+ ]
+}

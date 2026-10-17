@@ -1,0 +1,45 @@
+{
+ "iso": "pnb",
+ "name": "Western Punjabi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lahnda (overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lahnda",
+   "found_in_search": true
+  },
+  {
+   "title": "Grammar and Dictionary of Western Panjabi, Shahpur District (scan)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://dn790001.ca.archive.org/0/items/WesternPunjabiShahpurDistrict/Western%20Punjabi%20%28Shahpur%20District%29_text.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Grammar and Dictionary of Western Panjabi, Shahpur District (rare books record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://icvtesting.nvli.in/rarebooks/grammar-and-dictionary-western-panjabi-spoken-shahpur-district-proverbs-sayings-and-0",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Jatki or Western Panjabi language",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://search.worldcat.org/oclc/1128095742",
+   "found_in_search": true
+  },
+  {
+   "title": "Routledge reprint, Western Punjabi reference work",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.taylorfrancis.com/books/9780367248673",
+   "found_in_search": true
+  }
+ ]
+}

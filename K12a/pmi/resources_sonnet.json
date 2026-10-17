@@ -1,0 +1,45 @@
+{
+ "iso": "pmi",
+ "name": "Pumi, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Omniglot: Pumi",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/pumi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Catalogue: Northern Pumi bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5607/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Ding 2003, Prinmi introduction, phonology, morphology, syntax",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/zurich:Ding2003",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Pumi language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pumi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest people-group profile: Northern Pumi",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/China/chinaPeoples/P/PumiNorthern.pdf",
+   "found_in_search": true
+  }
+ ]
+}

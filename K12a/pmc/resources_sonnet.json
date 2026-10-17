@@ -1,0 +1,17 @@
+{
+ "iso": "pmc",
+ "name": "Palumata",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Palumata language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Palumata_language",
+   "found_in_search": true
+  }
+ ]
+}

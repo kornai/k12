@@ -1,0 +1,31 @@
+{
+ "iso": "pmx",
+ "name": "Poumai Naga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammar of Poumai Naga (Poula): a Trans-Himalayan language of north-east India",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://ci.nii.ac.jp/ncid/BC11892297",
+   "found_in_search": true
+  },
+  {
+   "title": "Poula language (overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Poula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Poumai Naga Language Resource (UNT Digital Library)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://digital.library.unt.edu/explore/collections/PNLR/",
+   "found_in_search": true
+  }
+ ]
+}

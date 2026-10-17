@@ -1,0 +1,38 @@
+{
+ "iso": "pmj",
+ "name": "Pumi, Southern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Catalogue: Southern Pumi bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5608/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Pumi",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/pumi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Pumi language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pumi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "HKU Scholars Hub: Ding's phonology-based division of Prinmi dialects",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hub.hku.hk/handle/10722/188206",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "pmm",
+ "name": "Pol",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammaire descriptive du polri (Koeppe)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_print_grammaire-descriptive-du-polri",
+   "found_in_search": true
+  },
+  {
+   "title": "Pol language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pol_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Pol",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/pomo1271.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pol in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14429/CM",
+   "found_in_search": true
+  }
+ ]
+}

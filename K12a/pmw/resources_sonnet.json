@@ -1,0 +1,52 @@
+{
+ "iso": "pmw",
+ "name": "Miwok, Plains",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Plains Miwok Dictionary (Callaghan 1984), RelLex record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Plains_Miwok_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Penn Libraries catalogue record, Plains Miwok dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://find.library.upenn.edu/catalog/992634733503681",
+   "found_in_search": true
+  },
+  {
+   "title": "Plains Miwok language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Plains_Miwok_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Berkeley Linguistics: Plains Miwok",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cla.berkeley.edu/languages/plains-miwok.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Finding Aid: Catherine A. Callaghan papers",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://oac.cdlib.org/findaid/ark:/13030/c8794bk2",
+   "found_in_search": true
+  },
+  {
+   "title": "APS Indigenous Guide: Miwok materials, Harvey Pitkin Papers",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://indigenousguide.amphilsoc.org/entry/38846",
+   "found_in_search": true
+  }
+ ]
+}

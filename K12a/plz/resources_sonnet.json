@@ -1,0 +1,66 @@
+{
+ "iso": "plz",
+ "name": "Murut, Paluan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Paluan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Paluan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Murutic languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Murutic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Murut Paluan wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/MURUT_PALUAN",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary: Paluan",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://acd.clld.org/languages/917",
+   "found_in_search": true
+  },
+  {
+   "title": "Prentice 1971, The Murut languages of Sabah (ACD source record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://acd.clld.org/sources/prentice1971",
+   "found_in_search": true
+  },
+  {
+   "title": "Paluan Murut in Malaysia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14354",
+   "found_in_search": true
+  },
+  {
+   "title": "Timugon Murut Webonary dictionary (related language, model only)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/timugon_murut/en/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Language activists put Timugon Murut dictionary online (FMT)",
+   "type": "other",
+   "language": "English",
+   "url": "https://fmtv5.freemalaysiatoday.com/category/nation/2026/01/02/language-activists-put-timugon-murut-dictionary-online",
+   "found_in_search": true
+  }
+ ]
+}
