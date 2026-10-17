@@ -1,0 +1,38 @@
+{
+ "iso": "yna",
+ "name": "Aluo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aluo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aluo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Loloish languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Loloish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Aluo in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18391/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Aluo people group profile (Asia Harvest)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/aluo.pdf",
+   "found_in_search": true
+  }
+ ]
+}

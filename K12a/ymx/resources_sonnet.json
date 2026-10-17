@@ -1,0 +1,45 @@
+{
+ "iso": "ymx",
+ "name": "Muji, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Muji language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Muji_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Muji (Verbix Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/NorthernMuji",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Muji bibliography (Endangered Languages Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3175/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Muji in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20606",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page ymx",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ymx",
+   "found_in_search": true
+  }
+ ]
+}

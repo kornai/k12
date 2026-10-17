@@ -1,0 +1,24 @@
+{
+ "iso": "ynb",
+ "name": "Yamben",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yamben language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yamben_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yamben in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/22573",
+   "found_in_search": true
+  }
+ ]
+}
