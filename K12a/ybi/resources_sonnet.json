@@ -1,0 +1,45 @@
+{
+ "iso": "ybi",
+ "name": "Yamphu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yamphu: Grammar, Texts &amp; Lexicon (Rutgers 1998), Glottolog reference",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/12930",
+   "found_in_search": true
+  },
+  {
+   "title": "Yamphu. Grammar, Texts &amp; Lexicon, bookseller listing",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.boekwinkeltjes.nl/b/230893072/",
+   "found_in_search": true
+  },
+  {
+   "title": "STEDT source: Rutgers, Yamphu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/RR-Yamphu",
+   "found_in_search": true
+  },
+  {
+   "title": "Yamphu language, Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yamphu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Catalogue: Yamphu bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3216/bibliography",
+   "found_in_search": true
+  }
+ ]
+}

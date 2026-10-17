@@ -1,0 +1,59 @@
+{
+ "iso": "ybe",
+ "name": "Yugur, West",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Western Yugur (Yellow Yugur) Language: Grammar, Texts, Vocabulary (Roos 2000, Leiden PhD)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/37682/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Catalogue: West Yugur",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/37682",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Yugur language (ISO 639:ybe)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:ybe",
+   "found_in_search": true
+  },
+  {
+   "title": "Yugur (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.chise.org/ipns/en.wikipedia-on-ipfs.org/wiki/Yugur",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Yugur, Living Dictionaries",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://livingdictionaries.app/western-yugur/entry/qJeARECVqUpviesl0AXt",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Yugur, Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/westernyugur.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Yugur, West, Verbix",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/YugurWest",
+   "found_in_search": true
+  }
+ ]
+}
