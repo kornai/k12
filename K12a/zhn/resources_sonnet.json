@@ -1,0 +1,52 @@
+{
+ "iso": "zhn",
+ "name": "Nong Zhuang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nong Zhuang trilingual lexicon (Webonary), introduction",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/zhuangwen/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Nong Zhuang trilingual lexicon (Webonary), foreword",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/zhuangwen/overview/foreword/",
+   "found_in_search": true
+  },
+  {
+   "title": "Nong Zhuang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nong_Zhuang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nong Zhuang (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zhn/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Nong Zhuang language",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/zhn",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Nong",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/zhn",
+   "found_in_search": true
+  }
+ ]
+}

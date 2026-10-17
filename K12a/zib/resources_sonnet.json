@@ -1,0 +1,52 @@
+{
+ "iso": "zib",
+ "name": "Zimbabwe Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "NewsDay: Provide deaf syllabus to ensure equal access to education (DZT)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://newsday.co.zw/2022/01/provide-deaf-syllabus-to-ensure-equal-access-to-education-dzt",
+   "found_in_search": true
+  },
+  {
+   "title": "Teachers implementing Zimbabwean sign language regulatory frameworks for deaf learners in special schools",
+   "type": "academic",
+   "language": "English",
+   "url": "https://pubs.ufs.ac.za/index.php/ijsie/article/view/1289",
+   "found_in_search": true
+  },
+  {
+   "title": "Sign Language Policies, Practices and Challenges in Zimbabwe's Universities",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.udsm.ac.tz/index.php/jlle/article/view/4263",
+   "found_in_search": true
+  },
+  {
+   "title": "The Teaching and Learning of Sign Language at the University of Zimbabwe",
+   "type": "academic",
+   "language": "English",
+   "url": "https://eajess.ac.tz/?p=1966",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf Culture in Zimbabwe: Existence, Reality and Implication for Education",
+   "type": "academic",
+   "language": "English",
+   "url": "https://opendocs.ids.ac.uk/opendocs/handle/123456789/6636",
+   "found_in_search": true
+  },
+  {
+   "title": "ZBC News: UZ promotes sign language to foster inclusivity",
+   "type": "other",
+   "language": "English",
+   "url": "https://zbcnews.co.zw/featured/uz-promotes-sign-language-to-foster-inclusivity",
+   "found_in_search": true
+  }
+ ]
+}
