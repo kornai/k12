@@ -1,0 +1,52 @@
+{
+ "iso": "wrg",
+ "name": "Warungu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tasaku Tsunoda 1974: A Grammar of the Waruŋu language, North Queensland (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/24813",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Warrongo (Tsunoda, library record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://bvbvf1.bib-bvb.de/vufind/Record/DE-604.BV039822751/Details",
+   "found_in_search": true
+  },
+  {
+   "title": "Warrongo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warrongo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Warrongo people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warrongo_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/94963",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Warungu wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WARUNGU",
+   "found_in_search": true
+  }
+ ]
+}

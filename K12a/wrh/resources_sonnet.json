@@ -1,0 +1,73 @@
+{
+ "iso": "wrh",
+ "name": "Wiradjuri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Learn Wiradjuri: Volume 1 Ngumbaay (SBS Learn)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.sbs.com.au/learn/?p=4712",
+   "found_in_search": true
+  },
+  {
+   "title": "Primary students launch their first Wiradjuri dictionary (Daily Advertiser)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.dailyadvertiser.com.au/story/6007396/primary-students-launch-their-first-wiradjuri-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiradjuri Aboriginal preschool teaches Wiradjuri language (Area News)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.areanews.com.au/story/5506694/wiradjuri-aboriginal-preschool-teaches-wiradjuri-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Language is important for identity (Area News)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.areanews.com.au/story/7141412/language-is-important-for-identity/",
+   "found_in_search": true
+  },
+  {
+   "title": "Teach children the Aboriginal language of Wiradjuri through games and activities",
+   "type": "other",
+   "language": "English",
+   "url": "https://aussiechildcarenetwork.com.au/articles/teaching-children/teach-children-the-aboriginal-language-of-wiradjuri-through-games-and-activities",
+   "found_in_search": true
+  },
+  {
+   "title": "AUSTLANG D10: Wiradjuri (AIATSIS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/D10",
+   "found_in_search": true
+  },
+  {
+   "title": "Spread the word in Wiradjuri (Parkes Phoenix)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.parkesphoenix.com.au/spread-the-word-in-wiradjuri/?amp=1",
+   "found_in_search": true
+  },
+  {
+   "title": "Sharing the Wiradjuri language (Forbes Phoenix)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.forbesphoenix.com.au/sharing-the-wiradjuri-language/?amp=1",
+   "found_in_search": true
+  },
+  {
+   "title": "The two aunties building an understanding of Wiradjuri culture (SBS NITV)",
+   "type": "video",
+   "language": "English",
+   "url": "https://www.sbs.com.au/nitv/article/the-two-aunties-building-an-understanding-of-wiradjuri-culture/elimw65cv",
+   "found_in_search": true
+  }
+ ]
+}
