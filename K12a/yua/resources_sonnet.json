@@ -1,0 +1,66 @@
+{
+ "iso": "yua",
+ "name": "Yucatec Maya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lengua maya: Campeche, Quintana Roo y Yucatán (libro de texto, DGEI/SEP)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://dgeiib.basica.sep.gob.mx/files/fondo-editorial/acervo-historico/ah_00103.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Dialogos sobre educación: article on indigenous-language textbook coverage in Mexican primary schools",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dialogossobreeducacion.cucsh.udg.mx/index.php/DSE/article/view/1572/1324",
+   "found_in_search": true
+  },
+  {
+   "title": "Crónica: SEP delivers textbooks in indigenous languages (2026)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.cronica.com.mx/nacional/2026/03/02/mario-delgado-anuncia-entrega-de-libros-de-texto-en-lenguas-originarias/",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University: Yucatec Maya course (names Bricker et al. dictionary and Blair &amp; Vermont-Salas course)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://studiegids.universiteitleiden.nl/en/courses/41846/yucatec-maya",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Yucatec Maya language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yucatec_Maya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yucatec Maya (yuca1254)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yuca1254.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Description Heritage: Yucatec Maya",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ldh.clld.org/languages/yua",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Yucatec Maya phoneme inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/yuca1254",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "ytw",
+ "name": "Yout Wam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Crossgram language page: Yout Wam (yout1234)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/yout1234",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia ISO 639 entry for ytw (redirects to Domung language article)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:ytw",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yout Wam people group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/20591",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yout Wam language page (ytw)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ytw",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yout Wam language page (no recordings listed)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/ytw",
+   "found_in_search": true
+  }
+ ]
+}

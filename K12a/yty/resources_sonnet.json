@@ -1,0 +1,17 @@
+{
+ "iso": "yty",
+ "name": "Yatay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project entry listing Yatay among alternative names (identification with yty unconfirmed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38890",
+   "found_in_search": true
+  }
+ ]
+}
