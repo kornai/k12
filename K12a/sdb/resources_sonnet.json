@@ -1,0 +1,59 @@
+{
+ "iso": "sdb",
+ "name": "Shabak",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Shabaki language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shabaki_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Shabaki (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/shabaki.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Shabak (sdb)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/sdb",
+   "found_in_search": true
+  },
+  {
+   "title": "Minority Rights Group: Shabak",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://minorityrights.org/minorities/shabak/",
+   "found_in_search": true
+  },
+  {
+   "title": "World Directory of Minorities: Iraq, Shabak (Refworld)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.refworld.org/reference/countryrep/mrgi/2017/en/64781",
+   "found_in_search": true
+  },
+  {
+   "title": "Shabaks (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shabaks",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Shabak in Iraq",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19500",
+   "found_in_search": true
+  }
+ ]
+}

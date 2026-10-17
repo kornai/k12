@@ -1,0 +1,59 @@
+{
+ "iso": "sdc",
+ "name": "Sardinian, Sassarese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Rubattu: 50 lessons in Sassarese (via Endangered Languages Project)",
+   "type": "primer",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/node/108376",
+   "found_in_search": true
+  },
+  {
+   "title": "Sassarese language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sassarese_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bazzoni Sassarese-Italian dictionary sample (Endangered Languages Project)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.endangeredlanguages.com/node/105379",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Sardinian dictionaries including Sassarese",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/sarde_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Philological edition of the Gospel of Matthew in Sassarese",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.filologiasarda.eu/files/documenti/pubblicazioni_pdf/cfssanmatteo/02edizione.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Sardinian, Sassarese",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/SardinianSassarese",
+   "found_in_search": true
+  },
+  {
+   "title": "Sassarese Sardinian sample (Endangered Languages Project)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/5361/samples/9618",
+   "found_in_search": true
+  }
+ ]
+}

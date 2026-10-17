@@ -1,0 +1,129 @@
+{
+ "iso": "scn",
+ "name": "Sicilian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Regional Law 9/2011 of Sicily on teaching Sicilian (Wikisource)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://it.wikisource.org/wiki/Legge_regionale_Sicilia_31_maggio_2011,_n._9_-_Insegnamento_del_siciliano",
+   "found_in_search": true
+  },
+  {
+   "title": "Identita siciliana: trained teachers and school projects (Regione Siciliana)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.regione.sicilia.it/la-regione-informa/identita-siciliana-formati-trecento-docenti-presentati-oltre-cento-progetti-nelle-scuole",
+   "found_in_search": true
+  },
+  {
+   "title": "La Sicilia: one hour a week dedicated to Sicilian language",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.lasicilia.it/news/cronaca/1002724/scuola-dal-prossimo-anno-un-ora-la-settimana-sara-dedicata-alla-lingua-siciliana.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Circolare 322 Progetto Scuola e Cultura Regionale in Sicilia (Law 9/2011)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://old.iccapuanapardo.edu.it/wp-content/uploads/2022/05/Circolare-322-Progetto-Scuola-e-Cultura-Regionale-in-Sicilia-per-l’attuazione-della-Legge-n.-09-2011.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Cipolla, Learn Sicilian / Learn Sicilian II (Arba Sicula)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://lideamagazine.com/an-evening-of-sicilian-culture-with-gaetano-cipolla/?amp=1",
+   "found_in_search": true
+  },
+  {
+   "title": "Vocabolario siciliano",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://en.wikipedia.org/wiki/Vocabolario_siciliano",
+   "found_in_search": true
+  },
+  {
+   "title": "Vocabolario Atlante Multimediale della Sicilia (VAMS), UniPA record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://iris.unipa.it/handle/10447/601873",
+   "found_in_search": true
+  },
+  {
+   "title": "Prisintazzioni da Cademia (Cademia Siciliana orthography proposal)",
+   "type": "orthography",
+   "language": "native",
+   "url": "https://cademiasiciliana.org/wp-content/uploads/Prisintazzioni-da-Cademia.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Cademia Siciliana",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Cademia_Siciliana",
+   "found_in_search": true
+  },
+  {
+   "title": "Sicilian orthography",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sicilian_orthography",
+   "found_in_search": true
+  },
+  {
+   "title": "Sicilian language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sicilian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos Sicilian dictionaries list",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/sicilien_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Napizia Sicilian bibliography",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.napizia.com/pages/sicilian/bibliography.shtml",
+   "found_in_search": true
+  },
+  {
+   "title": "Balarm: Cademia Siciliana a tutela del siciliano",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://www.balarm.it/news/magazine/come-la-criusca-ma-per-il-dialetto-la-cademia-siciliana-a-tutela-del-siciliano-19902",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Alliance: Sicilian",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.elalliance.org/languages/sicilian",
+   "found_in_search": true
+  },
+  {
+   "title": "Balarm: adopt a Sicilian word on social media",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.balarm.it/news/adotta-una-parola-siciliana-e-diffondila-sui-social-si-va-a-caccia-del-dialetto-in-disuso-117539",
+   "found_in_search": true
+  },
+  {
+   "title": "Balarm: Telegram in Sicilian",
+   "type": "software",
+   "language": "other",
+   "url": "https://www.balarm.it/news/telegram-parla-siciliano-se-non-ci-credi-vai-sulle-mpustazziuna-e-cancia-lingua-116371",
+   "found_in_search": true
+  }
+ ]
+}

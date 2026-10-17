@@ -1,0 +1,38 @@
+{
+ "iso": "scx",
+ "name": "Sicula",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Siculian (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Siculian",
+   "found_in_search": true
+  },
+  {
+   "title": "Sicels (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sicels",
+   "found_in_search": true
+  },
+  {
+   "title": "I.Sicily: a digital corpus of Sicilian inscriptions",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dh.web.ox.ac.uk/project/isicily-digital-corpus-sicilian-inscriptions",
+   "found_in_search": true
+  },
+  {
+   "title": "ISic003362: Inscribed stele in the Sikel language",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://isicily.classics.ox.ac.uk/inscription/ISic003362",
+   "found_in_search": true
+  }
+ ]
+}

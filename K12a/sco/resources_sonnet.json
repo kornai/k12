@@ -1,0 +1,129 @@
+{
+ "iso": "sco",
+ "name": "Scots",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Education Scotland Scots Language hub (via Scots Language Centre)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.scotslanguage.com/articles/view/id/4641/type",
+   "found_in_search": true
+  },
+  {
+   "title": "New online resource for teaching the Scots language (SCILT)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://scilt.org.uk/News/NewsView/tabid/1311/articleType/ArticleView/articleId/6168/New-online-resource-for-teaching-the-Scots-language.aspx",
+   "found_in_search": true
+  },
+  {
+   "title": "Teaching Scots as part of 1+2 languages",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.scotslanguage.com/articles/view/id/6241",
+   "found_in_search": true
+  },
+  {
+   "title": "Wee Windaes Teaching Resources",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://www.scotslanguage.com/articles/node/id/847/type",
+   "found_in_search": true
+  },
+  {
+   "title": "NLS: Website offers windae into Scots language",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://media.nls.uk/news/website-offers-windae-into-scots-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scots Language Centre education news, Winter 2017",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.scotslanguage.com/articles/node/id/603",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Scots Language (Scotlex)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://scotlex.org/dictionary-of-the-scots-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionaries of the Scots Language",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dictionaries_of_the_Scots_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Scots Language",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dictionary_of_the_Scots_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "DSL publications",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://dsl.ac.uk/?p=14",
+   "found_in_search": true
+  },
+  {
+   "title": "DSL preface (PDF)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://scotlex.org/wp-content/uploads/2020/06/dslpreface.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "John's Gospel from The New Testament in Scots (Lorimer)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://canongate.co.uk/books/1931-johns-gospel-from-the-new-testament-in-scots-translated-by-william-laughton-lorimer/",
+   "found_in_search": true
+  },
+  {
+   "title": "Luke's Gospel from The New Testament in Scots (Lorimer)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://canongate.co.uk/books/1930-lukes-gospel-from-the-new-testament-in-scots-translated-by-william-laughton-lorimer/",
+   "found_in_search": true
+  },
+  {
+   "title": "Scots Language Centre",
+   "type": "community_org",
+   "language": "native",
+   "url": "https://www.scotslanguage.com/articles/view/id/4308",
+   "found_in_search": true
+  },
+  {
+   "title": "Scots Bible audiobooks (Tom Fleming)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://audible.com/topic/audiobooks-scots-bible",
+   "found_in_search": true
+  },
+  {
+   "title": "Wee Windaes selected books (NLS digital)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://digital.nls.uk/selected-wee-windaes-books/archive/127591362?mode=zoom",
+   "found_in_search": true
+  },
+  {
+   "title": "SQA blog posts on Scots language",
+   "type": "policy",
+   "language": "English",
+   "url": "https://blogs.sqa.org.uk/scottishstudies/tag/scots-language",
+   "found_in_search": true
+  }
+ ]
+}

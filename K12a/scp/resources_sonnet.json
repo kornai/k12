@@ -1,0 +1,80 @@
+{
+ "iso": "scp",
+ "name": "Hyolmo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Hyolmo resources",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.endangeredlanguages.com/node/39970/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Hari and Lama 2004, Yolmo-Nepali-English Dictionary (Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/151906",
+   "found_in_search": true
+  },
+  {
+   "title": "Hari and Lama 2004 (second Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/678332",
+   "found_in_search": true
+  },
+  {
+   "title": "Research on Hyolmo (Wikibooks)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikibooks.org/wiki/Research_on_Hyolmo",
+   "found_in_search": true
+  },
+  {
+   "title": "Yolmo language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yolmo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Hyolmo numerals (MPI)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Hyolmo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yolmo",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/yolmo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "SOAS repository: Yolmo item",
+   "type": "academic",
+   "language": "English",
+   "url": "https://soas-repository.worktribe.com/OutputFile/344080",
+   "found_in_search": true
+  },
+  {
+   "title": "Who is Hyolmo? (Indigenous Voice)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://english.indigenousvoice.com/hyolmo",
+   "found_in_search": true
+  },
+  {
+   "title": "Yolmo people",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yolmo_people",
+   "found_in_search": true
+  }
+ ]
+}

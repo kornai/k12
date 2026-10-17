@@ -1,0 +1,108 @@
+{
+ "iso": "scs",
+ "name": "North Slavey",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dene Kede Education: A Dene Perspective, Grades K-6",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.srrb.nt.ca/people-and-places/dene-ked-to-dene-ts-l-catalogue-of-resources/item/2865-dene-kede-education-a-dene-perspective-grades-k-6",
+   "found_in_search": true
+  },
+  {
+   "title": "Dene Godǝ - North Slavey Bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://srrb.nt.ca/people-and-places/dene-ked-to-dene-ts-l-catalogue-of-resources/item/3013-dene-god-north-slavey-bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "North Slavey Alphabet Chart",
+   "type": "orthography",
+   "language": "native",
+   "url": "https://www.srrb.nt.ca/people-and-places/dene-ked-to-dene-ts-l-catalogue-of-resources/item/2854-north-slavey-alphabet-chart",
+   "found_in_search": true
+  },
+  {
+   "title": "Shutaot'ine Intro (language learning app)",
+   "type": "software",
+   "language": "native",
+   "url": "https://srrb.nt.ca/people-and-places/dene-ked-to-dene-ts-l-catalogue-of-resources/item/2970-shutaot-ine-intro",
+   "found_in_search": true
+  },
+  {
+   "title": "Shútaǫt'ine Gokəde (Tulita Dictionary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=2952",
+   "found_in_search": true
+  },
+  {
+   "title": "Shútaǫt'ine Gokəde (Tulita Dictionary), UBC wiki record",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Sh%C3%BAta%C7%ABt%27ine_Gok%C9%99de_(Tulita_Dictionary)",
+   "found_in_search": true
+  },
+  {
+   "title": "K'ashógot'įne Radįlįh Kóé Xədǝ́ (Fort Good Hope Dictionary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/8543-2",
+   "found_in_search": true
+  },
+  {
+   "title": "Languagegeek: North Slavey",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.languagegeek.com/dene/kashogotine/5north_slavey.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Dene Speech Atlas: North Slavey Groups",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sas.rochester.edu/lin/DeneSpeechAtlas/dene-language-groups/north-slavey/",
+   "found_in_search": true
+  },
+  {
+   "title": "Slavey language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Slavey_language",
+   "found_in_search": true
+  },
+  {
+   "title": "The four Gospels translated into the Slave language (1883)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.canadiana.ca/view/oocihm.14248",
+   "found_in_search": true
+  },
+  {
+   "title": "The Gospel of St. Mark translated into the Slave language (1886)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.canadiana.ca/view/oocihm.15556",
+   "found_in_search": true
+  },
+  {
+   "title": "Sahtú Regıon Dene Language Plannıng Report",
+   "type": "policy",
+   "language": "native",
+   "url": "https://srrb.nt.ca/people-and-places/dene-ked-to-dene-ts-l-catalogue-of-resources/itemlist/tag/Language%20?start=60",
+   "found_in_search": true
+  },
+  {
+   "title": "NWT Education, Culture and Employment (Dene language page)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.ece.gov.nt.ca/en/node/1824",
+   "found_in_search": true
+  }
+ ]
+}
