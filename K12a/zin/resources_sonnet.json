@@ -1,0 +1,59 @@
+{
+ "iso": "zin",
+ "name": "Zinza",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "African Proverbs, Sayings and Stories: Zinza proverbs",
+   "type": "other",
+   "language": "native",
+   "url": "https://afriprov.tangaza.ac.ke/?p=464",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems: Zinza",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Zinza.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language zin",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/zin",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Zinza",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zin",
+   "found_in_search": true
+  },
+  {
+   "title": "Wycliffe: Zinza 2 project profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wycliffe.org/Main%20Uploads/Projects/PDF/Zinza%202%20Profile%20AMENDED%20WEB.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zinza in Tanzania",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16108",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zinza",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zin",
+   "found_in_search": true
+  }
+ ]
+}
