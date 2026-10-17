@@ -1,0 +1,52 @@
+{
+ "iso": "wil",
+ "name": "Wilawila",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:05:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AIATSIS AUSTLANG: Handbook of Kimberley Languages entry (K35)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/K35",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG entry (K44)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/K44",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wilawila",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3345",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Wilawila (wila1240)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/wila1240",
+   "found_in_search": true
+  },
+  {
+   "title": "Worrorran languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Worrorran_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Wunambal language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wunambal_language",
+   "found_in_search": true
+  }
+ ]
+}
