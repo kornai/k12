@@ -1,0 +1,45 @@
+{
+ "iso": "syw",
+ "name": "Syuba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language Contexts: Syuba, also known as Kagate (Nepal) (Gawne 2017)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lddjournal.org/article/id/1170",
+   "found_in_search": true
+  },
+  {
+   "title": "Kagate language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kagate_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yolmo language (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yolmo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Research on Hyolmo (Wikibooks)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikibooks.org/wiki/Research_on_Hyolmo",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Syuba/Kagate",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/112115",
+   "found_in_search": true
+  }
+ ]
+}
