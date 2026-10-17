@@ -1,0 +1,31 @@
+{
+ "iso": "xba",
+ "name": "Kamba (Brazil)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:48:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language: Kamba (Brazil) - Glottolog",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kamb1287",
+   "found_in_search": true
+  },
+  {
+   "title": "Kamba in Brazil - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19152/BR",
+   "found_in_search": true
+  },
+  {
+   "title": "Camba - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Camba",
+   "found_in_search": true
+  }
+ ]
+}

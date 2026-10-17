@@ -1,0 +1,31 @@
+{
+ "iso": "xbb",
+ "name": "Lower Burdekin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:48:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lower Burdekin languages - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lower_Burdekin_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Cunningham, Edward and Gorton, F. J. 1886 - Glottolog reference",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/106361",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang record E62",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/e62",
+   "found_in_search": true
+  }
+ ]
+}

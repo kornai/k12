@@ -1,0 +1,59 @@
+{
+ "iso": "xbd",
+ "name": "Bindal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:48:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bindal language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bindal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bindal people - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bindal_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Lower Burdekin languages - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lower_Burdekin_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "South Australian Museum archives: Bindal language group",
+   "type": "other",
+   "language": "English",
+   "url": "https://samuseum.sa.gov.au/collection/archives/language_groups/bindal",
+   "found_in_search": true
+  },
+  {
+   "title": "Juru people - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Juru_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Gia people - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://Www.Wikipedia.org/wiki/Gia_people",
+   "found_in_search": true
+  },
+  {
+   "title": "What Mob Is That? (aboutthenorth.au)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.aboutthenorth.au/styled-59/styled-131/styled-184/styled-238/styled-655/",
+   "found_in_search": true
+  }
+ ]
+}
