@@ -1,0 +1,59 @@
+{
+ "iso": "psg",
+ "name": "Penang Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Penang Sign Language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Penang_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Penang Sign Language (ISO 639:psg)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:psg",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project entry: psg",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Psg",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article PDF (thaiscience.info, content unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://thaiscience.info/journals/Article/CMUS/10325206.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Starbucks Signing Store in Penang with Penang Deaf Association",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://thesmartlocal.my/starbucks-penang/amp/",
+   "found_in_search": true
+  },
+  {
+   "title": "Learning Malaysian Sign Language (BIM), MIND",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://mind.org.my/article/learning-malaysian-sign-languagebim/",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf in Malaysia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/19007/MY",
+   "found_in_search": true
+  }
+ ]
+}

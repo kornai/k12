@@ -1,0 +1,73 @@
+{
+ "iso": "psp",
+ "name": "Filipino Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kindergarten and Grades 1 to 3 Mother Tongue Most Essential Learning Competencies for Filipino Sign Language",
+   "type": "policy",
+   "language": "English",
+   "url": "https://lrmds.deped.gov.ph/detail/18648",
+   "found_in_search": true
+  },
+  {
+   "title": "Benilde SDEAS courses (FSL Learning Program)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://sdeas.benilde.edu.ph/courses/",
+   "found_in_search": true
+  },
+  {
+   "title": "Field documentation of Filipino Sign Language vocabulary and phrases (Benilde)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://sdgs.benilde.edu.ph/field-documentation-of-filipino-sign-language-vocabulary-and-phrases/",
+   "found_in_search": true
+  },
+  {
+   "title": "Five facts about FSL (Benilde SDEAS)",
+   "type": "other",
+   "language": "English",
+   "url": "https://sdeas.benilde.edu.ph/fivefactsaboutfsl/",
+   "found_in_search": true
+  },
+  {
+   "title": "Benilde SDGs page on FSL",
+   "type": "other",
+   "language": "English",
+   "url": "https://sdgs.benilde.edu.ph/?p=8965",
+   "found_in_search": true
+  },
+  {
+   "title": "UP College of Education: COVID-19 Dictionary for Filipino Children with FSL videos",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://educ.upd.edu.ph/?p=2719",
+   "found_in_search": true
+  },
+  {
+   "title": "Filipino Sign Language Act (Philippine Federation of the Deaf)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://pfdeaf.org/filipino-sign-language-act/",
+   "found_in_search": true
+  },
+  {
+   "title": "Education (Philippine Federation of the Deaf)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://pfdeaf.org/wp-content/uploads/2023/03/education.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "RA 11106 - An Act Declaring the Filipino Sign Language the National Sign Language",
+   "type": "policy",
+   "language": "English",
+   "url": "https://chr-observatories.uwazi.io/en/entity/8ydk0adx056",
+   "found_in_search": true
+  }
+ ]
+}

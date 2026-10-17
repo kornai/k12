@@ -1,0 +1,52 @@
+{
+ "iso": "psd",
+ "name": "Plains Indian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "RAPID: Plains Indian Sign Language Documentation, Linguistic Database, and Dictionary (NPTAO)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.nptao.arizona.edu/rapid-plains-indian-sign-language-documentation-linguistic-database-dictionary-0",
+   "found_in_search": true
+  },
+  {
+   "title": "RAPID: Plains Indian Sign Language Documentation, Linguistic Database, and Dictionary (NAAIR)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://naair.arizona.edu/rapid-plains-indian-sign-language-documentation-linguistic-database-dictionary-0",
+   "found_in_search": true
+  },
+  {
+   "title": "Aboriginal Sign Languages of the Americas and Australia, Volumes I and II (UBC knowledgebase)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/aboriginal-sign-languages-of-the-americas-and-australia-volumes-i-and-ii",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC Relational Lexicography knowledgebase entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=5773",
+   "found_in_search": true
+  },
+  {
+   "title": "Tomkins, Universal Indian Sign Language of the Plains Indians of North America (1927 copy)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://repository.stou.ac.th/handle/6625047444/2525",
+   "found_in_search": true
+  },
+  {
+   "title": "Sign Language, Indian (Encyclopedia.com)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/indian-sign-language",
+   "found_in_search": true
+  }
+ ]
+}

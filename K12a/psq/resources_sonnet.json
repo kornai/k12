@@ -1,0 +1,52 @@
+{
+ "iso": "psq",
+ "name": "Pasi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pasi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pasi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Pasi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/pasi1259",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Pasi",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Pasi",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Pasi",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/PASI",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pasi language (psq)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/psq",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pasi in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19519",
+   "found_in_search": true
+  }
+ ]
+}

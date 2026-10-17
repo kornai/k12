@@ -1,0 +1,31 @@
+{
+ "iso": "pss",
+ "name": "Kaulong",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kaulong language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaulong_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaulong verbs (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Kaulong",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Kaulong translation pairs",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/aud/pss",
+   "found_in_search": true
+  }
+ ]
+}

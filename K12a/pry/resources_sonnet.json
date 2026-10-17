@@ -1,0 +1,52 @@
+{
+ "iso": "pry",
+ "name": "Pray 3",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pray grammar at Ban Pae Klang, Thung Chang district, Nan Province (Mahidol MA thesis)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://repository.li.mahidol.ac.th/items/c69617e4-bcb5-466b-8867-98c34a037116/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Prai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Prai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix endangered languages: Prai",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Prai",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: PRAI 2 word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PRAI_2",
+   "found_in_search": true
+  },
+  {
+   "title": "Pray people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pray_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pray in Thailand",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/pray/cards/ROG3/TH/Ctry/PeopNameInCountry",
+   "found_in_search": true
+  }
+ ]
+}

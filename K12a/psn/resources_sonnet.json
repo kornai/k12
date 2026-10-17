@@ -1,0 +1,52 @@
+{
+ "iso": "psn",
+ "name": "Panasuan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Panasuan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Panasuan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Panasuan",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/pana1303.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Panasuan",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Panasuan",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Panasuan in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14290",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language psn",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/psn",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Panasuan",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/psn",
+   "found_in_search": true
+  }
+ ]
+}

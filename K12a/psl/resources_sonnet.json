@@ -1,0 +1,73 @@
+{
+ "iso": "psl",
+ "name": "Puerto Rican Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Puerto Rico Department of Education: LSP curriculum resource page",
+   "type": "policy",
+   "language": "other",
+   "url": "https://dedigital.dde.pr/mod/resource/view.php?id=3644",
+   "found_in_search": true
+  },
+  {
+   "title": "P. del S. 618 (2025), recognition of LSP",
+   "type": "policy",
+   "language": "other",
+   "url": "https://senado.pr.gov/document_vault/legislative_measures/5662/document/ps0618-25.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Veto message on P. del S. 618",
+   "type": "policy",
+   "language": "other",
+   "url": "https://senado.pr.gov/document_vault/vetos/ps0618e-25.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "P. del S. 481 (2021), PRSL as official language",
+   "type": "policy",
+   "language": "other",
+   "url": "https://senado.pr.gov/document_vault/legislative_measures/111/document/ps0481-21.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "P. del S. 445 (2017), sign language courses",
+   "type": "policy",
+   "language": "other",
+   "url": "https://senado.pr.gov/document_vault/legislative_measures/1784/document/ps0445-17.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "P. del S. 606 (2017), sign language courses",
+   "type": "policy",
+   "language": "other",
+   "url": "https://senado.pr.gov/document_vault/legislative_measures/1619/document/ps0606-17.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ayuda o monopolio de la lengua de senas en Puerto Rico (El Nuevo Dia)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.elnuevodia.com/opinion/punto-de-vista/ayuda-o-monopolio-de-la-lengua-de-senas-en-puerto-rico",
+   "found_in_search": true
+  },
+  {
+   "title": "Sordos se sienten olvidados en medio de la emergencia (Primera Hora)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.primerahora.com/noticias/puertorico/nota/sordossesientenolvidadosenmediodelaemergenciaesunafaltaderespeto-1386480/",
+   "found_in_search": true
+  },
+  {
+   "title": "Puerto Rico desconoce cuantos sordos viven en el pais (Noticel)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.noticel.com/ahora/cuidate/20160505/puerto-rico-desconoce-cuantos-sordos-viven-en-el-pais",
+   "found_in_search": true
+  }
+ ]
+}

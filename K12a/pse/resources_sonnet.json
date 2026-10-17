@@ -1,0 +1,52 @@
+{
+ "iso": "pse",
+ "name": "Malay, Central",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "South Barisan Malay (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/South_Barisan_Malay",
+   "found_in_search": true
+  },
+  {
+   "title": "South Barisan Malay (ISO 639:pse)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:pse",
+   "found_in_search": true
+  },
+  {
+   "title": "Serawai in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/14863",
+   "found_in_search": true
+  },
+  {
+   "title": "Bengkulu in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10791",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page pse",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/pse",
+   "found_in_search": true
+  },
+  {
+   "title": "Malay, Central: Bengkulu language (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/25934",
+   "found_in_search": true
+  }
+ ]
+}

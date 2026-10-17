@@ -1,0 +1,45 @@
+{
+ "iso": "psm",
+ "name": "Pauserna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Warázu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/War%C3%A1zu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Pauserna",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2957",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Pauserna",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Pauserna",
+   "found_in_search": true
+  },
+  {
+   "title": "Encyclopedia.com: Pauserna",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/pauserna",
+   "found_in_search": true
+  },
+  {
+   "title": "EveryCulture: Pauserna",
+   "type": "other",
+   "language": "English",
+   "url": "https://EveryCulture.com/South-America/Pauserna.html",
+   "found_in_search": true
+  }
+ ]
+}
