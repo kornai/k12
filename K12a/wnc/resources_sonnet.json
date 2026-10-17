@@ -1,0 +1,45 @@
+{
+ "iso": "wnc",
+ "name": "Wantoat",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:21:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wantoat language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wantoat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wantoat (Taap) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/wantoat.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Davis, Donald R., compiler 2008 [1958-1974]: Wantoat - English - Tok Pisin dictionary (Glottolog reference)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/301481",
+   "found_in_search": true
+  },
+  {
+   "title": "Wantoat - Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3332?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "Wantoat in Papua New Guinea - Joshua Project",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15858",
+   "found_in_search": true
+  }
+ ]
+}
