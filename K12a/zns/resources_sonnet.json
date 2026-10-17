@@ -1,0 +1,31 @@
+{
+ "iso": "zns",
+ "name": "Mansi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:06:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mantsi language (Nigeria) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mantsi_language_(Nigeria)",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry (unverified match)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3130?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mangas in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/13499",
+   "found_in_search": true
+  }
+ ]
+}

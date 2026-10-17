@@ -1,0 +1,59 @@
+{
+ "iso": "zoc",
+ "name": "Copainalá Zoque",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:06:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario zoque de Copainalá (Harrison, Harrison, García Hernández, 1981)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://libcat.library.tamu.edu/Record/in00000725180",
+   "found_in_search": true
+  },
+  {
+   "title": "Survey of morphology and syntax for Zoque of Copainala (Harrison &amp; Harrison 1984)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/76152",
+   "found_in_search": true
+  },
+  {
+   "title": "Harrison &amp; Harrison 1948 Spanish-Zoque dictionary (Glottolog reference)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/81207",
+   "found_in_search": true
+  },
+  {
+   "title": "Colegio de México repository record",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.colmex.mx/concern/books/xs55mg75s?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Chiapas Zoque (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chiapas_Zoque",
+   "found_in_search": true
+  },
+  {
+   "title": "Zoque materials, C. F. Voegelin Papers (APS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://indigenousguide.amphilsoc.org/entry/40326",
+   "found_in_search": true
+  },
+  {
+   "title": "Crossgram: Copainalá Zoque",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/copa1236",
+   "found_in_search": true
+  }
+ ]
+}
