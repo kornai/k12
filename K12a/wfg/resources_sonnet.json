@@ -1,0 +1,59 @@
+{
+ "iso": "wfg",
+ "name": "Zorop",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:59:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yafi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yafi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pauwasi languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pauwasi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "East Pauwasi languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/East_Pauwasi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "East Pauwasi River (New Guinea World, University of Zurich)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/_export/raw/families/pauwasi-river/east-pauwasi-river/start",
+   "found_in_search": true
+  },
+  {
+   "title": "Bahasa Zorop (Indonesian Wikipedia)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://id.wikipedia.com/wiki/Bahasa_Zorop",
+   "found_in_search": true
+  },
+  {
+   "title": "Yafi people profile (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15937",
+   "found_in_search": true
+  },
+  {
+   "title": "Zorop (wfg) on Wikitongues",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/wfg/",
+   "found_in_search": true
+  }
+ ]
+}
