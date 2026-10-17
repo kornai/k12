@@ -1,0 +1,59 @@
+{
+ "iso": "baf",
+ "name": "Nubaca",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:08:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Baca language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Baca_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nubaca language (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/baf",
+   "found_in_search": true
+  },
+  {
+   "title": "Nubaca (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/baf/",
+   "found_in_search": true
+  },
+  {
+   "title": "Bango in Cameroon (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10652",
+   "found_in_search": true
+  },
+  {
+   "title": "Sebineni, Alphonsine Flore 2008 (noun class system of nubaca), Glottolog reference",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/552065",
+   "found_in_search": true
+  },
+  {
+   "title": "Nubaca (Glottolog languoid nuba1241)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/nuba1241.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Nubaca word list (ASJP)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/NUBACA",
+   "found_in_search": true
+  }
+ ]
+}

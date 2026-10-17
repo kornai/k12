@@ -1,0 +1,52 @@
+{
+ "iso": "bkf",
+ "name": "Beeke",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:10:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Beeke language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Beeke_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Beeke (beek1238)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/beek1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Beeke",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/584",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Beeke endangered language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Beeke",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Beeke in DR Congo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10760",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Beeke language (bkf)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/bkf",
+   "found_in_search": true
+  }
+ ]
+}

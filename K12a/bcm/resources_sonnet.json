@@ -1,0 +1,52 @@
+{
+ "iso": "bcm",
+ "name": "Bannoni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:08:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bannoni language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bannoni_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Banoni in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10659",
+   "found_in_search": true
+  },
+  {
+   "title": "Series NSBBAN, North Solomons (Bougainville) Province (PARADISEC field notes)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://paradisec.org.au/fieldnotes/NSBBAN.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Catalog item BP3/006",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/BP3/006",
+   "found_in_search": true
+  },
+  {
+   "title": "Northwest Solomonic: Piva/Banoni bibliography (Surrey Morphology Group)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/bibliography/pivabanoni/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lincoln 1976b, Describing Banoni (TLOPO record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://tlopo.clld.org/sources/Lincoln1976b",
+   "found_in_search": true
+  }
+ ]
+}

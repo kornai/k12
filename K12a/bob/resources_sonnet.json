@@ -1,0 +1,52 @@
+{
+ "iso": "bob",
+ "name": "Aweer",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:11:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Heine 1982, Boni Dialects (Glottolog reference record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/19143",
+   "found_in_search": true
+  },
+  {
+   "title": "Heine & Möhlig 1982, Language and Dialect Atlas of Kenya (Glottolog reference record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/57788",
+   "found_in_search": true
+  },
+  {
+   "title": "Rilling 1986, The Boni/Dahalo Report (Glottolog reference record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/112051",
+   "found_in_search": true
+  },
+  {
+   "title": "Rilling 2012, Boni/Dahalo report electronic version (Glottolog reference record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/301582",
+   "found_in_search": true
+  },
+  {
+   "title": "Aweer language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aweer_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Aweer, Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3948",
+   "found_in_search": true
+  }
+ ]
+}

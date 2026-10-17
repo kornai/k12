@@ -1,0 +1,24 @@
+{
+ "iso": "ayp",
+ "name": "North Mesopotamian Arabic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:07:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "North Mesopotamian Arabic (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/North_Mesopotamian_Arabic",
+   "found_in_search": true
+  },
+  {
+   "title": "The Origin of North Mesopotamian Arabic (Al-Noor Journal for Humanities)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://jnfh.alnoor.edu.iq/jnfh/article/view/190",
+   "found_in_search": true
+  }
+ ]
+}

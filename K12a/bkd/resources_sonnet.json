@@ -1,0 +1,45 @@
+{
+ "iso": "bkd",
+ "name": "Binukid",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:10:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bukid language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bukid_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Phonological Features of Contemporary Spoken Binukid (Journal of Modern Languages)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://jml.um.edu.my/article/download/15611/9460/",
+   "found_in_search": true
+  },
+  {
+   "title": "Grammatical features of spoken Binukid (DLSU doctoral dissertation)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://animorepository.dlsu.edu.ph/etd_doctoral/505",
+   "found_in_search": true
+  },
+  {
+   "title": "asianethnology.org article (Binukid-related, content not examined)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asianethnology.org/article/1926/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Binukid",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/bkd/",
+   "found_in_search": true
+  }
+ ]
+}

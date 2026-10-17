@@ -1,0 +1,59 @@
+{
+ "iso": "bhk",
+ "name": "Inland-Buhi-Daraga Bikol",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:09:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Buhi'non orthography (KWF Wika at Kultura)",
+   "type": "orthography",
+   "language": "native",
+   "url": "https://kwfwikaatkultura.ph/wp-content/uploads/2025/07/Boinen.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Albay Bikol (alba1269)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/alba1269.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Albay Bikol language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Albay_Bikol_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Bikol (Buhinon) word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=710",
+   "found_in_search": true
+  },
+  {
+   "title": "Bikol Grammar Notes (University of Hawai'i Press)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://manifold.uhpress.hawaii.edu/projects/bikol-grammar-notes",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Buhi'non (ubl)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=ubl",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Bikol, Buhi'non",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/ubl",
+   "found_in_search": true
+  }
+ ]
+}

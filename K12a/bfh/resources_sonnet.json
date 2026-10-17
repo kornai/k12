@@ -1,0 +1,38 @@
+{
+ "iso": "bfh",
+ "name": "Blafe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:09:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Blafe language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Blafe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Blafe",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/morehead-river/west-morehead-river/bensbach-river/upper-bensbach-river/blafe-ranmo/blafe",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Blafe language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/bfh",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Blafe",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/bfh",
+   "found_in_search": true
+  }
+ ]
+}

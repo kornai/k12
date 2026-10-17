@@ -1,0 +1,45 @@
+{
+ "iso": "boa",
+ "name": "Bora",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:11:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Bora with Special Attention to Tone (Thiesen & Weber, SIL 2012)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mitpressbookstore.mit.edu/book/9781556713019",
+   "found_in_search": true
+  },
+  {
+   "title": "Thiesen 2008, Gramática del idioma bora (Glottolog reference record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/314538",
+   "found_in_search": true
+  },
+  {
+   "title": "Bora language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bora_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bora, Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/97114",
+   "found_in_search": true
+  },
+  {
+   "title": "Boa (Bora), Rosetta Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Boa",
+   "found_in_search": true
+  }
+ ]
+}
