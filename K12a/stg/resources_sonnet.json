@@ -1,0 +1,45 @@
+{
+ "iso": "stg",
+ "name": "Trieng",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tariang language (Wikipedia; covers Trieng)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tariang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems database: Trieng (Kon Tum)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Trieng.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Trieng in Vietnam",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20454",
+   "found_in_search": true
+  },
+  {
+   "title": "Nhan Dan: Dan toc Gie Trieng",
+   "type": "other",
+   "language": "other",
+   "url": "https://nhandan.vn/dan-toc-gie-trieng-post723929.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Bao Van Hoa: Nguoi Gie Trieng gin giu mach nguon van hoa",
+   "type": "other",
+   "language": "other",
+   "url": "https://baovanhoa.vn/dan-toc-ton-giao/nguoi-gie-trieng-gin-giu-mach-nguon-van-hoa-139599.html",
+   "found_in_search": true
+  }
+ ]
+}
