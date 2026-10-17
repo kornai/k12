@@ -1,0 +1,24 @@
+{
+ "iso": "xkn",
+ "name": "Kayan, Kayan River",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kayan language (Borneo) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kayan_language_(Borneo)",
+   "found_in_search": true
+  },
+  {
+   "title": "Curtin launches Kayan Ethnographic Online Dictionary (Borneo Post), variety covered not stated",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.theborneopost.com/2026/05/22/curtin-launches-kayan-ethnographic-online-dictionary-to-preserve-indigenous-heritage/",
+   "found_in_search": true
+  }
+ ]
+}

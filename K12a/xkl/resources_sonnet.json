@@ -1,0 +1,52 @@
+{
+ "iso": "xkl",
+ "name": "Kenyah, Mainstream",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mainstream Kenyah language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mainstream_Kenyah_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kenyah, Mainstream (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/xkl",
+   "found_in_search": true
+  },
+  {
+   "title": "Lepo' Tau (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/4137",
+   "found_in_search": true
+  },
+  {
+   "title": "Lepo' Ke (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/20050",
+   "found_in_search": true
+  },
+  {
+   "title": "Long Patah (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/574",
+   "found_in_search": true
+  },
+  {
+   "title": "Badeng (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/11829",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "xkk",
+ "name": "Kachok",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dissertation on Kachok sound patterns (CUNY, 2018)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://academicworks.cuny.edu/gc_etds/2868",
+   "found_in_search": true
+  },
+  {
+   "title": "Kachok numerals (MPI Chinese numeral database)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kachok.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Kachok in Cambodia (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18381",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kachok sample entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/1248/samples/11677?hl=de",
+   "found_in_search": true
+  }
+ ]
+}
