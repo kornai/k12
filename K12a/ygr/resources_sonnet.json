@@ -1,0 +1,38 @@
+{
+ "iso": "ygr",
+ "name": "Yagaria",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:38:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yagaria language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yagaria_language",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS entry for Yagaria (cites Renck 1975 grammar and 1977 dictionary)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_ygr",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yagaria in Papua New Guinea",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15938",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yagaria (Dagenava)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/18391",
+   "found_in_search": true
+  }
+ ]
+}

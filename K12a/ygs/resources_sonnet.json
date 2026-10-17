@@ -1,0 +1,52 @@
+{
+ "iso": "ygs",
+ "name": "Yolngu Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:38:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Illustrated Handbook of Yolngu Sign Language (University of Sydney talk page)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/previous-talks-and-events/the-illustrated-handbook-of-yolu-sign-language.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Australia Awards in Indonesia: The Illustrated Handbook of Yolngu Sign Language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.australiaawardsindonesia.org/content/630/15/the-illustrated-handbook-of-yolnu-sign-language?sub=true",
+   "found_in_search": true
+  },
+  {
+   "title": "Repository record on YSL research (Maypilama and Adone)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://clok.uclan.ac.uk/14387",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation cultures: Arnhem Land 1935-2015 (University of Melbourne thesis)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://findanexpert.unimelb.edu.au/scholarlywork/1440606-documentation-cultures--arnhem-land-1935-2015",
+   "found_in_search": true
+  },
+  {
+   "title": "Yolngu sign language (photo project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://phmuseum.com/projects/yolngu-sign-language?f=f",
+   "found_in_search": true
+  },
+  {
+   "title": "Signs of the times (Outback magazine)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.outbackmag.com.au/signs-of-the-times/",
+   "found_in_search": true
+  }
+ ]
+}
