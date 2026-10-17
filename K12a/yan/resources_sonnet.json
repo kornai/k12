@@ -1,0 +1,45 @@
+{
+ "iso": "yan",
+ "name": "Mayangna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:21:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Reinforcing the Transmission of Mayangna Knowledge and Culture in the Classroom (UNESCO)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://ich.unesco.org/en/project-education/reinforcing-the-transmission-of-mayangna-knowledge-and-culture-in-the-classroom-00493",
+   "found_in_search": true
+  },
+  {
+   "title": "The cultural and natural heritage as a teaching resource in the Mayangna teaching practice, panamahka",
+   "type": "academic",
+   "language": "other",
+   "url": "https://camjol.info/index.php/RUC/article/view/7764",
+   "found_in_search": true
+  },
+  {
+   "title": "Hale: indigenous linguists, dictionary and orthography work (Mayangna)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingphil.scripts.mit.edu/papers/hale/papers/hale039.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Strengthening the Miskitu and Mayangna Languages in Nicaragua Through Digital Media",
+   "type": "other",
+   "language": "English",
+   "url": "https://rising.globalvoices.org/blog/2016/05/22/strengthening-the-miskitu-and-mayangna-languages-in-nicaragua-through-digital-media/",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistic attitudes towards the Mayangna language among scholarship students",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.unan.edu.ni/index.php/RLL/article/view/5393",
+   "found_in_search": true
+  }
+ ]
+}
