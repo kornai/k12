@@ -1,0 +1,45 @@
+{
+ "iso": "suw",
+ "name": "Sumbwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sumbwa language (Wikipedia; cites Kahigi 2008 trilingual dictionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sumbwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sumbwa people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sumbwa_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Lutheran Bible Translators: Sumbwa Bible Translation",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://lbt.org/?p=5539",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sumbwa language profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/suw",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sumbwa",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/suw",
+   "found_in_search": true
+  }
+ ]
+}
