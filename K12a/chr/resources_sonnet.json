@@ -1,0 +1,52 @@
+{
+ "iso": "chr",
+ "name": "Cherokee",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cherokee Immersion School (Cherokee Nation)",
+   "type": "school_or_programme",
+   "language": "native",
+   "url": "https://language.cherokee.gov/cherokee-immersion-school/",
+   "found_in_search": true
+  },
+  {
+   "title": "Cherokee Nation Language Department teaching materials (See, Say, Write; We Are Learning Cherokee; syllabary downloads)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://language.cherokee.gov/learning-materials/teaching-materials/",
+   "found_in_search": true
+  },
+  {
+   "title": "Cherokee Nation Dictionary app (Durbin Feeling dictionary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://apps.apple.com/us/app/id6748102942",
+   "found_in_search": true
+  },
+  {
+   "title": "Cherokee language revitalization project (2005)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.nnigovernance.arizona.edu/sites/default/files/2022-09/2005_HN_Cherokee_language_revitalization_project.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Cherokee Lessons (introductory edition, Scribd)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://www.scribd.com/document/127034600/Cherokee-Lessons",
+   "found_in_search": true
+  },
+  {
+   "title": "News item on School of the Seven Directions",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://nativeamericanstoday.com/?p=526",
+   "found_in_search": true
+  }
+ ]
+}

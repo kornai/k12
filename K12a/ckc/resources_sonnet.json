@@ -1,0 +1,38 @@
+{
+ "iso": "ckc",
+ "name": "Kaqchikel, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ALMG presenta diccionario monolingue kaqchikel (AGN)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://agn.gt/almg-presenta-diccionario-monolingue-kaqchikel/",
+   "found_in_search": true
+  },
+  {
+   "title": "Diccionario Cakchiquel Central y Espanol (Munson, SIL 1991) - bookseller listing",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.maxrambod.com/pages/books/22877/kaqchikel-dictionary/indigenous-guatemalan-kaqchikel-dictionary-diccionario-cakchiquel-central-y-espanol",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaqchikel Maya Resources (KU CLACS)",
+   "type": "other",
+   "language": "English",
+   "url": "https://clacs.ku.edu/kaqchikel-maya-resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaqchikel language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaqchikel_language",
+   "found_in_search": true
+  }
+ ]
+}

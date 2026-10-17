@@ -1,0 +1,45 @@
+{
+ "iso": "crs",
+ "name": "Seychelles French Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Seychelles Creole Academy Publishes First Monolingual Creole Dictionary (allAfrica)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://allafrica.com/stories/202307090031.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Creole Academy publishes first monolingual Creole dictionary (Seychelles News Agency via Le Mauricien)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.lemauricien.com/?p=584344",
+   "found_in_search": true
+  },
+  {
+   "title": "Seychellois Creole (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:crs",
+   "found_in_search": true
+  },
+  {
+   "title": "Seychellois Creole phrasebook (Wikivoyage)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikivoyage.org/wiki/Seychellois_Creole_phrasebook",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Seselwa Creole French",
+   "type": "software",
+   "language": "other",
+   "url": "https://docs.verbix.com/Languages/SeselwaCreoleFrench",
+   "found_in_search": true
+  }
+ ]
+}

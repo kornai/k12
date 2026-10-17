@@ -1,0 +1,38 @@
+{
+ "iso": "cka",
+ "name": "Khumi Awa Chin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Khumi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khumi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest Khumi profile (Myanmar), scripture and population notes",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Khumi.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Chin, Khumi: Awa",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/1150",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Chin, Khumi",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/cnk",
+   "found_in_search": true
+  }
+ ]
+}

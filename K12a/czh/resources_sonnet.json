@@ -1,0 +1,31 @@
+{
+ "iso": "czh",
+ "name": "Chinese, Huizhou",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Huizhou Chinese (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Huizhou_Chinese",
+   "found_in_search": true
+  },
+  {
+   "title": "Huizhou dialect, Guangdong (Wikipedia; different variety)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Huizhou_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Forum thread: Book on the Huizhou dialect (Guangdong)",
+   "type": "other",
+   "language": "English",
+   "url": "https://chinalanguage.com/forums/viewtopic.php?p=21523",
+   "found_in_search": true
+  }
+ ]
+}

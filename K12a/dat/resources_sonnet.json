@@ -1,0 +1,52 @@
+{
+ "iso": "dat",
+ "name": "Darang Deng",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Darang Deng",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/dara1255",
+   "found_in_search": true
+  },
+  {
+   "title": "Digaro Mishmi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Digaro_Mishmi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Digaro-Mishmi",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/39962",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Digaro",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/digaro.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Digaro Mishmi",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/mhu",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Digaro Mishmi",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/mhu/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "dkk",
+ "name": "Dakka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dakka language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dakka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Dakka",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/dakk1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "An Archaeological Perspective on the Diversification of the Languages of the South Sulawesi Stock (ANU)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/7bee88bf-5d8c-4249-abab-f4be3ed4bebc",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Dakka in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11476",
+   "found_in_search": true
+  }
+ ]
+}

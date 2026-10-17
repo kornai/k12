@@ -1,0 +1,59 @@
+{
+ "iso": "cns",
+ "name": "Asmat, Central",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Roesler, Asmat Dictionary (PARADISEC)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/CR1/dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Drabbe 1959, Dictionary of the Asmat Language (Glottolog entry)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/475473",
+   "found_in_search": true
+  },
+  {
+   "title": "Voorhoeve 1980 (Glottolog entry)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/85998",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Central Asmat",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/asmat-muli-strait/asmat-kamrau-bay/asmat-kamoro/asmat/central-asmat",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Asmat language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Central_Asmat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Central Asmat Bible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=cns",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Asmat, Central",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/cns",
+   "found_in_search": true
+  }
+ ]
+}
