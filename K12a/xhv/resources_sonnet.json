@@ -1,0 +1,38 @@
+{
+ "iso": "xhv",
+ "name": "Khua",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:02:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Khua language profile (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/xhv",
+   "found_in_search": true
+  },
+  {
+   "title": "Khua in Laos (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/12668/LA",
+   "found_in_search": true
+  },
+  {
+   "title": "Khua in Vietnam (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/12668/VM",
+   "found_in_search": true
+  },
+  {
+   "title": "Ethnologue subgroup page (Bru subgroup)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ethnologue.com/subgroup/1755/",
+   "found_in_search": true
+  }
+ ]
+}

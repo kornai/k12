@@ -1,0 +1,45 @@
+{
+ "iso": "xhu",
+ "name": "Hurrian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:02:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hurrian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hurrian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mitanni Letter (Wikipedia)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mitanni_Letter",
+   "found_in_search": true
+  },
+  {
+   "title": "Giorgieri, Schizzo grammaticale della lingua Hurrica (abstract)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://urkesh.org/abstracts/913Giorgieri2000a.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Giorgieri 2000 abstract (Urkesh.org)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://urkesh.org/abstracts/923Giorgieri2000a.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Hurrian and the Hurrians (Mark Ronan)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.markronan.com/languages/hurrian/",
+   "found_in_search": true
+  }
+ ]
+}

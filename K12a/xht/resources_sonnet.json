@@ -1,0 +1,45 @@
+{
+ "iso": "xht",
+ "name": "Hattic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:02:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hattians (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hattians",
+   "found_in_search": true
+  },
+  {
+   "title": "Hattian language (Britannica)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://britannica.com/topic/Hattian-language",
+   "found_in_search": true
+  },
+  {
+   "title": "The Hattians and the Hattic language (Palaeolexicon)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://palaeolexicon.com/Hattic",
+   "found_in_search": true
+  },
+  {
+   "title": "Goedegebuure, Hattian Alignment",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://voices.uchicago.edu/goedegebuure/files/2020/05/Goedegebuure-Hattian-Alignment.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Hattic Language papers (Academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/Documents/in/Hattic_Language",
+   "found_in_search": true
+  }
+ ]
+}
