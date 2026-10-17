@@ -1,0 +1,38 @@
+{
+ "iso": "yio",
+ "name": "Dayao Yi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:43:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Dayao Yi (yio)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/yio",
+   "found_in_search": true
+  },
+  {
+   "title": "Yi people (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yi_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Dayao County (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dayao_County",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Lolopo (Central Yi)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/lolopo.htm",
+   "found_in_search": true
+  }
+ ]
+}

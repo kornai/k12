@@ -1,0 +1,52 @@
+{
+ "iso": "yil",
+ "name": "Yindjilandji",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:43:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yindjilandji (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yindjilandji",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang G14: Indjilandji",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/g14",
+   "found_in_search": true
+  },
+  {
+   "title": "Gavan Breen Yindjilandji Collection (Research Data Australia)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://researchdata.edu.au/gavan-breen-yindjilandji-collection/967828",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC GB34 item 003 (Breen 1979 recordings)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.nabu-prod.paradisec.org.au/collections/GB34/items/003",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Sydney Archives record 19408",
+   "type": "other",
+   "language": "English",
+   "url": "https://archives-search.sydney.edu.au/nodes/view/19408",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Sydney Archives record 19409",
+   "type": "other",
+   "language": "English",
+   "url": "https://archives-search.sydney.edu.au/nodes/view/19409",
+   "found_in_search": true
+  }
+ ]
+}
