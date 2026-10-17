@@ -1,0 +1,52 @@
+{
+ "iso": "rws",
+ "name": "Rawas (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Bookkeeping: Rawas (Retired)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/rawa1268",
+   "found_in_search": true
+  },
+  {
+   "title": "Musi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Musi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Musi languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Musi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "What the Rawas Dialect Reveals about the Linguistic History of Rejang (McGinn 2005)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://signal.sciencespo-lyon.fr/article/512344/What-the-Rawas-Dialect-Reveals-about-the-Linguistic-History-of-Rejang",
+   "found_in_search": true
+  },
+  {
+   "title": "Harun Mat Piah 1970 (Rawa dialect, Perak) reference",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/551504",
+   "found_in_search": true
+  },
+  {
+   "title": "Dinamika Kehidupan Masyarakat di Sepanjang Sungai Rawas Masa Hindia Belanda 1864-1942",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journal.ipm2kpe.or.id/index.php/KAGANGA/article/view/3826",
+   "found_in_search": true
+  }
+ ]
+}

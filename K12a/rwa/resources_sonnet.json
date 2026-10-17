@@ -1,0 +1,52 @@
+{
+ "iso": "rwa",
+ "name": "Rawo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Rawo language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Rawo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rawo language - Verbix",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Rawo",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Rawo (pok)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_pok",
+   "found_in_search": true
+  },
+  {
+   "title": "Skou languages (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://static.hlt.bme.hu/semantics/external/pages/jokuc/en.wikipedia.org/wiki/Skou_languages.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Rawo in Papua New Guinea - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14530",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language profile: rwa",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/rwa",
+   "found_in_search": true
+  }
+ ]
+}

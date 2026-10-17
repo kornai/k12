@@ -1,0 +1,66 @@
+{
+ "iso": "rxd",
+ "name": "Ngardi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngardi to English Dictionary (Aboriginal Studies Press, 2025)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://readings.com.au/product/9781922102850",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngardi to English Dictionary (bookstore listing)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://amplifybookstore.com/products/ngardi-to-english-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Publisher resource sheet (New South Books, Feb 2025)",
+   "type": "other",
+   "language": "English",
+   "url": "https://newsouthbooks.com.au/assets/media/resources/feb25a_rs.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG: Ngardi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/c2",
+   "found_in_search": true
+  },
+  {
+   "title": "South Australian Museum: Ngardi (NT)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.samuseum.sa.gov.au/collection/archives/language_groups/ngardi",
+   "found_in_search": true
+  },
+  {
+   "title": "Spoken since time immemorial: New dictionary preserves Ngardi language (NIT)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://nit.com.au/13-05-2025/17915/spoken-since-time-immemorial-new-dictionary-preserves-ngardi-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Deadly Dictionaries: Ngardi (Australian Geographic)",
+   "type": "other",
+   "language": "English",
+   "url": "https://australiangeographic.com.au/history-culture/2026/08/deadly-dictionaries-ngardi/",
+   "found_in_search": true
+  },
+  {
+   "title": "Territory Stories: Miyi Lajamanu-wana (Warlpiri area, not Ngardi)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://territorystories.nt.gov.au/10070/881470",
+   "found_in_search": true
+  }
+ ]
+}

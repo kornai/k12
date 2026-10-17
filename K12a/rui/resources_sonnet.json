@@ -1,0 +1,52 @@
+{
+ "iso": "rui",
+ "name": "Rufiji",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ISO 639:r (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/ISO_639:r",
+   "found_in_search": true
+  },
+  {
+   "title": "Ndengereko language (Wikipedia), lists rui as duplicate code",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ndengereko_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Rufiji (rufi1234)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/rufi1234.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Rufiji wordlist entry",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/RUFIJI",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Rufiji language",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/rui",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: rui",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/rui",
+   "found_in_search": true
+  }
+ ]
+}

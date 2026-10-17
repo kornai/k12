@@ -1,0 +1,31 @@
+{
+ "iso": "ruz",
+ "name": "Ruma",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ruma language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ruma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ruruma in Nigeria - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14596",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language profile: ruz",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/ruz",
+   "found_in_search": true
+  }
+ ]
+}

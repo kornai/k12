@@ -1,0 +1,38 @@
+{
+ "iso": "rxw",
+ "name": "Karuwali",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Karuwali (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Karuwali",
+   "found_in_search": true
+  },
+  {
+   "title": "South Australian Museum: Karuwali (QLD)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.samuseum.sa.gov.au/collection/archives/language_groups/karuwali",
+   "found_in_search": true
+  },
+  {
+   "title": "Mithaka language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mithaka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Shire of Diamantina (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shire_of_Diamantina",
+   "found_in_search": true
+  }
+ ]
+}

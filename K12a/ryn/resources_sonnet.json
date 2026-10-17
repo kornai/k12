@@ -1,0 +1,59 @@
+{
+ "iso": "ryn",
+ "name": "Amami-Oshima, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Amami Oshima language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Amami_%C5%8Cshima_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Amami (shimayumuta) - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/amami.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Kagoshima University repository: shimauta learning paper",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ir.kagoshima-u.ac.jp/records/4917",
+   "found_in_search": true
+  },
+  {
+   "title": "Kagoshima University repository record (shimauta schools)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ir.kagoshima-u.ac.jp/records/10480/export/json",
+   "found_in_search": true
+  },
+  {
+   "title": "Shimauta (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.org/wiki/Shimauta",
+   "found_in_search": true
+  },
+  {
+   "title": "Japanese Wiktionary: Northern Amami Oshima language",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ja.wiktionary.org/wiki/%E5%8C%97%E5%A5%84%E7%BE%8E%E5%A4%A7%E5%B3%B6%E8%AA%9E",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 24.388",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dev.linguistlist.org/issues/24/388/",
+   "found_in_search": true
+  }
+ ]
+}
