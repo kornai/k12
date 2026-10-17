@@ -1,0 +1,31 @@
+{
+ "iso": "faf",
+ "name": "Fagani",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fagani language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fagani_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Fagani",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Fagani",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Fagani in Solomon Islands",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11176",
+   "found_in_search": true
+  }
+ ]
+}

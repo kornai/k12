@@ -1,0 +1,45 @@
+{
+ "iso": "fuc",
+ "name": "Pulaar",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Peace Corps Pulaar-Mauritania Language Course (commercial listing)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.fsi-language-courses.org/pulaar/courses/peace-corps-pulaar-mauritania-language-course",
+   "found_in_search": true
+  },
+  {
+   "title": "Columbia University Libraries: Fula Language guide",
+   "type": "other",
+   "language": "English",
+   "url": "https://guides.library.columbia.edu/fula-language/home",
+   "found_in_search": true
+  },
+  {
+   "title": "Pulaar-English/English-Pulaar Standard Dictionary (Hippocrene)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.hippocrenebooks.com/store/p275/Pulaar-English_StandardDictionary.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Peul (Fula) dictionaries",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/peul_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ALMA bibliography (Fary Silate Ka), Pulaar education literature",
+   "type": "academic",
+   "language": "other",
+   "url": "https://alma.matrix.msu.edu/assets/uploads/2009/04/bibliographyfarysilateka.pdf",
+   "found_in_search": true
+  }
+ ]
+}

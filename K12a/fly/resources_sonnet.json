@@ -1,0 +1,52 @@
+{
+ "iso": "fly",
+ "name": "Flaaitaal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "flaaitaal (Dictionary of South African English entry)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://dsae.co.za/entry/flaaitaal/e02397",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Tsotsitaal: A Dictionary of the Language of Sophiatown (Lexikos)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/743/339",
+   "found_in_search": true
+  },
+  {
+   "title": "Makhudu 1995, An Introduction to Flaaitaal (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/550543",
+   "found_in_search": true
+  },
+  {
+   "title": "Cambridge book chapter on Flaaitaal/Tsotsitaal",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/product/identifier/CBO9780511486692A032/type/BOOK_PART",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Flaaitaal-English dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/fly/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Flaaitaal",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/fly",
+   "found_in_search": true
+  }
+ ]
+}

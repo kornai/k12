@@ -1,0 +1,59 @@
+{
+ "iso": "eve",
+ "name": "Even",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "From the History of publication of educational materials on Even language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cyberleninka.ru/article/n/from-the-history-of-publication-of-educational-materials-on-even-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarasova paper on Even primers (dh-north.org)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dh-north.org/siberian_studies/publications/betarasova.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SPRI library catalogue: Even (Lamut) school reader, Tkachik 1948",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.spri.cam.ac.uk/library/catalogue/records/21450/",
+   "found_in_search": true
+  },
+  {
+   "title": "Even and the Northern Tungusic languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hal.univ-lyon2.fr/hal-02889683/document",
+   "found_in_search": true
+  },
+  {
+   "title": "Evenki orthography (Wikipedia; mentions early Even primers)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Evenki_orthography",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Even guide",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.endangeredlanguages.com/lang/1206/guide/6032?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Tungus-Manchu Languages in Russia (Sociolinguistical Situation)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.altaist.org/home/confessions/girfanova-albina-h/tungus-manchu-languages-in-russia-sociolinguistical-situation/",
+   "found_in_search": true
+  }
+ ]
+}

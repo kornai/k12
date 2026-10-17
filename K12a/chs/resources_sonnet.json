@@ -1,0 +1,52 @@
+{
+ "iso": "chs",
+ "name": "Chumash",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bringing Back the Samala Chumash Language (NPS)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.nps.gov/chis/learn/news/bringing-back-the-samala-chumash-language.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Barbareño (P'atna) overview, Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/barbareno.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Chumash dictionary breathes life into moribund language (Samala-English dictionary, 2008)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.independent.com/2008/04/24/chumash-dictionary-breathes-life-into-moribund-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "CSU Channel Islands online Chumash language dictionary (mitsqanaqan)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.csuci.edu/news/channel/spring-2024/chumashlanguage.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "CSU Channel Islands Hosts a New Online Chumash Language Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.conejovalleyguide.com/local-buzz/csu-channel-islands-hosts-a-new-online-chumash-language-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Santa Ynez Band of Chumash Indians culture document",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://chumash.gov/s/Culture.pdf",
+   "found_in_search": true
+  }
+ ]
+}

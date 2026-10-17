@@ -1,0 +1,52 @@
+{
+ "iso": "fao",
+ "name": "Faroese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Faroese Online: resources and free introductory course",
+   "type": "other",
+   "language": "English",
+   "url": "https://faroeseonline.com/resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "LEXIN online dictionaries (Study in the Faroe Islands)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://studyinfaroeislands.fo/life-in-the-faroes/learn-the-language/lexin-online-encyclopedia",
+   "found_in_search": true
+  },
+  {
+   "title": "Faroese: An Overview and Reference Grammar (listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://nordicnames.de/wiki/Book:_Faroese_-_an_Overview_and_Reference_Grammar",
+   "found_in_search": true
+  },
+  {
+   "title": "Freelang Faroese dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.freelang.net/dictionary/faroese.php",
+   "found_in_search": true
+  },
+  {
+   "title": "The Faroese Language (Visit Faroe Islands)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.faroeislands.fo/arts-culture/the-faroese-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Faroese Language (Torshavn municipality)",
+   "type": "other",
+   "language": "English",
+   "url": "https://tvk.fo/en/living/language-culture/faroese-language/",
+   "found_in_search": true
+  }
+ ]
+}

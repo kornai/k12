@@ -1,0 +1,52 @@
+{
+ "iso": "asf",
+ "name": "Auslan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "VCAA Victorian Curriculum F-10 Auslan resources",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.vcaa.vic.edu.au/curriculum/foundation-10/resources/languages/auslan/Pages/default.aspx",
+   "found_in_search": true
+  },
+  {
+   "title": "NSW Auslan K-10 Syllabus support",
+   "type": "policy",
+   "language": "English",
+   "url": "https://education.nsw.gov.au/teaching-and-learning/curriculum/languages/planning-programming-and-assessing-languages-7-10/auslan",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages NSW: Is your school offering Auslan in 2026",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.languagesnsw.com/post/is-your-school-offering-auslan-in-2026",
+   "found_in_search": true
+  },
+  {
+   "title": "Twinkl Auslan Items at School Pack",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.twinkl.com/resource/auslan-places-at-school-pack-au-al-1686539494",
+   "found_in_search": true
+  },
+  {
+   "title": "Auslan Signbank",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://auslan.org.au/",
+   "found_in_search": true
+  },
+  {
+   "title": "Signbank and the Auslan Corpus (Monash University)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.monash.edu/arts/languages-literatures-cultures-linguistics/signbank-and-the-auslan-corpus",
+   "found_in_search": true
+  }
+ ]
+}

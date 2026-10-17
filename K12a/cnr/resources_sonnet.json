@@ -1,0 +1,45 @@
+{
+ "iso": "cnr",
+ "name": "Montenegrin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "COBISS.CG record (Govorimo crnogorski A1 / Zavod za udzbenike)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://plus.cobiss.net/cobiss/cg/en/bib/29975812",
+   "found_in_search": true
+  },
+  {
+   "title": "Rjecnik crnogorskog narodnog i knjizevnog jezika - Registar (CANU)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://canupub.me/en/knjiga/rjecnik-crnogorskog-narodnog-i-knjizevnog-jezika-registar",
+   "found_in_search": true
+  },
+  {
+   "title": "Montenegrin - Slavic Languages research guide (University of Oregon)",
+   "type": "other",
+   "language": "English",
+   "url": "https://researchguides.uoregon.edu/slavic-languages/montenegrin",
+   "found_in_search": true
+  },
+  {
+   "title": "Trovesi on Pravopis crnogorskoga jezika and Rjecnik (2009)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://iris.uniroma1.it/handle/11573/1385902",
+   "found_in_search": true
+  },
+  {
+   "title": "Zeitschrift fuer Balkanologie article on the Montenegrin orthography",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://zeitschrift-fuer-balkanologie.de/index.php/zfb/article/download/288/316/477",
+   "found_in_search": true
+  }
+ ]
+}

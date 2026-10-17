@@ -1,0 +1,66 @@
+{
+ "iso": "fit",
+ "name": "Meänkieli",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sveriges Radio: Minority languages to get school lesson plans",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.sverigesradio.se/artikel/6133178",
+   "found_in_search": true
+  },
+  {
+   "title": "Umea University syllabus 1fi060 (lists Meankieli textbooks)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.umu.se/en/student/syllabus/1fi060/",
+   "found_in_search": true
+  },
+  {
+   "title": "Meankielen sanakirja (MEAN SANA) online dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://meankielensanakirja.com/en/",
+   "found_in_search": true
+  },
+  {
+   "title": "Meankieli-Swedish-Meankieli dictionary dataset (SND)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://snd.se/en/catalogue/dataset/2022-241-1",
+   "found_in_search": true
+  },
+  {
+   "title": "Giellatekno other dictionaries (Meankieli)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://dicts.uit.no/dicts/other-dicts.eng.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Meankieli",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Me%C3%A4nkieli",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Meankieli vocabulary",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Me%C3%A4nkieli_vocabulary",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Meankieli",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10967",
+   "found_in_search": true
+  }
+ ]
+}

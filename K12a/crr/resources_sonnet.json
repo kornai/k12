@@ -1,0 +1,52 @@
+{
+ "iso": "crr",
+ "name": "Carolina Algonquian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Carolina Algonquian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Carolina_Algonquian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Thomas Harriot and the English origins of Algonkian linguistics",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.benjamins.com/online/hl/articles/hl.19.1.03sal",
+   "found_in_search": true
+  },
+  {
+   "title": "Hariot, Thomas (Encyclopedia Virginia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://encyclopediavirginia.org/entries/hariot-thomas-ca-1560-1621/",
+   "found_in_search": true
+  },
+  {
+   "title": "Thomas Harriot (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Harriot",
+   "found_in_search": true
+  },
+  {
+   "title": "Thomas Harriot and the lost North Carolina Algonquian language (Brewminate)",
+   "type": "other",
+   "language": "English",
+   "url": "https://brewminate.com/thomas-harriot-and-the-lost-north-carolina-algonquian-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "History News Network article on Harriot and Algonquian",
+   "type": "other",
+   "language": "English",
+   "url": "https://historynewsnetwork.org/article/172001",
+   "found_in_search": true
+  }
+ ]
+}

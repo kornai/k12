@@ -1,0 +1,31 @@
+{
+ "iso": "drq",
+ "name": "Dura",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Schorer 2016, The Dura Language: Grammar and Phylogeny (library record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://libcat.mcphs.edu/Record/in00000349201",
+   "found_in_search": true
+  },
+  {
+   "title": "The phylogenetic position of the Dura Language of Nepal (Bern repository)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://boris.unibe.ch/73504/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dura - Chan numerals database",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Dura.htm",
+   "found_in_search": true
+  }
+ ]
+}

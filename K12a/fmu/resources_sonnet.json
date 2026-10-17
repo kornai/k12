@@ -1,0 +1,24 @@
+{
+ "iso": "fmu",
+ "name": "Muria, Far Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Muria language (Wikipedia, ISO 639:fmu), citing SIL Far Western Muria phonology summary",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:fmu",
+   "found_in_search": true
+  },
+  {
+   "title": "Garapati 1991, Gondi subgrouping (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/475796",
+   "found_in_search": true
+  }
+ ]
+}

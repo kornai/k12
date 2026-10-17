@@ -1,0 +1,24 @@
+{
+ "iso": "fln",
+ "name": "Flinders Island",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Flinders Island language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Flinders_Island_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Flinders Island - Verbix Endangered Languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/FlindersIsland",
+   "found_in_search": true
+  }
+ ]
+}

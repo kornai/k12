@@ -2176,3 +2176,187 @@ sds	Sened	2026-10-17T03:54:05Z	done	5	sds+sdt+sdu+sdx
 sdt	Shuadit	2026-10-17T03:54:05Z	failed	0	sds+sdt+sdu+sdx
 sdu	Sarudu	2026-10-17T03:54:05Z	failed	0	sds+sdt+sdu+sdx
 sdx	Melanau, Sibu	2026-10-17T03:54:05Z	failed	0	sds+sdt+sdu+sdx
+adq	Adangbe	2026-10-17T03:12:00Z	done	5	adq+adr+ads+aex
+adr	Adonara	2026-10-17T03:12:00Z	done	6	adq+adr+ads+aex
+ads	Adamorobe Sign Language	2026-10-17T03:12:00Z	done	3	adq+adr+ads+aex
+aex	Amerax	2026-10-17T03:12:00Z	done	1	adq+adr+ads+aex
+alp	Alune	2026-10-17T03:12:55Z	done	5	alp+alq+alr+amw
+alq	Algonquin	2026-10-17T03:12:55Z	done	7	alp+alq+alr+amw
+alr	Alutor	2026-10-17T03:12:55Z	done	5	alp+alq+alr+amw
+amw	Western Neo-Aramaic	2026-10-17T03:12:55Z	done	5	alp+alq+alr+amw
+amx	Anmatyerr	2026-10-17T03:13:39Z	done	4	amx+amy+aor+aos
+amy	Ami	2026-10-17T03:13:39Z	done	4	amx+amy+aor+aos
+aor	Aore	2026-10-17T03:13:39Z	done	3	amx+amy+aor+aos
+aos	Taikat	2026-10-17T03:13:39Z	done	3	amx+amy+aor+aos
+aot	Atong	2026-10-17T03:14:27Z	done	4	aot+apd+ape+apf
+apd	Sudanese Arabic	2026-10-17T03:14:27Z	done	2	aot+apd+ape+apf
+ape	Bukiyip	2026-10-17T03:14:27Z	done	3	aot+apd+ape+apf
+apf	Pahanan Agta	2026-10-17T03:14:27Z	done	3	aot+apd+ape+apf
+asc	Asmat, Casuarina Coast	2026-10-17T03:15:15Z	done	5	asc+ase+asf+ayo
+ase	American Sign Language	2026-10-17T03:15:15Z	done	6	asc+ase+asf+ayo
+asf	Auslan	2026-10-17T03:15:15Z	done	6	asc+ase+asf+ayo
+ayo	Ayoreo	2026-10-17T03:15:15Z	done	7	asc+ase+asf+ayo
+ayp	North Mesopotamian Arabic	2026-10-17T03:16:08Z	done	5	ayp+ayq+bac+bae
+ayq	Ayi	2026-10-17T03:16:08Z	done	5	ayp+ayq+bac+bae
+bac	Baduy	2026-10-17T03:16:08Z	done	4	ayp+ayq+bac+bae
+bae	Baré	2026-10-17T03:16:08Z	done	7	ayp+ayq+bac+bae
+baf	Nubaca	2026-10-17T03:17:05Z	done	8	baf+bcl+bcm+bcn
+bcl	Central Bikol	2026-10-17T03:17:05Z	done	7	baf+bcl+bcm+bcn
+bcm	Bannoni	2026-10-17T03:17:05Z	done	5	baf+bcl+bcm+bcn
+bcn	Bali	2026-10-17T03:17:05Z	done	3	baf+bcl+bcm+bcn
+bfh	Blafe	2026-10-17T03:17:55Z	done	6	bfh+bgh+bhk+bhl
+bgh	Bugan (Retired)	2026-10-17T03:17:55Z	done	6	bfh+bgh+bhk+bhl
+bhk	Inland-Buhi-Daraga Bikol	2026-10-17T03:17:55Z	done	4	bfh+bgh+bhk+bhl
+bhl	Bimin	2026-10-17T03:17:55Z	done	3	bfh+bgh+bhk+bhl
+bhm	Bathari	2026-10-17T03:18:41Z	done	3	bhm+bkc+bkd+bkf
+bkc	Baka	2026-10-17T03:18:41Z	done	5	bhm+bkc+bkd+bkf
+bkd	Binukid	2026-10-17T03:18:41Z	done	4	bhm+bkc+bkd+bkf
+bkf	Beeke	2026-10-17T03:18:41Z	done	4	bhm+bkc+bkd+bkf
+boa	Bora	2026-10-17T03:19:41Z	done	8	boa+bob+boc+can
+bob	Aweer	2026-10-17T03:19:41Z	done	5	boa+bob+boc+can
+boc	Bakung Kenyah	2026-10-17T03:19:41Z	done	6	boa+bob+boc+can
+can	Chambri	2026-10-17T03:19:41Z	done	4	boa+bob+boc+can
+chr	Cherokee	2026-10-17T03:20:48Z	done	6	chr+chs+cht+cka
+chs	Chumash	2026-10-17T03:20:48Z	done	6	chr+chs+cht+cka
+cht	Cholón	2026-10-17T03:20:48Z	done	5	chr+chs+cht+cka
+cka	Khumi Awa Chin	2026-10-17T03:20:48Z	done	4	chr+chs+cht+cka
+ckb	Central Kurdish	2026-10-17T03:21:41Z	done	6	ckb+ckc+cnq+cnr
+ckc	Kaqchikel, Northern	2026-10-17T03:21:41Z	done	4	ckb+ckc+cnq+cnr
+cnq	Chung	2026-10-17T03:21:41Z	done	4	ckb+ckc+cnq+cnr
+cnr	Montenegrin	2026-10-17T03:21:41Z	done	5	ckb+ckc+cnq+cnr
+cns	Asmat, Central	2026-10-17T03:22:48Z	done	7	cns+crr+crs+crt
+crr	Carolina Algonquian	2026-10-17T03:22:48Z	done	6	cns+crr+crs+crt
+crs	Seychelles French Creole	2026-10-17T03:22:48Z	done	5	cns+crr+crs+crt
+crt	Chorote, Iyojwa’ja	2026-10-17T03:22:48Z	done	5	cns+crr+crs+crt
+cru	Carútana	2026-10-17T03:23:37Z	done	4	cru+cso+czh+dat
+cso	Sochiapam Chinantec	2026-10-17T03:23:37Z	done	5	cru+cso+czh+dat
+czh	Chinese, Huizhou	2026-10-17T03:23:37Z	done	3	cru+cso+czh+dat
+dat	Darang Deng	2026-10-17T03:23:37Z	done	6	cru+cso+czh+dat
+dkg	Kadung	2026-10-17T03:24:26Z	done	6	dkg+dkk+dkl+dmo
+dkk	Dakka	2026-10-17T03:24:26Z	done	4	dkg+dkk+dkl+dmo
+dkl	Kolum So Dogon	2026-10-17T03:24:26Z	done	3	dkg+dkk+dkl+dmo
+dmo	Kemedzung	2026-10-17T03:24:26Z	done	6	dkg+dkk+dkl+dmo
+dmr	Damar, East	2026-10-17T03:25:12Z	done	8	dmr+dms+dor+dos
+dms	Dampelas	2026-10-17T03:25:12Z	done	2	dmr+dms+dor+dos
+dor	Dori’o	2026-10-17T03:25:12Z	done	5	dmr+dms+dor+dos
+dos	Dogosé	2026-10-17T03:25:12Z	done	3	dmr+dms+dor+dos
+dot	Dass	2026-10-17T03:25:55Z	done	2	dot+drn+dro+drq
+drn	Damar, West	2026-10-17T03:25:55Z	done	4	dot+drn+dro+drq
+dro	Melanau, Matu Daro	2026-10-17T03:25:55Z	done	4	dot+drn+dro+drq
+drq	Dura	2026-10-17T03:25:55Z	done	3	dot+drn+dro+drq
+dwu	Dhuwal	2026-10-17T03:26:51Z	done	7	dwu+dww+dwy+dyl
+dww	Dawawa	2026-10-17T03:26:51Z	done	6	dwu+dww+dwy+dyl
+dwy	Dhuwaya	2026-10-17T03:26:51Z	done	5	dwu+dww+dwy+dyl
+dyl	Bhutanese Sign Language	2026-10-17T03:26:51Z	done	9	dwu+dww+dwy+dyl
+enm	Middle English	2026-10-17T03:27:37Z	done	3	enm+enn+eno+etx
+enn	Engenni	2026-10-17T03:27:37Z	done	4	enm+enn+eno+etx
+eno	Enggano	2026-10-17T03:27:37Z	done	9	enm+enn+eno+etx
+etx	Iten	2026-10-17T03:27:37Z	done	6	enm+enn+eno+etx
+etz	Semimi	2026-10-17T03:28:44Z	done	7	etz+eud+eur+eus
+eud	Eudeve	2026-10-17T03:28:44Z	done	6	etz+eud+eur+eus
+eur	Europanto	2026-10-17T03:28:44Z	done	4	etz+eud+eur+eus
+eus	Basque	2026-10-17T03:28:44Z	done	7	etz+eud+eur+eus
+eve	Even	2026-10-17T03:29:44Z	done	7	eve+evh+evn+ewe
+evh	Uvbie	2026-10-17T03:29:44Z	done	4	eve+evh+evn+ewe
+evn	Evenki	2026-10-17T03:29:44Z	done	6	eve+evh+evn+ewe
+ewe	Éwé	2026-10-17T03:29:44Z	done	7	eve+evh+evn+ewe
+ewo	Ewondo	2026-10-17T03:30:40Z	done	4	ewo+ext+eya+eyo
+ext	Extremaduran	2026-10-17T03:30:40Z	done	6	ewo+ext+eya+eyo
+eya	Eyak	2026-10-17T03:30:40Z	done	8	ewo+ext+eya+eyo
+eyo	Keiyo	2026-10-17T03:30:40Z	done	6	ewo+ext+eya+eyo
+eza	Ezaa	2026-10-17T03:31:28Z	done	2	eza+eze+faa+fab
+eze	Uzekwe	2026-10-17T03:31:28Z	done	4	eza+eze+faa+fab
+faa	Fasu	2026-10-17T03:31:28Z	done	5	eza+eze+faa+fab
+fab	Fa d’Ambu	2026-10-17T03:31:28Z	done	7	eza+eze+faa+fab
+fad	Wagi	2026-10-17T03:32:12Z	done	4	fad+faf+fag+fah
+faf	Fagani	2026-10-17T03:32:12Z	done	3	fad+faf+fag+fah
+fag	Finongan	2026-10-17T03:32:12Z	done	6	fad+faf+fag+fah
+fah	Fali of Baissa	2026-10-17T03:32:12Z	done	3	fad+faf+fag+fah
+fai	Faiwol	2026-10-17T03:33:03Z	done	4	fai+faj+fak+fal
+faj	Kursav	2026-10-17T03:33:03Z	done	7	fai+faj+fak+fal
+fak	Fang	2026-10-17T03:33:03Z	done	3	fai+faj+fak+fal
+fal	Fali, South	2026-10-17T03:33:03Z	done	5	fai+faj+fak+fal
+fam	Fam	2026-10-17T03:33:58Z	done	3	fam+fan+fao+fap
+fan	Fang	2026-10-17T03:33:58Z	done	4	fam+fan+fao+fap
+fao	Faroese	2026-10-17T03:33:58Z	done	6	fam+fan+fao+fap
+fap	Paloor	2026-10-17T03:33:58Z	done	6	fam+fan+fao+fap
+far	Fataleka	2026-10-17T03:34:41Z	done	5	far+fas+fat+fau
+fas	fas	2026-10-17T03:34:41Z	done	2	far+fas+fat+fau
+fat	Fanti	2026-10-17T03:34:41Z	done	3	far+fas+fat+fau
+fau	Fayu	2026-10-17T03:34:41Z	done	3	far+fas+fat+fau
+fax	Fala	2026-10-17T03:35:37Z	done	5	fax+fay+faz+fbl
+fay	Fars, Southwestern	2026-10-17T03:35:37Z	done	4	fax+fay+faz+fbl
+faz	Fars, Northwestern	2026-10-17T03:35:37Z	done	3	fax+fay+faz+fbl
+fbl	Bikol, West Albay	2026-10-17T03:35:37Z	done	8	fax+fay+faz+fbl
+fcs	Quebec Sign Language	2026-10-17T03:36:28Z	done	5	fcs+fer+ffi+ffm
+fer	Feroge	2026-10-17T03:36:28Z	done	6	fcs+fer+ffi+ffm
+ffi	Foia Foia	2026-10-17T03:36:28Z	done	5	fcs+fer+ffi+ffm
+ffm	Maasina Fulfulde	2026-10-17T03:36:28Z	done	7	fcs+fer+ffi+ffm
+fgr	Fongoro	2026-10-17T03:37:16Z	done	5	fgr+fia+fie+fif
+fia	Nobiin	2026-10-17T03:37:16Z	done	2	fgr+fia+fie+fif
+fie	Fyer	2026-10-17T03:37:16Z	done	2	fgr+fia+fie+fif
+fif	Faifi	2026-10-17T03:37:16Z	done	6	fgr+fia+fie+fif
+fij	Fijian	2026-10-17T03:38:20Z	done	6	fij+fil+fip+fir
+fil	Filipino	2026-10-17T03:38:20Z	done	5	fij+fil+fip+fir
+fip	Fipa	2026-10-17T03:38:20Z	done	5	fij+fil+fip+fir
+fir	Firan	2026-10-17T03:38:20Z	done	4	fij+fil+fip+fir
+fit	Meänkieli	2026-10-17T03:39:14Z	done	8	fit+fiw+fiz+fkk
+fiw	Fiwaga	2026-10-17T03:39:14Z	done	6	fit+fiw+fiz+fkk
+fiz	Izere (Retired)	2026-10-17T03:39:14Z	done	4	fit+fiw+fiz+fkk
+fkk	Kirya-Konzel	2026-10-17T03:39:14Z	done	7	fit+fiw+fiz+fkk
+fkv	Kven Finnish	2026-10-17T03:40:14Z	done	6	fkv+fla+flh+fli
+fla	Kalispel-Pend d’Oreille	2026-10-17T03:40:14Z	done	7	fkv+fla+flh+fli
+flh	Foau	2026-10-17T03:40:14Z	done	4	fkv+fla+flh+fli
+fli	Fali Muchella	2026-10-17T03:40:14Z	done	2	fkv+fla+flh+fli
+fll	Fali, North	2026-10-17T03:41:00Z	done	4	fll+flm+fln+flr
+flm	Falam Chin (Retired)	2026-10-17T03:41:00Z	done	3	fll+flm+fln+flr
+fln	Flinders Island	2026-10-17T03:41:00Z	done	2	fll+flm+fln+flr
+flr	Fuliiru	2026-10-17T03:41:00Z	done	5	fll+flm+fln+flr
+fly	Flaaitaal	2026-10-17T03:41:52Z	done	6	fly+fmp+fmu+fnb
+fmp	Fe’fe’	2026-10-17T03:41:52Z	done	4	fly+fmp+fmu+fnb
+fmu	Muria, Far Western	2026-10-17T03:41:52Z	done	2	fly+fmp+fmu+fnb
+fnb	Fanbak	2026-10-17T03:41:52Z	done	5	fly+fmp+fmu+fnb
+fng	Pidgin Bantu	2026-10-17T03:42:45Z	done	5	fng+fni+fod+foi
+fni	Fania	2026-10-17T03:42:45Z	done	6	fng+fni+fod+foi
+fod	Foodo	2026-10-17T03:42:45Z	done	5	fng+fni+fod+foi
+foi	Foi	2026-10-17T03:42:45Z	done	5	fng+fni+fod+foi
+fom	Foma	2026-10-17T03:43:33Z	done	2	fom+fon+for+fos
+fon	Fon	2026-10-17T03:43:33Z	done	3	fom+fon+for+fos
+for	Fore	2026-10-17T03:43:33Z	done	4	fom+fon+for+fos
+fos	Siraya	2026-10-17T03:43:33Z	done	5	fom+fon+for+fos
+fri	Western Frisian (Retired)	2026-10-17T03:44:33Z	done	2	fri+fro+frp+fuc
+fro	Old French (842-ca. 1400)	2026-10-17T03:44:33Z	done	6	fri+fro+frp+fuc
+frp	Arpitan	2026-10-17T03:44:33Z	done	4	fri+fro+frp+fuc
+fuc	Pulaar	2026-10-17T03:44:33Z	done	5	fri+fro+frp+fuc
+fud	East Futuna	2026-10-17T03:45:19Z	done	6	fud+fue+gbr+gbs
+fue	Borgu Fulfulde	2026-10-17T03:45:19Z	done	5	fud+fue+gbr+gbs
+gbr	Gbagyi	2026-10-17T03:45:19Z	done	5	fud+fue+gbr+gbs
+gbs	Gbe, Gbesi	2026-10-17T03:45:19Z	done	4	fud+fue+gbr+gbs
+gbu	Gagadu	2026-10-17T03:46:07Z	done	3	gbu+gmh+gml+gmm
+gmh	Middle High German	2026-10-17T03:46:07Z	done	5	gbu+gmh+gml+gmm
+gml	Middle Low German	2026-10-17T03:46:07Z	done	4	gbu+gmh+gml+gmm
+gmm	Gbaya-Mbodomo	2026-10-17T03:46:07Z	done	6	gbu+gmh+gml+gmm
+goj	Gowlan	2026-10-17T03:47:11Z	done	3	goj+gok+gus+gut
+gok	Gowli	2026-10-17T03:47:11Z	done	3	goj+gok+gus+gut
+gus	Guinean Sign Language	2026-10-17T03:47:11Z	done	5	goj+gok+gus+gut
+gut	Maléku Jaíka	2026-10-17T03:47:11Z	done	7	goj+gok+gus+gut
+guu	Yanomamö	2026-10-17T03:47:54Z	done	5	guu+gwe+gwf+gwg
+gwe	Gweno	2026-10-17T03:47:54Z	done	3	guu+gwe+gwf+gwg
+gwf	Gowro	2026-10-17T03:47:54Z	done	3	guu+gwe+gwf+gwg
+gwg	Moo	2026-10-17T03:47:54Z	done	1	guu+gwe+gwf+gwg
+hsl	Hausa Sign Language	2026-10-17T03:48:44Z	done	6	hsl+hsn+hss+hut
+hsn	Xiang Chinese	2026-10-17T03:48:44Z	done	5	hsl+hsn+hss+hut
+hss	Harsusi	2026-10-17T03:48:44Z	done	4	hsl+hsn+hss+hut
+hut	Humla	2026-10-17T03:48:44Z	done	3	hsl+hsn+hss+hut
+huu	Murui Witoto	2026-10-17T03:49:31Z	done	5	huu+huw+kei+kej
+huw	Hukumina	2026-10-17T03:49:31Z	done	5	huu+huw+kei+kej
+kei	Kei	2026-10-17T03:49:31Z	done	5	huu+huw+kei+kej
+kej	Kadar	2026-10-17T03:49:31Z	done	4	huu+huw+kei+kej
+kek	Qꞌeqchiꞌ	2026-10-17T03:50:22Z	done	12	kek+kfs+kft+kfu
+kfs	Bilaspuri	2026-10-17T03:50:22Z	done	4	kek+kfs+kft+kfu
+kft	Kanjari	2026-10-17T03:50:22Z	done	3	kek+kfs+kft+kfu
+kfu	Katkari	2026-10-17T03:50:22Z	done	3	kek+kfs+kft+kfu
+klb	Kiliwa	2026-10-17T03:51:10Z	done	3	klb+klc+kld+kob
+klc	Kolbila	2026-10-17T03:51:10Z	done	3	klb+klc+kld+kob
+kld	Gamilaraay	2026-10-17T03:51:10Z	done	7	klb+klc+kld+kob
+kob	Kohoroxitari	2026-10-17T03:51:10Z	done	2	klb+klc+kld+kob

@@ -1,0 +1,38 @@
+{
+ "iso": "ewo",
+ "name": "Ewondo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Abega, Prosper 1969: La grammaire de l'ewondo (Glottolog record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/473084",
+   "found_in_search": true
+  },
+  {
+   "title": "Redden, James E. 1979: A Descriptive Grammar of Ewondo (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/146626",
+   "found_in_search": true
+  },
+  {
+   "title": "Webball bibliography record 74 (Bantu grammar)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio_bas.php?id=74",
+   "found_in_search": true
+  },
+  {
+   "title": "Ewondo entry, Cocoon/Huma-Num language archive",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=ewo",
+   "found_in_search": true
+  }
+ ]
+}

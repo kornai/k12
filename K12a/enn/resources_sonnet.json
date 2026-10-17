@@ -1,0 +1,38 @@
+{
+ "iso": "enn",
+ "name": "Engenni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Engenni language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Engenni_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Egene (Engenni) writing system, Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/egene.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Thomas, Elaine 1974 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/85655",
+   "found_in_search": true
+  },
+  {
+   "title": "Engenni language page, Joshua Project",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/enn",
+   "found_in_search": true
+  }
+ ]
+}

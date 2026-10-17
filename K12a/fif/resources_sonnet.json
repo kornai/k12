@@ -1,0 +1,52 @@
+{
+ "iso": "fif",
+ "name": "Faifi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Alfaifi et al. 2025 (Upper and Lower Faifi, acoustic description)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://faculty.ksu.edu.sa/sites/default/files/Alfaifi_etal_2025.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Upper Faifi as an Endangered Arabic Variety: A Philological, Descriptive, and Acoustic Study",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/59979cd6-143c-4dc0-9362-de91254522f1",
+   "found_in_search": true
+  },
+  {
+   "title": "Aspects of the morphosyntax of the Faifa dialect of Saudi Arabic (thesis)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://pure.ulster.ac.uk/en/studentTheses/aspects-of-the-morphosyntax-of-the-faifa-dialect-of-saudi-arabic-/",
+   "found_in_search": true
+  },
+  {
+   "title": "Alfaifi and Behnstedt, Jabal Fayfa dialect notes (Benjamins)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.jbe-platform.com/content/books/9789027256935-sal.11.05alf",
+   "found_in_search": true
+  },
+  {
+   "title": "Faifi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Faifi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Faifi in Saudi Arabia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21997/SA",
+   "found_in_search": true
+  }
+ ]
+}

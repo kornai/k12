@@ -1,0 +1,66 @@
+{
+ "iso": "dmr",
+ "name": "Damar, East",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "East Damar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/East_Damar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University paper on Damar Island (van Engelenhoven)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2883235/download",
+   "found_in_search": true
+  },
+  {
+   "title": "East Damar numerals (MPI)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Damar-East.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP East Damar word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/EAST_DAMAR",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary language index",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://ling.lll.hawaii.edu/dicts/ACD/acd-l_e.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Damar, East",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/DamarEast",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: East Damar in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11481",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Damar language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/dmr",
+   "found_in_search": true
+  }
+ ]
+}

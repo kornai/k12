@@ -1,0 +1,52 @@
+{
+ "iso": "fap",
+ "name": "Paloor",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Palor language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Palor_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Cangin languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Cangin_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Montebran, Cangin languages (Afrikanistentag 2016)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.iaaw.hu-berlin.de/de/region/afrika/aktuell/archiv/22-afrikanistentag-juni-2016/montebran_berlin-cangin-2.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Paloor bibliography - Endangered Languages Project",
+   "type": "academic",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/7711/bibliography?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Paloor - Verbix Endangered Languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Paloor",
+   "found_in_search": true
+  },
+  {
+   "title": "Jola, Falor in Senegal - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/11185",
+   "found_in_search": true
+  }
+ ]
+}

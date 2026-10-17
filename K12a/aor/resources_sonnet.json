@@ -1,0 +1,31 @@
+{
+ "iso": "aor",
+ "name": "Aore",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aore language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aore_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Aore",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/aore1237.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Aore",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3851",
+   "found_in_search": true
+  }
+ ]
+}

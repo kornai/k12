@@ -1,0 +1,59 @@
+{
+ "iso": "ewe",
+ "name": "Éwé",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ewe Basic Course (Warburton, Kpotufe, Glover) with audio",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://clcl.uiowa.edu/node/471",
+   "found_in_search": true
+  },
+  {
+   "title": "Basic Ewe for Foreign Students 2",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_basic-ewe-for-foreign-students-2",
+   "found_in_search": true
+  },
+  {
+   "title": "Introducing Ewe Linguistic Patterns (Duthie)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.africanbookscollective.com/books/introducing-ewe-linguistic-patterns",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos Ewe dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/english/ewe_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Interview with the author of a new French-Ewe dictionary in Togo",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://lingua.globalvoices.org/2025/01/interview-with-the-author-of-a-new-french-ewe-dictionary-in-togo/",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Ewe",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com:443/writing/ewe.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "SOAS Digital Collections: Ewe New Testament record",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://digital.soas.ac.uk/AA00001744/00001/marc",
+   "found_in_search": true
+  }
+ ]
+}

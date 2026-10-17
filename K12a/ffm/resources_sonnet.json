@@ -1,0 +1,59 @@
+{
+ "iso": "ffm",
+ "name": "Maasina Fulfulde",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Maasina Fulfulde (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Maasina_Fulfulde",
+   "found_in_search": true
+  },
+  {
+   "title": "Fula alphabets (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fula_alphabets",
+   "found_in_search": true
+  },
+  {
+   "title": "Fulfulde Maasina-English-French Lexicon (MSU Press)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://msupress.org/9780870139420/fulfulde-maasina-english-french-lexicon",
+   "found_in_search": true
+  },
+  {
+   "title": "Fulfulde language learning resources (UW LCTL)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wisc.pb.unizin.org/lctlresources/chapter/fulfulde-language-learning-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "La littératie pulaar (Humery, OpenEdition)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journals.openedition.org/cres/2348",
+   "found_in_search": true
+  },
+  {
+   "title": "MSU Matrix Fulfulde bibliography",
+   "type": "other",
+   "language": "English",
+   "url": "https://alma.matrix.msu.edu/assets/uploads/2009/04/bibliographyfarysilateka.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Barry brothers, Microsoft and McCann: Pulaar ADLaM (Black Enterprise)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.blackenterprise.com/barry-brothers-microsoft-and-mccann-pulaar-fulani/amp/",
+   "found_in_search": true
+  }
+ ]
+}

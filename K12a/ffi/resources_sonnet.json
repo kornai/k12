@@ -1,0 +1,45 @@
+{
+ "iso": "ffi",
+ "name": "Foia Foia",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Foia Foia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Foia_Foia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Foia Foia",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ffi/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Foia Foia language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ffi",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Foia Foia people group",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19682/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Foia Foia (no recordings)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/ffi",
+   "found_in_search": true
+  }
+ ]
+}

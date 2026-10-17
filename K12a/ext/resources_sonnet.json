@@ -1,0 +1,52 @@
+{
+ "iso": "ext",
+ "name": "Extremaduran",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Extremaduran (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/extremaduran.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Extremaduran (Swarthmore Linguistics wiki)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wikis.swarthmore.edu/ling073/Extremaduran",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Extremadura publication record 2018-202",
+   "type": "academic",
+   "language": "other",
+   "url": "https://opendata.unex.es/investiga/publicaciones/2018-202",
+   "found_in_search": true
+  },
+  {
+   "title": "Dialnet article on Extremaduran (PDF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dialnet.unirioja.es/descarga/articulo/2243196.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Extremaduran Wikipedia",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://en.wikipedia.org/wiki/Extremaduran_Wikipedia",
+   "found_in_search": true
+  },
+  {
+   "title": "Extremaduran in Spain (Mercator)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://wiki.mercator-research.eu/languages:extremaduran_in_spain",
+   "found_in_search": true
+  }
+ ]
+}

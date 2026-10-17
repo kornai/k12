@@ -1,0 +1,94 @@
+{
+ "iso": "kek",
+ "name": "Qꞌeqchiꞌ",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Q'eqchi' Mayan Dictionary / Molob'aal Aatin Q'eqchi' Inkles (Frazier, 2015)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.biblio.com/9780692602096",
+   "found_in_search": true
+  },
+  {
+   "title": "Book listing: Q'eqchi' learning resource (Buxton Village Books)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://buxtonvillagebooks.com/book/9781731109422",
+   "found_in_search": true
+  },
+  {
+   "title": "Peace Corps Q'eqchi' Language Lessons",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.livelingua.com/course/peace-corps/Qeqchi_Language_Lessons/",
+   "found_in_search": true
+  },
+  {
+   "title": "Q'eqchi' language overview (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.classicistranieri.com/en/articles/q/27/e/Q%27eqchi%27_language.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Mayan languages wiki: Q'eqchi'",
+   "type": "academic",
+   "language": "English",
+   "url": "https://mayanlanguages.wiki/node/9906",
+   "found_in_search": true
+  },
+  {
+   "title": "Li Santil hu, Q'eqchi' New Testament (eBible)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/bible/details.php?id=kekNT",
+   "found_in_search": true
+  },
+  {
+   "title": "Li Santil hu, about page",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/study/content/texts/kekNT/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Q'eqchi'",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?idx=2421",
+   "found_in_search": true
+  },
+  {
+   "title": "Bible versions in Q'eqchi' (YouVersion)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/languages/kek",
+   "found_in_search": true
+  },
+  {
+   "title": "Catholic Church Guatemala: Q'eqchi' language PDF",
+   "type": "other",
+   "language": "native",
+   "url": "https://www.iglesiacatolica.org.gt/bibliakiche/BKiche_Lenguas_LenguaQeqchi.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Q'eqchi' audio",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/31",
+   "found_in_search": true
+  },
+  {
+   "title": "keqchi.org",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://www.keqchi.org/keqchi",
+   "found_in_search": true
+  }
+ ]
+}

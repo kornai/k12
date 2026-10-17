@@ -1,0 +1,38 @@
+{
+ "iso": "drn",
+ "name": "Damar, West",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Chlenova 2008, Preliminary grammatical notes on Damar Batumerah or West Damar (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/159808",
+   "found_in_search": true
+  },
+  {
+   "title": "Chlenova SEALS XVI abstract on West Damar",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/archive/jakarta/seals/Chlenova_SEALS_XVI_Abstract.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: West Damar",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/west2548",
+   "found_in_search": true
+  },
+  {
+   "title": "West Damar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/West_Damar_language",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "fax",
+ "name": "Fala",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fala language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fala_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Manso Flores doctoral thesis on the differential lexicon of Val de Xálima (UEx repository)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dehesa.unex.es/handle/10662/11532?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Análisis del léxico diferencial en el Val de Xálima (Cáceres)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://portalcientifico.uvigo.gal/documentos/5edec7c22999526e5fc99294",
+   "found_in_search": true
+  },
+  {
+   "title": "El influjo del castellano como lengua techo en la Fala del Xálima (Cáceres)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.usp.br/caracol/article/view/193003",
+   "found_in_search": true
+  },
+  {
+   "title": "Programa del curso A Fala en Cáceres, EOI Cáceres, March 2022",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.bandomovil.com/userFiles/1o/1o610ProgramayDivulgacindelCursoAFalaenCCERESMarzo2022.pdf",
+   "found_in_search": true
+  }
+ ]
+}

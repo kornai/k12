@@ -1,0 +1,45 @@
+{
+ "iso": "hsn",
+ "name": "Xiang Chinese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Synchronic and Diachronic Study of the Grammar of the Chinese Xiang Dialects (Wu Yunji)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110927481/html",
+   "found_in_search": true
+  },
+  {
+   "title": "New Xiang (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/New_Xiang",
+   "found_in_search": true
+  },
+  {
+   "title": "Xiangxiang dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xiangxiang_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Changsha Chinese (Cambridge Core article)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://core-prod.cambridgecore.org/core/product/493730924B25ED441D70D98DBC581513/core-reader",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 17.107 (review incl. Xiang character writing)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/17/107/",
+   "found_in_search": true
+  }
+ ]
+}

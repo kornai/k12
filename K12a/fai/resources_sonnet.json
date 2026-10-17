@@ -1,0 +1,38 @@
+{
+ "iso": "fai",
+ "name": "Faiwol",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Omniglot: Faiwol",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/faiwol.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Faiwol numeral system data sheet (MPI EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Faiwol.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/98446",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Faiwol audio Bible lessons and Words of Life",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/473",
+   "found_in_search": true
+  }
+ ]
+}

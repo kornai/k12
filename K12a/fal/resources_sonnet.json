@@ -1,0 +1,45 @@
+{
+ "iso": "fal",
+ "name": "Fali, South",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fali languages (Cameroon) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fali_languages_(Cameroon)",
+   "found_in_search": true
+  },
+  {
+   "title": "Die Sprache der Fali in Nordkamerun (Kramer, 2014)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_die-sprache-der-fali-in-nordkamerun",
+   "found_in_search": true
+  },
+  {
+   "title": "General Alphabet of Cameroon Languages (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/General_Alphabet_of_Cameroon_Languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Fali, South (fal)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=fal",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Fali, South language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/fal",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "alp",
+ "name": "Alune",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Alune language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Alune_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Genta Bahtera article on West Central Alune phonemes",
+   "type": "academic",
+   "language": "other",
+   "url": "https://gentabahtera.kemdikbud.go.id/index.php/gentabahtera/article/download/82/56",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Alune verb list",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Alune",
+   "found_in_search": true
+  },
+  {
+   "title": "Alune Bible (ALPWBT), Digital Bible Society",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/ALPWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Alune translation pages",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/alp/lib",
+   "found_in_search": true
+  }
+ ]
+}

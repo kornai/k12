@@ -1,0 +1,38 @@
+{
+ "iso": "for",
+ "name": "Fore",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Fore Language of Papua New Guinea (Scott, ANU)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/45a1eeba-eb8c-4651-9554-c3957a4655ea",
+   "found_in_search": true
+  },
+  {
+   "title": "Graham Scott 1978 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/107238",
+   "found_in_search": true
+  },
+  {
+   "title": "Fore numerals (Max Planck EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Fore.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Fore orientation (Countries and Their Cultures)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.everyculture.com/Oceania/Fore-i-Orientation-i.html",
+   "found_in_search": true
+  }
+ ]
+}

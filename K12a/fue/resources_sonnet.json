@@ -1,0 +1,45 @@
+{
+ "iso": "fue",
+ "name": "Borgu Fulfulde",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Borgu Fulfulde (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Borgu_Fulfulde",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Borgu Fulfulde",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=fue",
+   "found_in_search": true
+  },
+  {
+   "title": "Bible in Borgu Fulfulde for first time (SIM)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.sim.org/stories/borgu-fulfulde-bible-translation-completed-benin-fulani/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Fulfulde, Borgu",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/fue",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Fulfulde, Borgu: Bakuure",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/9922",
+   "found_in_search": true
+  }
+ ]
+}

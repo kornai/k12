@@ -1,0 +1,24 @@
+{
+ "iso": "apd",
+ "name": "Sudanese Arabic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sudanese Arabic-English / English-Sudanese Arabic: A Concise Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://mabb.kenyaclc.org/product/sudanese-arabic-english-english-sudanese-arabic-a-concise-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Sudanese Arabic language resources (resource list page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://universeofmemory.com/sudanese-arabic-language-resources/",
+   "found_in_search": true
+  }
+ ]
+}

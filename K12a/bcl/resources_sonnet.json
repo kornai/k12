@@ -1,0 +1,59 @@
+{
+ "iso": "bcl",
+ "name": "Central Bikol",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lorenzana, Bicol University journal article on Bikol language education",
+   "type": "academic",
+   "language": "English",
+   "url": "https://systems.bicol-u.edu.ph/journal/assets/journal_pdf/4%20Lorenzana_49-61.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Social Science Diliman journal article on Philippine language education",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.upd.edu.ph/index.php/socialsciencediliman/article/download/4402/3995",
+   "found_in_search": true
+  },
+  {
+   "title": "Bikol Dictionary (McKaughan, University of Hawaii ScholarSpace)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/422e4ede-08f7-400e-b0f2-28cfe5abaf61/full",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Hawaii ScholarSpace Bikol materials (bitstream)",
+   "type": "other",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/45aff48a-d303-4ab8-b619-327e3f0f0b2d/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Margate, Documenting and Reclaiming Central Bikol Lexis (rice-farming glossary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.journalofnaturestudies.org/files/JNS21-2/15-31_Margate_Documenting%20Reclaiming%20Lexis.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Bikol (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.org/wiki/Bikolano",
+   "found_in_search": true
+  },
+  {
+   "title": "Project MUSE book record 61273",
+   "type": "other",
+   "language": "English",
+   "url": "https://muse.jhu.edu/book/61273",
+   "found_in_search": true
+  }
+ ]
+}

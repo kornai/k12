@@ -1,0 +1,45 @@
+{
+ "iso": "cso",
+ "name": "Sochiapam Chinantec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sochiapam Chinantec Living Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/sochiapam-chinantec",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Chinantec Sochiapan wordlist (cites Foris 2000 grammar)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/CHINANTEC_SOCHIAPAN",
+   "found_in_search": true
+  },
+  {
+   "title": "Chinantec numerals: Sochiapam (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Chinantec-Sochiapam.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sochiapam Chinantec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/cso",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Sochiapam Chinantec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/cso/",
+   "found_in_search": true
+  }
+ ]
+}

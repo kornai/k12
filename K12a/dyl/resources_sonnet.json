@@ -1,0 +1,73 @@
+{
+ "iso": "dyl",
+ "name": "Bhutanese Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wangsel Institute for the Deaf: About",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://wangsel.education.gov.bt/about/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangsel Institute for the Deaf: History",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://wangsel.education.gov.bt/history/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangsel Institute for the Deaf (Paro)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://paro.gov.bt/about-us/institutions/wangsel-institute-for-the-deaf/",
+   "found_in_search": true
+  },
+  {
+   "title": "Bhutanese Sign Language (BhSL)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wangsel.education.gov.bt/bhutan-sign-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf students construct first sign language for Bhutan (UNICEF)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.unicef.org/bhutan/stories/deaf-students-construct-first-sign-language-bhutan",
+   "found_in_search": true
+  },
+  {
+   "title": "Disabled People's Organization of Bhutan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://dpobhutan.org/?p=3620",
+   "found_in_search": true
+  },
+  {
+   "title": "Bhutanese Sign Language Interpreting Course launched by Wangsel Institute and DPOB",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://wangsel.education.gov.bt/bhutanese-sign-language-interpreting-course-launched-by-wangsel-institute-for-the-deaf-and-dpob/",
+   "found_in_search": true
+  },
+  {
+   "title": "Mahidol Ratchasuda Institute training for Wangsel faculty",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.rama.mahidol.ac.th/international/news/event/18072025-1324",
+   "found_in_search": true
+  },
+  {
+   "title": "Bhutanese students with disabilities struggle for access to higher education",
+   "type": "other",
+   "language": "English",
+   "url": "https://asianews.network/bhutanese-students-with-disabilities-struggle-for-access-to-higher-education/",
+   "found_in_search": true
+  }
+ ]
+}

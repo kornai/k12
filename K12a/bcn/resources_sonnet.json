@@ -1,0 +1,31 @@
+{
+ "iso": "bcn",
+ "name": "Bali",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bali language (Adamawa) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bali_language_(Adamawa)",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: bcn",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=bcn",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo: bcn",
+   "type": "other",
+   "language": "English",
+   "url": "https://finto.fi/lexvo/en/page/bcn?clang=fi",
+   "found_in_search": true
+  }
+ ]
+}

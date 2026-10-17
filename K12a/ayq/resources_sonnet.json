@@ -1,0 +1,45 @@
+{
+ "iso": "ayq",
+ "name": "Ayi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ayi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ayi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Ayi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ayip1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ayi in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14328",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Ayi",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/ayq",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ayi",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/10698?hl=fr",
+   "found_in_search": true
+  }
+ ]
+}

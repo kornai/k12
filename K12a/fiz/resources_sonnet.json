@@ -1,0 +1,38 @@
+{
+ "iso": "fiz",
+ "name": "Izere (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Izere (Retired) bookkeeping entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/izer1243",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Izere (izr)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/izr",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Izere language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Izere_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: ISO 639:f",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/ISO_639:f",
+   "found_in_search": true
+  }
+ ]
+}

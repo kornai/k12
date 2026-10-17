@@ -1,0 +1,31 @@
+{
+ "iso": "gok",
+ "name": "Gowli",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Gowli [gok]",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/gok",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project wiki: Gok",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Gok",
+   "found_in_search": true
+  },
+  {
+   "title": "Gawli in India (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/16799",
+   "found_in_search": true
+  }
+ ]
+}

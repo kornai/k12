@@ -1,0 +1,59 @@
+{
+ "iso": "fla",
+ "name": "Kalispel-Pend d’Oreille",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Salish Curriculum (Kalispel Tribe)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://kalispeltribe.com/our-language/curriculum",
+   "found_in_search": true
+  },
+  {
+   "title": "Our Language (Kalispel Tribe)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://kalispeltribe.com/?p=6340",
+   "found_in_search": true
+  },
+  {
+   "title": "Qlipse (Pend d'Oreille) Online Dictionary (UBC RelLex)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Salish_%E2%80%93_Qlipse_(Pend_d%E2%80%99Oreille)_Online_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of the Kalispel or Flat-Head Indian Language (UBC knowledge base)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=3291",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of the Kalispel or Flat-Head Indian Language (UBC RelLex)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/A_Dictionary_of_the_Kalispel_or_Flat-Head_Indian_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC knowledge base entry on Salish dictionary resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=8454",
+   "found_in_search": true
+  },
+  {
+   "title": "Tribal program is saving Salish (Spokesman-Review)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.spokesman.com/stories/2010/mar/07/saving-salish/",
+   "found_in_search": true
+  }
+ ]
+}

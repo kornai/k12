@@ -1,0 +1,38 @@
+{
+ "iso": "bac",
+ "name": "Baduy",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Baduy language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Baduy_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Baduy people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Baduy_people",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC BAC01-024 Baduy narrative",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/BAC01/024",
+   "found_in_search": true
+  },
+  {
+   "title": "Documenting endangered Indonesian Baduy Dalam (Research Data Australia)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://researchdata.edu.au/documenting-endangered-indonesian-baduy-dalam/2369835",
+   "found_in_search": true
+  }
+ ]
+}

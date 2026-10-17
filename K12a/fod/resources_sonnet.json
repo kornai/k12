@@ -1,0 +1,45 @@
+{
+ "iso": "fod",
+ "name": "Foodo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "An overview of Foodo, a linguistic island in Benin (Plunkett)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://journalofwestafricanlanguages.org/downloads/send/105-volume-36-number-1-2/540-an-overview-of-foodo-a-linguistic-island-in-benin",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Plunkett, Gray C. 2009",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/551530",
+   "found_in_search": true
+  },
+  {
+   "title": "Foodo (Foodo) on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/foodo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Foodo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Foodo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Foodo in Benin (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/11223/BN",
+   "found_in_search": true
+  }
+ ]
+}

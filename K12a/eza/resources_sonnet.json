@@ -1,0 +1,24 @@
+{
+ "iso": "eza",
+ "name": "Ezaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ezaa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ezaa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ezaa people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ezaa_people",
+   "found_in_search": true
+  }
+ ]
+}

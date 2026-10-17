@@ -1,0 +1,17 @@
+{
+ "iso": "aex",
+ "name": "Amerax",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Amerax (Bookkeeping)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/amer1256",
+   "found_in_search": true
+  }
+ ]
+}

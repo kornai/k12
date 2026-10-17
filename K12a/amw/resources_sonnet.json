@@ -1,0 +1,45 @@
+{
+ "iso": "amw",
+ "name": "Western Neo-Aramaic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Western Neo-Aramaic",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/39045",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Neo-Aramaic, Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/westernneoaramaic.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Maaloula (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Maaloula",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Western Neo-Aramaic",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=amw",
+   "found_in_search": true
+  },
+  {
+   "title": "Archive of written records of Western Neo-Aramaic",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://aymennjawad.org/24069/archive-of-written-records-of-western-neo-aramaic",
+   "found_in_search": true
+  }
+ ]
+}

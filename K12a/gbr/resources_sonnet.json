@@ -1,0 +1,45 @@
+{
+ "iso": "gbr",
+ "name": "Gbagyi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gbagyi Boda (Shekwo, 2014)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://nigeriareposit.nln.gov.ng/handle/20.500.14186/1489",
+   "found_in_search": true
+  },
+  {
+   "title": "Fundamentals of the Gbagyi language (Shekwo 1979)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/109721",
+   "found_in_search": true
+  },
+  {
+   "title": "Gbari grammar, notes and vocabulary (Low 1908)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/137614",
+   "found_in_search": true
+  },
+  {
+   "title": "Gbagyi numerals (MPG)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Gbagyi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Gwari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gwari_language",
+   "found_in_search": true
+  }
+ ]
+}

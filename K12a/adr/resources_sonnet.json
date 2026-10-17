@@ -1,0 +1,52 @@
+{
+ "iso": "adr",
+ "name": "Adonara",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Adonara language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Adonara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Lamaholot language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lamaholot_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Review essay: Trilingual dictionary of Lamaholot",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/45033458-91ea-463a-8a50-02577ed24b84",
+   "found_in_search": true
+  },
+  {
+   "title": "Variasi Dialek Bahasa Lamaholot di Pulau Adonara, Kabupaten Flores Timur",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ojs.unm.ac.id/ijses/article/view/22053",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Adonara wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/ADONARA",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary: Lamaholot",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://acd.clld.org/languages/720",
+   "found_in_search": true
+  }
+ ]
+}

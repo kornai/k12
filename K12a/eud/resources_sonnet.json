@@ -1,0 +1,52 @@
+{
+ "iso": "eud",
+ "name": "Eudeve",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammatical Sketch of the Heve Language (Project Gutenberg)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://gutenberg.org/cache/epub/14419/pg14419-images.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Lionnet: relaciones internas de la rama sonorense",
+   "type": "academic",
+   "language": "other",
+   "url": "https://amerindia.cnrs.fr/wp-content/uploads/2021/02/relaciones-internas-de-la-rama-sonorense-Andre%CC%81-LIONNET.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Eudeve language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eudeve_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Opata language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Opata_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Eudeve",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/eude1234",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Eudeve",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/EUDEVE",
+   "found_in_search": true
+  }
+ ]
+}

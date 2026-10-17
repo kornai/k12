@@ -1,0 +1,66 @@
+{
+ "iso": "boa",
+ "name": "Bora",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Bora",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1854",
+   "found_in_search": true
+  },
+  {
+   "title": "Pedagogical proposal with Bora-Miraña communities (Universidad Pedagógica Nacional thesis, 2020)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.upn.edu.co/bitstreams/5d96ad2a-034b-4cd8-bc4b-a7e4dc1f0935/download",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Bora with Special Attention to Tone (Thiesen and Weber, 2012)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mitpressbookstore.mit.edu/book/9781556713019",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of A Grammar of Bora, Lexis (PUCP)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://revistas.pucp.edu.pe/index.php/lexis/article/download/7658/7907",
+   "found_in_search": true
+  },
+  {
+   "title": "Gramática del idioma bora (Thiesen, 2008), Glottolog reference",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/314538",
+   "found_in_search": true
+  },
+  {
+   "title": "Bora language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bora_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Bora entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Boa",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Bora (node 25833)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/25833",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "kld",
+ "name": "Gamilaraay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yuwaalaraay.org Teaching and Learning",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://yuwaalaraay.com/teaching-and-learning/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yuwaalaraay.org Online Resources",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://yuwaalaraay.com/online-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Garay letters, words, literacy (Winanga-li)",
+   "type": "primer",
+   "language": "other",
+   "url": "https://www.winanga-li.org.au/language-resource-item/garay-letters-words-literacy",
+   "found_in_search": true
+  },
+  {
+   "title": "Gamilaraay Yuwaalaraay (SALC Dalang)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://salc.dalang.com.au/index.php/gamilaraay-yuwaalaraay",
+   "found_in_search": true
+  },
+  {
+   "title": "The development of the Gamilaraay/Yuwaalaraay/Yuwaalayaay dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://open.sydneyuniversitypress.com.au/9781920899554/rl-the-development-of-the-gamilaraay-yuwaalaraay-38-yuwaalayaay-dictionary.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Learning and Teaching (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/109377",
+   "found_in_search": true
+  },
+  {
+   "title": "Recent resources and records: Gamilaraay, Yuwaalaraay (Research Data Australia)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://researchdata.edu.au/recent-resources-records-gamilaraay-yuwaalaraay/3381231",
+   "found_in_search": true
+  }
+ ]
+}

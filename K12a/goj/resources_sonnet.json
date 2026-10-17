@@ -1,0 +1,31 @@
+{
+ "iso": "goj",
+ "name": "Gowlan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gowlan language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/goj",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Gowli [gok] (retired code, discusses Gowlan)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/gok",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project wiki: Gok",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Gok",
+   "found_in_search": true
+  }
+ ]
+}

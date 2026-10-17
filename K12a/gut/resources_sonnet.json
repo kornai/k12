@@ -1,0 +1,59 @@
+{
+ "iso": "gut",
+ "name": "Maléku Jaíka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Muerra ofa poto marama: Libro de muerra 01 (UCR)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://dipalicori.ucr.ac.cr/wp-content/uploads/Libro-de-muerra_01.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Muerra ofa poto marama: Libro de muerra 02 (UCR)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.dipalicori.ucr.ac.cr/wp-content/uploads/Libro-de-muerra_02.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Diccionario malecu-espanol / espanol-malecu (Constenla and Sanchez), Editorial Tecnologica",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://tec.ac.cr/hoyeneltec/print/4628",
+   "found_in_search": true
+  },
+  {
+   "title": "Maleku language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mal%C3%A9ku_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Maleku (malecu jaica) on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/maleku.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Maleku: A Culture in Danger of Extinction (catalogue record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://kimuk.conare.ac.cr/Record/PUNA_9e2859dc8fdceaa8df2f0fb7947e5693?lng=pt",
+   "found_in_search": true
+  },
+  {
+   "title": "CAMB AI partners with the Maleku community",
+   "type": "software",
+   "language": "other",
+   "url": "https://www.camb.ai/es/blog-post/camb-ai-partners-with-the-maleku-community-to-preserve-endangered-language-through-ai",
+   "found_in_search": true
+  }
+ ]
+}

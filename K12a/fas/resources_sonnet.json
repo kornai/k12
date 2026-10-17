@@ -1,0 +1,24 @@
+{
+ "iso": "fas",
+ "name": "fas",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Modern Persian, Elementary Level (Anthem Press)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://anthempress.com/modern-persian-elementary-level-pb-33937",
+   "found_in_search": true
+  },
+  {
+   "title": "Modern Persian: Written and Spoken, Intermediate Texts (Talatoff, CERCLL)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://cercll.arizona.edu/textbook",
+   "found_in_search": true
+  }
+ ]
+}

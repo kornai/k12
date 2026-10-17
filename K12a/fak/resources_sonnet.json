@@ -1,0 +1,31 @@
+{
+ "iso": "fak",
+ "name": "Fang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fang language (Cameroon) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fang_language_(Cameroon)",
+   "found_in_search": true
+  },
+  {
+   "title": "General Alphabet of Cameroon Languages (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/General_Alphabet_of_Cameroon_Languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Fang language of Equatorial Guinea and Gabon (Wikipedia; different language, for disambiguation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fang_language",
+   "found_in_search": true
+  }
+ ]
+}

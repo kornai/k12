@@ -1,0 +1,31 @@
+{
+ "iso": "klb",
+ "name": "Kiliwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario kiliwa (PDF with grammar section)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://arqueologiamexicana.mx/sites/default/files/banco_imagenes/diccionario_kiliwa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kiliwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kiliwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kiliwa (Koléew Ñaja') - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/kiliwa.htm",
+   "found_in_search": true
+  }
+ ]
+}

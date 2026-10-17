@@ -1,0 +1,45 @@
+{
+ "iso": "foi",
+ "name": "Foi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Murray Rule 1993 (Foe grammar sketch and dictionary, Glottolog record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/50152",
+   "found_in_search": true
+  },
+  {
+   "title": "Foi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Foi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kutubuan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kutubuan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Foi language page (Joshua Project)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/foi",
+   "found_in_search": true
+  },
+  {
+   "title": "Foi, Kutubu in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11220",
+   "found_in_search": true
+  }
+ ]
+}
