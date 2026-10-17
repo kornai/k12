@@ -1,0 +1,38 @@
+{
+ "iso": "sdm",
+ "name": "Onya Darat",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Semandang language (Onya Darat) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Semandang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of the phonetic structures of Onya Darat (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.eva.mpg.de/linguistics/past-research-resources/documentation-and-description/documentation-of-the-phonetic-structures-of-onya-darat/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wacana vol. 11 iss. 2 article (reported to concern Onya Darat orthography)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://scholarhub.ui.ac.id/wacana/vol11/iss2/5",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Onya Darat",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sema1269",
+   "found_in_search": true
+  }
+ ]
+}

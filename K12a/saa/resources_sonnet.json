@@ -1,0 +1,52 @@
+{
+ "iso": "saa",
+ "name": "Saba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Preliminary studies of Saba, an Eastern Chadic language in the Melfi region of Chad",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://journals.sub.uni-hamburg.de/hup1/afrikaunduebersee/article/view/221",
+   "found_in_search": true
+  },
+  {
+   "title": "Dakouli, Maass and Toomey 1996, Saba sociolinguistic survey (Glottolog record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/157642",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Saba wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SABA",
+   "found_in_search": true
+  },
+  {
+   "title": "Saba language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Jelkung language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Jelkung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Saba",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2592",
+   "found_in_search": true
+  }
+ ]
+}

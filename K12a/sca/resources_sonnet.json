@@ -1,0 +1,52 @@
+{
+ "iso": "sca",
+ "name": "Sansu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: sca retired, merged into Hlersu [hle]",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/sca",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Bookkeeping: Sansu",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sans1276",
+   "found_in_search": true
+  },
+  {
+   "title": "IANA language subtag record for sca (deprecated)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/sca.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "Hlersu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hlersu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Hlersu, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5125",
+   "found_in_search": true
+  },
+  {
+   "title": "Hlersu numerals (Max Planck channumerals)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Hlersu.htm",
+   "found_in_search": true
+  }
+ ]
+}

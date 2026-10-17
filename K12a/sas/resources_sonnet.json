@@ -1,0 +1,87 @@
+{
+ "iso": "sas",
+ "name": "Sasak",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Peraturan Bupati Lombok Tengah 2024: Kurikulum Muatan Lokal Bahasa Sasak",
+   "type": "policy",
+   "language": "other",
+   "url": "https://jnnqvmfhkqwfdlzevfao.supabase.co/storage/v1/object/public/regulation-pdfs/perbup-kab-lombok-tengah-no-76-tahun-2024.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Balai Bahasa NTB supports launch of Berajah Base Sasak local-content book (RRI)",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://rri.co.id/en/iptek/2527933/balai-bahasa-ntb-dukung-peluncuran-buku-muatan-lokal-bahasa-sasak-di-lombok-tengah",
+   "found_in_search": true
+  },
+  {
+   "title": "Standarisasi Tatabahasa Bahasa Sasak (Adabiyyat)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://ejournal.uin-suka.ac.id/adab/Adabiyyat/en/article/view/570",
+   "found_in_search": true
+  },
+  {
+   "title": "Sikap dan Pemertahanan Bahasa Sasak pada Masyarakat Lombok",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejurnal.unim.ac.id/index.php/matapena/article/view/2213",
+   "found_in_search": true
+  },
+  {
+   "title": "Sasak language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sasak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sasak script (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sasak_script",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian's Traces in Sasak: Historical Linguistics Study",
+   "type": "academic",
+   "language": "English",
+   "url": "https://arbitrer.fib.unand.ac.id/index.php/arbitrer/article/view/823",
+   "found_in_search": true
+  },
+  {
+   "title": "Aplikasi kamus bahasa Sasak berbasis Android (Telkom University)",
+   "type": "software",
+   "language": "other",
+   "url": "https://repositori.telkomuniversity.ac.id/pustaka/files/121197/abstract/aplikasi-kamus-bahasa-sasak-berbasis-android.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Sasak",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=sas",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sasak",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/sas",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Sasak writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/sasak.htm",
+   "found_in_search": true
+  }
+ ]
+}

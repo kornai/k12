@@ -1,0 +1,73 @@
+{
+ "iso": "sbb",
+ "name": "Simbo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Simbo overview (Surrey Morphology Group)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/simbo/overview/",
+   "found_in_search": true
+  },
+  {
+   "title": "Simbo dictionary, Version 3.0 (Bill Palmer)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/simbo/simbo-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Simbo dictionary, Version 2.0",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/simbo/simbo-dictionary/simbo-dictionary-version-20/",
+   "found_in_search": true
+  },
+  {
+   "title": "Northwest Solomonic bibliography: New Georgia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/bibliography/new-georgia/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lanyon-Orgill 1969, The Language of Eddystone Island (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/112542",
+   "found_in_search": true
+  },
+  {
+   "title": "Simbo-English vocabulary, Rivers, Wheeler and Hocart (RAI MS 217)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.therai.org.uk/archives-and-manuscripts/manuscript-contents/0217-rivers-william-halse-rivers-and-others-ms-217",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Simbo",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Simbo",
+   "found_in_search": true
+  },
+  {
+   "title": "Learning through language in Solomon Islands (University of Melbourne)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://arts.unimelb.edu.au/school-of-social-and-political-sciences/our-research/research-projects/learning-through-language-in-solomon-islands",
+   "found_in_search": true
+  },
+  {
+   "title": "Roviana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Roviana_language",
+   "found_in_search": true
+  }
+ ]
+}

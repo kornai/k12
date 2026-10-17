@@ -1,0 +1,59 @@
+{
+ "iso": "saq",
+ "name": "Samburu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Unified Standard Orthography for Maa Languages: Kenya and Tanzania",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://repository.udsm.ac.tz/items/81c696c8-a708-4db7-b974-406794305051/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Maa Language Project (University of Oregon)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://pages.uoregon.edu/maasai/",
+   "found_in_search": true
+  },
+  {
+   "title": "The Samburu-English Travel Dictionary (Carol Fabert)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://sambururesearch.com/the-english-samburu-travel-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary methodology (Samburu research)",
+   "type": "other",
+   "language": "English",
+   "url": "https://sambururesearch.com/2022/02/16/dictionary-methodology/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joy as Bible translated in Samburu launched (The Star)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.the-star.co.ke/news/2019-12-15-joy-as-bible-translated-in-samburu-launched",
+   "found_in_search": true
+  },
+  {
+   "title": "Samburu language Bible launched (Kenya News Agency)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.kenyanews.go.ke/samburu-language-bible-launched/",
+   "found_in_search": true
+  },
+  {
+   "title": "Samburu Bible listing (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/SAQWBT",
+   "found_in_search": true
+  }
+ ]
+}

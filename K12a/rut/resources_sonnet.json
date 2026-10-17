@@ -1,0 +1,52 @@
+{
+ "iso": "rut",
+ "name": "Rutul",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Rutul language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Rutul_language",
+   "found_in_search": true
+  },
+  {
+   "title": "On the compilation of the Russian-Rutul terminological dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://gramota.net/eng/materials/2/2016/8-1/34.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Ismailova Eminat Ibragimovna (Gramota.net)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://gramota.net/eng/materials/2/2017/7-1/25.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Pan-Art Pedagogy article (Gramota.net)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.gramota.net/en/article/phil20161834/fulltext",
+   "found_in_search": true
+  },
+  {
+   "title": "Kina Rutul online dictionary (linghub.ru)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://linghub.ru/rutuldict/",
+   "found_in_search": true
+  },
+  {
+   "title": "Freelang Rutul dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.freelang.net/dictionary/rutul.php",
+   "found_in_search": true
+  }
+ ]
+}

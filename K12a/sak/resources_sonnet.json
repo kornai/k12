@@ -1,0 +1,52 @@
+{
+ "iso": "sak",
+ "name": "Sake",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sake language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sake_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Sake (sake1247)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sake1247.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Sake word list page",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/SAKE",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Sake endangered language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Sake",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sake people group",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14652",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sake language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/sak",
+   "found_in_search": true
+  }
+ ]
+}

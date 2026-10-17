@@ -1,0 +1,45 @@
+{
+ "iso": "run",
+ "name": "Rundi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kirundi Children's Dictionary: illustrated Kirundi-English English-Kirundi",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langr/data/rd_102.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Kirundi Basic Course: Student text (Cambridge Language Centre listing)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langr/rundi.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Kirundi-English/English-Kirundi Dictionary &amp; Phrasebook (Nizigama, Hippocrene)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.semcoop.com/kirundi-english-english-kirundi-dictionary-phrasebook",
+   "found_in_search": true
+  },
+  {
+   "title": "matana.de online Kirundi dictionary entries",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.matana.de/index1.php?l=3&amp;q=rain",
+   "found_in_search": true
+  },
+  {
+   "title": "Cambridge Language Centre Kirundi resource listing rd_103",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langr/data/rd_103.html",
+   "found_in_search": true
+  }
+ ]
+}

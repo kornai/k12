@@ -1,0 +1,52 @@
+{
+ "iso": "saf",
+ "name": "Safaliba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Voice of America Learning English: Learn to Read Safaliba",
+   "type": "other",
+   "language": "English",
+   "url": "https://learningenglish.voanews.com/a/learn-to-read-safaliba-helps-learn-english/2737208.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Safaliba language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Safaliba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Safaliba (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/safaliba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Safaliba numerals (Channumerals, MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Safaliba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Safaliba in Ghana (UNESCO World Atlas of Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/index.php/en/countries/ghana/languages/safaliba",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Info: Safaliba (Latin) on FontSpace",
+   "type": "software",
+   "language": "English",
+   "url": "https://www.fontspace.com/languages/info/saf-latn",
+   "found_in_search": true
+  }
+ ]
+}

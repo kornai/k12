@@ -1,0 +1,45 @@
+{
+ "iso": "rwm",
+ "name": "Amba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Amba language (Bantu) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Amba_language_(Bantu)",
+   "found_in_search": true
+  },
+  {
+   "title": "Amba people (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Amba_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Amba in Uganda (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/10271/UG",
+   "found_in_search": true
+  },
+  {
+   "title": "Amba, Ruwenzori Kibira in Congo (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/10271/CG",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page rwm (Bible portions)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/rwm",
+   "found_in_search": true
+  }
+ ]
+}

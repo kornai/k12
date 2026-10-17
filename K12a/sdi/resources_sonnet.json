@@ -1,0 +1,66 @@
+{
+ "iso": "sdi",
+ "name": "Sindang Kelingi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Sindang Kelingi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sind1280",
+   "found_in_search": true
+  },
+  {
+   "title": "Bahasa Sindang: Studi Historis Dan Kearifan Lokal",
+   "type": "academic",
+   "language": "other",
+   "url": "https://jurnal.radenfatah.ac.id/index.php/Suluh/article/view/21059",
+   "found_in_search": true
+  },
+  {
+   "title": "Struktur Kalimat Tunggal Bahasa Sindang di Kota Lubuklinggau dan Pengaruhnya dalam Pembelajaran Bahasa Indonesia",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://oalib-perpustakaan.upi.edu/Record/doaj_61785753aba449edb116bdf92c52b203",
+   "found_in_search": true
+  },
+  {
+   "title": "Struktur Kalimat Tunggal Bahasa Sindang (AKSIS full text)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://journal.unj.ac.id/unj/index.php/aksis/article/download/3064/2211",
+   "found_in_search": true
+  },
+  {
+   "title": "Fungsi Bahasa dalam Acara Berasan Masyarakat Sindang Kelingi Musi Rawas",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journal.ipm2kpe.or.id/index.php/KIBASP/article/view/908",
+   "found_in_search": true
+  },
+  {
+   "title": "Lubuklinggau during the rule of the Sindang Kelingi Ilir clan from 1855 to 1942",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ejournal.unibabwi.ac.id/index.php/santhet/article/view/5564",
+   "found_in_search": true
+  },
+  {
+   "title": "Sindang Kelingi in Indonesia - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14191/ID",
+   "found_in_search": true
+  },
+  {
+   "title": "Musi: Kelingi language - Global Recordings Network",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/25907",
+   "found_in_search": true
+  }
+ ]
+}

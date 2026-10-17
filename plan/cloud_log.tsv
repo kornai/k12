@@ -2064,3 +2064,115 @@ qcs	Tapachultec	2026-10-17T03:51:55Z	done	8	qcs+qer+qgu+qhr
 qer	Dalecarlian	2026-10-17T03:51:55Z	done	6	qcs+qer+qgu+qhr
 qgu	Wulguru	2026-10-17T03:51:55Z	done	7	qcs+qer+qgu+qhr
 qhr	Old Sabellic	2026-10-17T03:51:55Z	failed	0	qcs+qer+qgu+qhr
+rui	Rufiji	2026-10-17T03:13:11Z	done	6	rui+ruk+run+ruo
+ruk	Kuce	2026-10-17T03:13:11Z	done	3	rui+ruk+run+ruo
+run	Rundi	2026-10-17T03:13:11Z	done	5	rui+ruk+run+ruo
+ruo	Istro Romanian	2026-10-17T03:13:11Z	done	6	rui+ruk+run+ruo
+rup	Aromanian	2026-10-17T03:14:21Z	done	5	rup+ruq+rut+ruu
+ruq	Romanian, Megleno	2026-10-17T03:14:21Z	done	6	rup+ruq+rut+ruu
+rut	Rutul	2026-10-17T03:14:21Z	done	6	rup+ruq+rut+ruu
+ruu	Lanas Lobu	2026-10-17T03:14:21Z	done	4	rup+ruq+rut+ruu
+ruy	Amalah	2026-10-17T03:15:21Z	done	2	ruy+ruz+rwa+rwk
+ruz	Ruma	2026-10-17T03:15:21Z	done	3	ruy+ruz+rwa+rwk
+rwa	Rawo	2026-10-17T03:15:21Z	done	6	ruy+ruz+rwa+rwk
+rwk	Rwa	2026-10-17T03:15:21Z	done	4	ruy+ruz+rwa+rwk
+rwl	Ruwila	2026-10-17T03:16:36Z	done	4	rwl+rwm+rwo+rwr
+rwm	Amba	2026-10-17T03:16:36Z	done	5	rwl+rwm+rwo+rwr
+rwo	Rawa	2026-10-17T03:16:36Z	done	7	rwl+rwm+rwo+rwr
+rwr	Marwari	2026-10-17T03:16:36Z	done	5	rwl+rwm+rwo+rwr
+rws	Rawas (Retired)	2026-10-17T03:17:57Z	done	6	rws+rxd+rxw+ryn
+rxd	Ngardi	2026-10-17T03:17:57Z	done	8	rws+rxd+rxw+ryn
+rxw	Karuwali	2026-10-17T03:17:57Z	done	4	rws+rxd+rxw+ryn
+ryn	Amami-Oshima, Northern	2026-10-17T03:17:57Z	done	7	rws+rxd+rxw+ryn
+rys	Yaeyama	2026-10-17T03:19:40Z	done	4	rys+ryu+rzh+saa
+ryu	Central Okinawan	2026-10-17T03:19:40Z	done	10	rys+ryu+rzh+saa
+rzh	Rāziḥī	2026-10-17T03:19:40Z	done	6	rys+ryu+rzh+saa
+saa	Saba	2026-10-17T03:19:40Z	done	6	rys+ryu+rzh+saa
+sab	Buglere	2026-10-17T03:20:42Z	done	3	sab+sac+sad+sae
+sac	Meskwaki	2026-10-17T03:20:42Z	done	4	sab+sac+sad+sae
+sad	Sandawe	2026-10-17T03:20:42Z	done	3	sab+sac+sad+sae
+sae	Sabanê	2026-10-17T03:20:42Z	done	4	sab+sac+sad+sae
+saf	Safaliba	2026-10-17T03:22:19Z	done	6	saf+sag+sah+saj
+sag	Sango	2026-10-17T03:22:19Z	done	8	saf+sag+sah+saj
+sah	Yakut	2026-10-17T03:22:19Z	done	7	saf+sag+sah+saj
+saj	Sahu	2026-10-17T03:22:19Z	done	6	saf+sag+sah+saj
+sak	Sake	2026-10-17T03:23:21Z	done	6	sak+sam+san+sao
+sam	Samaritan Aramaic	2026-10-17T03:23:21Z	done	3	sak+sam+san+sao
+san	Sanskrit	2026-10-17T03:23:21Z	done	3	sak+sam+san+sao
+sao	Sause	2026-10-17T03:23:21Z	done	4	sak+sam+san+sao
+sap	Sanapaná (Retired)	2026-10-17T03:25:05Z	done	4	sap+saq+sar+sas
+saq	Samburu	2026-10-17T03:25:05Z	done	7	sap+saq+sar+sas
+sar	Saraveca	2026-10-17T03:25:05Z	done	4	sap+saq+sar+sas
+sas	Sasak	2026-10-17T03:25:05Z	done	11	sap+saq+sar+sas
+sat	Santhali	2026-10-17T03:26:44Z	done	14	sat+sau+sav+saw
+sau	Saleman	2026-10-17T03:26:44Z	done	4	sat+sau+sav+saw
+sav	Saafi-Saafi	2026-10-17T03:26:44Z	done	7	sat+sau+sav+saw
+saw	Sawi	2026-10-17T03:26:44Z	done	6	sat+sau+sav+saw
+say	Saya	2026-10-17T03:28:30Z	done	7	say+saz+sba+sbb
+saz	Sourashtra	2026-10-17T03:28:30Z	done	7	say+saz+sba+sbb
+sba	Ngambay	2026-10-17T03:28:30Z	done	10	say+saz+sba+sbb
+sbb	Simbo	2026-10-17T03:28:30Z	done	9	say+saz+sba+sbb
+sbc	Kele	2026-10-17T03:30:08Z	done	7	sbc+sbd+sbe+sbf
+sbd	Southern Samo	2026-10-17T03:30:08Z	done	8	sbc+sbd+sbe+sbf
+sbe	Saliba	2026-10-17T03:30:08Z	done	9	sbc+sbd+sbe+sbf
+sbf	Shabo	2026-10-17T03:30:08Z	done	7	sbc+sbd+sbe+sbf
+sbg	Moi Lemas	2026-10-17T03:31:26Z	done	6	sbg+sbh+sbi+sbj
+sbh	Sori-Harengan	2026-10-17T03:31:26Z	done	6	sbg+sbh+sbi+sbj
+sbi	Seti	2026-10-17T03:31:26Z	done	6	sbg+sbh+sbi+sbj
+sbj	Surbakhal	2026-10-17T03:31:26Z	done	7	sbg+sbh+sbi+sbj
+sbk	Safwa	2026-10-17T03:33:13Z	done	8	sbk+sbl+sbm+sbn
+sbl	Botolan Sambal	2026-10-17T03:33:13Z	done	11	sbk+sbl+sbm+sbn
+sbm	Sagala	2026-10-17T03:33:13Z	done	6	sbk+sbl+sbm+sbn
+sbn	Sindhi Bhil	2026-10-17T03:33:13Z	done	9	sbk+sbl+sbm+sbn
+sbo	Sabüm	2026-10-17T03:34:49Z	done	7	sbo+sbp+sbq+sbr
+sbp	Sangu	2026-10-17T03:34:49Z	done	8	sbo+sbp+sbq+sbr
+sbq	Sirva	2026-10-17T03:34:49Z	done	9	sbo+sbp+sbq+sbr
+sbr	Murut, Sembakung	2026-10-17T03:34:49Z	done	7	sbo+sbp+sbq+sbr
+sbs	Kuhane	2026-10-17T03:36:11Z	done	5	sbs+sbt+sbu+sbw
+sbt	Kimki	2026-10-17T03:36:11Z	done	6	sbs+sbt+sbu+sbw
+sbu	Stod Bhoti	2026-10-17T03:36:11Z	done	6	sbs+sbt+sbu+sbw
+sbw	Simba	2026-10-17T03:36:11Z	done	5	sbs+sbt+sbu+sbw
+sbx	Seberuang	2026-10-17T03:37:41Z	done	7	sbx+sby+sbz+sca
+sby	Soli	2026-10-17T03:37:41Z	done	8	sbx+sby+sbz+sca
+sbz	Sara Kaba	2026-10-17T03:37:41Z	done	6	sbx+sby+sbz+sca
+sca	Sansu	2026-10-17T03:37:41Z	done	6	sbx+sby+sbz+sca
+scb	Chut	2026-10-17T03:39:18Z	done	8	scb+sce+scf+scg
+sce	Dongxiang	2026-10-17T03:39:18Z	done	13	scb+sce+scf+scg
+scf	San Miguel French Creole	2026-10-17T03:39:18Z	done	4	scb+sce+scf+scg
+scg	Sanggau	2026-10-17T03:39:18Z	done	6	scb+sce+scf+scg
+sch	Sakachep	2026-10-17T03:41:01Z	done	6	sch+sci+sck+scl
+sci	Sri Lankan Malay Creole	2026-10-17T03:41:01Z	done	5	sch+sci+sck+scl
+sck	Sadri	2026-10-17T03:41:01Z	done	8	sch+sci+sck+scl
+scl	Shina	2026-10-17T03:41:01Z	done	9	sch+sci+sck+scl
+scn	Sicilian	2026-10-17T03:43:12Z	done	17	scn+sco+scp+scq
+sco	Scots	2026-10-17T03:43:12Z	done	17	scn+sco+scp+scq
+scp	Hyolmo	2026-10-17T03:43:12Z	done	10	scn+sco+scp+scq
+scq	Chung	2026-10-17T03:43:12Z	done	8	scn+sco+scp+scq
+scs	North Slavey	2026-10-17T03:45:06Z	done	14	scs+sct+scu+scv
+sct	Katang, Southern	2026-10-17T03:45:06Z	done	7	scs+sct+scu+scv
+scu	Shumcho	2026-10-17T03:45:06Z	done	6	scs+sct+scu+scv
+scv	Sheni	2026-10-17T03:45:06Z	done	5	scs+sct+scu+scv
+scw	Sya	2026-10-17T03:46:35Z	done	5	scw+scx+scy+scz
+scx	Sicula	2026-10-17T03:46:35Z	done	4	scw+scx+scy+scz
+scy	East Danish	2026-10-17T03:46:35Z	done	2	scw+scx+scy+scz
+scz	Shaetlan	2026-10-17T03:46:35Z	done	11	scw+scx+scy+scz
+sda	Toraja-Sa’dan	2026-10-17T03:48:19Z	done	11	sda+sdb+sdc+sde
+sdb	Shabak	2026-10-17T03:48:19Z	done	7	sda+sdb+sdc+sde
+sdc	Sardinian, Sassarese	2026-10-17T03:48:19Z	done	7	sda+sdb+sdc+sde
+sde	Vori	2026-10-17T03:48:19Z	done	8	sda+sdb+sdc+sde
+sdg	Savi	2026-10-17T03:49:52Z	done	4	sdg+sdh+sdi+sdj
+sdh	Southern Kurdish	2026-10-17T03:49:52Z	done	5	sdg+sdh+sdi+sdj
+sdi	Sindang Kelingi	2026-10-17T03:49:52Z	done	8	sdg+sdh+sdi+sdj
+sdj	Suundi	2026-10-17T03:49:52Z	done	5	sdg+sdh+sdi+sdj
+sdk	Sos Kundi	2026-10-17T03:51:36Z	done	7	sdk+sdl+sdm+sdn
+sdl	Saudi Arabian Sign Language	2026-10-17T03:51:36Z	done	8	sdk+sdl+sdm+sdn
+sdm	Onya Darat	2026-10-17T03:51:36Z	done	4	sdk+sdl+sdm+sdn
+sdn	Sardinian, Gallurese	2026-10-17T03:51:36Z	done	8	sdk+sdl+sdm+sdn
+sdo	Bidayuh Serian	2026-10-17T03:53:28Z	done	11	sdo+sdp+sdq+sdr
+sdp	Sherdukpen	2026-10-17T03:53:28Z	done	10	sdo+sdp+sdq+sdr
+sdq	Semandang	2026-10-17T03:53:28Z	done	8	sdo+sdp+sdq+sdr
+sdr	Sadri, Oraon	2026-10-17T03:53:28Z	done	10	sdo+sdp+sdq+sdr
+sds	Sened	2026-10-17T03:54:05Z	done	5	sds+sdt+sdu+sdx
+sdt	Shuadit	2026-10-17T03:54:05Z	failed	0	sds+sdt+sdu+sdx
+sdu	Sarudu	2026-10-17T03:54:05Z	failed	0	sds+sdt+sdu+sdx
+sdx	Melanau, Sibu	2026-10-17T03:54:05Z	failed	0	sds+sdt+sdu+sdx

@@ -1,0 +1,24 @@
+{
+ "iso": "scy",
+ "name": "East Danish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Scanian (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Scanian",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Skånska dialektord (Lundbladh 2012), LexicoNordica",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://tidsskrift.dk/lexn/article/download/24452/21410/56570",
+   "found_in_search": true
+  }
+ ]
+}

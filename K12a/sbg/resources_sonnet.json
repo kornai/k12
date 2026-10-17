@@ -1,0 +1,52 @@
+{
+ "iso": "sbg",
+ "name": "Moi Lemas",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Seget language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Seget_language",
+   "found_in_search": true
+  },
+  {
+   "title": "West Bird's Head languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/West_Bird%27s_Head_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Seget (sbg, sege1235) collection, University of Edinburgh DataShare",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://datashare.ed.ac.uk/handle/10283/8695",
+   "found_in_search": true
+  },
+  {
+   "title": "Seget (sbg, sege1235) collection, Edinburgh Research Explorer",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://www.research.ed.ac.uk/en/datasets/seget-iso-369-3-sbg-glottocode-sege1235-collection/",
+   "found_in_search": true
+  },
+  {
+   "title": "Seget in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14817",
+   "found_in_search": true
+  },
+  {
+   "title": "Moi Lemas: Yauw (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/29176",
+   "found_in_search": true
+  }
+ ]
+}

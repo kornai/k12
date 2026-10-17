@@ -1,0 +1,38 @@
+{
+ "iso": "ruu",
+ "name": "Lanas Lobu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "North Borneo Sourcebook (Lobel 2016) catalogue record",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.oeaw.ac.at/resources/Record/9780824857820?lng=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Kinabatangan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kinabatangan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Lanas Lobu",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/lana1236.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Lanas Lobu - Kinabalian",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/ruu/cbw",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "saw",
+ "name": "Sawi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sawi language (Papuan) - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sawi_language_(Papuan)",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawi numerals (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Sawi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawi - New Guinea World (University of Zurich)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/central-west-new-guinea/digul-river-ok/digul-river/sawi",
+   "found_in_search": true
+  },
+  {
+   "title": "Fifteen churches gather for Sawi Old Testament translation project",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.mnnonline.org/?p=170181",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawi people - Wikipedia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sawi_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawuy in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/18881",
+   "found_in_search": true
+  }
+ ]
+}

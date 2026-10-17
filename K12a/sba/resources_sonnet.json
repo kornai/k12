@@ -1,0 +1,80 @@
+{
+ "iso": "sba",
+ "name": "Ngambay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngambay language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngambay_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngambay (Omniglot), includes link to 50 Lessons in Sara-Ngambay",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/ngambay.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngambay dictionary, Chata, Djimadoum and Keegan 2015 (Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/547965",
+   "found_in_search": true
+  },
+  {
+   "title": "Palayer 1978 fish lexicon, Sar and Ngambay (Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/39064",
+   "found_in_search": true
+  },
+  {
+   "title": "Thayer 1978, Sara-Ngambay sentence structure (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/40575",
+   "found_in_search": true
+  },
+  {
+   "title": "A Brief Grammatical Sketch of Ngambay (Ndjerareou et al. 2010)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/sources/sNdjerareouNgambay",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Ngambay",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/ngam1268",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ngambay in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14763/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Ngambay",
+   "type": "video",
+   "language": "other",
+   "url": "https://wikitongues.org/languages/sba/",
+   "found_in_search": true
+  },
+  {
+   "title": "REFLEX bibliographic record (Ngambay)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio_bas.php?id=19547",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "sbz",
+ "name": "Sara Kaba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kaba language (sbz), Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:sbz",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaba languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaba_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Kabba language (Wikipedia; cites Moser 2004)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kabba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "BnF catalogue heading: Kaba (langue)",
+   "type": "other",
+   "language": "other",
+   "url": "https://data.bnf.fr/12050495/kaba__langue_/fr.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Sara Kaba on Wikitongues",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/sbz/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaba (ksp) on Wikitongues",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ksp/",
+   "found_in_search": true
+  }
+ ]
+}

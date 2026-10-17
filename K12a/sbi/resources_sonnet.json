@@ -1,0 +1,52 @@
+{
+ "iso": "sbi",
+ "name": "Seti",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Seti language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Seti_language",
+   "found_in_search": true
+  },
+  {
+   "title": "One languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/One_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Seti",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/SETI",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Seti Mauwil",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/SETI_MAUWIL",
+   "found_in_search": true
+  },
+  {
+   "title": "Seti in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14876",
+   "found_in_search": true
+  },
+  {
+   "title": "Seti language page (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/sbi",
+   "found_in_search": true
+  }
+ ]
+}

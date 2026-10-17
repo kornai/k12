@@ -1,0 +1,45 @@
+{
+ "iso": "rup",
+ "name": "Aromanian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tra invitare rumaneste: manual de dialect aroman pentru elevii aromani din Albania",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://editura-unibuc.ro/en/carti-tra-invitare-ramaneste-manual-de-dialect-aroman-pentru-elevii-aromani-din-albania/",
+   "found_in_search": true
+  },
+  {
+   "title": "Manual de dialect aroman pentru elevii si studentii din Albania (PDF)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://lingv.ro/wp-content/uploads/2025/10/Manual-de-dialect-aroman-pentru-elevii-si-studentii-din-Albania.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Nisioi 2014: syllabified Aromanian word dictionary (ACL Anthology W14-0616)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://aclanthology.org/W14-0616.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Mercator wiki: Aromanian in the Balkans",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.mercator-research.eu/languages:aromanian_in_the_balkans",
+   "found_in_search": true
+  },
+  {
+   "title": "Farsharotu Society: Our Language & History",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://farsharotu.org/?p=1221",
+   "found_in_search": true
+  }
+ ]
+}

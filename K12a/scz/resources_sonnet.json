@@ -1,0 +1,87 @@
+{
+ "iso": "scz",
+ "name": "Shaetlan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Shaetlan Language Plan 2022 (UHI Shetland)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.shetland.uhi.ac.uk/t4-media/one-web/uhi-shetland-images-and-documents/documents-/shaetlan/Shaetlan-Language-Plan-2022.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Shaetlan Language Plan 2022 (Shaetlan version)",
+   "type": "policy",
+   "language": "native",
+   "url": "https://www.shetland.uhi.ac.uk/t4-media/one-web/uhi-shetland-images-and-documents/documents-/shaetlan/Shaetlan-Language-Plan-2022-Shaetlan.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Using Shetland dialect in education",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.shetland.org/blog/using-shetland-dialect-in-education",
+   "found_in_search": true
+  },
+  {
+   "title": "Shetland dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shetland_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Da Spaektionary (I Hear Dee)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://iheardee.com/spaektionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Shaetlan grammar and dictionary (I Hear Dee)",
+   "type": "grammar",
+   "language": "native",
+   "url": "https://iheardee.com/english/shaetlan-grammar-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "John J. Graham's Shetland Dictionary (intro, Shetland ForWirds)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.shetlanddialect.org.uk/john-j-grahams-shetland-dictionary-intro",
+   "found_in_search": true
+  },
+  {
+   "title": "Shetland Words: A dictionary of Shetland dialect",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://shop.shetlandtimes.co.uk/products/shetland-words",
+   "found_in_search": true
+  },
+  {
+   "title": "Shetland ForWirds (about us)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.shetlanddialect.org.uk/about-us",
+   "found_in_search": true
+  },
+  {
+   "title": "Team behind new online dictionary of Shaetlan (Shetland News)",
+   "type": "other",
+   "language": "English",
+   "url": "https://shetnews.co.uk/2022/07/30/team-behind-new-online-dictionary-of-shaetlan-hopes-for-lively-community-participation",
+   "found_in_search": true
+  },
+  {
+   "title": "I Hear Dee launches Shaetlan dictionary (Shetland Times)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.shetlandtimes.co.uk/?p=1136583",
+   "found_in_search": true
+  }
+ ]
+}

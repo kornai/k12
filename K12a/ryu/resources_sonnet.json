@@ -1,0 +1,80 @@
+{
+ "iso": "ryu",
+ "name": "Central Okinawan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Basic Okinawan: From Conversation to Grammar (Shinzato)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/019bfc00-a9f0-4561-b80d-4ba25037e974",
+   "found_in_search": true
+  },
+  {
+   "title": "Rikka, Uchinaa-nkai! Okinawan Language Textbook for Beginners (2017)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://liuchiuan.com/2017/09/13/rikka-uchinaa-nkai-okinawan-language-textbook-for-beginners-2017",
+   "found_in_search": true
+  },
+  {
+   "title": "Let's Go To Okinawa: Intro to Uchinaguchi",
+   "type": "primer",
+   "language": "English",
+   "url": "https://manoa.hawaii.edu/okinawa/wordpress/?p=567",
+   "found_in_search": true
+  },
+  {
+   "title": "UH ScholarSpace Uchinaguchi item",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/5073",
+   "found_in_search": true
+  },
+  {
+   "title": "Okinawa Prefecture shimakutuba orthography overview",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/009/625/01_gaiyou.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Uruma City shimakutuba explanatory PDF",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.city.uruma.lg.jp/documents/10237/kaisetusimaku.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "TUFS repository article on Ryukyuan language",
+   "type": "academic",
+   "language": "other",
+   "url": "https://tufs.repo.nii.ac.jp/record/2901/files/jo000407.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Okinawa Association of America Uchinaguchi class (Ryukyu Shimpo)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://english.ryukyushimpo.jp/2011/06/30/1551/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ryukyu Shimpo: prefecture plans shimakutuba teaching materials by FY2027",
+   "type": "policy",
+   "language": "other",
+   "url": "https://ryukyushimpo.jp/news/entry-1499643.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Uchinaaguchi: The Language of My Heart (Rethinking Schools)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://rethinkingschools.org/articles/uchinaaguchi-the-language-of-my-heart",
+   "found_in_search": true
+  }
+ ]
+}

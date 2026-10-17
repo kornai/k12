@@ -1,0 +1,45 @@
+{
+ "iso": "sds",
+ "name": "Sened",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:54:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sened language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sened_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sened, Tunisia (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sened,_Tunisia",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP database: Sened word list",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/SENED",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: Sds",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Sds",
+   "found_in_search": true
+  },
+  {
+   "title": "East Zenati languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://Www.Wikipedia.org/wiki/East_Zenati",
+   "found_in_search": true
+  }
+ ]
+}

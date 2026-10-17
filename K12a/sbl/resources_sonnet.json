@@ -1,0 +1,87 @@
+{
+ "iso": "sbl",
+ "name": "Botolan Sambal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "DepEd order adding Sambal to Grade 1 mother tongue languages",
+   "type": "policy",
+   "language": "English",
+   "url": "https://deped.gov.ph/?p=7545",
+   "found_in_search": true
+  },
+  {
+   "title": "DepEd Zambales: radio-based scripts workshop MTB-MLE (Sambal G1)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://zambales.deped.gov.ph/sept-1-2-schools-division-online-training-workshop-on-the-development-of-radio-based-scripts-in-english-and-mother-tongue-based-multi-lingual-education-mtb-mle-in-g2-and-sambal-g1",
+   "found_in_search": true
+  },
+  {
+   "title": "Botolan language - Wikipedia (ISO 639:sbl)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:sbl",
+   "found_in_search": true
+  },
+  {
+   "title": "Sambalic languages - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sambalic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "UP Diliman Linguistics: Sambal language capsule",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.upd.edu.ph/the-katig-collective/language-capsules/sambal",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Botolan",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/botolan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "eBible.org Botolan Sambal New Testament, Psalms and Proverbs",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/bible/details.php?id=sbl",
+   "found_in_search": true
+  },
+  {
+   "title": "eBible.org Botolan Sambal copyright page",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/sbl/copyright.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Botolan Sambal",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=sbl",
+   "found_in_search": true
+  },
+  {
+   "title": "Princeton catalogue record of Botolan Sambal New Testament",
+   "type": "other",
+   "language": "English",
+   "url": "https://catalog.princeton.edu/catalog/SCSB-6191955",
+   "found_in_search": true
+  },
+  {
+   "title": "MegaVoice dramatized New Testament, Sambal Botolan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m032602-new-testament-dramatized-sbl-sambal-botolan-audio-bible/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "sbr",
+ "name": "Murut, Sembakung",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sembakung language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sembakung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sembakung Murut numerals (MPI Channumerals)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Murut-Sembakung.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Sembakung Murut",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/sbr/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sembakung Murut in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/14841/ID",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sembakung Murut in Malaysia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/14841/MY",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sembakung Murut (Aho Onsoi)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/sbr",
+   "found_in_search": true
+  },
+  {
+   "title": "Timugon Murut dictionary enters the digital age (Malay Mail; related language, not Sembakung)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.malaymail.com/amp/news/life/2026/01/02/a-language-carried-forward-timugon-murut-dictionary-enters-the-digital-age/204040",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "sdh",
+ "name": "Southern Kurdish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Southern Kurdish - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Southern_Kurdish",
+   "found_in_search": true
+  },
+  {
+   "title": "Laki language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Laki_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Machine-readable Southern Kurdish lexicon (eLex 2021)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://elex.link/elex2021/wp-content/uploads/2021/08/eLex_2021_30_pp479-488.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Approaches to Corpus Creation for Low-Resource Language Technology: the Case of Southern Kurdish and Laki",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://arxiv.org/pdf/2304.01319",
+   "found_in_search": true
+  },
+  {
+   "title": "Developing a Fine-Grained Corpus for a Less-resourced Language: the case of Kurdish (Sorani textbook corpus)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://arxiv.org/pdf/1909.11467",
+   "found_in_search": true
+  }
+ ]
+}

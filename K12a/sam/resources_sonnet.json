@@ -1,0 +1,31 @@
+{
+ "iso": "sam",
+ "name": "Samaritan Aramaic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Dictionary of Samaritan Aramaic (Tal, Brill) - De Gruyter Brill listing",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/isbn/9789004294158/html",
+   "found_in_search": true
+  },
+  {
+   "title": "A dictionary of Samaritan Aramaic - library record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://vufind.lib.tsu.ru/Record/libtsu.1013862/Description",
+   "found_in_search": true
+  },
+  {
+   "title": "Brevis Linguae Samaritanae (reprint listing)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://buecher.de/artikel/buch/brevis-linguae-samaritanae/26040247",
+   "found_in_search": true
+  }
+ ]
+}

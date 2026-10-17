@@ -1,0 +1,66 @@
+{
+ "iso": "sby",
+ "name": "Soli",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Soli language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Soli_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Soli people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Soli_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Soli New Testament (eBible.org)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/bible/details.php?id=sby",
+   "found_in_search": true
+  },
+  {
+   "title": "Soli New Testament, about page",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://ebible.org/study/content/texts/sby/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Soli New Testament PDF",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://eBible.org/pdf/sby/sby_nt.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Among the Soli People in Zambia, Appetite for God's Word Grows (Seed Company)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://seedcompany.com/stories/a-growing-appetite-for-gods-word",
+   "found_in_search": true
+  },
+  {
+   "title": "Soli in Zambia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14977",
+   "found_in_search": true
+  },
+  {
+   "title": "Mary speaking Soli (Wikitongues)",
+   "type": "video",
+   "language": "native",
+   "url": "https://wikitongues.org/videos/mary_20191012_sby/",
+   "found_in_search": true
+  }
+ ]
+}

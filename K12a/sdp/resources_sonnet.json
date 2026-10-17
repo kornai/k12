@@ -1,0 +1,80 @@
+{
+ "iso": "sdp",
+ "name": "Sherdukpen",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:53:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Written script for Sherdukpen language underway (Arunachal Times)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://arunachaltimes.in/?p=252775",
+   "found_in_search": true
+  },
+  {
+   "title": "Sherdukpen language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sherdukpen_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Himalayan Linguistics item on Sherdukpen phonology (eScholarship)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://escholarship.org/uc/item/3bc1m88z",
+   "found_in_search": true
+  },
+  {
+   "title": "Himalayan Linguistics vol. 23 issue 2",
+   "type": "academic",
+   "language": "English",
+   "url": "https://escholarship.org/uc/himalayanlinguistics/23/2",
+   "found_in_search": true
+  },
+  {
+   "title": "Brahmaputra Studies: Sherdukpen fieldwork",
+   "type": "academic",
+   "language": "English",
+   "url": "https://brahmaputra.ups2259.vjf.cnrs.fr/uk/fieldworks/Sherdukpen/Sherdukpen1.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Sherdukpen word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SHERDUKPEN",
+   "found_in_search": true
+  },
+  {
+   "title": "Sherdukpen people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sherdukpen_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest Sherdukpen people-group profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.people-groups.asiaharvest.org/India/Sherdukpen.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sherdukpen language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/sdp",
+   "found_in_search": true
+  },
+  {
+   "title": "CIIL Bhasha Sanchika special collection",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://sanchika.ciil.org/communities/5cd82e96-f8ef-4a80-927e-b5325b6c9662",
+   "found_in_search": true
+  }
+ ]
+}

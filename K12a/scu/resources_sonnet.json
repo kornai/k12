@@ -1,0 +1,52 @@
+{
+ "iso": "scu",
+ "name": "Shumcho",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Huber: Selected Topics in the Grammar of Shumcho/Humcho, Texts, and a Shumcho-English Glossary (listed in publication list)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.oeaw.ac.at/fileadmin/Institute/PHA/PDF/Team/publikationen_huber_2026_04.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Christian Huber biography (OeAW)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.oeaw.ac.at/fileadmin/Institute/PHA/PDF/Team/biographie_huber_2026_04.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Gender marking in Shumcho (Benjamins, CILT 362)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://benjamins.com/catalog/cilt.362.04hub",
+   "found_in_search": true
+  },
+  {
+   "title": "Researching and documenting endangered languages of Kinnaur (OeAW Phonogrammarchiv)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.oeaw.ac.at/en/phonogrammarchiv/research/endangered-languages-and-dialectology/researching-and-documenting-endangered-languages-of-kinnaur",
+   "found_in_search": true
+  },
+  {
+   "title": "The Linguistic Landscape of the Indian Himalayas (OAPEN)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/76653",
+   "found_in_search": true
+  },
+  {
+   "title": "Shumcho language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shumcho_language",
+   "found_in_search": true
+  }
+ ]
+}

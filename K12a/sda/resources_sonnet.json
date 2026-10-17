@@ -1,0 +1,87 @@
+{
+ "iso": "sda",
+ "name": "Toraja-Sa’dan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Interactive multimedia for Bahasa Toraja local content, SMA Kristen Makale (eprints UNM)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://eprints.unm.ac.id/36141/",
+   "found_in_search": true
+  },
+  {
+   "title": "Need analysis of learning local content of bahasa Toraja in elementary school students",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.umm.ac.id/index.php/kembara/article/view/21940",
+   "found_in_search": true
+  },
+  {
+   "title": "Toraja language-variation learning for primary pupils at Ke'te' Kesu'",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.undiksha.ac.id/index.php/JPI/article/download/28622/21767/120397",
+   "found_in_search": true
+  },
+  {
+   "title": "Tongkonan: Mahakarya Arsitektur Tradisional Suku Toraja (Rahayu 2017)",
+   "type": "other",
+   "language": "other",
+   "url": "https://lobo.apps01.yorku.ca/wp-content/uploads/2021/09/Rahayu-2017.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Toraja-Sa'dan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.com/wiki/Toraja_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Toraja-Sa'dan (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/torajasadan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Perancangan aplikasi kamus bahasa Toraja (Android dictionary app study)",
+   "type": "software",
+   "language": "other",
+   "url": "https://ejournal.upbatam.ac.id/index.php/comasiejournal/article/view/6950",
+   "found_in_search": true
+  },
+  {
+   "title": "Toraja-Sa'dan (Wikidata Q36673)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikidata.org/wiki/Q36673",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Toraja (sda) Bible, audio and film",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=sda",
+   "found_in_search": true
+  },
+  {
+   "title": "LAI: Illustrated Good News in Toraja for children",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.alkitab.or.id/en/berita/2166-lets-support-the-publication-of-5000-illustrated-good-news-in-toraja-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Toraja-Sa'dan in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15565",
+   "found_in_search": true
+  }
+ ]
+}

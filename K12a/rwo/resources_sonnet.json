@@ -1,0 +1,59 @@
+{
+ "iso": "rwo",
+ "name": "Rawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Rawa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Rawa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rawa numerals dataset entry (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Rawa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Anutro Mande Keta (Rawa New Testament), eBible about page",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/study/content/texts/rwo-rawa/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Anutro Mande Keta, copyright and licence",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/rwo-rawa/copyright.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Anutlo Sumange Mande Keda (Karo New Testament), eBible text",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/rwo-karo/FRT01.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Anutlo Sumange Mande Keda, eBible about page",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/study/content/texts/rwo-karo/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Digital Bible Society: Rawa Bible entry",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/RWOWBT",
+   "found_in_search": true
+  }
+ ]
+}

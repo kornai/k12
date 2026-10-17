@@ -1,0 +1,87 @@
+{
+ "iso": "sdo",
+ "name": "Bidayuh Serian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:53:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sagah: Bidayuh language may be introduced as school subject next year (Borneo Post)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.theborneopost.com/2025/08/23/sagah-bidayuh-language-may-be-introduced-as-school-subject-next-year/",
+   "found_in_search": true
+  },
+  {
+   "title": "Sagah: Bidayuh Language may be Introduced as School Subject Next Year (Serian Division)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://serian.sarawak.gov.my/web/subpage/news_view/1075",
+   "found_in_search": true
+  },
+  {
+   "title": "Bidayuh Heritage Language Playschools and Kindergartens in Sarawak",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ir.unimas.my/id/eprint/19669/",
+   "found_in_search": true
+  },
+  {
+   "title": "The Role of Indigenous Languages in Schools: The Case of Sarawak",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ir.unimas.my/id/eprint/17155/",
+   "found_in_search": true
+  },
+  {
+   "title": "Bukar-Sadong (Bidayuh Bukar-Sadung) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/bukar-sadong.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Bidayuh Serian - Borneo Dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://borneodictionary.com/bidayuh-serian/",
+   "found_in_search": true
+  },
+  {
+   "title": "Serian-Bidayuh numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Bidayah-Serian.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The Bidayuh Language of Sarawak, Malaysia: Language Use and Proficiency",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ir.unimas.my/id/eprint/50111/",
+   "found_in_search": true
+  },
+  {
+   "title": "Bidayuh info",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://bidayuh.yolasite.com/",
+   "found_in_search": true
+  },
+  {
+   "title": "Bid to revive Bidayuh language in schools (Borneo Post)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.theborneopost.com/?p=77460",
+   "found_in_search": true
+  },
+  {
+   "title": "Bukar-Sadong Bidayuh (Wikitongues)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/sdo/",
+   "found_in_search": true
+  }
+ ]
+}

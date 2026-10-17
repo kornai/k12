@@ -1,0 +1,52 @@
+{
+ "iso": "ruo",
+ "name": "Istro Romanian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Andrei Glavina (Wikipedia), founder of the Traian Emperor school in Šušnjevica",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Andrei_Glavina",
+   "found_in_search": true
+  },
+  {
+   "title": "Vlaški-Žejanski online dictionary (Kovačec 1998 electronic edition)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.vlaski-zejanski.com/en/o-rjecniku",
+   "found_in_search": true
+  },
+  {
+   "title": "hISTROX: Istro-Romanian language, Žejanski and Vlaški",
+   "type": "academic",
+   "language": "English",
+   "url": "https://istrox.ling-phil.ox.ac.uk/istro-romanian-language-zejanski-and-vlaski",
+   "found_in_search": true
+  },
+  {
+   "title": "hISTROX news and events",
+   "type": "academic",
+   "language": "English",
+   "url": "https://histrox.ling-phil.ox.ac.uk/article/news-and-events",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of the Vlashki/Zheyanski language ('Ruo'), University of Rijeka",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cji.uniri.hr/en/?p=543",
+   "found_in_search": true
+  },
+  {
+   "title": "istro-romanian.net article",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://istro-romanian.net/articles/art090708.html",
+   "found_in_search": true
+  }
+ ]
+}

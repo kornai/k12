@@ -1,0 +1,66 @@
+{
+ "iso": "sdn",
+ "name": "Sardinian, Gallurese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gallurese (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gallurese",
+   "found_in_search": true
+  },
+  {
+   "title": "Press release: Gallurese course, Santa Teresa di Gallura",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://santateresagallura-api.municipiumapp.it/s3/6523/allegati/allegati-luoghi/comunicato-stampa-santa-teresa-4173.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Poster: Gallurese course, Santa Teresa",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://santateresagallura-api.municipiumapp.it/s3/6523/allegati/allegati-luoghi/locandina-corso-di-gallurese-santa-teresa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Loporcaro 2008, Gallurese of Luras",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ricerca.sns.it/retrieve/558c1fc9-8e2e-4611-a205-25dce3dd660b/122_Loporcaro_2008_Luras_post_print.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Loporcaro 2006, Luras: mutamento e contatto",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ricerca.sns.it/bitstream/11384/123843/1/108_Loporcaro_2006_Luras%20mutamento%20e%20contatto_open.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Numbers in Gallurese Sardinian (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/language/numbers/sardinian_gallurese.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Regional delibera on orthographic standardisation (Regione Sardegna)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://delibere.regione.sardegna.it/protected/70103/0/def/ref/DBR70050/",
+   "found_in_search": true
+  },
+  {
+   "title": "Regione Sardegna notice (L.R. 22/2018 teaching)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://files.regione.sardegna.it/squidex/api/assets/redazionaleras/7e82d2b0-594e-48ed-b9e1-0682e2f41877/avviso.pdf",
+   "found_in_search": true
+  }
+ ]
+}

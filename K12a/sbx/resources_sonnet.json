@@ -1,0 +1,59 @@
+{
+ "iso": "sbx",
+ "name": "Seberuang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Seberuang language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Seberuang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dialek sosial bahasa Dayak Seberuang di Desa Sukau Bersatu, Sepauk, Sintang",
+   "type": "academic",
+   "language": "other",
+   "url": "https://jurnal.stkippersada.ac.id/jurnal/index.php/KAN/article/view/949",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on reduplication in a Seberuang dialect (Sintesis)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://e-journal.usd.ac.id/index.php/sintesis/article/download/922/729",
+   "found_in_search": true
+  },
+  {
+   "title": "Seberuang numerals (Max Planck channumerals)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Seberuang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on Seberuang healing mantras (SEBASA)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://e-journal.hamzanwadi.ac.id/index.php/sbs/article/download/33156/8172/206525",
+   "found_in_search": true
+  },
+  {
+   "title": "Seberuang in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14806",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network, Seberuang (sbx)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/sbx",
+   "found_in_search": true
+  }
+ ]
+}

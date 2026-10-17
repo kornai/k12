@@ -1,0 +1,45 @@
+{
+ "iso": "sdj",
+ "name": "Suundi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Suundi language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suundi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sundi - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sundi",
+   "found_in_search": true
+  },
+  {
+   "title": "Suundi (sdj) - Joshua Project language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/sdj",
+   "found_in_search": true
+  },
+  {
+   "title": "Lumwamu, Francois 1977 - Lexique kikongo-francais, 3: kiladi-kisundi-kikongo (Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/82521",
+   "found_in_search": true
+  },
+  {
+   "title": "Sundi in Congo, Republic of the - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15122",
+   "found_in_search": true
+  }
+ ]
+}

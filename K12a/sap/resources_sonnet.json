@@ -1,0 +1,38 @@
+{
+ "iso": "sap",
+ "name": "Sanapaná (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A documentation of historical narratives amongst the Sanapaná (Enlhet-Enenlhet) of the Paraguayan Chaco",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cultureincrisis.org/projects/a-documentation-of-historical-narratives-amongst-the-sanapaná-enlhet-enenlhet-of-the-paraguayan-chaco",
+   "found_in_search": true
+  },
+  {
+   "title": "Van Gysel 2017: Temporal predicative particles in Sanapaná (Glottolog reference record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/687722",
+   "found_in_search": true
+  },
+  {
+   "title": "Sanapaná language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sanapan%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sanapaná",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2752",
+   "found_in_search": true
+  }
+ ]
+}

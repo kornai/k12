@@ -1,0 +1,38 @@
+{
+ "iso": "sae",
+ "name": "Sabanê",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SAILS database entry for Sabanê (cites Antunes de Araujo grammar)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sails.clld.org/languages/sae",
+   "found_in_search": true
+  },
+  {
+   "title": "SAPhon Sabanê phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Sabane.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Sabanê language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saban%C3%AA_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Periodicos UnB article on Nambikwara languages revitalization",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicostestes.bce.unb.br/index.php/ling/article/view/20981",
+   "found_in_search": true
+  }
+ ]
+}

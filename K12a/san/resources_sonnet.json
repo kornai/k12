@@ -1,0 +1,31 @@
+{
+ "iso": "san",
+ "name": "Sanskrit",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "NCERT Class 6 Sanskrit Ruchira (Vedantu page)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://vedantu.com/ncert-books/ncert-books-class-6-sanskrit-ruchira",
+   "found_in_search": true
+  },
+  {
+   "title": "NCERT Class 8 Sanskrit Ruchira (Vedantu page)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.vedantu.com/ncert-books/ncert-books-class-8-sanskrit-ruchira",
+   "found_in_search": true
+  },
+  {
+   "title": "Arihant NCERT-based Sanskrit workbook, Ruchira Part 3",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://arihantbooks.com/products/ncert-pathyepustak-per-aadharit-sanskrit-workbook-ruchira-trityo-bhag",
+   "found_in_search": true
+  }
+ ]
+}

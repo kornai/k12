@@ -1,0 +1,31 @@
+{
+ "iso": "sab",
+ "name": "Buglere",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Buglere (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Buglere",
+   "found_in_search": true
+  },
+  {
+   "title": "Buglere writing and language (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/buglere.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Buglere dictionary entries",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/lib/sab",
+   "found_in_search": true
+  }
+ ]
+}

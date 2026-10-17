@@ -1,0 +1,52 @@
+{
+ "iso": "ruq",
+ "name": "Romanian, Megleno",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diacronia.ro bibliography citing Capidan Meglenoromanii dictionary and Candrea glossary",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.diacronia.ro/indexing/details/A29397/pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Diacronia.ro record (A15309)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.diacronia.ro/indexing/details/A15309/pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Megleno-Romanian",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/megl1237",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Megleno-Romanian",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/meglenoromanian.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Megleno Romanian (ruq)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/lib/ruq",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Megleno-Romanian verbs",
+   "type": "software",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Meglenoromanian",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "rys",
+ "name": "Yaeyama",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Meeramuni (Miyara variety of Yaeyaman) learning project, Endangered Languages Project entry",
+   "type": "software",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/110363",
+   "found_in_search": true
+  },
+  {
+   "title": "Hiroshima University bulletin: early postwar Japanese reading textbooks in Yaeyama",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ir.lib.hiroshima-u.ac.jp/00018204",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yaeyama sample entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5353/samples/11760",
+   "found_in_search": true
+  },
+  {
+   "title": "Okinawa Prefecture shimakutuba orthography overview (covers Yaeyama)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/009/625/01_gaiyou.pdf",
+   "found_in_search": true
+  }
+ ]
+}

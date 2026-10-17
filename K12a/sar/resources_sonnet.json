@@ -1,0 +1,38 @@
+{
+ "iso": "sar",
+ "name": "Saraveca",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Créqui-Montfort and Rivet 1913 (Glottolog reference record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/152024",
+   "found_in_search": true
+  },
+  {
+   "title": "Saraveca on Grambank",
+   "type": "other",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/sara1331",
+   "found_in_search": true
+  },
+  {
+   "title": "Saraveca language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saraveca_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Saraveca",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2748?hl=pt-br",
+   "found_in_search": true
+  }
+ ]
+}
