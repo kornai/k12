@@ -1,0 +1,45 @@
+{
+ "iso": "ygl",
+ "name": "Yangum Gel",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:36:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yangum language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yangum_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Yangum Gel wordlist",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/YANGUM_GEL",
+   "found_in_search": true
+  },
+  {
+   "title": "Crossgram: yang1295",
+   "type": "other",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/yang1295",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog languoid heyo1241",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/heyo1241",
+   "found_in_search": true
+  },
+  {
+   "title": "Torricelli languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Torricelli_languages",
+   "found_in_search": true
+  }
+ ]
+}

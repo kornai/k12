@@ -1,0 +1,45 @@
+{
+ "iso": "ygi",
+ "name": "Yiningayi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:36:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AIATSIS Austlang L41: Iningai",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/L41",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Yiningayi (ygi)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ygi/",
+   "found_in_search": true
+  },
+  {
+   "title": "IANA subtag registration for ygi",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/ygi.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "A partial vocabulary of the Yinikurtira (possibly unrelated; unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/A-partial-vocabulary-of-the-Yinikurtira/991005544254107891",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Sydney Archives record (content unverified)",
+   "type": "other",
+   "language": "English",
+   "url": "https://archives-search.sydney.edu.au/nodes/view/17507",
+   "found_in_search": true
+  }
+ ]
+}
