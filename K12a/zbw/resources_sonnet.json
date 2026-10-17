@@ -1,0 +1,66 @@
+{
+ "iso": "zbw",
+ "name": "Berawan, West",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Berawan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Berawan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary: Berawan",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://acd.clld.org/languages/19364",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item RB1/003",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/RB1/003",
+   "found_in_search": true
+  },
+  {
+   "title": "Borneo Research Journal article on Berawan lects",
+   "type": "academic",
+   "language": "English",
+   "url": "https://publisher.unimas.my/ojs/index.php/BJK/article/view/2411/1012",
+   "found_in_search": true
+  },
+  {
+   "title": "UNIMAS Borneo Research Journal article (second)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://publisher.unimas.my/ojs/index.php/BJK/article/view/8818/2484",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Berawan in Malaysia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10800",
+   "found_in_search": true
+  },
+  {
+   "title": "Sarawak Museum page 611",
+   "type": "other",
+   "language": "English",
+   "url": "https://museum.sarawak.gov.my/web/subpage/webpage_view/611",
+   "found_in_search": true
+  },
+  {
+   "title": "Sarawak Museum page 847",
+   "type": "other",
+   "language": "English",
+   "url": "https://museum.sarawak.gov.my/web/subpage/webpage_view/847",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "zbl",
+ "name": "Blissymbols",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "BCI web training resource",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.blissymbolics.org/WebTraining/NewResourceHTMLCSS/resource9.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Blissymbols (EduTechWiki), with bibliography of Bliss teaching texts",
+   "type": "other",
+   "language": "English",
+   "url": "https://edutechwiki.unige.ch/en/Blissymbols",
+   "found_in_search": true
+  },
+  {
+   "title": "Blissymbolics library guide (University of Toronto OISE)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://guides.library.utoronto.ca/oise-ohec/blissymbolics",
+   "found_in_search": true
+  },
+  {
+   "title": "Evertype: Blissymbols standards",
+   "type": "other",
+   "language": "English",
+   "url": "https://evertype.com/standards/by/bliss.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Blissymbolics Communication Institute Canada fonds",
+   "type": "academic",
+   "language": "English",
+   "url": "https://discoverarchives.library.utoronto.ca/index.php/blissymbolics-communication-institute-canada-fonds",
+   "found_in_search": true
+  },
+  {
+   "title": "Blissymbolics Communication Institute Canada (archive record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://discoverarchives.library.utoronto.ca/index.php/blissymbolics-communication-institute-canada",
+   "found_in_search": true
+  },
+  {
+   "title": "Blissymbolics Communication International (CanadaHelps charity profile)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.canadahelps.org/en/charities/blissymbolics-communication-international",
+   "found_in_search": true
+  }
+ ]
+}
