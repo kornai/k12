@@ -1,0 +1,31 @@
+{
+ "iso": "xop",
+ "name": "Kopar",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Sketch Grammar of Kopar: A Language of New Guinea (record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9783110791440",
+   "found_in_search": true
+  },
+  {
+   "title": "A Sketch Grammar of Kopar (bookseller listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.harvard.com/book/9783111357546",
+   "found_in_search": true
+  },
+  {
+   "title": "Kopar language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kopar_language",
+   "found_in_search": true
+  }
+ ]
+}

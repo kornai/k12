@@ -1,0 +1,38 @@
+{
+ "iso": "xoo",
+ "name": "Xukurú",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Xukuru language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xukuru_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on the illustrated Xukuru dictionary (Revista da ABRALIN)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://revista.abralin.org/index.php/abralin/article/download/2363/2971/19332",
+   "found_in_search": true
+  },
+  {
+   "title": "UFPE dissertation record (Souza), Xukuru-related",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufpe.br/handle/123456789/52167?mode=full",
+   "found_in_search": true
+  },
+  {
+   "title": "O povo Xukuru do Ororubá e as mobilizações a partir das memórias por direitos no Agreste de Pernambuco",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.e-publicacoes.uerj.br/revistaceaju/article/view/65134",
+   "found_in_search": true
+  }
+ ]
+}
