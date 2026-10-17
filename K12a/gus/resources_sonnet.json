@@ -1,0 +1,45 @@
+{
+ "iso": "gus",
+ "name": "Guinean Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Education: ROPACIDPH demande un transfert de tutelle pour les ecoles des sourds de Conakry (Guineenews)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://guineenews.org/2019/02/26/education-le-ropacidph-demande-un-transfert-de-tutelle-pour-les-ecoles-des-sourds-de-conakry/",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University sign language map listing Guinean Sign Language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3593897/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Health Sciences and Disease: childhood deafness in a Conakry deaf school",
+   "type": "academic",
+   "language": "other",
+   "url": "https://hsd-fmsb.org/index.php/hsd/article/download/807/pdf_430/2396",
+   "found_in_search": true
+  },
+  {
+   "title": "Gallaudet University: Deaf organizations in Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://gallaudet.edu/academic-affairs/international-relations/deaf-organizations-in-guinea/",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf in Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/19007/GV",
+   "found_in_search": true
+  }
+ ]
+}

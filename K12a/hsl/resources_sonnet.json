@@ -1,0 +1,52 @@
+{
+ "iso": "hsl",
+ "name": "Hausa Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hausa Sign Language dictionary booklets (hausa-sign-language.com)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://hausa-sign-language.com/?p=9037",
+   "found_in_search": true
+  },
+  {
+   "title": "Maganar hannu / Hausa Sign Language series (publisher listing)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://buske.de/hbv_en/series/Maga",
+   "found_in_search": true
+  },
+  {
+   "title": "Sani Muhammad Jimada, Wikitongues fellow (HSL dictionary project)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wikitongues.org/fellows/sani-muhammad-jimada/",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/19007/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Foundation pushes for integration of sign language in curriculum (Leadership)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://leadership.ng/foundation-pushes-for-integration-of-sign-language-in-curriculum-for-persons-with-disabilities/",
+   "found_in_search": true
+  },
+  {
+   "title": "Imperatives of Bilingual Sign Language in Language Development of Learners with Hearing Impairment in Nigeria",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cnlse.es/es/recursos/biblioteca/imperatives-of-bilingual-sign-language-in-language-development-of-learners-with-hearing-impairment-in-nigeria",
+   "found_in_search": true
+  }
+ ]
+}

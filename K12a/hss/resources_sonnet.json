@@ -1,0 +1,38 @@
+{
+ "iso": "hss",
+ "name": "Harsusi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The documentation and ethnolinguistic analysis of Modern South Arabian: Harsusi (ELAR collection)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0314/",
+   "found_in_search": true
+  },
+  {
+   "title": "Harsusi Texts from Oman (Stroomer)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://reado.app/en/book/harsusi-texts-from-oman-harry-stroomer/9783447050975",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Harsusi sample",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.endangeredlanguages.com/lang/4281/samples/9211",
+   "found_in_search": true
+  },
+  {
+   "title": "Hammal Al Balushi, Leeds PhD on Harsusi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ahc.leeds.ac.uk/languages/pgr/2639/hammal-al-balushi",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "kft",
+ "name": "Kanjari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kanjari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kanjari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kanjar (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kanjar",
+   "found_in_search": true
+  },
+  {
+   "title": "Kanjar - Orientation (Everyculture)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.everyculture.com/South-Asia/Kanjar-Orientation.html",
+   "found_in_search": true
+  }
+ ]
+}

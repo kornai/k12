@@ -1,0 +1,38 @@
+{
+ "iso": "kfs",
+ "name": "Bilaspuri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bilaspuri (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bilaspuri",
+   "found_in_search": true
+  },
+  {
+   "title": "Kahluri (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://Www.wikipedia.org/wiki/Kahluri",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Bilaspuri",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/bilaspuri.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistic Survey of India - Himachal Pradesh",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ruralindiaonline.org/ml/library/resource/linguistic-survey-of-india---himachal-pradesh/",
+   "found_in_search": true
+  }
+ ]
+}

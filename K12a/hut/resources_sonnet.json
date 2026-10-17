@@ -1,0 +1,31 @@
+{
+ "iso": "hut",
+ "name": "Humla",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Sociolinguistic Survey of Humla Tibetan, Northwest Nepal (de Vries 2014), Glottolog record",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/552808",
+   "found_in_search": true
+  },
+  {
+   "title": "Humla Tibetan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Humla_Tibetan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nepal officially recognizes Humlo peoples as Indigenous nationality (Cultural Survival)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.culturalsurvival.org/news/nepal-officially-recognizes-humlo-peoples-indigenous-nationality",
+   "found_in_search": true
+  }
+ ]
+}

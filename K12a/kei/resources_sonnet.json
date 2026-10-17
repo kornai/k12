@@ -1,0 +1,45 @@
+{
+ "iso": "kei",
+ "name": "Kei",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kei language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kei_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kei (Veveu Evav) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/kei.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Kei verbs",
+   "type": "other",
+   "language": "other",
+   "url": "https://docs.verbix.com/Languages/Kei",
+   "found_in_search": true
+  },
+  {
+   "title": "SABDA Bakat: 272 kei 001",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://bakat.sabda.org/272-kei-001.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Surga yang jatuh di timur Indonesia itu bernama Kepulauan Kei",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.goodnewsfromindonesia.id/2024/10/21/surga-yang-jatuh-di-timur-indonesia-itu-bernama-kepulauan-kei",
+   "found_in_search": true
+  }
+ ]
+}

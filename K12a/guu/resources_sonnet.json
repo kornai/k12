@@ -1,0 +1,45 @@
+{
+ "iso": "guu",
+ "name": "Yanomamö",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Syllabic literacy method for Parima B Yanomami (UCV thesis)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://saber.ucv.ve/jspui/handle/10872/18057",
+   "found_in_search": true
+  },
+  {
+   "title": "Sanöma (Yanomami) first-stage literacy book, linguist-anthropologist collaboration (UFMG)",
+   "type": "primer",
+   "language": "other",
+   "url": "https://repositorio.ufmg.br/handle/1843/62336",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF project: Ninam (Yanomaman) dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://grantome.com/grant/NSF/BCS-0963595",
+   "found_in_search": true
+  },
+  {
+   "title": "IPS News report on Yanomami bilingual mini-dictionary and education",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.ipsnews.net/?p=13153",
+   "found_in_search": true
+  },
+  {
+   "title": "Educação escolar yanomami e potiguara (UFPB dissertation, Maturacá school)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufpb.br/jspui/handle/tede/6455",
+   "found_in_search": true
+  }
+ ]
+}
