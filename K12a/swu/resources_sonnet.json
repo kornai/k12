@@ -1,0 +1,45 @@
+{
+ "iso": "swu",
+ "name": "Suwawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Suwawa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suwawa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bolango language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bolango_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Suwawa",
+   "type": "other",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/suwawa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Gorontalo group languoid",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/goro1273.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Suwawa in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15142/ID",
+   "found_in_search": true
+  }
+ ]
+}
