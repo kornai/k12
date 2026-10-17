@@ -1,0 +1,31 @@
+{
+ "iso": "xsk",
+ "name": "Sakan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Saka language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Saka (saka1298)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/saka1298.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "IETF languages list: Khotanese and Sakan (2008)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.alvestrand.no/pipermail/ietf-languages/2008-September/008375.html",
+   "found_in_search": true
+  }
+ ]
+}
