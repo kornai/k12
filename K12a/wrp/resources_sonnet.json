@@ -1,0 +1,38 @@
+{
+ "iso": "wrp",
+ "name": "Waropen",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:31:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waropen language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waropen_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary: Waropen",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://acd.clld.org/languages/439",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Basic Vocabulary Database: Waropen",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=142",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Waropen",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Waropen",
+   "found_in_search": true
+  }
+ ]
+}
