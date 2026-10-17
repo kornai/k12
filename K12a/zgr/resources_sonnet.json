@@ -1,0 +1,38 @@
+{
+ "iso": "zgr",
+ "name": "Magori",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Magori language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Magori_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Magori",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2267",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Magori",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Magori",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Magori wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/MAGORI",
+   "found_in_search": true
+  }
+ ]
+}

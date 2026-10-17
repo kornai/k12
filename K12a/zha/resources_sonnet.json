@@ -1,0 +1,59 @@
+{
+ "iso": "zha",
+ "name": "zha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Standard Zhuang (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Standard_Zhuang",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Zhuang writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/zhuang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhuang alphabet",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://demo.azizisearch.com/lite/wikipedia/page/Zhuang_alphabet",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode IRG n2677: kZhuang",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.unicode.org/irg/docs/n2677-kZhuang.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Thai Journal Online article on Zhuang",
+   "type": "academic",
+   "language": "English",
+   "url": "https://so03.tci-thaijo.org/index.php/JLC/article/download/21647/18702/46569",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhuang romanization learning app",
+   "type": "software",
+   "language": "native",
+   "url": "https://apps.apple.com/app/id1369853980",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhuang languages (ISO 639 ccx)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:ccx",
+   "found_in_search": true
+  }
+ ]
+}
