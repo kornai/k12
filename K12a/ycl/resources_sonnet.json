@@ -1,0 +1,45 @@
+{
+ "iso": "ycl",
+ "name": "Lolopo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lolopo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lolopo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Loloish languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Loloish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Lipo numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Lipo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Mayou Webonary dictionary (Yao'an dialect, Loxrlavu; possibly a different variety)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/mayou/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lolopo (Loxrlapor) on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/lolopo.htm",
+   "found_in_search": true
+  }
+ ]
+}
