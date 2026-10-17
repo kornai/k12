@@ -1,0 +1,66 @@
+{
+ "iso": "wxa",
+ "name": "Waxianghua",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:40:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waxiang Chinese (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waxiang_Chinese",
+   "found_in_search": true
+  },
+  {
+   "title": "Waxiang people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waxiang_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Macro-Bai languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Macro-Bai_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Waxianghua numerals (MPI-EVA Chan numerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Waxianghua.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Waxianghua (Guzhang) word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=973",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Waxiang Chinese in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18483",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Han Chinese Waxiang profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/hunan/han-chinese-waxiang.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Waxianghua",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Waxianghua",
+   "found_in_search": true
+  }
+ ]
+}
