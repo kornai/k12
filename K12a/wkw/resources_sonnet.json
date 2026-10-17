@@ -1,0 +1,45 @@
+{
+ "iso": "wkw",
+ "name": "Wakawaka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:11:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wakka Wakka language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wakka_Wakka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wakka Wakka Body Parts (State Library of Queensland)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://content.slq.qld.gov.au/sites/default/files/Wakka%20Wakka%20Body%20Parts.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland - Aboriginal and Torres Strait Islander languages word lists",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://data.gov.au/data/dataset/3fa7a159-f280-48f9-9a83-9209f73942ef",
+   "found_in_search": true
+  },
+  {
+   "title": "Wakawaka language (UQ Fryer Library manuscripts)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://manuscripts.library.uq.edu.au/index.php/wakawaka-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Language -- Vocabulary -- Word lists (UQ manuscripts)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://manuscripts.library.uq.edu.au/index.php/language-vocabulary-word-lists",
+   "found_in_search": true
+  }
+ ]
+}

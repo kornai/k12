@@ -1,0 +1,59 @@
+{
+ "iso": "wlc",
+ "name": "Comorian, Mwali",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:11:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Comorian languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Comorian_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Mwali Comorian language (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://demo.azizisearch.com/lite/wikipedia/page/Mwali_Comorian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: comorien dictionnaire",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/comorien_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "INALCO: Comorian",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.inalco.fr/en/languages/comorian",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Resources in Thousands of Languages: wlc",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=wlc",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth scripture index: wlc",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00i-Scripture_Index.php?iso=wlc",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire ORELC (iOS app)",
+   "type": "software",
+   "language": "other",
+   "url": "https://apps.apple.com/us/app/id6474321239",
+   "found_in_search": true
+  }
+ ]
+}
