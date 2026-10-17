@@ -1,0 +1,38 @@
+{
+ "iso": "ylb",
+ "name": "Yaleba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:51:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "YLB (Wikipedia disambiguation page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/YLB",
+   "found_in_search": true
+  },
+  {
+   "title": "Wagawaga language (New Guinea) - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wagawaga_language_(New_Guinea)",
+   "found_in_search": true
+  },
+  {
+   "title": "Yaleba in Papua New Guinea - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20548",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page: ylb",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ylb",
+   "found_in_search": true
+  }
+ ]
+}

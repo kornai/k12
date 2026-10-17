@@ -1,0 +1,66 @@
+{
+ "iso": "ylg",
+ "name": "Yalaku",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:51:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Comparison, contrast and similarity in Yalaku",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/54532/",
+   "found_in_search": true
+  },
+  {
+   "title": "Language contact and language change in the Sepik Region of New Guinea: the case of Yalaku",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/63889/",
+   "found_in_search": true
+  },
+  {
+   "title": "Word in Yalaku",
+   "type": "academic",
+   "language": "English",
+   "url": "https://acquire.cqu.edu.au/articles/chapter/Word_in_Yalaku/16780645",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistic Discovery (Jan 2018) article on Yalaku",
+   "type": "academic",
+   "language": "English",
+   "url": "https://doaj.org/article/68115a2c97454c6a9f15305a44e920be",
+   "found_in_search": true
+  },
+  {
+   "title": "Yalaku numerals entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yalaku.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Yalaku (Yelogu) word list",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/YELOGU",
+   "found_in_search": true
+  },
+  {
+   "title": "The Yalaku: history and warfare in the Middle Sepik",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.oceanicartsociety.org.au/the-yalaku-history-and-warfare-in-the-middle-sepik/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yalaku",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10615?hl=fr",
+   "found_in_search": true
+  }
+ ]
+}
