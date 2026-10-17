@@ -1,0 +1,38 @@
+{
+ "iso": "wir",
+ "name": "Wiraféd",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Wiraféd (wir)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/wir",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Wiraféd wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WIRAFED",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems of the world's languages: Wiraféd",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Wirafed.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Apiaká language (Wikipedia), related language listing Wiraféd as a dialect",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Apiak%C3%A1_language",
+   "found_in_search": true
+  }
+ ]
+}
