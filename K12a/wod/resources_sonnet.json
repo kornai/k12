@@ -1,0 +1,31 @@
+{
+ "iso": "wod",
+ "name": "Wolani",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wolani language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wolani_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolani people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wolani_people",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC: Capell manuscript of Wolani and Western Dani sentences and phrases",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/AC2/IJWDAN104",
+   "found_in_search": true
+  }
+ ]
+}
