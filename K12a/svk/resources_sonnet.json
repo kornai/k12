@@ -1,0 +1,59 @@
+{
+ "iso": "svk",
+ "name": "Slovakian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Act 151/2017 (Slovak sign-language law amendment), consolidated text",
+   "type": "policy",
+   "language": "other",
+   "url": "https://static.slov-lex.sk/static/SK/ZZ/2017/151/20170901.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictio multilingual sign language dictionary (Sign Language Dataset Compendium entry)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.sign-lang.uni-hamburg.de/lr/compendium/lex/dictio.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Presenting Dictio: online sign and spoken language dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.phil.muni.cz/vyzkum/publikace/prehled/2223960",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictio: multilingual dictionary focused on sign language (EU Accessible Europe Centre)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://accessible-eu-centre.ec.europa.eu/dictio-multilingual-dictionary-focused-sign-language-czech-republic_en",
+   "found_in_search": true
+  },
+  {
+   "title": "European Union of the Deaf page listing ANEPS",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://eud.eu/?p=2603",
+   "found_in_search": true
+  },
+  {
+   "title": "Slovak sign language does not help every deaf person (The Slovak Spectator)",
+   "type": "other",
+   "language": "English",
+   "url": "https://spectator.sme.sk/c/22805953/slovak-sign-language-does-not-help-every-deaf-person.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tlmocnikov posunkoveho jazyka je akutny nedostatok (noviny.sk)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.noviny.sk/slovensko/557682-tlmocnikov-posunkoveho-jazyka-je-akutny-nedostatok-pomoct-ma-novy-studijny-program",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "svb",
+ "name": "Ulau-Suain",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ulau-Suain language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ulau-Suain_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ulau Suain numerals (MPI-EVA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Ulau-Suain.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ulau-Suain",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10523?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Suain in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15096",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: svb language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/svb",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: svb",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=svb",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Suain: Ulau language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/587",
+   "found_in_search": true
+  }
+ ]
+}
