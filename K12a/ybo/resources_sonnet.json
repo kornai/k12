@@ -1,0 +1,59 @@
+{
+ "iso": "ybo",
+ "name": "Yabong",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:28:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yabong language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yabong_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Yabong",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/YABONG",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Yabong 2",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/YABONG_2",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item 1092 (Yabong wordlist recording)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/DD1/items/1092",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yabong people group",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15934",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yabong language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ybo",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yabong",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/ybo",
+   "found_in_search": true
+  }
+ ]
+}
