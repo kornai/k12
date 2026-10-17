@@ -1,0 +1,31 @@
+{
+ "iso": "zap",
+ "name": "zap",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cali Chiu: A Course in Valley Zapotec (3rd ed.)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://scholarship.haverford.edu/books/67",
+   "found_in_search": true
+  },
+  {
+   "title": "Building communicative competence and motivation among diverse learners of Zapotec in Teotitlan del Valle",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/25380?mode=full",
+   "found_in_search": true
+  },
+  {
+   "title": "UCSC Zapotec Language Project",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://zapotec.ucsc.edu/history.php",
+   "found_in_search": true
+  }
+ ]
+}
