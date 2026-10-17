@@ -1,0 +1,38 @@
+{
+ "iso": "wwo",
+ "name": "Dorig",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:39:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dorig language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dorig_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dorig, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2427",
+   "found_in_search": true
+  },
+  {
+   "title": "Dorig, Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/dorig.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The languages of Gaua island, Pangloss Collection (CNRS)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://pangloss.cnrs.fr/corpus/Nume?lang=en",
+   "found_in_search": true
+  }
+ ]
+}

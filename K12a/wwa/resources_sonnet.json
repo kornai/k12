@@ -1,0 +1,38 @@
+{
+ "iso": "wwa",
+ "name": "Waama",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:39:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waama dictionary (SIL Benin / CENALA), Webonary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/waama/overview/forward/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Waama dictionary: Dictionary Entries explained",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/waama/?p=146827",
+   "found_in_search": true
+  },
+  {
+   "title": "Bremicker, Ursula (1990), Waama phonology and grammar (Glottolog reference)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/32302",
+   "found_in_search": true
+  },
+  {
+   "title": "Waama language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waama_language",
+   "found_in_search": true
+  }
+ ]
+}
