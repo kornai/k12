@@ -1,0 +1,31 @@
+{
+ "iso": "weu",
+ "name": "Chin, Rawngtu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:58:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Welaung language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Welaung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rawngtu in Myanmar (Burma), Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15902",
+   "found_in_search": true
+  },
+  {
+   "title": "MYANMAR Rawngtu (Asia Harvest)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Rawngtu.pdf",
+   "found_in_search": true
+  }
+ ]
+}

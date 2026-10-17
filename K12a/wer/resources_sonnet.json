@@ -1,0 +1,31 @@
+{
+ "iso": "wer",
+ "name": "Amam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:58:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kunimaipan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kunimaipan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Spoken L1 Language: Amam",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/amam1246",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Amam word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/AMAM",
+   "found_in_search": true
+  }
+ ]
+}
