@@ -1,0 +1,31 @@
+{
+ "iso": "sxu",
+ "name": "Upper Saxon",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Upper Saxon German (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Upper_Saxon_German",
+   "found_in_search": true
+  },
+  {
+   "title": "Area: Obersächsisch (PhonD2, regionalsprache.de)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://regionalsprache.de/phonD2/138212.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Sächsisch (Duden dialect dictionary, sample)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://shop.duden.de/media/44/24/e4/1719879356/Leseprobe_9783411756841_Sächsisch.pdf",
+   "found_in_search": true
+  }
+ ]
+}
