@@ -1,0 +1,52 @@
+{
+ "iso": "ssw",
+ "name": "Swati",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Oxford Kukhanyo for Siswati Home Language, Grades 1-3",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://oxford.co.za/schools/oxford-caps-approved/foundation-phase/siswati-home-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Oxford First Bilingual Dictionary: Siswati and English",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://oxford.co.za/shop/resources-and-home-learning/resource-book/9780195992915-oxford-first-bilingual-dictionary-siswati-and-english/",
+   "found_in_search": true
+  },
+  {
+   "title": "Asikhulume SiSwati (Dlamini 2010), Cambridge Language Centre listing",
+   "type": "primer",
+   "language": "other",
+   "url": "https://www.langcen.cam.ac.uk/resources/langs/data/ss_102.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Raising the profile of siSwati as a national language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://library.au.int/raising-profile-siswati-national-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal of Languages and Language Teaching (Jan 2023) on siSwati teaching",
+   "type": "academic",
+   "language": "English",
+   "url": "https://doaj.org/article/b9f5b39c07ae4491a838efe541150b53",
+   "found_in_search": true
+  },
+  {
+   "title": "Peace Corps Siswati Language Course",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.fsi-language-courses.org/siswati/courses/peace-corps-siswati-language-course",
+   "found_in_search": true
+  }
+ ]
+}
