@@ -1,0 +1,31 @@
+{
+ "iso": "xwa",
+ "name": "Kwaza",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Kwaza (van der Voort, De Gruyter)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110197280/html",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Kwaza (catalogue record, OeAW)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9783110197280",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Kwaza language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwaza_language",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xve",
+ "name": "Venetic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Developmental Literacy Case-Study 1: North East Italy (UCL Ancient Literacy)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ucl.ac.uk/ancient-literacy/project-case1.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "What Did Palaeo-European Peoples Write? Local Languages of the Western Mediterranean (Antigone)",
+   "type": "other",
+   "language": "English",
+   "url": "https://antigonejournal.com/2023/05/western-mediterranean-ancient-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "Marinetti, Venetico (2020, Palaeohispanica)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://iris.unive.it/retrieve/e4239ddd-ff7b-7180-e053-3705fe0a3322/Marinetti%20Venetico%202020%20Paleohispanica.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "PRIN Italia antica (University of Florence)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.prin-italia-antica.unifi.it/p148.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Venetic language",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Venetic",
+   "found_in_search": true
+  },
+  {
+   "title": "Building a Corpus of Ancient Venetic (Katherine McDonald)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://katherinemcdonald.net/2015/08/25/building-a-corpus-of-ancient-venetic/",
+   "found_in_search": true
+  }
+ ]
+}

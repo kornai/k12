@@ -1,0 +1,45 @@
+{
+ "iso": "xwc",
+ "name": "Woccon",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Woccon language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Woccon_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Indian Languages Database: Woccon (John Carter Brown Library)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.brown.edu/Facilities/John_Carter_Brown_Library/exhibitions/ildb/details.php?id=273",
+   "found_in_search": true
+  },
+  {
+   "title": "Waccamaw Siouan Indian Tribe (NC DNCR)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.dncr.nc.gov/blog/2023/12/12/waccamaw-siouan-indian-tribe-d-123",
+   "found_in_search": true
+  },
+  {
+   "title": "Woccon Living Dictionary (Living Tongues Institute)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://livingtongues.org/woccon-living-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Woccon Living Dictionary: about",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://livingdictionaries.app/woccon/about",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xvi",
+ "name": "Komviri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Material for the International Workshop on the Languages of Nuristan, Cologne 2019 (nuristan.info)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nuristan.info/CologneWorkshop/CologneWorkshop.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Ghulamullah, Qazi 1966 (Glottolog reference)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/571727",
+   "found_in_search": true
+  },
+  {
+   "title": "IECoR contributors page",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://iecor.clld.org/contributors/27",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Kamviri dialect",
+   "type": "other",
+   "language": "English",
+   "url": "https://EN.wikipedia.com/wiki/Kamviri",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Katë language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kat%C3%AB_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Nuristani languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nuristani_languages",
+   "found_in_search": true
+  }
+ ]
+}
