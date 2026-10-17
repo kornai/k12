@@ -1,0 +1,38 @@
+{
+ "iso": "xil",
+ "name": "Illyrian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Illyrian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Illyrian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lucida Intervalla 51 (2022)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.f.bg.ac.rs/lucidaintervalla/issues/51(2022).pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Savic: Lucida Intervalla 51 (Ligorio)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.klasicnenauke.rs/wp-content/uploads/2023/05/LI51-Savic-Ligorio.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Rhesis article on Illyrian linguistic evidence",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ojs.unica.it/index.php/rhesis/article/download/5594/5463",
+   "found_in_search": true
+  }
+ ]
+}
