@@ -1,0 +1,45 @@
+{
+ "iso": "yvt",
+ "name": "Yavitero",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yavitero language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yavitero_language",
+   "found_in_search": true
+  },
+  {
+   "title": "SAPHON Yavitero phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Yavitero.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yavitero",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1640",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yavitero bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1640/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Avane language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Avane_language",
+   "found_in_search": true
+  }
+ ]
+}

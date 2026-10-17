@@ -1,0 +1,59 @@
+{
+ "iso": "yuz",
+ "name": "Yuracare",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yuracaré people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yuracar%C3%A9_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Yuracaré language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yuracar%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Yurakaré language page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/projects/yurakare/language/",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Yurakaré project",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=1399",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden scholarly publication (Yurakaré related)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3217781/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Yuracaré",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/98725",
+   "found_in_search": true
+  },
+  {
+   "title": "Preserving Yurakaré culture (dictionary crowdfunding)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.awesomefoundation.org/bg/projects/209762-preserving-yurakare-culture",
+   "found_in_search": true
+  }
+ ]
+}
