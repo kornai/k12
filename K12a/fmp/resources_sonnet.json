@@ -1,0 +1,38 @@
+{
+ "iso": "fmp",
+ "name": "Fe’fe’",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fe'fe' language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fe%CA%BCfe%CA%BC_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Fe'fe' writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/fefe.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Nka'kayii 1973, Grammaire pratique de bamileke-fe'efe'e (Glottolog record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/147572",
+   "found_in_search": true
+  },
+  {
+   "title": "La grammaire des langues bamilekes: cas du nfi (fe'efe'e)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://catalog.pascolibraries.org/Hoopla/15423698",
+   "found_in_search": true
+  }
+ ]
+}

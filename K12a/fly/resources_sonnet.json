@@ -1,0 +1,45 @@
+{
+ "iso": "fly",
+ "name": "Flaaitaal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsotsitaal and Camtho (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsotsitaal_and_Camtho",
+   "found_in_search": true
+  },
+  {
+   "title": "flaaitaal, noun (Dictionary of South African English)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.dsae.co.za/entry/flaaitaal/e02397",
+   "found_in_search": true
+  },
+  {
+   "title": "Fly (Rosetta Panglossia, Long Now)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Fly",
+   "found_in_search": true
+  },
+  {
+   "title": "Wits WiredSpace item 0439b601",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiredspace.wits.ac.za/items/0439b601-a27a-42e6-8342-97895c739782",
+   "found_in_search": true
+  },
+  {
+   "title": "Literator article 1274",
+   "type": "academic",
+   "language": "English",
+   "url": "https://literator.org.za/index.php/literator/article/view/1274/2133",
+   "found_in_search": true
+  }
+ ]
+}

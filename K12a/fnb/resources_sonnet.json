@@ -1,0 +1,45 @@
+{
+ "iso": "fnb",
+ "name": "Fanbak",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fanbak language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fanbak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Documentation of Orkon/Fanbak, a language of Vanuatu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/a-documentation-of-orkon-fanbak-a-language-of-vanuatu",
+   "found_in_search": true
+  },
+  {
+   "title": "The languages of northern Ambrym, Vanuatu: a guide to the deposited materials in ELAR",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/24849",
+   "found_in_search": true
+  },
+  {
+   "title": "The languages of Northern Ambrym, Vanuatu (ELDP archive)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk01310387/",
+   "found_in_search": true
+  },
+  {
+   "title": "Two-year project culminates in the creation of vital language resources for Vanuatu communities (Newcastle)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.newcastle.edu.au/news/2017/05/two-year-project-culminates-in-the-creation-of-vital-language-resources-for-vanuatu-communities",
+   "found_in_search": true
+  }
+ ]
+}

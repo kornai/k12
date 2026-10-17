@@ -1,0 +1,52 @@
+{
+ "iso": "flm",
+ "name": "Falam Chin (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Falam Chin-English dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.org/chinfalam/language/map/",
+   "found_in_search": true
+  },
+  {
+   "title": "Falam language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Falam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Falam writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/falam.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Falam Chin 2009 Edition (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/FLMBIV",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Falam Chin of Myanmar",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Falam-Chin.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Chin, Falam",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/cfm",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "flh",
+ "name": "Foau",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Abawiri (Brendon Yoder, UCSB dissertation, 2020)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://escholarship.org/uc/item/4mj571tr",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Foau",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/foau1240",
+   "found_in_search": true
+  },
+  {
+   "title": "Abawiri (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Abawiri",
+   "found_in_search": true
+  }
+ ]
+}

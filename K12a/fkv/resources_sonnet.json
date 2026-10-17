@@ -1,0 +1,38 @@
+{
+ "iso": "fkv",
+ "name": "Kven Finnish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Council of Europe: Norway, further improvement needed to revitalise and develop the most endangered minority languages",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/news/-/asset_publisher/t9sWxmY5eZkv/content/norway-further-improvement-needed-to-revitalise-and-develop-the-most-endangered-minority-languages",
+   "found_in_search": true
+  },
+  {
+   "title": "European Charter for Regional or Minority Languages: evaluation report on Norway",
+   "type": "policy",
+   "language": "English",
+   "url": "https://rm.coe.int/norwayiria8-en/1680a9b734",
+   "found_in_search": true
+  },
+  {
+   "title": "Kven language and culture (Norske Kveners Forbund)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://kvener.no/?p=5939",
+   "found_in_search": true
+  },
+  {
+   "title": "Kvänangen Language Center",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://kvaenangen.prod15.ovh.ramsalt.com/en/language-center",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "iso": "fln",
+ "name": "Flinders Island",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Flinders Island language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Flinders_Island_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Press chapter mentioning Johnny Flinders and Peter Sutton's fieldwork",
+   "type": "academic",
+   "language": "English",
+   "url": "https://press-files.anu.edu.au/downloads/press/n14124/pdf/ch12.pdf",
+   "found_in_search": true
+  }
+ ]
+}

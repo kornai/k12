@@ -1,0 +1,38 @@
+{
+ "iso": "fip",
+ "name": "Fipa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fipa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fipa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Fipa: a first look at dialectal variation and syntactic variation (HU Berlin colloquium)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://iaaw.hu-berlin.de/de/afrika/linguistik-und-sprachen/veranstaltungen/afrikalinguistischeskolloquium/papers-sommersemester-2010/fipa-a-first-look-at-dialectal-variation-and-syntactic-variation",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Fipa in Tanzania",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11211/TZ",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Fipa",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=fip",
+   "found_in_search": true
+  }
+ ]
+}

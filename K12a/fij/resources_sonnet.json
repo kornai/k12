@@ -1,0 +1,45 @@
+{
+ "iso": "fij",
+ "name": "Fijian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fijian Language Week 2020 (University of Auckland Library)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.news.library.auckland.ac.nz/2020/10/01/macawa-ni-vosa-vakaviti-fijian-language-week-2020/",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Boumaa Fijian (Dixon 1988), catalogue listing",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://lehmanns.ch/shop/geisteswissenschaften/431329-9780864422194-fijian",
+   "found_in_search": true
+  },
+  {
+   "title": "Capell 1941, A New Fijian Dictionary (source record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://tlopo.clld.org/sources/Capell1941",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD Fijian (Suva dialect) word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=653",
+   "found_in_search": true
+  },
+  {
+   "title": "Swarthmore Linguistics wiki: Fijian",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikis.swarthmore.edu/ling073/Fijian",
+   "found_in_search": true
+  }
+ ]
+}

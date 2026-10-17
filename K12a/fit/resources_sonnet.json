@@ -1,0 +1,66 @@
+{
+ "iso": "fit",
+ "name": "Meänkieli",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Minority languages to get school lesson plans (Sveriges Radio)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.sverigesradio.se/artikel/6133178",
+   "found_in_search": true
+  },
+  {
+   "title": "Umeå University syllabus 1FI060 (Meänkieli course literature)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.umu.se/en/student/syllabus/1fi060/",
+   "found_in_search": true
+  },
+  {
+   "title": "ECML: minority language education document (Huss)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.ecml.at/mtp2/Ensemble/pdf/A2Webtext_Huss_F.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Meänkieli-Swedish-Meänkieli dictionary (SND)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://snd.gu.se/en/catalogue/study/2022-241",
+   "found_in_search": true
+  },
+  {
+   "title": "Meänkieli (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Me%C3%A4nkieli",
+   "found_in_search": true
+  },
+  {
+   "title": "Meänkieli grammar (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Me%C3%A4nkieli_grammar",
+   "found_in_search": true
+  },
+  {
+   "title": "Aspects of Meänkieli from a grammaticographical perspective",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.keeljakirjandus.ee/en?p=31859",
+   "found_in_search": true
+  },
+  {
+   "title": "Valijärvi: language ideologies in Meänkieli teaching and learning resources (UCL Discovery)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://discovery.ucl.ac.uk/id/eprint/10215021",
+   "found_in_search": true
+  }
+ ]
+}

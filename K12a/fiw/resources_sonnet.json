@@ -1,0 +1,45 @@
+{
+ "iso": "fiw",
+ "name": "Fiwaga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fiwaga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fiwaga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "East Kutubuan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/East_Kutubuan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Lake Kutubu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/papuan-gulf/kikori-river/lake-kutubu/start",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Fiwaga language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/fiw",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Fiwaga in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11215/PP",
+   "found_in_search": true
+  }
+ ]
+}

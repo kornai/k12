@@ -1,0 +1,45 @@
+{
+ "iso": "fla",
+ "name": "Kalispel-Pend d’Oreille",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Salish - Qlipse (Pend d'Oreille) Online Dictionary (UBC knowledgebase)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=8454",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation:RelLex/Salish - Qlipse (Pend d'Oreille) Online Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Salish_%E2%80%93_Qlipse_(Pend_d%E2%80%99Oreille)_Online_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of the Kalispel or Flat-Head Indian Language (UBC knowledgebase)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=3291",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation:RelLex/A Dictionary of the Kalispel or Flat-Head Indian Language",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/A_Dictionary_of_the_Kalispel_or_Flat-Head_Indian_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Salish-Kalispel materials, ACLS collection",
+   "type": "academic",
+   "language": "native",
+   "url": "https://indigenousguide.amphilsoc.org/entry/39997",
+   "found_in_search": true
+  }
+ ]
+}

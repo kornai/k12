@@ -1,0 +1,31 @@
+{
+ "iso": "fiz",
+ "name": "Izere (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Izere language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Izere_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Izere (izr)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/izr",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Izere (izr)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/izr",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "fil",
+ "name": "Filipino",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "DepEd K to 12 Filipino Curriculum Guide (Grades 1-10)",
+   "type": "policy",
+   "language": "native",
+   "url": "https://www.depedbohol.org/wp-content/uploads/2016/03/Filipino-CG.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "GMA News: KWF on English as medium of instruction and Filipino",
+   "type": "policy",
+   "language": "native",
+   "url": "https://www.gmanetwork.com/news/balitambayan/balita/839828/ingles-bilang-midyum-ng-pagtuturo-di-hadlang-sa-pagpapalawig-ng-wikang-filipino-kwf/story/",
+   "found_in_search": true
+  },
+  {
+   "title": "Diksyunaryo ng wikang Filipino (Ortigas Foundation Library holdings)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.ortigasfoundationlibrary.com.ph/collections/library-holdings/diksyunaryo-ng-wikang-filipino",
+   "found_in_search": true
+  },
+  {
+   "title": "KWF library catalogue record 2190",
+   "type": "other",
+   "language": "native",
+   "url": "https://library.kwf.gov.ph/bib/2190",
+   "found_in_search": true
+  },
+  {
+   "title": "Commission on the Filipino Language (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Commission_on_the_Filipino_Language",
+   "found_in_search": true
+  }
+ ]
+}
