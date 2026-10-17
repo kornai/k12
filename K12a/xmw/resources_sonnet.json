@@ -1,0 +1,45 @@
+{
+ "iso": "xmw",
+ "name": "Tsimihety Malagasy",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsimihety dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsimihety_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Malagasy Dialects and the Peopling of Madagascar",
+   "type": "academic",
+   "language": "English",
+   "url": "https://arxiv.org/pdf/1102.2180",
+   "found_in_search": true
+  },
+  {
+   "title": "Malagasy Dialect Divisions: Genetic versus Emblematic Criteria (Adelaar)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/15b6ed76-ba89-50d2-ab78-366ce14ddc35/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Malagasyword.org: Tsimihety",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://malagasyword.org/bins/teny2/Tsimihety",
+   "found_in_search": true
+  },
+  {
+   "title": "Malagasyword.org: entry tagged Tsimihety usage",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://malagasyword.org/bins/teny2/mpisôva",
+   "found_in_search": true
+  }
+ ]
+}

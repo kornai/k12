@@ -1,0 +1,38 @@
+{
+ "iso": "xmx",
+ "name": "Salawati",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Salawati language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Salawati_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Data from several Austronesian languages of Raja Ampat (As, Batta, Biga, Ma'ya, Salawati)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://datashare.ed.ac.uk/handle/10283/8573",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog map: Salawati",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/made1253.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "LD&amp;D journal article (unverified relevance)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lddjournal.org/article/1221/galley/2464/download",
+   "found_in_search": true
+  }
+ ]
+}
