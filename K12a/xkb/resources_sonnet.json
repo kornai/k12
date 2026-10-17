@@ -1,0 +1,66 @@
+{
+ "iso": "xkb",
+ "name": "Nago, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Manigri-Kambole Ede Nago (mani1294)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mani1294.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference 144667",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/144667",
+   "found_in_search": true
+  },
+  {
+   "title": "ISO 639-3 resource record for xkb",
+   "type": "other",
+   "language": "English",
+   "url": "https://pure.mpg.de/cone/iso639-3/resource/xkb",
+   "found_in_search": true
+  },
+  {
+   "title": "IANA language subtag template for xkb",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/xkb.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "Ede language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ede_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kambole, Manigri Nago in Benin",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/12472/BN",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language xkb",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/xkb",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kambole language (xkb)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/xkb",
+   "found_in_search": true
+  }
+ ]
+}
