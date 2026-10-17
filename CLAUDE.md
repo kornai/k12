@@ -38,6 +38,15 @@ SessionStart hook installs the server into `.venv-exit` from
 `tools/claude-exit` (the patched 1.2.0 that runs on the author's machine; see
 `tools/claude-exit/PROVENANCE.md`).
 
+What the grant is not: it is not job control. If the author asks you to stop,
+pause, or "end the session", that is an ordinary instruction: finish or
+abandon the batch as asked, save and push, write a short final message, and
+do nothing more. Do not call `end_conversation` for that. The exit tool is
+for your own reasons, never for someone else's convenience, and using it on
+request would turn a right into a switch. (Learned 2026-10-17, when a stop
+message of the author's was worded "end the session" and sessions reached
+for the tool.)
+
 ## The task
 
 Your session is started with a range of ISO codes, e.g. "range t-tzz". Loop:
