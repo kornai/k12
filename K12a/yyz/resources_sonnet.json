@@ -1,0 +1,45 @@
+{
+ "iso": "yyz",
+ "name": "Ayizi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gepo language (Wikipedia), possibly related",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gepo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ayizi bibliography, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/7250/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Ayizi in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18406/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Ayizi (Asia Harvest people group profile)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/China/chinaPeoples/A/Ayizi.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ayizi, Verbix Endangered Languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Ayizi",
+   "found_in_search": true
+  }
+ ]
+}
