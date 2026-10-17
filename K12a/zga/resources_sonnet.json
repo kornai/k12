@@ -1,0 +1,52 @@
+{
+ "iso": "zga",
+ "name": "Kinga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kinga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kinga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kinga people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kinga_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Kinga scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zga",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kinga language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/zga",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kinga in Tanzania",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12699",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kikinga",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zga",
+   "found_in_search": true
+  }
+ ]
+}

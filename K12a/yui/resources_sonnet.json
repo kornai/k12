@@ -1,0 +1,73 @@
+{
+ "iso": "yui",
+ "name": "Wajiara",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wajiara language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wajiara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Wajiara (Yuruti)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yuru1263",
+   "found_in_search": true
+  },
+  {
+   "title": "SAPhon: Yuruti phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Yuruti.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Yuruti (dice.missouri.edu PDF)",
+   "type": "other",
+   "language": "other",
+   "url": "https://dice.missouri.edu/assets/docs/tukano/Yuruti.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yuruti (Colombian Ministry of Culture PDF)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.mincultura.gov.co:443/areas/poblaciones/noticias/Documents/Yurut%C3%AD.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wajiara numerals (MPI-EVA Channumerals)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Wajiara.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yuruti",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/yuruti.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yuruti in Colombia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/16076/CO",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wajiara",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2770",
+   "found_in_search": true
+  }
+ ]
+}

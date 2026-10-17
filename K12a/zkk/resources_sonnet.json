@@ -1,0 +1,52 @@
+{
+ "iso": "zkk",
+ "name": "Karankawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Karankawa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Karankawa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Karankawa Tribe of Texas: Language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://karankawas.com/language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Karankawa Tribe of Texas: Frequently Asked Questions",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://karankawas.com/frequently-asked-questions/",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Gatschet 1891",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/307940",
+   "found_in_search": true
+  },
+  {
+   "title": "Smithsonian NAA MS 1014B finding aid",
+   "type": "other",
+   "language": "English",
+   "url": "https://sirismm.si.edu/EADpdfs/NAA.MS1014B.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Karankawa Language (EBSCO Research Starters)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ebsco.com/research-starters/language-and-linguistics/karankawa-language",
+   "found_in_search": true
+  }
+ ]
+}

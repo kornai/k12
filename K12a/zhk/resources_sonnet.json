@@ -1,0 +1,66 @@
+{
+ "iso": "zhk",
+ "name": "Kurdish Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kurdish Sign Language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kurdish_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf Worlds: KuSL project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.deafworlds.org/kusl-project/",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Raparin journal paper on Kurdish Sign Language phonology compared with ASL",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journal.uor.edu.krd/index.php/JUR/article/download/856/383/1519",
+   "found_in_search": true
+  },
+  {
+   "title": "Zimane Isaretan ye Kurdi: Di Konteksta Enstituya Hiwaye da",
+   "type": "academic",
+   "language": "other",
+   "url": "https://gcris.artuklu.edu.tr/entities/publication/5735c0cc-cc06-4ae3-97ff-8421e0371b31",
+   "found_in_search": true
+  },
+  {
+   "title": "The First Parallel Corpora for Kurdish Sign Language",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://deepai.org/publication/the-first-parallel-corpora-for-kurdish-sign-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Towards Kurdish Text to Sign Translation",
+   "type": "software",
+   "language": "English",
+   "url": "https://paperswithcode.com/paper/towards-kurdish-text-to-sign-translation",
+   "found_in_search": true
+  },
+  {
+   "title": "MDPI Computers: Kurdish Sign Language dataset",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.mdpi.com/2073-431X/13/2/37/htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Improved Recognition of Kurdish Sign Language Using Modified CNN",
+   "type": "software",
+   "language": "English",
+   "url": "https://www.academia.edu/114305735/Improved_Recognition_of_Kurdish_Sign_Language_Using_Modified_CNN",
+   "found_in_search": true
+  }
+ ]
+}

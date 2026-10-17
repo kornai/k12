@@ -1,0 +1,52 @@
+{
+ "iso": "zzj",
+ "name": "Zhuang, Zuojiang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zuojiang Zhuang languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zuojiang_Zhuang_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Zuojiang Zhuang (zzj)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/zzj",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zuojiang Zhuang in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/19687/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Zuojiang",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zzj",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Ningming Nakan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/6131",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Ningming Mingjiang",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/6133",
+   "found_in_search": true
+  }
+ ]
+}

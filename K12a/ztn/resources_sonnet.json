@@ -1,0 +1,45 @@
+{
+ "iso": "ztn",
+ "name": "Zapotec, Santa Catarina Albarradas",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:22:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Santa Catarina Albarradas Zapotec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Santa_Catarina_Albarradas_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Santa Catarina Albarradas Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sant1448.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Santa Catarina Albarradas Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ztn/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Santa Catarina Albarradas Zapoteco",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14735",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Santa Catarina Albarradas",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/ztn",
+   "found_in_search": true
+  }
+ ]
+}

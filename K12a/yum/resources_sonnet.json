@@ -1,0 +1,66 @@
+{
+ "iso": "yum",
+ "name": "Quechan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kwatsáan Iiyáa Mattkuu'éeyk! Learn the Quechan Language! (UBC RelLex)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Kwats%C3%A1an_Iiy%C3%A1a_Mattkuu%27%C3%A9eyk!_Learn_the_Quechan_Language!",
+   "found_in_search": true
+  },
+  {
+   "title": "Quechan Tribe document download (language learning PDF)",
+   "type": "community_org",
+   "language": "native",
+   "url": "https://quechantribe.com/documents/download/47",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwatsáan liváa: A Multi-Generational Dictionary of the Quechan Language",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Kwats%C3%A1an_liv%C3%A1a:_A_Multi-Generational_Dictionary_of_the_Quechan_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC RelLex: Quechan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Quechan",
+   "found_in_search": true
+  },
+  {
+   "title": "Open Book Publishers PDF (Miller intro on Quechan dictionary and Halpern stories)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://books.openbookpublishers.com/10.11647/obp.0037.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Quechan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Quechan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Quechan language - Native Languages of the Americas",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.native-languages.org/quechan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Quechan (Kwatsáan Iiyáa) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/quechan.htm",
+   "found_in_search": true
+  }
+ ]
+}

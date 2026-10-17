@@ -1,0 +1,52 @@
+{
+ "iso": "zpe",
+ "name": "Zapotec, Petapa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:10:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Petapa Zapotec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Petapa_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Petapa Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/peta1247",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Transyautepecan Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38696",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Petapa Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zpe/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Petapa Zapoteco in Mexico",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14608/MX",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Petapa",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zpe",
+   "found_in_search": true
+  }
+ ]
+}

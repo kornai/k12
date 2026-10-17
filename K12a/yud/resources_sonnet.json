@@ -1,0 +1,45 @@
+{
+ "iso": "yud",
+ "name": "Arabic, Judeo-Tripolitanian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Judeo-Tripolitanian Arabic (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Judeo-Tripolitanian_Arabic",
+   "found_in_search": true
+  },
+  {
+   "title": "The Arabic dialect of the Jews of Tripoli (Libya): grammar, text and glossary (Yoda)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://ub16.uni-tuebingen.de/Record/487455495",
+   "found_in_search": true
+  },
+  {
+   "title": "Libyan Judeo-Arabic (D'Anna, Harrassowitz)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.harrassowitz-verlag.de/Libyan_Judeo-Arabic/title_9129.ahtml",
+   "found_in_search": true
+  },
+  {
+   "title": "Book: Libyan Judeo-Arabic (Silphium Gatherer)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://silphiumgatherer.com/2026/01/26/book-libyan-judeo-arabic/",
+   "found_in_search": true
+  },
+  {
+   "title": "Jewish Libya: Memory and Identity in Text and Image (Sephardic Horizons)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mail.sephardichorizons.org/Volume8/Issue1&amp;2/Lagnado.html",
+   "found_in_search": true
+  }
+ ]
+}

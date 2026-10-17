@@ -1,0 +1,45 @@
+{
+ "iso": "zrp",
+ "name": "Zarphatic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:18:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zarphatic language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zarphatic_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Judeo-French (Jewish Language Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.jewishlanguages.org/judeo-french",
+   "found_in_search": true
+  },
+  {
+   "title": "Zrp (Rosetta Panglossia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Zrp",
+   "found_in_search": true
+  },
+  {
+   "title": "Judeo French (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Judeo-French",
+   "found_in_search": true
+  },
+  {
+   "title": "Zarphatic (Wiktionary word list on kaikki.org)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://kaikki.org/dictionary/All languages combined/meaning/Z/Za/Zarphatic.html",
+   "found_in_search": true
+  }
+ ]
+}

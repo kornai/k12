@@ -1,0 +1,38 @@
+{
+ "iso": "zad",
+ "name": "Cajonos Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Cajonos Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/zad",
+   "found_in_search": true
+  },
+  {
+   "title": "HLT database: Cajonos Zapotec (zad)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hlt.bme.hu/en/dld/language/2989",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Cajonos Zapotec-English",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/zad/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings: Zapotec, Cajonos",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zad",
+   "found_in_search": true
+  }
+ ]
+}

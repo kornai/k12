@@ -1,0 +1,52 @@
+{
+ "iso": "zhd",
+ "name": "Zhuang, Dai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dai Zhuang language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dai_Zhuang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhuang languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zhuang_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Standard Zhuang (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Standard_Zhuang",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Zhuang writing systems",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/zhuang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Dai: Central Wenshan",
+   "type": "audio",
+   "language": "English",
+   "url": "https://www.globalrecordings.net/en/language/25592",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Dai (zhd)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/zhd",
+   "found_in_search": true
+  }
+ ]
+}

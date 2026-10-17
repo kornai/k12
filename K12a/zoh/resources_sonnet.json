@@ -1,0 +1,38 @@
+{
+ "iso": "zoh",
+ "name": "Chimalapa Zoque",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:06:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zoque de Chimalapa (Archivo de Lenguas Indígenas de México, Colegio de México)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.colmex.mx/pdf_viewer/fn1072420?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Chimalapa Zoque resources",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.endangeredlanguages.com/es/node/37547/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Territory and identity of the Chimalapa Zoque (Redalyc)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.redalyc.org/pdf/4559/455944927004.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of five Zoquean languages spoken in Mexico: Santa Maria Chimalapa (ELDP)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0528/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "zkg",
+ "name": "Koguryo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Goguryeo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Goguryeo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Peninsular Japonic (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Peninsular_Japonic",
+   "found_in_search": true
+  },
+  {
+   "title": "Placename glosses in the Samguk sagi",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://demo.azizisearch.com/lite/wikipedia/page/Placename_glosses_in_the_Samguk_sagi",
+   "found_in_search": true
+  },
+  {
+   "title": "Reconstruction of Goguryeo grammatical forms (Korean article)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://scholar.kyobobook.co.kr/article/detail/4010023444916",
+   "found_in_search": true
+  },
+  {
+   "title": "Goguryeo vocabulary article (earticle)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.earticle.net/Article/A77784",
+   "found_in_search": true
+  }
+ ]
+}

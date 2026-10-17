@@ -1,0 +1,59 @@
+{
+ "iso": "ywm",
+ "name": "Wumeng Yi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "List of lesser-known Loloish languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/List_of_lesser-known_Loloish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Yi people (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yi_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Nisoish languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nisoish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "STEDT source: Yihan zidian (Yi-Chinese dictionary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/CSL-YIzd",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode preliminary proposal for Yi script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2022/22183-yi-preliminary.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wumeng in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/18713",
+   "found_in_search": true
+  },
+  {
+   "title": "Wumeng people group profile (Asia Harvest)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/wumeng.pdf",
+   "found_in_search": true
+  }
+ ]
+}

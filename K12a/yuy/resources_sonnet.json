@@ -1,0 +1,45 @@
+{
+ "iso": "yuy",
+ "name": "Yugur, East",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Eastern Yugur language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eastern_Yugur_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: East Yugur",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1208",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Yugur, East verbs",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/YugurEast",
+   "found_in_search": true
+  },
+  {
+   "title": "CESS 2026 conference abstract on Eastern Yugur",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nomadit.co.uk/conference/cess2026/p/20111",
+   "found_in_search": true
+  },
+  {
+   "title": "Russian-language article on Eastern Yugur classification",
+   "type": "academic",
+   "language": "other",
+   "url": "https://mongoloved.kigiran.com/jour/article/jats/1108",
+   "found_in_search": true
+  }
+ ]
+}

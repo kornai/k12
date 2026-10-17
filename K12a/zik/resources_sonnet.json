@@ -1,0 +1,59 @@
+{
+ "iso": "zik",
+ "name": "Zimakani",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zimakani language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zimakani_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Zimakani",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/zima1244",
+   "found_in_search": true
+  },
+  {
+   "title": "Trans New Guinea database: Zimakani (South Boazi)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://transnewguinea.org/language/zimakani-south-boazi",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems: Zimakani",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Zimakani.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Bagwa Zimakani",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/10563",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language zik",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/zik",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zimakani",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/18716",
+   "found_in_search": true
+  }
+ ]
+}

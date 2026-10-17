@@ -1,0 +1,52 @@
+{
+ "iso": "zsl",
+ "name": "Zambian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:19:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zambian Sign Language (A. L. Bwalya, 1985), Glottolog record",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/319313",
+   "found_in_search": true
+  },
+  {
+   "title": "UNZA thesis on schools for the deaf (Magwero and St. Joseph)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dspace.unza.zm/handle/123456789/7167",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexicography and Sign Language Engineering: The Zambian Experience (Lexikos)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/980",
+   "found_in_search": true
+  },
+  {
+   "title": "Zambian Sign Language Dictionary (Zambia Association of the Deaf, 2001), Glottolog record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/552544",
+   "found_in_search": true
+  },
+  {
+   "title": "Chanda, Lexicography and Sign Language Engineering (AJOL)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ajol.info/index.php/lex/article/view/146269",
+   "found_in_search": true
+  },
+  {
+   "title": "UNZA study on sign language in schools (DSpace)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dspace.unza.zm/handle/123456789/6485",
+   "found_in_search": true
+  }
+ ]
+}

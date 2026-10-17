@@ -1,0 +1,45 @@
+{
+ "iso": "zlm",
+ "name": "Malay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:55:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kamus Dewan (Wikipedia)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kamus_Dewan",
+   "found_in_search": true
+  },
+  {
+   "title": "Kamus Dewan Perdana online (SAYS)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://says.com/my/tech/kamus-dewan-perdana-online",
+   "found_in_search": true
+  },
+  {
+   "title": "Budi dan Kamus Dewan Perdana (Sinar Harian)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.sinarharian.com.my/article/106374/budi-dan-kamus-dewan-perdana",
+   "found_in_search": true
+  },
+  {
+   "title": "UKM technical report PTA-FTSM-2020-104",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ftsm.ukm.my/v5/file/research/technicalreport/PTA-FTSM-2020-104.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kamus Melayu-Khmer Dewan (Kawah Buku)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://kawahbuku.com/titles/kamus-melayu-khmer-dewan-%e1%9e%9c%e1%9e%85%e1%9e%93%e1%9e%b6%e1%9e%93%e1%9e%bb%e1%9e%80%e1%9f%92%e1%9e%9a%e1%9e%98-%e1%9e%98%e1%9f%89%e1%9e%b6%e1%9e%a1%e1%9e%b6%e1%9e%99%e1%9e%bc-%e1%9e%81%e1%9f%92",
+   "found_in_search": true
+  }
+ ]
+}

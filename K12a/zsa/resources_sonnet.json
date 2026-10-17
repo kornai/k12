@@ -1,0 +1,38 @@
+{
+ "iso": "zsa",
+ "name": "Sarasira",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:19:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Adzera language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Adzera_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Catalog: Holzknecht Markham recordings (ANUA520_5001)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/SH2/ANUA520_5001",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sirasira in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14947",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sarasira language",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/6697",
+   "found_in_search": true
+  }
+ ]
+}

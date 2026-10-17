@@ -1,0 +1,45 @@
+{
+ "iso": "zgm",
+ "name": "Zhuang, Minz",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Min Zhuang language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Min_Zhuang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Minz Zhuang",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zgm/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Minz Zhuang in China",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20323",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language zgm",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/zgm",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Minz language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zgm",
+   "found_in_search": true
+  }
+ ]
+}

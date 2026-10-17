@@ -1,0 +1,45 @@
+{
+ "iso": "zwa",
+ "name": "Zay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:27:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zay language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zay_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zay people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zay_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Catalogue of Endangered Languages: Zay",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/88388",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Zay",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zwa",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zay in Ethiopia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/16094",
+   "found_in_search": true
+  }
+ ]
+}

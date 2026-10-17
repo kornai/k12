@@ -1,0 +1,45 @@
+{
+ "iso": "zmd",
+ "name": "Maridan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:57:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Marridan (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marridan",
+   "found_in_search": true
+  },
+  {
+   "title": "Marri Tjevin (Wikipedia, related language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marri_Tjevin",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog languoid entry for Maridan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mari1420",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Maridan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1907",
+   "found_in_search": true
+  },
+  {
+   "title": "Handbook of the Cosmos: Marridan",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.hgcosmos.org/assets/culture/AZ/M/Marridan.pdf",
+   "found_in_search": true
+  }
+ ]
+}

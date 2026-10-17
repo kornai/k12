@@ -1,0 +1,45 @@
+{
+ "iso": "zkn",
+ "name": "Kanan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ganan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ganan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kanan numerals (Max Planck)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kanan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo/CRDO entry for zkn",
+   "type": "other",
+   "language": "English",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=zkn",
+   "found_in_search": true
+  },
+  {
+   "title": "Kanan in Myanmar (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20535/BM",
+   "found_in_search": true
+  },
+  {
+   "title": "Myanmar Kanan (Asia Harvest)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Kanan.pdf",
+   "found_in_search": true
+  }
+ ]
+}

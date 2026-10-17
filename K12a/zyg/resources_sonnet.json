@@ -1,0 +1,59 @@
+{
+ "iso": "zyg",
+ "name": "Yang Zhuang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:28:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yang Zhuang language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yang_Zhuang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yang Zhuang",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yangzhuang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yang Zhuang",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/zyg",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Yang Zhuang",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zyg/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yang Zhuang in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/19686/CH",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yang Zhuang in Vietnam",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/19686/VM",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Yang",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/zyg",
+   "found_in_search": true
+  }
+ ]
+}

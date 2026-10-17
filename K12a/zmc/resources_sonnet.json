@@ -1,0 +1,73 @@
+{
+ "iso": "zmc",
+ "name": "Margany",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:57:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Breen 1981: Margany and Gunya (phoible record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://phoible.org/sources/breen_margany_1981",
+   "found_in_search": true
+  },
+  {
+   "title": "Breen 1981 (phoible source record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://phoible.org/sources/132305",
+   "found_in_search": true
+  },
+  {
+   "title": "Breen 1981 (WALS reference record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wals.info/refdb/record/Breen-1981",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS MS 113 Breen papers finding aid",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/sites/default/files/catalogue_resources/MS113.PDF",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG entry",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/d43",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Margany",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/marg1253",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Margany wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/MARGANY_2",
+   "found_in_search": true
+  },
+  {
+   "title": "SLQ Word Week blog, week thirty-eight",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-thirty-eight",
+   "found_in_search": true
+  },
+  {
+   "title": "Handbook of the Cosmos: Margany",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.hgcosmos.org/assets/culture/AZ/M/Margany.pdf",
+   "found_in_search": true
+  }
+ ]
+}

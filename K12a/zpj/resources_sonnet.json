@@ -1,0 +1,38 @@
+{
+ "iso": "zpj",
+ "name": "Zapotec, Quiavicuzas",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:11:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Quiavicuzas Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Quiavicuzas_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Quiavicuzas Zapotec (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zpj/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Quiavicuzas Zapotec language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/zpj",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Quiavicuzas",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zpj",
+   "found_in_search": true
+  }
+ ]
+}

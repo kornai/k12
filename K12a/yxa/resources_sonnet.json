@@ -1,0 +1,31 @@
+{
+ "iso": "yxa",
+ "name": "Mayawali",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "State Library of Queensland: Language week, week twenty-six, Maiawali",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/language-week-week-twenty-six-maiawali",
+   "found_in_search": true
+  },
+  {
+   "title": "Maiawali (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://EN.wikipedia.com/wiki/Maiawali",
+   "found_in_search": true
+  },
+  {
+   "title": "Breen 1981: The Mayi languages of the Queensland Gulf country (HathiTrust record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://catalog.hathitrust.org/Record/000106521/Cite",
+   "found_in_search": true
+  }
+ ]
+}

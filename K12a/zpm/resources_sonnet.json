@@ -1,0 +1,31 @@
+{
+ "iso": "zpm",
+ "name": "Mixtepec Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Reeck, Roger 1991: A trilingual dictionary in (Mixtepec) Zapotec, English and Spanish (Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/40218",
+   "found_in_search": true
+  },
+  {
+   "title": "A Sketch of Mixtepec Zapotec Grammar (Hunn, Baron, Reeck, Hernández Pérez, Silva Cruz)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://n.gst.elementfx.com/dl/a-sketch-of-mixtepec-zapotec-grammar",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Mixtepec Zapotec bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3124/bibliography?hl=zh-cn",
+   "found_in_search": true
+  }
+ ]
+}

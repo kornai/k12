@@ -1,0 +1,38 @@
+{
+ "iso": "zpz",
+ "name": "Texmelucan Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Texmelucan Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Texmelucan_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Texmelucan Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/texm1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Texmelucan Zapotec (zpz)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zpz",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Texmelucan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zpz",
+   "found_in_search": true
+  }
+ ]
+}

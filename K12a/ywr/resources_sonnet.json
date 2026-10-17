@@ -1,0 +1,52 @@
+{
+ "iso": "ywr",
+ "name": "Yawuru",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yawuru language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yawuru_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yawuru (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yawuru",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang K1: Yawuru",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/K1",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS collection: K1 Yawuru",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1508637",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yawuru",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yawuru.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yawuru environment vocabulary sample",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://endangeredlanguages.com/lang/3160/samples/9821?hl=en",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "zpb",
+ "name": "Zapotec, Yautepec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:09:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Yautepec Zapotec (yaut1235)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yaut1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Yautepec Zapotec (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3128",
+   "found_in_search": true
+  },
+  {
+   "title": "Yautepec Zapotec (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zpb/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zapotec, Yautepec",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/zpb",
+   "found_in_search": true
+  },
+  {
+   "title": "Zapotec, Yautepec language (Global Recordings Network; no recordings listed)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.globalrecordings.net/en/language/zpb",
+   "found_in_search": true
+  }
+ ]
+}

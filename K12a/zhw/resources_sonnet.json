@@ -1,0 +1,38 @@
+{
+ "iso": "zhw",
+ "name": "Zhoa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zhoa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zhoa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhoa (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zhoa",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO World Atlas of Languages: Zhoa in Cameroon",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wal.unesco.org/countries/cameroon/languages/zhoa",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zhoa in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18991",
+   "found_in_search": true
+  }
+ ]
+}

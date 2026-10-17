@@ -1,0 +1,66 @@
+{
+ "iso": "zia",
+ "name": "Zia",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wilson 1980: A brief comparative grammar of Zia and Suena (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/302428",
+   "found_in_search": true
+  },
+  {
+   "title": "Wilson: The Zia orthography (Glottolog record)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/313272",
+   "found_in_search": true
+  },
+  {
+   "title": "TransNewGuinea.org Zia lexical data",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/language/zia?page=4",
+   "found_in_search": true
+  },
+  {
+   "title": "MPI Zia numerals",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Zia.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Zia (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zia/",
+   "found_in_search": true
+  },
+  {
+   "title": "Zia Bible listing (dbs.org)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/ZIAWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue item FNBPNGEH109",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/AC2/FNBPNGEH109",
+   "found_in_search": true
+  }
+ ]
+}

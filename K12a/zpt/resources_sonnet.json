@@ -1,0 +1,38 @@
+{
+ "iso": "zpt",
+ "name": "San Vicente Coatlán Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zapotec, San Vicente Coatlan language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zpt",
+   "found_in_search": true
+  },
+  {
+   "title": "Zapotec, San Vicente Coatlan language (GRN, alternate page)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/4063",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: San Vicente Coatlan Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10951",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: San Vicente Coatlan Zapotec",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zpt",
+   "found_in_search": true
+  }
+ ]
+}

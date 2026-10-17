@@ -1,0 +1,66 @@
+{
+ "iso": "ztg",
+ "name": "Xanaguía Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:20:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Xanaguia Zapotec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xanagu%C3%ADa_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Xanaguia Zapotec (ztg)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ztg/",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Xanaguia Zapotec wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/XANAGUIA_ZAPOTEC",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: ztg language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/ztg",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Xanaguia Zapoteco in Mexico",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14606/MX",
+   "found_in_search": true
+  },
+  {
+   "title": "MegaVoice: Gospel of Luke, Zapoteco de Xanaguia (ztg)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m027249-gospel-of-luke-ztg-zapoteco-de-xanaguia-audio-bible/",
+   "found_in_search": true
+  },
+  {
+   "title": "MegaVoice: Good News, Zapoteco de Xanaguia (ztg)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m027248-good-news-ztg-zapoteco-de-xanaguia-audio-bible/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Xanaguia",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/ztg",
+   "found_in_search": true
+  }
+ ]
+}

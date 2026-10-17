@@ -1,0 +1,59 @@
+{
+ "iso": "yym",
+ "name": "Yuanjiang-Mojiang Yi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Yuanjiang-Mojiang Nisu (retired, split into nsd and nsv)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yuan1242",
+   "found_in_search": true
+  },
+  {
+   "title": "Nisu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nisu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nisoish languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nisoish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Nisu writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/nisu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Nisu (Yuanyang) people-group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/nisu-yuanyang.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Southern Nisu",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/nsd",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yi, Lolo in Mojiang",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/6077",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "yuj",
+ "name": "Karkar-Yuri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Karkar language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Karkar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pauwasi languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pauwasi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "East Pauwasi languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/East_Pauwasi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: East Pauwasi River (bibliography)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/pauwasi-river/east-pauwasi-river/start",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Karkar Yuri",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/KARKAR_YURI",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Karkar-Yuri bibliography",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10680/bibliography",
+   "found_in_search": true
+  }
+ ]
+}

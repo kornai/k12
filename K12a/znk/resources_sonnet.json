@@ -1,0 +1,38 @@
+{
+ "iso": "znk",
+ "name": "Manangkari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:06:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Manangkari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Manangkari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: Mananggari (N183)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/N183",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Manangkari",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2546",
+   "found_in_search": true
+  },
+  {
+   "title": "Maung language (Wikipedia), related living language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Maung_language",
+   "found_in_search": true
+  }
+ ]
+}

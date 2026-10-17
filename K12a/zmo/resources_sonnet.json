@@ -1,0 +1,38 @@
+{
+ "iso": "zmo",
+ "name": "Molo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:01:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Molo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Molo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Jebel languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eastern_Jebel_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Molo word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/MOLO",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Molo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3134",
+   "found_in_search": true
+  }
+ ]
+}

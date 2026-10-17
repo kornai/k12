@@ -1,0 +1,38 @@
+{
+ "iso": "yun",
+ "name": "Bena",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bena language (Adamawa) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bena_language_(Adamawa)",
+   "found_in_search": true
+  },
+  {
+   "title": "Bena language - Wikipedia (disambiguation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bena_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: BENA",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/BENA",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: BENA 2",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/BENA_2",
+   "found_in_search": true
+  }
+ ]
+}

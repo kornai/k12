@@ -1,0 +1,45 @@
+{
+ "iso": "zkv",
+ "name": "Krevinian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:55:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Krevinian dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Krevinian_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Kreevins (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kreevins",
+   "found_in_search": true
+  },
+  {
+   "title": "Other Finnic languages (Ugri.net)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ugri.net/in-english/uralic-languages/finnic-languages/other-finnic-languages",
+   "found_in_search": true
+  },
+  {
+   "title": "LMU Munich Finnic e-learning part 6",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.infuse.finnougristik.uni-muenchen.de/e-learning/finnic/o6_finnic_part6.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistica Uralica 2025 article on Krevinian place-name etymologies",
+   "type": "academic",
+   "language": "English",
+   "url": "https://kirj.ee/wp-content/plugins/kirj/pub/ling-2025-1-1-29_20250310122410.pdf",
+   "found_in_search": true
+  }
+ ]
+}

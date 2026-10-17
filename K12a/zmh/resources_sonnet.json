@@ -1,0 +1,52 @@
+{
+ "iso": "zmh",
+ "name": "Makolkol",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:59:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Makolkol language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Makolkol_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Baining languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Baining_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "East New Britain languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/East_New_Britain_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Baining people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Baining_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Makolkol",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2268",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Makolkol",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Makolkol",
+   "found_in_search": true
+  }
+ ]
+}

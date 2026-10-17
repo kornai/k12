@@ -1,0 +1,45 @@
+{
+ "iso": "zul",
+ "name": "Zulu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:25:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Oxford Asicije Amakhono Ibanga 4 (CAPS)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://oxford.co.za/shop/resources-and-home-learning/workbooks/9780195999815-oxford-asicije-amakhono-ibanga-4-caps/",
+   "found_in_search": true
+  },
+  {
+   "title": "Oxford Asicije Amakhono Ibanga 5 (CAPS)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://oxford.co.za/shop/school/languages/grade-5-languages/isizulu-grade-5-languages/9780199043774-oxford-asicije-amakhono-ibanga-5-caps/",
+   "found_in_search": true
+  },
+  {
+   "title": "Twinkl isiZulu topic resources",
+   "type": "other",
+   "language": "native",
+   "url": "https://www.twinkl.com/resources/south-africa-resources/isizulu-resources-south-africa-suid-afrika/topics-isizulu-isixhosa-and-zulu-resources-south-africa-suid-afrika",
+   "found_in_search": true
+  },
+  {
+   "title": "isiZulu Handbook and Study Guide, Grades 4-12",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://shop.snapplify.com/product/the-isizulu-handbook-and-study-guide-grades-4-12",
+   "found_in_search": true
+  },
+  {
+   "title": "Oxford Bilingual School Dictionary: isiZulu and English, Grades 4-9",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://oxford.co.za/shop/resources-and-home-learning/resource-book/9780199075935-oxford-bilingual-school-dictionary-isizulu-and-english-grade-4-9-epdf/",
+   "found_in_search": true
+  }
+ ]
+}

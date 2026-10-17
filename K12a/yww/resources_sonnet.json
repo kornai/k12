@@ -1,0 +1,31 @@
+{
+ "iso": "yww",
+ "name": "Yawarawarga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yawarrawarrka (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yawarrawarrka",
+   "found_in_search": true
+  },
+  {
+   "title": "Yandruwandha language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yandruwandha_language",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland Word of the Week, week six (2019)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-six",
+   "found_in_search": true
+  }
+ ]
+}

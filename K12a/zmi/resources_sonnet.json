@@ -1,0 +1,45 @@
+{
+ "iso": "zmi",
+ "name": "Negeri Sembilan Malay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:59:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Negeri Sembilan Malay (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Negeri_Sembilan_Malay",
+   "found_in_search": true
+  },
+  {
+   "title": "Phonology and Morphology of Ulu Muar Malay (Hendon, 1966), Penang Bookshelf page",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://penangbookshelf.com/pd-phonology.cfm",
+   "found_in_search": true
+  },
+  {
+   "title": "Minangkabau and Negri Sembilan (Springer)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://link.springer.com/book/9789400982000",
+   "found_in_search": true
+  },
+  {
+   "title": "Minangkabau Malaysians (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Minangkabau_Malaysians",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Negeri Sembilan Malay",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/zmi",
+   "found_in_search": true
+  }
+ ]
+}

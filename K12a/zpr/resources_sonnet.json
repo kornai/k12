@@ -1,0 +1,45 @@
+{
+ "iso": "zpr",
+ "name": "Santiago Xanica Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:14:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Xánica Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/X%C3%A1nica_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Santiago Xanica Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sant1452.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Santiago Xanica Zapotec",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/zpr",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Santiago Xanica",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zpr",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Santiago Xanica Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zpr/",
+   "found_in_search": true
+  }
+ ]
+}

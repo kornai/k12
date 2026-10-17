@@ -1,0 +1,35 @@
+You will research 4 languages (zbl, zbt, zbu, zbw), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE zbl ===
+Please help me gather resources for the Blissymbols language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zbl; Glottocode: blis1239; family: Artificial Language; macro-area: Eurasia
+
+=== LANGUAGE zbt ===
+Please help me gather resources for the Batui language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zbt; Glottocode: batu1260; family: Austronesian; macro-area: Papunesia. Reference description: Batui is an endangered indigenous language of Indonesia. It belongs to the Austronesian language family. The language is used as a first language by adults only. It is not known to be taught in schools.
+
+=== LANGUAGE zbu ===
+Please help me gather resources for the Bu language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zbu; Glottocode: zara1252; family: Afro-Asiatic; macro-area: Africa. Reference description: Bu is a stable indigenous language of Nigeria. It belongs to the Afro-Asiatic language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE zbw ===
+Please help me gather resources for the Berawan, West language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zbw; Glottocode: west2564; family: Austronesian; macro-area: Papunesia; approx. speakers: about 1,000. Reference description: West Berawan is an endangered indigenous language of Malaysia. It belongs to the Austronesian language family. The language is used as a first language by all adults in the ethnic community, but not all young people. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

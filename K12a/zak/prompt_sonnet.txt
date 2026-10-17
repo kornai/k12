@@ -1,0 +1,35 @@
+You will research 4 languages (zah, zai, zaj, zak), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE zah ===
+Please help me gather resources for the Zamwal language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zah; Glottocode: zang1255; family: Afro-Asiatic; macro-area: Africa. Reference description: Zamwal is an endangered indigenous language of Nigeria. It belongs to the Afro-Asiatic language family. The language is used as a first language by older adults only. It is not known to be taught in schools.
+
+=== LANGUAGE zai ===
+Please help me gather resources for the Isthmus Zapotec language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zai; Glottocode: isth1244; family: Otomanguean; macro-area: North America; approx. speakers: about 85,000. Reference description: Isthmus Zapotec is an endangered indigenous language of Mexico. It belongs to the Otomanguean language family and is part of the Zapotec macrolanguage. The language is used as a first language by some people in every generation of the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE zaj ===
+Please help me gather resources for the Zaramo language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zaj; Glottocode: zara1247; family: Atlantic-Congo; macro-area: Africa; approx. speakers: about 1,000,000. Reference description: Zaramo is an endangered indigenous language of Tanzania. It belongs to the Niger-Congo language family. The language is used as a first language by some people in every generation of the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE zak ===
+Please help me gather resources for the Zanaki language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zak; Glottocode: zana1238; family: Atlantic-Congo; macro-area: Africa; approx. speakers: about 100,000. Reference description: Zanaki is a stable indigenous language of Tanzania. It belongs to the Niger-Congo language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

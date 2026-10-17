@@ -1,0 +1,38 @@
+{
+ "iso": "zim",
+ "name": "Mesme",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mesme language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mesme_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Mesme",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/MESME",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems: Mesme",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Mesme.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mesme, Zime in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/13690/CD",
+   "found_in_search": true
+  }
+ ]
+}

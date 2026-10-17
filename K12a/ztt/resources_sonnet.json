@@ -1,0 +1,52 @@
+{
+ "iso": "ztt",
+ "name": "Zapotec, Tejalapan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tejalapan Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tejalapan_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Tejalapan Zapotec (HLT Digital Language Diversity)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hlt.bme.hu/en/dld/language/310",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tejalapan Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/TejalapanZapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tejalapan Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/teja1235.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Tejalapan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/ztt",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tejalapan Zapoteco",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15346/MX",
+   "found_in_search": true
+  }
+ ]
+}

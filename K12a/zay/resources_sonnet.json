@@ -1,0 +1,73 @@
+{
+ "iso": "zay",
+ "name": "Zayse",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Documentation and Grammatical Description of Zaysete (AAU dissertation)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://etd.aau.edu.et/items/b757684f-86c0-4142-b6d3-ce2700435273",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation and Grammatical Description of Zaysete (full record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://etd.aau.edu.et/items/b757684f-86c0-4142-b6d3-ce2700435273/full",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 30.4667",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/30/4667/",
+   "found_in_search": true
+  },
+  {
+   "title": "Zayse-Zergulla language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Zayse",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Zayse",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/91890",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zayse",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zay",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zayse in Ethiopia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/16096",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zayse language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/zay",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Zayse",
+   "type": "video",
+   "language": "other",
+   "url": "https://wikitongues.org/languages/zay/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "zos",
+ "name": "Francisco León Zoque",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:09:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zoque literacy material, Colegio de México repository (Francisco León dialect primers by SEP/ILV; record not individually verified)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/zk51vj76r?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Chiapas Zoque (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chiapas_Zoque",
+   "found_in_search": true
+  },
+  {
+   "title": "Zoque languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zoque_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Zoque, Francisco Leon language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zos",
+   "found_in_search": true
+  },
+  {
+   "title": "Zoque, Francisco Leon: Chapultenango language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/18726",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "zku",
+ "name": "Kaurna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:53:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "New website helps grow Kaurna language (University of Adelaide)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.adelaide.edu.au/newsroom/news/list/2023/03/09/new-website-helps-grow-kaurna-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaurna online: new website to help people learn the language (Cosmos)",
+   "type": "other",
+   "language": "English",
+   "url": "https://cosmosmagazine.com/people/kaurna-warra-website",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaurna online: New website to help learn the language (InDaily)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.indailysa.com.au/news/archive/2023/03/14/kaurna-online-new-website-to-help-learn-the-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Adelaide Digital Library record 2440/93054",
+   "type": "academic",
+   "language": "English",
+   "url": "https://digital.library.adelaide.edu.au/dspace/handle/2440/93054",
+   "found_in_search": true
+  },
+  {
+   "title": "Adelaide Digital Library item record",
+   "type": "academic",
+   "language": "English",
+   "url": "https://digital.library.adelaide.edu.au/items/7100f8d6-deb6-4383-af28-652cac609136/full",
+   "found_in_search": true
+  },
+  {
+   "title": "WINHEC journal article related to Kaurna",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.uvic.ca/index.php/winhec/article/view/20275/9069",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaurna Warra Pintyanthi (KWP) Team",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://able.adelaide.edu.au/humanities/kaurna-warra-pintyanthi-kwp-team",
+   "found_in_search": true
+  },
+  {
+   "title": "Stories, songs and records: how to bring back a language (Cosmos)",
+   "type": "other",
+   "language": "English",
+   "url": "https://cosmosmagazine.com/people/culture/stories-songs-and-records-how-to-bring-back-a-language",
+   "found_in_search": true
+  }
+ ]
+}

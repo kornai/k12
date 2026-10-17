@@ -1,0 +1,38 @@
+{
+ "iso": "zoo",
+ "name": "Zapotec, Asunción Mixtepec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Asunción Mixtepec Zapotec (zoo), language profile with lexical resource status",
+   "type": "other",
+   "language": "English",
+   "url": "https://hlt.bme.hu/en/dld/language/792",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Asunción Mixtepec Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/asun1236",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: resources for Asunción Mixtepec Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38698/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Asuncion Mixtepec (no recordings available)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/zoo",
+   "found_in_search": true
+  }
+ ]
+}

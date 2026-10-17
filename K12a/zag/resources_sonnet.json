@@ -1,0 +1,52 @@
+{
+ "iso": "zag",
+ "name": "Zaghawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zaghawa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zaghawa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Zaghawa (Beria) and the Beria Giray Erfe script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/zaghawa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Issa: history of the Beria orthography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://blogs.ed.ac.uk/nilotic/wp-content/uploads/sites/3585/2021/05/Issa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Resources for non-Arabic Sudanese languages (lists Blench Beria dictionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://hazine.info/resources-non-arabic-sudanese-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "Zaghawa phonetic alphabet overview",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://internationalphoneticalphabet.org/zaghawa",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Alphabets: Beria script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.endangeredalphabets.net/?p=2750",
+   "found_in_search": true
+  }
+ ]
+}

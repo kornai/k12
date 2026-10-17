@@ -1,0 +1,52 @@
+{
+ "iso": "ziw",
+ "name": "Zigula",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Omniglot: Zigula (Chizigua)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/zigula.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Zigula language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zigula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "DICE (University of Missouri): Zigula overview",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dice.missouri.edu/assets/docs/niger-congo/Zigula.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Zigula-English Dictionary (W. H. Kisbey, 1906), bookseller listing",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://booksinbelgium.be/nl/b/zigula-english-dictionary-compiled-for-the-universities-mission-to-central-africa-kisbey-w-h-9591222",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Zigula",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ziw/",
+   "found_in_search": true
+  },
+  {
+   "title": "African proverbs: Zigula (Tangaza University, 2019)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://afriprov.tangaza.ac.ke/wp-content/uploads/2020/05/zigula_2019.pdf",
+   "found_in_search": true
+  }
+ ]
+}

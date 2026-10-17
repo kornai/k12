@@ -1,0 +1,45 @@
+{
+ "iso": "zkt",
+ "name": "Kitan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:53:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Recent developments on the decipherment of the Khitan Small script (Apatóczky and Kempf, 2017)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://real.mtak.hu/56019/",
+   "found_in_search": true
+  },
+  {
+   "title": "Recent developments on the decipherment of the Khitan Small script (repository record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repozitorium.kre.hu/items/0e612016-46ff-4644-b6e4-0854da09ebc3",
+   "found_in_search": true
+  },
+  {
+   "title": "List of Khitanologists (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/List_of_Khitanologists",
+   "found_in_search": true
+  },
+  {
+   "title": "Current Status of the decipherment of Khitan Script (Kyoto University Hakubi seminar)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.hakubi.kyoto-u.ac.jp/eng/sem/sem_87",
+   "found_in_search": true
+  },
+  {
+   "title": "TUFS AA Institute news item on Khitan research",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.aa.tufs.ac.jp/en/news/detail/2916/",
+   "found_in_search": true
+  }
+ ]
+}

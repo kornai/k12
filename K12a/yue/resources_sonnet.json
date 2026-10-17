@@ -1,0 +1,87 @@
+{
+ "iso": "yue",
+ "name": "Yue Chinese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cantonese (Wikibooks)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://en.wikibooks.org/wiki/Cantonese/How_To_Use_This_Textbook",
+   "found_in_search": true
+  },
+  {
+   "title": "Structured Cantonese Courses",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://cantonese.hk/courses",
+   "found_in_search": true
+  },
+  {
+   "title": "Cantonese Courses for Non-Heritage Learners (UC Berkeley)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://chinese.berkeley.edu/node/3760",
+   "found_in_search": true
+  },
+  {
+   "title": "Words.hk: A comprehensive Cantonese dictionary dataset",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://repository.eduhk.hk/en/publications/wordshk-a-comprehensive-cantonese-dictionary-dataset-with-definit-2/",
+   "found_in_search": true
+  },
+  {
+   "title": "Words.hk (ACL Anthology paper)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://aclanthology.org/2022.dclrl-1.7",
+   "found_in_search": true
+  },
+  {
+   "title": "Rime-Cantonese: A Normalized Cantonese Jyutping Lexicon (LDC2022L01)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://catalog.ldc.upenn.edu/LDC2022L01",
+   "found_in_search": true
+  },
+  {
+   "title": "Jyut Dictionary",
+   "type": "software",
+   "language": "native",
+   "url": "https://jyutdictionary.com/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yue Phonetic Database (CJKI)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://cjk.org/data/chinese/nlp/yue-phonetic-database",
+   "found_in_search": true
+  },
+  {
+   "title": "The Learning and Teaching of Cantonese as a Second Language (Routledge)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://routledge.com/The-Learning-and-Teaching-of-Cantonese-as-a-Second-Language/Lee/p/book/9780367516321",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Hong Kong Cantonese textbooks (IAFOR)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://papers.iafor.org/submission36128/",
+   "found_in_search": true
+  },
+  {
+   "title": "Jyutping (Simple Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://simple.wikipedia.com/wiki/Jyutping",
+   "found_in_search": true
+  }
+ ]
+}

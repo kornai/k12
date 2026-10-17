@@ -1,0 +1,59 @@
+{
+ "iso": "yub",
+ "name": "Yugambal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Yugambal language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yugambal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Yugambal (yuga1244)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/yuga1244",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: E11 Yugambal",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/E11?code=E11",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Yugambal (yub)",
+   "type": "video",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/yub/",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: E17 Yugambeh (related language, not Yugambal)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/e17",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland: Yugambeh Everyday Words (related language, not Yugambal)",
+   "type": "primer",
+   "language": "other",
+   "url": "https://www.slq.qld.gov.au/sites/default/files/Yugambeh%20Everyday%20Words%20revNov2017.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Jellurgal educational resources (Yugambeh, related language, not Yugambal)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://jellurgal.com.au/services/educational-resources",
+   "found_in_search": true
+  }
+ ]
+}

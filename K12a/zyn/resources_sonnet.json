@@ -1,0 +1,59 @@
+{
+ "iso": "zyn",
+ "name": "Zhuang, Yongnan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:28:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yongnan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yongnan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yongnan Zhuang",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/zyn",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Yongnan Zhuang",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zyn/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language zyn",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/zyn",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Yongnan",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/zyn",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Southern",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/4979",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Qinzhou Guitai",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/6134",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "zyj",
+ "name": "Zhuang, Youjiang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:28:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Youjiang Zhuang (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Youjiang_Zhuang",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Youjiang Zhuang",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zyj/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Youjiang",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/zyj",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Baise (related variety)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/6034",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Duan Xian (related variety)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/6035",
+   "found_in_search": true
+  }
+ ]
+}

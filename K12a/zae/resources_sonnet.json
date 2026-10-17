@@ -1,0 +1,59 @@
+{
+ "iso": "zae",
+ "name": "Yareni Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "HLT database: Yareni Zapotec (zae)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hlt.bme.hu/en/dld/language/2990",
+   "found_in_search": true
+  },
+  {
+   "title": "Ixtlán Zapotec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ixtl%C3%A1n_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Yareni Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zae/",
+   "found_in_search": true
+  },
+  {
+   "title": "Counting in Santa Ana Yareni Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.languagesandnumbers.com/how-to-count-in-santa-ana-yareni-zapotec/en/zae/",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Yareni Zapotec",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zae",
+   "found_in_search": true
+  },
+  {
+   "title": "Yareni Zapotec Bible (DBS)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/ZAEWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings: Zapotec, Yareni",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zae",
+   "found_in_search": true
+  }
+ ]
+}

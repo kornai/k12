@@ -1,0 +1,59 @@
+{
+ "iso": "zyp",
+ "name": "Zyphe Chin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zophei Language Resource (UNT Digital Library)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://digital.library.unt.edu/explore/collections/ZYPLR/",
+   "found_in_search": true
+  },
+  {
+   "title": "The Sound Systems of Zophei Dialects and Other Maraic Languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://digital.library.unt.edu/ark:/67531/metadc1913082/",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Chin Zyphe wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/CHIN_ZYPHE",
+   "found_in_search": true
+  },
+  {
+   "title": "Zyphe language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zyphe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Zyphe",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zyp",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zophei in Myanmar",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19593/BM",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Chin, Zyphe",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zyp",
+   "found_in_search": true
+  }
+ ]
+}

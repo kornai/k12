@@ -1,0 +1,73 @@
+{
+ "iso": "zav",
+ "name": "Yatzachi Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language Description Heritage: Yatzachi Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://ldh.clld.org/languages/zav",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Zapotec Yatzachi",
+   "type": "other",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/ZAPOTEC_YATZACHI",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Yatzachi Zapotec",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_zya",
+   "found_in_search": true
+  },
+  {
+   "title": "Zapoteco de Yatzachi New Testament (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/ZAVTBL",
+   "found_in_search": true
+  },
+  {
+   "title": "Zapoteco de Yatzachi New Testament (eBible.org details)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/find/details.php?id=zavtbl",
+   "found_in_search": true
+  },
+  {
+   "title": "Zapoteco de Yatzachi New Testament (eBible.org)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/Scriptures/details.php?id=zavNT",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Yatzachi Zapotec",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zav",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yatzachi Zapotec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/67",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Villa Alta",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zav",
+   "found_in_search": true
+  }
+ ]
+}

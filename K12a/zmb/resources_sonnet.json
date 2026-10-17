@@ -1,0 +1,59 @@
+{
+ "iso": "zmb",
+ "name": "Zimba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:57:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zimba language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zimba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lega-Binja languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lega%E2%80%93Binja_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Ethnologue: Lega-Holoholo subgroup",
+   "type": "other",
+   "language": "English",
+   "url": "https://ethnologue.com/subgroup/4191/",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Zimba wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/ZIMBA",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zimba people in DR Congo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16105/CG",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zimba language (zmb)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/zmb",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zimba language page",
+   "type": "audio",
+   "language": "English",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/18717",
+   "found_in_search": true
+  }
+ ]
+}

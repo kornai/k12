@@ -1,0 +1,59 @@
+{
+ "iso": "zaf",
+ "name": "Ayoquesco Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ayoquezco Zapotec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ayoquezco_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Ayoquesco Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zaf/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ayoquesco Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/40413",
+   "found_in_search": true
+  },
+  {
+   "title": "APS Indigenous Guide: Ayoquesco Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://indigenousguide.amphilsoc.org/entry/39743",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Ayoquezco",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Ayoquezco",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings: Zapotec, Ayoquesco",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zaf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ayoquesco Zapoteco in Mexico",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15364",
+   "found_in_search": true
+  }
+ ]
+}

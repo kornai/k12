@@ -1,0 +1,45 @@
+{
+ "iso": "yup",
+ "name": "Yukpa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mineducación: Yukpa curriculum project, Serranía del Perijá",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.mineducacion.gov.co/1621/article-208171.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Yukpa sociolinguistic study (Universidad Nacional de Colombia)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.humanas.unal.edu.co/colantropos/files/1014/7948/1900/yukpa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yukpa - Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/632",
+   "found_in_search": true
+  },
+  {
+   "title": "Pueblo Yukpa (Ministerio de Cultura de Colombia)",
+   "type": "other",
+   "language": "other",
+   "url": "https://mng.mincultura.gov.co/prensa/noticias/Documents/Poblaciones/PUEBLO%20YUKPA.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "UNAD repository document (contents unverified)",
+   "type": "other",
+   "language": "other",
+   "url": "https://repository.unad.edu.co/jspui/bitstream/10596/2544/3/37945838.pdf",
+   "found_in_search": true
+  }
+ ]
+}

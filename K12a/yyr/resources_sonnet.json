@@ -1,0 +1,73 @@
+{
+ "iso": "yyr",
+ "name": "Yir-Yoront",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yir-Yoront Lexicon: Sketch and Dictionary of an Australian Language (Alpher 1991), catalogue record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9783110872651",
+   "found_in_search": true
+  },
+  {
+   "title": "Yir-Yoront lexicon sketch and dictionary of an Australian language (library record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://bvbvf1.bib-bvb.de/vufind/Record/DE-604.BV004553057/Details",
+   "found_in_search": true
+  },
+  {
+   "title": "Barry Alpher 1991 (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/151393",
+   "found_in_search": true
+  },
+  {
+   "title": "Alpher 1991 (WALS reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wals.info/refdb/record/Alpher-1991",
+   "found_in_search": true
+  },
+  {
+   "title": "Alpher 1973, Son of Ergative: the Yir Yoront Language of Northeast Australia (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/87539",
+   "found_in_search": true
+  },
+  {
+   "title": "Dixon 1995, review of Yir-Yoront Lexicon (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/6439",
+   "found_in_search": true
+  },
+  {
+   "title": "Rigsby 1993, review of Yir-Yoront Lexicon (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/6084",
+   "found_in_search": true
+  },
+  {
+   "title": "Review article on Yir-Yoront (Project MUSE)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/452948/pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yir-Yoront language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yir-Yoront_language",
+   "found_in_search": true
+  }
+ ]
+}

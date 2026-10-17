@@ -1,0 +1,38 @@
+{
+ "iso": "yur",
+ "name": "Yurok",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "California's Yurok tribe is revitalizing language in and out of the classroom (CSBA)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://blog.csba.org/revitalizing-native-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yurok Tribe seeing success with language revitalization effort (Indianz)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://indianz.com/News/2013/008450.asp",
+   "found_in_search": true
+  },
+  {
+   "title": "Speaking Yurok in the LAT (North Coast Journal)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.northcoastjournal.com/NewsBlog/archives/2013/02/07/speaking-yurok-in-the-lat",
+   "found_in_search": true
+  },
+  {
+   "title": "How to Revive a Lost Language (Smithsonian Magazine)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.smithsonianmag.com/smart-news/how-to-revive-a-lost-language-13863932/",
+   "found_in_search": true
+  }
+ ]
+}

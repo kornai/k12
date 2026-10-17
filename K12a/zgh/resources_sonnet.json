@@ -1,0 +1,52 @@
+{
+ "iso": "zgh",
+ "name": "Standard Moroccan Tamazight",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Standard Moroccan Amazigh (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Standard_Moroccan_Amazigh",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden dissertation on Moroccan Amazigh language planning",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/4285960",
+   "found_in_search": true
+  },
+  {
+   "title": "Inalco: The Tifinagh / Berber alphabet, history and current status",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://inalco.fr/en/tifinagh/berber-alphabet-history-and-current-status",
+   "found_in_search": true
+  },
+  {
+   "title": "Professor Chaker Speaks Out on the Tifinagh Script Issue",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://tamazgha.fr/Professor-Chaker-Speaks-Out-on-the-Tifinagh-Script-Issue,427.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Which Script for Tamazight, Whose Choice is it?",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://tamazgha.fr/Which-Script-for-Tamazight-Whose-Choice-is-it,359.html",
+   "found_in_search": true
+  },
+  {
+   "title": "At last, an ancient tongue will be taught (Christian Science Monitor, 2004)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://ezorigin.csmonitor.com/2004/0817/p14s01-legn.html",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "zun",
+ "name": "Zuni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:27:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zuni Public School District Zuni-English dictionary (UBC RelLex catalogue entry)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Zuni_Glossary",
+   "found_in_search": true
+  },
+  {
+   "title": "Zuni College gets state funds for community-based language education (KUNM)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.kunm.org/public-health-new-mexico/2019-11-27/zuni-college-gets-state-funds-for-community-based-language-education",
+   "found_in_search": true
+  },
+  {
+   "title": "Zuni Dictionary (UBC RelLex catalogue, incl. Newman 1958)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Zuni_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "A glossary of common Zuni terms (Hart 1973; UBC RelLex entry)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/A_glossary_of_common_Zuni_terms",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Preservation of the A:shiwi (Writing Our Future)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://writingourfuture.nwp.org/civic-journalism/responses/8757-language-preservation-of-the-a-shiwi",
+   "found_in_search": true
+  },
+  {
+   "title": "WSU Libraries Zuni site",
+   "type": "other",
+   "language": "English",
+   "url": "https://zuni.libraries.wsu.edu",
+   "found_in_search": true
+  },
+  {
+   "title": "Smithsonian finding aid NAA.MS1156A",
+   "type": "other",
+   "language": "English",
+   "url": "https://sirismm.si.edu/EADpdfs/NAA.MS1156A.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Native American language grant document (Albuquerque Public Schools Diné Bizaad & A:shiwi Language Program)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.heinrich.senate.gov/download/native-american-language-grant",
+   "found_in_search": true
+  }
+ ]
+}

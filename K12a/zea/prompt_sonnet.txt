@@ -1,0 +1,35 @@
+You will research 4 languages (zea, zeg, zeh, zem), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE zea ===
+Please help me gather resources for the Zeeuws language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zea; Glottocode: zeeu1238; family: Indo-European; macro-area: Eurasia; approx. speakers: about 220,000. Reference description: Zeeuws is an endangered indigenous language of Netherlands. It belongs to the Indo-European language family. The language is used as a first language by some people in every generation of the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE zeg ===
+Please help me gather resources for the Zenag language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zeg; Glottocode: zena1237; family: Austronesian; macro-area: Papunesia; approx. speakers: about 7,100. Reference description: Zenag is a stable indigenous language of Papua New Guinea. It belongs to the Austronesian language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE zeh ===
+Please help me gather resources for the Zhuang, Eastern Hongshuihe language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zeh; Glottocode: east2363; family: Tai-Kadai; macro-area: Eurasia. Reference description: Eastern Hongshuihe Zhuang is a stable indigenous language of China. It belongs to the Kra-Dai language family and is part of the Zhuang macrolanguage. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE zem ===
+Please help me gather resources for the Zeem language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zem; Glottocode: zeem1242; family: Afro-Asiatic; macro-area: Africa. Reference description: Zeem is a dormant language of Nigeria. It belongs to the Afro-Asiatic language family. The language is no longer used as a first language by any remaining members of the ethnic community. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

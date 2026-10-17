@@ -1,0 +1,38 @@
+{
+ "iso": "zmt",
+ "name": "Maringarr",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:02:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammatical description of Marri Ngarr (Bicevskis, University of Melbourne thesis)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://findanexpert.unimelb.edu.au/scholarlywork/1812410-a-grammatical-description-of-marri-ngarr",
+   "found_in_search": true
+  },
+  {
+   "title": "Marringarr language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marringarr_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Marri Ngarr (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marri_Ngarr",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Daly languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Western_Daly_languages",
+   "found_in_search": true
+  }
+ ]
+}

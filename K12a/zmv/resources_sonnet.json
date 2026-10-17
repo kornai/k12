@@ -1,0 +1,38 @@
+{
+ "iso": "zmv",
+ "name": "Mbariman-Gudhinma",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mbariman-Gudhinma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mbariman-Gudhinma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mbariman-Gudhinma, Endangered Languages Catalogue",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3132",
+   "found_in_search": true
+  },
+  {
+   "title": "Mbariman Gudhinma (Heritage and Culture summary)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.hgcosmos.org/assets/culture/AZ/M/Mbariman-Gudhinma.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe zmv word list page",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/zmv/lib",
+   "found_in_search": true
+  }
+ ]
+}

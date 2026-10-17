@@ -1,0 +1,31 @@
+{
+ "iso": "yta",
+ "name": "Talu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Talu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Talu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Talu",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5172?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Talu people-group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/talu.pdf",
+   "found_in_search": true
+  }
+ ]
+}

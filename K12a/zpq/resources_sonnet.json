@@ -1,0 +1,31 @@
+{
+ "iso": "zpq",
+ "name": "Zoogocho Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:14:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario zapoteco de San Bartolomé Zoogocho, Oaxaca (Long C., Cruz M.)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://si.edu/object/siris_sil_568363",
+   "found_in_search": true
+  },
+  {
+   "title": "Sonnenschein 2005, A Descriptive Grammar of San Bartolomé Zoogocho Zapotec (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/124784",
+   "found_in_search": true
+  },
+  {
+   "title": "A Descriptive Grammar of San Bartolomé Zoogocho Zapotec (USC dissertation)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://digitallibrary.usc.edu/asset-management/2A3BF1LQ0DL2",
+   "found_in_search": true
+  }
+ ]
+}

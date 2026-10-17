@@ -1,0 +1,38 @@
+{
+ "iso": "zpx",
+ "name": "San Baltazar Loxicha Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "San Baltazar Loxicha Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/San_Balt%C3%A1zar_Loxicha_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: San Baltazar Loxicha Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sanb1241",
+   "found_in_search": true
+  },
+  {
+   "title": "Field notes on San Baltazar Loxicha Zapoteco (Kaufman, AILLA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A135184",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, San Baltazar Loxicha",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zpx",
+   "found_in_search": true
+  }
+ ]
+}

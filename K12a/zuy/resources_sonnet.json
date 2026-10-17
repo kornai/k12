@@ -1,0 +1,31 @@
+{
+ "iso": "zuy",
+ "name": "Zumaya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:27:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zumaya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zumaya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Zumaya",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/zuma1239",
+   "found_in_search": true
+  },
+  {
+   "title": "Catalogue of Endangered Languages: Zumaya",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/559",
+   "found_in_search": true
+  }
+ ]
+}

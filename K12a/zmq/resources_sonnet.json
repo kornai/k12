@@ -1,0 +1,31 @@
+{
+ "iso": "zmq",
+ "name": "Mituku",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:01:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mituku language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mituku_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Mituku word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/MITUKU",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kinya-Mituku in DR Congo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/12703",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "ywg",
+ "name": "Yinhawangka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yinhawangka Language Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.yinhawangka.com.au/yinhawangka-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yinhawangka Language Project (page)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.yinhawangka.com.au/?p=55416",
+   "found_in_search": true
+  },
+  {
+   "title": "Yinhawangka language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yinhawangka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangka Maya: Yinhawangka",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/yinhawangka",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record 181620",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/181620",
+   "found_in_search": true
+  },
+  {
+   "title": "YMAC: Yinhawangka tag",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.ymac.org.au/tag/yinhawangka/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yinhawangka Discovery",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.yinhawangka.com.au/yinhawangka-discovery/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangka Maya's language work",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/about-languages/wangka-mayas-language-work",
+   "found_in_search": true
+  }
+ ]
+}

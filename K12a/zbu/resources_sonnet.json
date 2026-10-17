@@ -1,0 +1,45 @@
+{
+ "iso": "zbu",
+ "name": "Bu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bu: aka Zaranda (Chadic, South-Bauchi West): Wordlist and grammatical notes",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://hal-cnrs.archives-ouvertes.fr/LLACAN/halshs-00644360v1",
+   "found_in_search": true
+  },
+  {
+   "title": "Buu (Nigeria), Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/10444",
+   "found_in_search": true
+  },
+  {
+   "title": "Buu (Nigeria) bibliography, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10444/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Bu (Bauchi State), Global Recordings Network",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zbu",
+   "found_in_search": true
+  },
+  {
+   "title": "Bu: Zarandawa, Global Recordings Network",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/4989",
+   "found_in_search": true
+  }
+ ]
+}

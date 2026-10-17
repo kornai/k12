@@ -1,0 +1,66 @@
+{
+ "iso": "zeh",
+ "name": "Zhuang, Eastern Hongshuihe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Eastern Hongshuihe Zhuang (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eastern_Hongshuihe_Zhuang",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhuang languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zhuang_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Standard Zhuang (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Standard_Zhuang",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhuang (Vahcuengh) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/zhuang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Candidates for Romanized Zhuang Exam: Few and Far Between",
+   "type": "policy",
+   "language": "English",
+   "url": "https://bruce-humes.com/2013/12/15/candidates-for-romanized-zhuang-exam-few-and-far-between/",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Hongshuihe Zhuang in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19803",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhuang, Eastern Hongshuihe language (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/zeh",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Hongshuihe Zhuang (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zeh/",
+   "found_in_search": true
+  }
+ ]
+}

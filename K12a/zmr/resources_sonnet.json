@@ -1,0 +1,59 @@
+{
+ "iso": "zmr",
+ "name": "Maranunggu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:02:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "An Introduction to Maranungku (Northern Australia), Pacific Linguistics B-15 (Tryon 1970)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/146471/1/PL-B15.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Maranunggu (mara1386)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/mara1386",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Catalogue: bibliography for Merranunggu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1905/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Marranj language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marranj_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Marranunggu (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marranunggu",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Daly languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Western_Daly_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Marinunggo (NT), South Australian Museum archives language group",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.samuseum.sa.gov.au/collection/archives/language_groups/marinunggo",
+   "found_in_search": true
+  }
+ ]
+}

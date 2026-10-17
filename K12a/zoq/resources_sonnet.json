@@ -1,0 +1,31 @@
+{
+ "iso": "zoq",
+ "name": "Zoque, Tabasco",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AILLA: Project for the Documentation of the Languages of MesoAmerica (Zoque, Ayapaneco collection)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://ailla-legacy.lib.utexas.edu/islandora/object/ailla%3A124491",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO Atlas of World Languages: Tabasco Zoque in Mexico",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/en/countries/mexico/languages/tabasco-zoque",
+   "found_in_search": true
+  },
+  {
+   "title": "Zoque languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zoque_languages",
+   "found_in_search": true
+  }
+ ]
+}

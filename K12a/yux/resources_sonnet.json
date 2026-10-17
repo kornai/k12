@@ -1,0 +1,45 @@
+{
+ "iso": "yux",
+ "name": "Yukaghir, Southern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Kolyma Yukaghir (Maslova 2003)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110197174/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Maslova 1999, A grammar of Kolyma Yukaghir",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/103697",
+   "found_in_search": true
+  },
+  {
+   "title": "Maslova, A grammar of Kolyma Yukaghir: contents",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://prometeus.nsc.ru/acquisitions/09-03-10/cont28f.ssi",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Yukaghir language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:yux",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Southern Yukaghir",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/bn/node/112189",
+   "found_in_search": true
+  }
+ ]
+}

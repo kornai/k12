@@ -1,0 +1,38 @@
+{
+ "iso": "ysr",
+ "name": "Yupik, Sirenik",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sirenik language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sirenik_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Max Planck EVA: Sirenik Yupik numerals",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yupik-Sirenik.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Etudes/Inuit/Studies article (PDF), content not verified",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.erudit.org/fr/revues/etudinuit/2005-v29-n1-2-etudinuit1430/013937ar.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sirenik Yupik (ysr)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/ysr?hl=en",
+   "found_in_search": true
+  }
+ ]
+}

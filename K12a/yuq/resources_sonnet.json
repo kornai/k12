@@ -1,0 +1,38 @@
+{
+ "iso": "yuq",
+ "name": "Yuqui",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yuqui language (Wikipedia, with reference to Villafane 2004 grammar)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yuqui_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yuqui (Mbiaye') - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yuqui.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yuqui",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yuqu1240",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yuqui",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/37551",
+   "found_in_search": true
+  }
+ ]
+}

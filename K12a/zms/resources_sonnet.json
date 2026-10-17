@@ -1,0 +1,45 @@
+{
+ "iso": "zms",
+ "name": "Mbesa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:02:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mbesa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mbesa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Mbesa (mbes1238)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mbes1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Mbesa word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/MBESA",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mbesa in Congo, DR",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13627",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mbesa language (zms)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/zms",
+   "found_in_search": true
+  }
+ ]
+}

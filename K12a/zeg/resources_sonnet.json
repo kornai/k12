@@ -1,0 +1,45 @@
+{
+ "iso": "zeg",
+ "name": "Zenag",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mumeng language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mumeng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zenag, Papua New Guinea (numeral systems)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Zenag.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Zenag (Ethnologue 16 data)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2704?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Zenag in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16098/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page: Zenag (zeg)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/zeg",
+   "found_in_search": true
+  }
+ ]
+}

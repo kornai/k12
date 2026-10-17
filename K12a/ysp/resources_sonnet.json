@@ -1,0 +1,45 @@
+{
+ "iso": "ysp",
+ "name": "Lolopo, Southern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lolopo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lolopo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Loloish languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Loloish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Southern Luoluopo in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18569",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Southern Lolopo (ysp), no recordings",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/ysp",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yi, Lolo in Mojiang (related variety)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/6077",
+   "found_in_search": true
+  }
+ ]
+}

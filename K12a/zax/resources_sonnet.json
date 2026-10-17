@@ -1,0 +1,31 @@
+{
+ "iso": "zax",
+ "name": "Zapotec, Xadani",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikitongues: Xadani Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zax/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zapotec, Xadani",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/zax",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Xadani (no recordings)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/zax",
+   "found_in_search": true
+  }
+ ]
+}

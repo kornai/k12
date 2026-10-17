@@ -1,0 +1,59 @@
+{
+ "iso": "zpc",
+ "name": "Choapan Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:09:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Documentation of Choapan Zapotec (UC Berkeley CLACS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://clacs.berkeley.edu/node/1097",
+   "found_in_search": true
+  },
+  {
+   "title": "Choapam Zapotec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Cho%C3%A1pam_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Zapotec Choapam (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/zapotec-choapam.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Zapotec, Choapan language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zpc",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Zapotec Collection of Erin Donnelly (AILLA)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://ailla-legacy.lib.utexas.edu/islandora/object/ailla%3A124501",
+   "found_in_search": true
+  },
+  {
+   "title": "Choapan Northern Zapoteco (AILLA)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A135302",
+   "found_in_search": true
+  },
+  {
+   "title": "Narratives in Choapan Northern Zapoteco (AILLA)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A135307",
+   "found_in_search": true
+  }
+ ]
+}

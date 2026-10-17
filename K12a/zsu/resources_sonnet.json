@@ -1,0 +1,45 @@
+{
+ "iso": "zsu",
+ "name": "Sukurum",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:20:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "PARADISEC Catalog: Sukurum recordings (Holzknecht, 1985)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/SH2/ANUA520_3310",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Archives: Papua New Guinea language recordings, Sukurum cassette tapes 1-11",
+   "type": "audio",
+   "language": "native",
+   "url": "https://archivescollection.anu.edu.au/index.php/papua-new-guinea-language-recordings-sukurum-casette-tapes-1-11/informationobject/reports",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sukurum language (zsu)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/zsu",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sukurum people group",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18904",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sukurum (zsu)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/zsu",
+   "found_in_search": true
+  }
+ ]
+}

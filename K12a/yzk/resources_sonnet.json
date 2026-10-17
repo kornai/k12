@@ -1,0 +1,38 @@
+{
+ "iso": "yzk",
+ "name": "Zokhuo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:32Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zokhuo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zokhuo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Zokhuo (yzk)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/yzk/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zokhuo in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20617",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zokhuo language",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/yzk",
+   "found_in_search": true
+  }
+ ]
+}

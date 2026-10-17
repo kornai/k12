@@ -1,0 +1,66 @@
+{
+ "iso": "zmk",
+ "name": "Mandandanyi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mandandanji - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mandandanji",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Mandandanyi bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3136/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang D37: Gunggari",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/d37",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS collection entry",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1508013",
+   "found_in_search": true
+  },
+  {
+   "title": "Mandandanji people D44 (UQ manuscripts)",
+   "type": "other",
+   "language": "English",
+   "url": "https://manuscripts.library.uq.edu.au/index.php/mandandanji-people-d44",
+   "found_in_search": true
+  },
+  {
+   "title": "Bidjara language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bidjara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mandandanji community: About us",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.mandandanji.com.au/about-us/",
+   "found_in_search": true
+  },
+  {
+   "title": "Mandandanji (hgcosmos.org)",
+   "type": "other",
+   "language": "English",
+   "url": "https://hgcosmos.org/assets/culture/AZ/M/Mandandanji.pdf",
+   "found_in_search": true
+  }
+ ]
+}
