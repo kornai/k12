@@ -1,0 +1,52 @@
+{
+ "iso": "sun",
+ "name": "Sunda",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Perancangan ulang buku paket pelajaran Bahasa Sunda SD kelas 1 (Rancage Diajar Basa Sunda), Telkom University",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://openlibrary.telkomuniversity.ac.id/pustaka/files/153578/bab1/perancangan-ulang-buku-paket-pelajaran-bahasa-sunda-sekolah-dasar-kelas-1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Klik! Diajar Basa Sunda, K13 rev 2017 (Gramedia)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.gramedia.com/products/sdmi-klii-diajar-basa-sunda-jl2-k13-rev-2017",
+   "found_in_search": true
+  },
+  {
+   "title": "Buku Bahasa Sunda kelas X, XI, XII (Komunitas Belajar)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.komunitasbelajar.id/2021/11/buku-bahasa-sunda-kelas-x-10-xi-11-xii.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Kamus Bahasa Sunda untuk Pelajar dan Umum (Gramedia)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.gramedia.com/products/kamus-bahasa-sunda-untuk-pelajar-dan-umum",
+   "found_in_search": true
+  },
+  {
+   "title": "Telkom University journal article on Sundanese textbook design",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journals.telkomuniversity.ac.id/demandia/article/download/2160/1412",
+   "found_in_search": true
+  },
+  {
+   "title": "Education journal article on Sundanese teaching (UPI)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.upi.edu/index.php/edubasic/article/download/27483/pdf",
+   "found_in_search": true
+  }
+ ]
+}
