@@ -1,0 +1,45 @@
+{
+ "iso": "zkp",
+ "name": "Kaingáng, São Paulo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:53:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "São Paulo Kaingáng language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Kaing%C3%A1ng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: São Paulo Kaingáng",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/saop1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaingang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaingang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo entry for zkp",
+   "type": "other",
+   "language": "English",
+   "url": "https://finto.fi/lexvo/en/page/zkp",
+   "found_in_search": true
+  },
+  {
+   "title": "Liames article comparing Kaingang data with older word lists",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/1426",
+   "found_in_search": true
+  }
+ ]
+}

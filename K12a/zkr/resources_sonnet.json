@@ -1,0 +1,52 @@
+{
+ "iso": "zkr",
+ "name": "Zakhring",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:53:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zakhring language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zakhring_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Miju languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Miju_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Zekhring people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zekhring_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Zakhring bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3140/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Space and Culture, India article on the community",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.spaceandculture.in/index.php/spaceandculture/article/download/152/89/",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest people-group profile: Zakhring",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/India/Zakhring.pdf",
+   "found_in_search": true
+  }
+ ]
+}
