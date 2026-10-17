@@ -1,0 +1,45 @@
+{
+ "iso": "stn",
+ "name": "Owa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Dictionary of Owa: A Language of the Solomon Islands (Mellow, De Gruyter 2013)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9781614513612/html",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of Owa (library record, OeAW)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9781614513612",
+   "found_in_search": true
+  },
+  {
+   "title": "Owa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Owa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Owa writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/owa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Owariki (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Owariki",
+   "found_in_search": true
+  }
+ ]
+}

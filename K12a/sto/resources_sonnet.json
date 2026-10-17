@@ -1,0 +1,38 @@
+{
+ "iso": "sto",
+ "name": "Stoney",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "New textbook, podcast aim to keep Stoney Nakoda language alive in Alberta (CTV News)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://calgary.ctvnews.ca/new-textbook-podcast-aim-to-keep-stoney-nakoda-language-alive-in-alberta-1.6242183",
+   "found_in_search": true
+  },
+  {
+   "title": "Stoney Nakota language textbook (Global News)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://globalnews.ca/news/9430501/stoney-nakota-language-textbook/",
+   "found_in_search": true
+  },
+  {
+   "title": "Stoney Nakoda Nation language, Alberta (CBC)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://amp.cbc.ca/news/canada/calgary/stoney-nakoda-nation-language-alberta-1.6723532",
+   "found_in_search": true
+  },
+  {
+   "title": "New textbook, podcast aim to keep Stoney Nakoda language alive in Alberta (Language Conservancy)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://languageconservancy.org/new-textbook-podcast-aim-to-keep-stoney-nakoda-language-alive-in-alberta/",
+   "found_in_search": true
+  }
+ ]
+}

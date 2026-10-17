@@ -1,0 +1,52 @@
+{
+ "iso": "stl",
+ "name": "Stellingwerfs",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Stellingwarfs dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Stellingwarfs_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Taal en Tongval 2005 report describing the Stellingwarfs Woordeboek",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.journal-archive.aup.nl/taal-en-tongval/jrg_2005_vol_57_-_vdw-berichten.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Mercator: Stellingwerfs in the Netherlands",
+   "type": "policy",
+   "language": "English",
+   "url": "https://wiki.mercator-research.eu/_export/raw/languages:stellingwerfs_in_the_netherlands_under_construction",
+   "found_in_search": true
+  },
+  {
+   "title": "Het Stellingswerfs dialect (DBNL)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dbnl.org/tekst/_nee003195101_01/_nee003195101_01_0160.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Stellingwarfs writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/stellingwarfs.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Stellingwarfs phrases",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/language/phrases/stellingwarfs.htm",
+   "found_in_search": true
+  }
+ ]
+}
