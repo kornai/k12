@@ -1,0 +1,38 @@
+{
+ "iso": "zqe",
+ "name": "Zhuang, Qiubei",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yei Zhuang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yei_Zhuang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhuangwen web dictionary/overview (Webonary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/zhuangwen/overview/foreword/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Qiubei Zhuang in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19806",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Qiubei",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/zqe",
+   "found_in_search": true
+  }
+ ]
+}

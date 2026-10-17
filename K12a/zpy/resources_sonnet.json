@@ -1,0 +1,31 @@
+{
+ "iso": "zpy",
+ "name": "Zapotec, Mazaltepec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mazaltepec Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mazaltepec_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mazaltepec Zapoteco in Mexico",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13609",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Mazaltepec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zpy",
+   "found_in_search": true
+  }
+ ]
+}
