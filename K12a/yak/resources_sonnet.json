@@ -1,0 +1,45 @@
+{
+ "iso": "yak",
+ "name": "Yakama",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:19:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "UW Sahaptin Teaching Materials Archive (Yakama tag)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://depts.washington.edu/sahteach/tag/yakama/page/3/",
+   "found_in_search": true
+  },
+  {
+   "title": "UW Sahaptin Teaching Materials Archive: vocabulary",
+   "type": "primer",
+   "language": "native",
+   "url": "https://depts.washington.edu/sahteach/category/vocabulary/page/20/",
+   "found_in_search": true
+  },
+  {
+   "title": "UW Sahaptin Teaching Materials Archive: recordings",
+   "type": "audio",
+   "language": "native",
+   "url": "https://depts.washington.edu/sahteach/tag/recording/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ichishkiin Sinwit Yakama: Yakima Sahaptin Dictionary (RelLex entry)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Ichishk%C3%ADin_S%C9%A8%CC%81nwit_Yakama:_Yakima_Sahaptin_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Stanford Magazine: Found in Translation",
+   "type": "other",
+   "language": "English",
+   "url": "https://stanfordmag.org/contents/found-in-translation",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "yam",
+ "name": "Yamba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:19:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yamba-English provisional dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/yamba/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yamba Webonary site",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/yamba/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Barnwell 1969 (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/105907",
+   "found_in_search": true
+  },
+  {
+   "title": "Yamba language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yamba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yamba",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yamba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Yamba",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=yam",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yamba (Nkot)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/6269",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Yamba (yam)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/yam/",
+   "found_in_search": true
+  }
+ ]
+}

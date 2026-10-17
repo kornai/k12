@@ -1,0 +1,45 @@
+{
+ "iso": "yal",
+ "name": "Yalunka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:19:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yalunka people (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yalunka_people",
+   "found_in_search": true
+  },
+  {
+   "title": "DICE Missouri: Yalunka profile",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dice.missouri.edu/assets/docs/niger-congo/Yalunka.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "National Library of Israel: Yalunka language authority record",
+   "type": "other",
+   "language": "English",
+   "url": "https://nli.org.il/en/authorities/987007544479505171",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yalunka language (yal)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://joshuaproject.net/languages/yal",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yalunka (Yalun Soso) in Sierra Leone",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15967/SL",
+   "found_in_search": true
+  }
+ ]
+}
