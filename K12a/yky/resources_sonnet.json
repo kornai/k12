@@ -1,0 +1,38 @@
+{
+ "iso": "yky",
+ "name": "Yakoma",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:50:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yakoma people (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yakoma_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language yky",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/yky",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yakoma in Central African Republic",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15960/CT",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yakoma language",
+   "type": "audio",
+   "language": "English",
+   "url": "https://www.globalrecordings.net/en/language/yky",
+   "found_in_search": true
+  }
+ ]
+}
