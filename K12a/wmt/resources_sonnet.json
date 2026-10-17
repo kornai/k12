@@ -1,0 +1,52 @@
+{
+ "iso": "wmt",
+ "name": "Walmajarri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:20:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Walmajarri language (Wikipedia, with dictionary references)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:wmt",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Walmajarri",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2578",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang A66: Walmajarri",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1507659",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang A88: Juwaliny",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/A88",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Western Australia document (contents not examined)",
+   "type": "other",
+   "language": "English",
+   "url": "https://purl.slwa.wa.gov.au/slwa_b3303747_1180.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Out of the Desert: Stories from the Walmajarri Exodus (Magabala Books)",
+   "type": "other",
+   "language": "English",
+   "url": "https://magabala.com/products/out-of-the-desert-stories-from-the-walmajarri-exodus",
+   "found_in_search": true
+  }
+ ]
+}
