@@ -1,0 +1,52 @@
+{
+ "iso": "xwk",
+ "name": "Wangkumara",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:09:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Basic Materials in Wangkumara (Galali): Grammar, Sentences and Vocabulary (McDonald and Wurm 1979), noted by State Library of Queensland",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-six",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangkumara grammar and dictionary (Robertson 1984), Glottolog reference record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/6977",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang L68: Wangkumara",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/L68",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang L25: Wangkumara",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/L25",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Wangkumara wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WANGKUMARA",
+   "found_in_search": true
+  },
+  {
+   "title": "Wilson River language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wilson_River_language",
+   "found_in_search": true
+  }
+ ]
+}

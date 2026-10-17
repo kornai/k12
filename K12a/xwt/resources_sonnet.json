@@ -1,0 +1,59 @@
+{
+ "iso": "xwt",
+ "name": "Wotjobaluk",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:09:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wotjobaluk people (Wikipedia), describing the 2021 Wergaia language program at Dimboola",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wotjobaluk_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Wergaia language items, Victorian Collections (including Reid's Wergaia Community Grammar and Dictionary draft)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://victoriancollections.net.au/collections?q=wergaia",
+   "found_in_search": true
+  },
+  {
+   "title": "The rebirth of Wergaia: a collaborative effort (Sydney University Press)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://open.sydneyuniversitypress.com.au/9781920899554/rl-the-rebirth-of-wergaia-a-collaborative-effort.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wergaia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wergaia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wergaia dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wergaia_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wergaia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/97779",
+   "found_in_search": true
+  },
+  {
+   "title": "South Australian Museum: Wotjobaluk language group",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.samuseum.sa.gov.au/collection/archives/language_groups/wotjobaluk",
+   "found_in_search": true
+  }
+ ]
+}
