@@ -1,0 +1,45 @@
+{
+ "iso": "enn",
+ "name": "Engenni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Engenni language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Engenni_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Engenni people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Engenni_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Egene (Engenni) writing and dialects, Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/egene.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Academic paper on Engenni orthography (Academia.edu)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.academia.edu/14525457",
+   "found_in_search": true
+  },
+  {
+   "title": "Engenni in Nigeria, Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11762/NI",
+   "found_in_search": true
+  }
+ ]
+}

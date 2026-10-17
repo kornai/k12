@@ -1,0 +1,45 @@
+{
+ "iso": "dwu",
+ "name": "Dhuwal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dhuwal language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dhuwal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dhuwal (Arnhem Land) texts on kinship and other subjects, with grammatical sketch and dictionary (Heath 1980)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://deepblue.lib.umich.edu/items/a6721d13-a93d-471c-b05d-bf641a92f3bc",
+   "found_in_search": true
+  },
+  {
+   "title": "English Yolngu Matha Legal Dictionary (ARDS)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ards.com.au/s/English-Yolngu-Matha-Legal-Dictionary.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yolngu Studies (CDU) Yolngu Matha app page",
+   "type": "software",
+   "language": "other",
+   "url": "https://yolngustudies.cdu.edu.au/gupaappdownload.html",
+   "found_in_search": true
+  },
+  {
+   "title": "NT Health library: Yolnu Matha resources",
+   "type": "audio",
+   "language": "native",
+   "url": "https://library.health.nt.gov.au/mobileresources/YolnuMatha",
+   "found_in_search": true
+  }
+ ]
+}

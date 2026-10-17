@@ -1,0 +1,94 @@
+{
+ "iso": "eus",
+ "name": "Basque",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ikastolen Elkartea / ikastola.eus PDF (BIHAR OSOA FRANTSESEZ)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://ikastola.eus/sites/default/files/article/41781/file/BIHAR%20OSOA%20FRANTSESEZ.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Les verbes francais dans le materiel pedagogique des Ikastolas du Pays Basque",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ekoizpen-zientifikoa.ehu.eus/documentos/60a856d105fac20a35c959b4",
+   "found_in_search": true
+  },
+  {
+   "title": "Boiseko Ikastola (Euskal Kultura)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://euskalkultura.eus/english/resources/boiseko-ikastola",
+   "found_in_search": true
+  },
+  {
+   "title": "Euskara Batua (Basque Government)",
+   "type": "policy",
+   "language": "native",
+   "url": "https://www.euskadi.eus/eusko-jaurlaritza//contenidos/informacion/euskara_batua/eu_7419/euskara_batua.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Euskaltzaindia research document 26112",
+   "type": "academic",
+   "language": "native",
+   "url": "https://www.euskaltzaindia.eus/dok/ikerbilduma/26112.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary Elhuyar: 30 years and 75 million consultations",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.elhuyar.eus/en/press-room/dictionary-elhuyar-30-years-and-75-million-consultations",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire Elhuyar Hiztegia (zientzia.eus)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://zientzia.eus/artikuluak/dictionnaire-elhuyar-hiztegia/en/",
+   "found_in_search": true
+  },
+  {
+   "title": "Argia: Euskaltzaindia grammar committee resignations",
+   "type": "other",
+   "language": "native",
+   "url": "https://argia.eus/en/argia-astekaria/2395/euskaltzaindiko-gramatika-batzordearen-eta-ibon-sarasolaren-dimisioak",
+   "found_in_search": true
+  },
+  {
+   "title": "Basque Fact of the Week: Ikastolas, the Basque Schools",
+   "type": "other",
+   "language": "English",
+   "url": "https://buber.net/Basque/2019/12/08/basque-fact-of-the-week-ikastolas-the-basque-schools/",
+   "found_in_search": true
+  },
+  {
+   "title": "Argia: French government accepts Basque-only immersion",
+   "type": "policy",
+   "language": "native",
+   "url": "https://argia.eus/en/albistea/frantziako-gobernuak-euskara-hutsezko-irakaskuntza-onartu-du-hiriburukjo-baste-quieta-ikastetxean",
+   "found_in_search": true
+  },
+  {
+   "title": "Inside America's only Basque immersion school (Idaho News)",
+   "type": "other",
+   "language": "English",
+   "url": "https://idahonews.com/news/local/inside-americas-only-basque-immersion-school",
+   "found_in_search": true
+  },
+  {
+   "title": "Boise preschool remains only one of its kind in the US (Boise Dev)",
+   "type": "other",
+   "language": "English",
+   "url": "https://boisedev.com/news/2026/06/11/for-nearly-3-decades-boise-preschool-remains-only-one-of-its-kind-in-the-us/",
+   "found_in_search": true
+  }
+ ]
+}

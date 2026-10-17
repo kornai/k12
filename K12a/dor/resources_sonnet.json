@@ -1,0 +1,38 @@
+{
+ "iso": "dor",
+ "name": "Dori’o",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dori'o language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dori%CA%BCo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dori'o (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Dorio",
+   "found_in_search": true
+  },
+  {
+   "title": "Dorio in Solomon Islands (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/11611",
+   "found_in_search": true
+  },
+  {
+   "title": "Dori'o (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/dor",
+   "found_in_search": true
+  }
+ ]
+}

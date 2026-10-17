@@ -1,0 +1,45 @@
+{
+ "iso": "dwy",
+ "name": "Dhuwaya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dhuwaya readers in Yirrkala (Indigenous Literacy Foundation)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.ilf.org.au/news/dhuwaya-readers-in-yirrkala",
+   "found_in_search": true
+  },
+  {
+   "title": "App teaches early literacy for East Arnhem Land children in Yolngu Matha language (University of Melbourne)",
+   "type": "software",
+   "language": "native",
+   "url": "https://www.unimelb.edu.au/newsroom/news/2022/september/app-teaches-indigenous-early-literacy-for-east-arnhem-land-children-in-yolu-matha-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Revolutionising maths education through Yolngu language (Indigenous.gov.au)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.indigenous.gov.au/stories/revolutionising-maths-education-through-yolngu-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yirrkala language centre recognised (NT Department of Education)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://education.nt.gov.au/statistics-research-and-strategies/indigenous-education-strategy/indigenous-education-strategy-issue-17/yirrkala-language-centre-recognised",
+   "found_in_search": true
+  },
+  {
+   "title": "Chapter on Yirrkala School bilingual programme (doi)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.doi.org/10.1057/978-1-137-60120-9_4",
+   "found_in_search": true
+  }
+ ]
+}

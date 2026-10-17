@@ -1,0 +1,38 @@
+{
+ "iso": "dot",
+ "name": "Dass",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dass language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dass_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Cosper 1999, Barawa Lexicon (Glottolog reference entry)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/136865",
+   "found_in_search": true
+  },
+  {
+   "title": "Caron 2002, Dott grammatical notes, vocabulary and text (Glottolog reference entry)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/65972",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Dass",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/dot",
+   "found_in_search": true
+  }
+ ]
+}

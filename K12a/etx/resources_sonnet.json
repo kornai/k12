@@ -1,0 +1,31 @@
+{
+ "iso": "etx",
+ "name": "Iten",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Eten language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eten_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Iten numerals (Max Planck channumerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Iten.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Iten (etx)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/etx/",
+   "found_in_search": true
+  }
+ ]
+}

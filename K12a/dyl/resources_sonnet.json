@@ -1,0 +1,52 @@
+{
+ "iso": "dyl",
+ "name": "Bhutanese Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bhutanese Sign Language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bhutanese_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bhutanese Sign Language (BhSL), Wangsel Institute, Ministry of Education",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://wangsel.education.gov.bt/bhutan-sign-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf students construct first sign language for Bhutan (UNICEF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.unicef.org/bhutan/stories/deaf-students-construct-first-sign-language-bhutan",
+   "found_in_search": true
+  },
+  {
+   "title": "Deaf cultures and Sign Languages of the world: Bhutan",
+   "type": "other",
+   "language": "English",
+   "url": "https://theinterpretersfriend.com/indj/dcoew/bhutan.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Breaking Barriers: Bhutanese Sign Language App for Inclusivity (Daily Bhutan)",
+   "type": "software",
+   "language": "English",
+   "url": "https://www.dailybhutan.com/article/breaking-barriers-bhutanese-sign-language-app-for-inclusivity",
+   "found_in_search": true
+  },
+  {
+   "title": "BBS news item on Bhutanese Sign Language",
+   "type": "other",
+   "language": "English",
+   "url": "https://bbs.bt/news/?p=195310",
+   "found_in_search": true
+  }
+ ]
+}

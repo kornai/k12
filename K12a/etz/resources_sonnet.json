@@ -1,0 +1,66 @@
+{
+ "iso": "etz",
+ "name": "Semimi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Semimi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Semimi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mairasi languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mairasi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Semimi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/etna-bay/semimi",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Etna Bay family",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/etna-bay/start",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Semimi 1 word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SEMIMI_1",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Semimi 2 word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SEMIMI_2",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Semimi (etz)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/etz",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: etz",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Etz",
+   "found_in_search": true
+  }
+ ]
+}

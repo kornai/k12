@@ -1,0 +1,59 @@
+{
+ "iso": "drq",
+ "name": "Dura",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dura language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dura_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Greater Magaric languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Greater_Magaric_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Tandrange language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tandrange_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Himalayan Linguistics review mentioning Dura dictionaries",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journalpub.escholarship.org/himalayanlinguistics/article/35165/galley/26182/download",
+   "found_in_search": true
+  },
+  {
+   "title": "The phylogenetic position of the Dura Language of Nepal (BORIS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://boris.unibe.ch/73504/",
+   "found_in_search": true
+  },
+  {
+   "title": "Library record: Schorer, Dura grammar and phylogeny (Deakin)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library2.deakin.edu.au/record=b4172959~S1",
+   "found_in_search": true
+  },
+  {
+   "title": "Dura numerals page (MPI-EVA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Dura.htm",
+   "found_in_search": true
+  }
+ ]
+}

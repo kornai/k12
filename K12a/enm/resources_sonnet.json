@@ -1,0 +1,59 @@
+{
+ "iso": "enm",
+ "name": "Middle English",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Middle English Dictionary (MED)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://mdr-maa.org/resource/middle-english-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Middle English Compendium (library guide)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://guides.lib.udel.edu/az/middle-english-compendium",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Middle English",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.lexilogos.com/anglais_moyen.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Georgia language aids",
+   "type": "other",
+   "language": "English",
+   "url": "https://ctcamp.franklinresearch.uga.edu/language-aids",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Kentucky ENG421 resource page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.uky.edu/~kiernan/ENG421/resource.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Medieval studies links (Towson)",
+   "type": "other",
+   "language": "English",
+   "url": "https://tigerweb.towson.edu/duncan/hellinks.html",
+   "found_in_search": true
+  },
+  {
+   "title": "A Concise Dictionary of Middle English (Mayhew)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.goodreads.com/book/show/64990807-a-concise-dictionary-of-middle-english",
+   "found_in_search": true
+  }
+ ]
+}

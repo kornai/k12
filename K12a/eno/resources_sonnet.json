@@ -1,0 +1,59 @@
+{
+ "iso": "eno",
+ "name": "Enggano",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Enggano in the Austronesian family: historical and typological perspectives (Oxford)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://research.ox.ac.uk/map/enggano-in-the-austronesian-family-historical-and-typological-perspectives",
+   "found_in_search": true
+  },
+  {
+   "title": "Enggano Project in Indonesia (paper)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://enggano.ling-phil.ox.ac.uk/static/papers/Enggano%20Project%20in%20Indonesia.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Enggano dictionary presentation (ACIS 2024)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://enggano.ling-phil.ox.ac.uk/static/papers/20241016%20-%20ACIS%20Enggano%20Dictionary.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Enggano online dictionary paper (ACIS 2024)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://aisel.aisnet.org/acis2024/9",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Documentation & Description article on Enggano",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.lddjournal.org/article/id/1009/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Enggano",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/114524",
+   "found_in_search": true
+  },
+  {
+   "title": "Bodleian Taylor Institution blog, April 2025",
+   "type": "other",
+   "language": "English",
+   "url": "https://blogs.bodleian.ox.ac.uk/taylorian/2025/04/",
+   "found_in_search": true
+  }
+ ]
+}
