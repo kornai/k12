@@ -65,8 +65,10 @@ and record it in your first commit message.
 
 ## What not to do
 
-- Do not edit `plan/manifest.csv`, `tools/`, or anything under `K12a/<iso>/`
-  for a language outside your range; other sessions work other ranges.
+- Do not edit `plan/manifest.csv`, `plan/done_elsewhere.txt` (languages
+  finished on the author's machine, which the picker skips), `tools/`, or
+  anything under `K12a/<iso>/` for a language outside your range; other
+  sessions work other ranges.
 - Do not fetch or install anything beyond what the hook installs; the survey
   needs web search and the two tools scripts, nothing else.
 - Do not pad: if little exists for a language, the dossier says so.

@@ -22,9 +22,24 @@ from k12prompt import read_manifest, build_batch_prompt  # noqa: E402
 
 OUT = REPO / "K12a"
 WORK = REPO / "work"
+ELSEWHERE = REPO / "plan" / "done_elsewhere.txt"   # codes finished outside this repo (the author's machine); see mark_done_elsewhere.py
+
+
+def done_elsewhere():
+    if not ELSEWHERE.exists():
+        return set()
+    return {l.strip() for l in open(ELSEWHERE) if l.strip() and not l.startswith("#")}
+
+
+_ELSEWHERE = None
 
 
 def done(iso):
+    global _ELSEWHERE
+    if _ELSEWHERE is None:
+        _ELSEWHERE = done_elsewhere()
+    if iso in _ELSEWHERE:
+        return True
     d = OUT / iso
     return d.is_dir() and any(d.glob("*_resources_sonnet*.tex"))
 
