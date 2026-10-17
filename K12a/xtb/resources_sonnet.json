@@ -1,0 +1,52 @@
+{
+ "iso": "xtb",
+ "name": "Mixtec, Chazumba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:56:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Chazumba Mixtec - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chazumba_Mixtec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Chazumba Mixtec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/chaz1235.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Chazumba Mixtec",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/26669",
+   "found_in_search": true
+  },
+  {
+   "title": "Mixteco de Puebla (Arqueología Mexicana, with Valinas dictionary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://arqueologiamexicana.mx/sites/default/files/banco_imagenes/mixteco_de_puebla_diccionario_valinas.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Chazumba Mixtec",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/xtb",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mixtec, Chazumba (no recordings listed)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://www.globalrecordings.net/en/language/xtb",
+   "found_in_search": true
+  }
+ ]
+}
