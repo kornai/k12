@@ -1,0 +1,45 @@
+{
+ "iso": "xkv",
+ "name": "Kgalagadi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kgalagadi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kgalagadi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Kgalagadi (SheKgalagadi)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/kgalagadi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kgalagadi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/86239",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe: Kgalagadi translations",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/xkv/lib",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Kgalagadi (xkv)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/xkv/",
+   "found_in_search": true
+  }
+ ]
+}
