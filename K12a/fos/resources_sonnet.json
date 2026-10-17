@@ -1,0 +1,31 @@
+{
+ "iso": "fos",
+ "name": "Siraya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Siraya: Retrieving the Phonology, Grammar and Lexicon of a Dormant Formosan Language (Adelaar)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mitpressbookstore.mit.edu/book/9783110252958",
+   "found_in_search": true
+  },
+  {
+   "title": "Siraya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Siraya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Language revitalisation using historical texts: The case of Siraya (Joby)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ueaeprints.uea.ac.uk/id/eprint/99055",
+   "found_in_search": true
+  }
+ ]
+}

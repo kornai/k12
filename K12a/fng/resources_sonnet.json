@@ -1,0 +1,38 @@
+{
+ "iso": "fng",
+ "name": "Pidgin Bantu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Survey chapter: Fanakalo (APiCS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://apics-online.info/surveys/61",
+   "found_in_search": true
+  },
+  {
+   "title": "How non-Indo-European is Fanakalo pidgin? (Mesthrie, Benjamins)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://benjamins.com/catalog/cll.47.05mes",
+   "found_in_search": true
+  },
+  {
+   "title": "How non-Indo-European is Fanakalo pidgin? (De Gruyter Brill)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1075/cll.47.05mes/html",
+   "found_in_search": true
+  },
+  {
+   "title": "The Oxford Guide to the Bantu Languages (chapter)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://academic.oup.com/book/61440/chapter/534769303",
+   "found_in_search": true
+  }
+ ]
+}

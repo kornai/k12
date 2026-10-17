@@ -1,0 +1,59 @@
+{
+ "iso": "fuc",
+ "name": "Pulaar",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hippocrene Pulaar-English Standard Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.hippocrenebooks.com/store/p275/Pulaar-English_StandardDictionary.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Peul (Fula) dictionary and links",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/peul_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Humery: Pulaar movement (Cahiers de la recherche sur l'éducation et les savoirs)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journals.openedition.org/cres/2348",
+   "found_in_search": true
+  },
+  {
+   "title": "The Pulaar book network (SOAS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://mulosige.soas.ac.uk/tag/west-africa/",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Pulaar",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?idx=744",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Pulaar",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/fuc",
+   "found_in_search": true
+  },
+  {
+   "title": "MegaVoice: Bible for Children, Pulaar audio",
+   "type": "audio",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m014122-bible-for-children-fuc-pulaar-audio-bible",
+   "found_in_search": true
+  }
+ ]
+}

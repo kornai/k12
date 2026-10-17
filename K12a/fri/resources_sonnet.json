@@ -1,0 +1,24 @@
+{
+ "iso": "fri",
+ "name": "Western Frisian (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bookkeeping: Western Frisian (Retired) - Glottolog",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/west2863",
+   "found_in_search": true
+  },
+  {
+   "title": "IETF languages list: stq vs. frs (notes fri is retired in ISO 639-3)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.alvestrand.no/pipermail/ietf-languages/2008-April/007752.html",
+   "found_in_search": true
+  }
+ ]
+}

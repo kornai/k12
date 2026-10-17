@@ -1,0 +1,59 @@
+{
+ "iso": "gbu",
+ "name": "Gagadu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Gaagudju (Harvey 2002), bibliographic record, WALS",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wals.info/refdb/record/Harvey-2002",
+   "found_in_search": true
+  },
+  {
+   "title": "Harvey 2002 grammar, PHOIBLE source record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://phoible.org/sources/harvey_grammar_2002",
+   "found_in_search": true
+  },
+  {
+   "title": "The Gaagudju People and Their Language (Harvey PhD thesis, University of Sydney, 1992)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ses.library.usyd.edu.au/handle/2123/8203",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG: N50 Gaagudju",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/n50",
+   "found_in_search": true
+  },
+  {
+   "title": "Gaagudju language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gaagudju_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Old Man's Story: last thoughts of Kakadu elder Bill Neidjie (AIATSIS news)",
+   "type": "other",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/whats-new/news/old-mans-story-last-thoughts-kakadu-elder-bill-neidjie",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Gaagudju",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/27946",
+   "found_in_search": true
+  }
+ ]
+}

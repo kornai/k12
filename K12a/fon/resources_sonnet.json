@@ -1,0 +1,38 @@
+{
+ "iso": "fon",
+ "name": "Fon",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fon language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fon_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire Fon-Français (Höftmann, Koeppe)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_print_dictionnaire-fon-francais",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire Français-Fon (Koeppe)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://koeppe.de/titel_dictionnaire-francais-fon",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Fon dictionary and resources",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.lexilogos.com/fon_dictionnaire.htm",
+   "found_in_search": true
+  }
+ ]
+}

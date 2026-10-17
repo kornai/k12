@@ -1,0 +1,38 @@
+{
+ "iso": "for",
+ "name": "Fore",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Fore Language of Papua New Guinea (Scott, ANU thesis)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/45a1eeba-eb8c-4651-9554-c3957a4655ea",
+   "found_in_search": true
+  },
+  {
+   "title": "Scott 1978: The Fore Language of Papua New Guinea (Glottolog entry)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/107238",
+   "found_in_search": true
+  },
+  {
+   "title": "Scott 1980: Fore dictionary (Glottolog entry)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/57936",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Fore",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=For",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "frp",
+ "name": "Arpitan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ORB orthography document (D. Stich), Aliance Culturèla Arpitana site",
+   "type": "orthography",
+   "language": "native",
+   "url": "https://www.arpitania.eu/aca/documents/Stich/ORB%204.9.18.docx",
+   "found_in_search": true
+  },
+  {
+   "title": "arpitan.ch: article on Arpitan and ORB",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://arpitan.ch/spip.php?article361",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Franco-Provençal",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/francoprovencal.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Franco-provençal (Université Laval, Aménagement linguistique dans le monde)",
+   "type": "other",
+   "language": "other",
+   "url": "https://axl.cefan.ulaval.ca/monde/franco-provencal.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Savoy and Aosta (Eurominority)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.eurominority.eu/index.php/savoy-and-aosta/",
+   "found_in_search": true
+  },
+  {
+   "title": "Google Summer of Code 2020 project (Arpitan, ORB)",
+   "type": "software",
+   "language": "English",
+   "url": "https://summerofcode.withgoogle.com/archive/2020/projects/6217740206997504",
+   "found_in_search": true
+  }
+ ]
+}

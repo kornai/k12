@@ -1,0 +1,45 @@
+{
+ "iso": "gmh",
+ "name": "Middle High German",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mittelhochdeutsches Wörterbuch (MWB), Trier",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.uni-trier.de/en/forschung/mittelhochdeutsches-woerterbuch/start",
+   "found_in_search": true
+  },
+  {
+   "title": "Mittelhochdeutsches Taschenwörterbuch (Lexer), catalogue record",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://search.books2ebooks.eu/vufind/Record/bsb_991029117989707356?lng=pl",
+   "found_in_search": true
+  },
+  {
+   "title": "Referenzkorpus Mittelhochdeutsch (1050-1350)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://linguistics.rub.de/rem",
+   "found_in_search": true
+  },
+  {
+   "title": "Reference Corpus of Middle High German: access page",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://linguistics.rub.de/rem/access/index.en.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ReM v1.0 in Uppsala HistCorp (readme)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://sprakbanken-clarin.lingfil.uu.se/histcorp/readme/german-readme-ReM",
+   "found_in_search": true
+  }
+ ]
+}

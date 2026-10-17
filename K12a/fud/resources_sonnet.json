@@ -1,0 +1,45 @@
+{
+ "iso": "fud",
+ "name": "East Futuna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "East Futuna (CoCoon / Lexvo catalogue entry)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=fud",
+   "found_in_search": true
+  },
+  {
+   "title": "Futuna, East (Verbix)",
+   "type": "other",
+   "language": "other",
+   "url": "https://docs.verbix.com/Languages/FutunaEast",
+   "found_in_search": true
+  },
+  {
+   "title": "Moyse-Faurie, Claire 1992 (Glottolog reference)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/180971",
+   "found_in_search": true
+  },
+  {
+   "title": "Moyse-Faurie 2000, Fagauvea (Grambank source)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://grambank.clld.org/sources/sMoyseFaurieFagauvea",
+   "found_in_search": true
+  },
+  {
+   "title": "Futunan language (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.Wikipedia.com/wiki/Futunan",
+   "found_in_search": true
+  }
+ ]
+}

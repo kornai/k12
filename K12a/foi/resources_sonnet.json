@@ -1,0 +1,52 @@
+{
+ "iso": "foi",
+ "name": "Foi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Culture and Language of the Foe (Murray Rule, 1993)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/50152",
+   "found_in_search": true
+  },
+  {
+   "title": "Foi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Foi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kutubuan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kutubuan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Foi Orientation (Everyculture)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.everyculture.com/Oceania/Foi-Orientation.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Foi New Testament (Rule, 1978), ANU repository record",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://openresearch-repository.anu.edu.au/items/32d5c89d-1684-4ff4-a29a-5a421e9ab4d9/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Foi, Kutubu",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/11220",
+   "found_in_search": true
+  }
+ ]
+}

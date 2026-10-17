@@ -1,0 +1,31 @@
+{
+ "iso": "fro",
+ "name": "Old French (842-ca. 1400)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionnaire étymologique de l'ancien français (DEAF) - Wikipedia",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dictionnaire_%C3%A9tymologique_de_l%27ancien_fran%C3%A7ais",
+   "found_in_search": true
+  },
+  {
+   "title": "Early Romance online resources (UBC)",
+   "type": "other",
+   "language": "English",
+   "url": "https://blogs.ubc.ca/earlyromance/online-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Base de Français Médiéval - Old French Corpus (TEI)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.tei-c.org/activities/projects/base-de-francais-medieval-old-french-corpus/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "gbr",
+ "name": "Gbagyi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gbagyi Boda (Donaye Shekwolo, 2014)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://nigeriareposit.nln.gov.ng/items/9932ec80-a564-438d-81d4-5131afd63ed0/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Fundamentals of the Gbagyi Language (J. A. Shekwo, 1979), WEBBALL record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio_bas.php?id=18418",
+   "found_in_search": true
+  },
+  {
+   "title": "Gbagyi Contemporary Bible (YouVersion)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/versions/4607",
+   "found_in_search": true
+  },
+  {
+   "title": "Gbagyi in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11839",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Gbagyi: Vwezhi",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/10087",
+   "found_in_search": true
+  }
+ ]
+}

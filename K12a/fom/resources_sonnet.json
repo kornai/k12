@@ -1,0 +1,31 @@
+{
+ "iso": "fom",
+ "name": "Foma",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kele-Foma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kele-Foma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Foma in Congo, Democratic Republic of",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11221/CG",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Foma (fom)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/fom/",
+   "found_in_search": true
+  }
+ ]
+}
