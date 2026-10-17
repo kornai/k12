@@ -1,0 +1,31 @@
+{
+ "iso": "pok",
+ "name": "Pokangá",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Tiquié Pokangá",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/pok",
+   "found_in_search": true
+  },
+  {
+   "title": "Waimajã language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waimaj%C3%A3_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pokangá",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/pok",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "iso": "pon",
+ "name": "Pohnpeian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "COM-FSM ML100 Introduction to Pohnpeian Language",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://app.comfsm.fm/national/administration/VPIA/slo/ml/ML100%20Introduction%20to%20Pohnpeian%20Language.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "COM-FSM ML101P Pohnpeian Reading",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://app.comfsm.fm/national/administration/VPIA/slo/ml/ML101P%20Pohnpeian%20Reading.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ponapean-English Dictionary (Rehg and Sohl)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://uhpress.hawaii.edu/product/ponapean-english-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ponapean Reference Grammar (Rehg), reference record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://habeleinstitute.org/wiki/Zotero_reference:QSMLC8SE",
+   "found_in_search": true
+  },
+  {
+   "title": "Pohnpeian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pohnpeian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Pohnpeian writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/pohnpeian.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Pohnpeian New Testament and Psalms",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/PONPJA",
+   "found_in_search": true
+  },
+  {
+   "title": "Pohnpeian Talking Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://talkingdictionary.swarthmore.edu/pohnpeian/",
+   "found_in_search": true
+  },
+  {
+   "title": "Pohnpeian Talking Dictionary (Swarthmore publication record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://works.swarthmore.edu/fac-linguistics/301",
+   "found_in_search": true
+  }
+ ]
+}

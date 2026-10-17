@@ -1,0 +1,45 @@
+{
+ "iso": "poc",
+ "name": "Poqomam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:32Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ALMG Poqomam-Spanish bilingual dictionary (news report, AGN)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://agn.gt/?p=402251",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Poqomam",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/poqo1253",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Poqomam (cites Gramatica del idioma poqomam, 1997)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_pcm",
+   "found_in_search": true
+  },
+  {
+   "title": "Poqomam Living Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/poqomam",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Poqomam",
+   "type": "audio",
+   "language": "native",
+   "url": "https://endangeredlanguages.com/node/97286",
+   "found_in_search": true
+  }
+ ]
+}

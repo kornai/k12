@@ -1,0 +1,31 @@
+{
+ "iso": "pop",
+ "name": "Pwapwâ",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pwapwâ language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pwapw%C3%A2_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Pwapwa",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Pwapwa",
+   "found_in_search": true
+  },
+  {
+   "title": "Kanak language dictionaries with Princeton (Outremers360; does not cover Pwapwâ)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://outremers360.com/bassin-pacifique-appli/nouvelle-caledonie-des-dictionnaires-en-langues-kanak-bientot-accessibles-au-grand-public-grace-a-un-partenariat-avec-luniversite-de-princeton",
+   "found_in_search": true
+  }
+ ]
+}

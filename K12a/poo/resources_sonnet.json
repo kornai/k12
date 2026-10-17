@@ -1,0 +1,45 @@
+{
+ "iso": "poo",
+ "name": "Pomo, Central",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Central Pomo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/cent2138",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Central Pomo",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/37871",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Pomo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:poo",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC RelLex: Central Pomo Language - Intro",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Central_Pomo_Language_-_Intro",
+   "found_in_search": true
+  },
+  {
+   "title": "CIMCC Pomo Language Status Report",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://cimcc.org/wp-content/uploads/2012/05/Pomo-Language-Status-Report.pdf",
+   "found_in_search": true
+  }
+ ]
+}

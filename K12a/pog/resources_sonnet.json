@@ -1,0 +1,38 @@
+{
+ "iso": "pog",
+ "name": "Potiguára",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "UFPB journal article on Potiguara (lexicon/language)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufpb.br/index.php/rics/article/download/74047/41582/230563",
+   "found_in_search": true
+  },
+  {
+   "title": "Tempus (UnB) article surfaced in Potiguara language search",
+   "type": "academic",
+   "language": "other",
+   "url": "https://tempus.unb.br/index.php/tempus/article/download/1100/992/2369",
+   "found_in_search": true
+  },
+  {
+   "title": "Paraíba registrou 95 etnias indígenas (A União)",
+   "type": "other",
+   "language": "other",
+   "url": "https://auniao.pb.gov.br/noticias/caderno_diversidade/paraiba-registrou-95-etnias-indigenas",
+   "found_in_search": true
+  },
+  {
+   "title": "Potiguara Ethnohistory (Berkeley CLACS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://clacs.berkeley.edu/potiguara-ethnohistory",
+   "found_in_search": true
+  }
+ ]
+}

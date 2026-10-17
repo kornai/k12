@@ -1,0 +1,73 @@
+{
+ "iso": "pnx",
+ "name": "Phong-Kniang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kniang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kniang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Phong Kniang numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Phong-Kniang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Phong-Kniang",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/phon1246",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Phong Kniang",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PHONG_KNIANG",
+   "found_in_search": true
+  },
+  {
+   "title": "Ksingmul people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ksingmul_people",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: pnx",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=pnx",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pong in Laos",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14442/LA",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Phong-Kniang",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/PhongKniang",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: pnx",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Pnx",
+   "found_in_search": true
+  }
+ ]
+}

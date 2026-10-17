@@ -1,0 +1,45 @@
+{
+ "iso": "poj",
+ "name": "Lower Pokomo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Lower Pokomo [poj] (retired code)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/poj",
+   "found_in_search": true
+  },
+  {
+   "title": "Pokomo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pokomo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Pokomo (pkb) New Testament, app, film",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=pkb",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Lower Pokomo in Kenya",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13120",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kipfokomo",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/pkb",
+   "found_in_search": true
+  }
+ ]
+}

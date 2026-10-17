@@ -1,0 +1,31 @@
+{
+ "iso": "pom",
+ "name": "Pomo, Southeastern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Berkeley Language Center: Southeastern Pomo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cla.berkeley.edu/languages/southeastern-pomo.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Southeastern Pomo Language Project (UBC RelLex wiki)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Southeastern_Pomo_Language_Project",
+   "found_in_search": true
+  },
+  {
+   "title": "Robert Louis Oswalt Papers on Pomoan Languages",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://openpolar.no/Record/ftdatacite:10.7297%2Fx2c24tdg",
+   "found_in_search": true
+  }
+ ]
+}
