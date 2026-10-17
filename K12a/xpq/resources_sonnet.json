@@ -1,0 +1,52 @@
+{
+ "iso": "xpq",
+ "name": "Mohegan-Pequot",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mohegan-Pequot language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mohegan-Pequot_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Stephanie Fielding (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Stephanie_Fielding",
+   "found_in_search": true
+  },
+  {
+   "title": "FreeLang Mohegan dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.freelang.net/dictionary/mohegan.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Mohegan Tribe (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mohegan_Tribe",
+   "found_in_search": true
+  },
+  {
+   "title": "Indianz.com 2004 report on Pequot and Mohegan language revitalization",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.indianz.com/News/2004/000989.asp",
+   "found_in_search": true
+  },
+  {
+   "title": "Brothertown Indians page (content not verified)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://brothertownindians.org/?p=266",
+   "found_in_search": true
+  }
+ ]
+}
