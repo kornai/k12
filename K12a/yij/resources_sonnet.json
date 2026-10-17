@@ -1,0 +1,45 @@
+{
+ "iso": "yij",
+ "name": "Yindjibarndi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:41:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Juluwarlu: language preservation",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://juluwarlu.com.au/our-work/language-preservation",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangka Maya: Yindjibarndi (language page, dictionary and recordings)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/yindjibarndi",
+   "found_in_search": true
+  },
+  {
+   "title": "Yindjibarndi word lists 1990 (Endangered Languages Archive)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/node/94885",
+   "found_in_search": true
+  },
+  {
+   "title": "Smythe and Thieberger 1999 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/31027",
+   "found_in_search": true
+  },
+  {
+   "title": "Yindjibarndi Ngurra Aboriginal Corporation RNTBC",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://nativetitle.org.au/node/213",
+   "found_in_search": true
+  }
+ ]
+}

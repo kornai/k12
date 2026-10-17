@@ -1,0 +1,38 @@
+{
+ "iso": "yii",
+ "name": "Yidiny",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:41:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Yidin (Dixon 1977), preface",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/books/grammar-of-yidin/preface/A7ED2595CD555C60CBC4122652DCD8DD",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Yidiny (catalogue record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://ci.nii.ac.jp/ncid/BA01483322",
+   "found_in_search": true
+  },
+  {
+   "title": "Edible Gender, Mother-in-Law Style, and Other Grammatical Wonders (Dixon 2015)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/39196/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yidiny people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yidiny_people",
+   "found_in_search": true
+  }
+ ]
+}
