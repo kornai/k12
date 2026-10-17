@@ -1,0 +1,52 @@
+{
+ "iso": "sti",
+ "name": "Bulo Stieng",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Stieng language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Stieng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bulo Stieng bibliography (Endangered Languages Project)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5422/bibliography?hl=zh-cn",
+   "found_in_search": true
+  },
+  {
+   "title": "Bulo Stieng (Verbix Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/BuloStieng",
+   "found_in_search": true
+  },
+  {
+   "title": "HAL Lyon 2 document",
+   "type": "academic",
+   "language": "other",
+   "url": "https://hal.univ-lyon2.fr/hal-03025567/document",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Bulo Stieng in Vietnam",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15088/VM",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Bulo Stieng in Cambodia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15088/CB",
+   "found_in_search": true
+  }
+ ]
+}
