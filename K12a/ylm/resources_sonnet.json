@@ -1,0 +1,45 @@
+{
+ "iso": "ylm",
+ "name": "Limi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:52:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Limi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Limi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Limi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/limi1243.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Limi in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18554",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language ylm",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ylm",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Limi people-group profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/limi.pdf",
+   "found_in_search": true
+  }
+ ]
+}
