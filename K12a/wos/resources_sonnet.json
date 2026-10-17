@@ -1,0 +1,73 @@
+{
+ "iso": "wos",
+ "name": "Hanga Hundi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:27:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hanga Hundi scripture (eBible PDF, book)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/pdf/wos/wos_book.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Hanga Hundi scripture (eBible PDF, complete)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/pdf/wos/wos_all.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wendel 1993, A Preliminary Grammar of Hanga Hundi (Glottolog reference record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/97333",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwasengen language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwasengen_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwasengen (Hanga Hundi) on Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/kwasengen.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Hanga Hundi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_hhu",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Hanga Hundi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/hang1263",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Hanga Hundi word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/HANGA_HUNDI",
+   "found_in_search": true
+  },
+  {
+   "title": "Hanga Hundi numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Hanga-Hundi.htm",
+   "found_in_search": true
+  }
+ ]
+}
