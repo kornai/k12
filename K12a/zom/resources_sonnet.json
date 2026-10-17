@@ -1,0 +1,24 @@
+{
+ "iso": "zom",
+ "name": "Zo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zokam (Zo) people profile, Asia Harvest, listing Zo [zom] scripture and Jesus film",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Zokam.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Zokam Bible Project (Bible society news; concerns the neighbouring Tedim language)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.tbsbibles.org/news/700366/Zokam-Bible-Project.htm",
+   "found_in_search": true
+  }
+ ]
+}

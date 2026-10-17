@@ -1,0 +1,35 @@
+You will research 4 languages (zom, zoo, zoq, zor), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE zom ===
+Please help me gather resources for the Zo language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zom; Glottocode: zouu1235; family: Sino-Tibetan; macro-area: Eurasia; approx. speakers: about 82,000. Reference description: Zo is a stable indigenous language of Myanmar and India. It belongs to the Sino-Tibetan language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE zoo ===
+Please help me gather resources for the Zapotec, Asunción Mixtepec language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zoo; Glottocode: asun1236; family: Otomanguean; macro-area: North America. Reference description: Asunción Mixtepec Zapotec is an endangered indigenous language of Mexico. It belongs to the Otomanguean language family and is part of the Zapotec macrolanguage. Direct evidence is lacking, but the language is thought to be used as a first language by the elderly only. It is not known to be taught i
+
+=== LANGUAGE zoq ===
+Please help me gather resources for the Zoque, Tabasco language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zoq; Glottocode: taba1264; family: Mixe-Zoque; macro-area: North America; approx. speakers: about 2. Reference description: Tabasco Zoque is an endangered indigenous language of Mexico. It belongs to the Mixe-Zoquean language family. Direct evidence is lacking, but the language is thought to be used as a first language by the elderly only. It is not known to be taught in schools.
+
+=== LANGUAGE zor ===
+Please help me gather resources for the Rayón Zoque language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: zor; Glottocode: rayo1235; family: Mixe-Zoque; macro-area: North America; approx. speakers: about 2,000. Reference description: Rayón Zoque is an endangered indigenous language of Mexico. It belongs to the Mixe-Zoquean language family. Direct evidence is lacking, but the language is thought to be used as a first language by adults only. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.
