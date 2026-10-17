@@ -1,0 +1,66 @@
+{
+ "iso": "wom",
+ "name": "Wom",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:26:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Perema language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Perema_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Leko languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Leko_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Wom numerals (Max Planck lingweb)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Wom.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "2017 CALL AdaGram Survey Results",
+   "type": "academic",
+   "language": "English",
+   "url": "https://halshs.archives-ouvertes.fr/halshs-01676457v1/file/2017_CALL_AdaGram_Survey_Results.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Wom (womn1235)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/womn1235.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wom language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/wom",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wom in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15415/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wom [Nigeria]",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wom",
+   "found_in_search": true
+  }
+ ]
+}

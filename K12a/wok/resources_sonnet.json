@@ -1,0 +1,45 @@
+{
+ "iso": "wok",
+ "name": "Longto",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:26:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Voko language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Voko_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Longto (wok)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/wok/",
+   "found_in_search": true
+  },
+  {
+   "title": "Longa in Cameroon (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15411",
+   "found_in_search": true
+  },
+  {
+   "title": "Scott Westermann and Annette Westermann 2001 (Glottolog reference)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/310671",
+   "found_in_search": true
+  },
+  {
+   "title": "Longto in Cameroon (UNESCO World Atlas of Languages)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/en/countries/cameroon/languages/longto",
+   "found_in_search": true
+  }
+ ]
+}

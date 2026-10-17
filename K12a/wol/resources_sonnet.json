@@ -1,0 +1,94 @@
+{
+ "iso": "wol",
+ "name": "Wolof",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:26:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "KIX: Strengthening Bilingual Education in Senegal (brief, May 2024)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://air.org/sites/default/files/2024-05/KIX-Strengthening-Bilingual-Education-Senegal-Brief-May-2024.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Bilingual education research in Senegal (Columbia Teachers College)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.tc.columbia.edu/cae/our-stories/blogs/bilingual-education-research-in-senegal/",
+   "found_in_search": true
+  },
+  {
+   "title": "UF Wolof WOL2201 syllabus (Nanu Jang Wolof, Nanu Dégg Wolof)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://languages.ufl.edu/wp-content/uploads/sites/238/Spr21_WOL2201_Syllabus.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolof Lexicon and Grammar (Sana Camara, 2006)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langw/data/wo_112.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolof-English/English-Wolof Dictionary & Phrasebook (Nyima Kantorek)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://backstory.london/products/9780781810869",
+   "found_in_search": true
+  },
+  {
+   "title": "Janga Wolof dictionaries",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://payhip.com/PolyglotBooks/blog/articles/2-new-wolof-dictionaries-now-available",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos Wolof dictionary page",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://lexilogos.com/english/wolof_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaddug Yalla gi, Wolof Bible with audio (DBS)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/WOLKYG",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Gambian Wolof (wof)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00i-Scripture_Index.php?iso=wof",
+   "found_in_search": true
+  },
+  {
+   "title": "Online audio for Practical Course in Wolof (Gaye)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.langmedia.fivecolleges.edu/online-audio-practical-course-wolof-gaye",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wolof",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wol",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolof Fran Engl Arabe (iOS app)",
+   "type": "software",
+   "language": "other",
+   "url": "https://apps.apple.com/us/app/id6463724583",
+   "found_in_search": true
+  }
+ ]
+}
