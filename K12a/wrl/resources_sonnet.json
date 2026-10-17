@@ -1,0 +1,45 @@
+{
+ "iso": "wrl",
+ "name": "Warlmanpa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:30:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Warlmanpa (Mitchell Browne, ANU Press)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://press-prod.anu.edu.au/publications/series/asia-pacific-linguistics/grammar-warlmanpa",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Warlmanpa (Macquarie University research record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://researchers.mq.edu.au/en/publications/a-grammar-of-warlmanpa/",
+   "found_in_search": true
+  },
+  {
+   "title": "AUSTLANG entry C17 (AIATSIS), Warlmanpa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/C17",
+   "found_in_search": true
+  },
+  {
+   "title": "Warlmanpa reference list (David Nash, ANU)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www0.anu.edu.au/linguistics/nash/aust/wpa/lx-ref.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Palka (body-parts word list, Living Archive of Aboriginal Languages, Territory Stories)",
+   "type": "other",
+   "language": "native",
+   "url": "https://territorystories.nt.gov.au/10070/882513",
+   "found_in_search": true
+  }
+ ]
+}
