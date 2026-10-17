@@ -1,0 +1,45 @@
+{
+ "iso": "xub",
+ "name": "Betta Kurumba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:02:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Betta Kurumba language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Betta_Kurumba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Betta Kurumba (xub)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/xub",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Betta Kurumba",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/1453?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kurumba, Vatta",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/xub",
+   "found_in_search": true
+  },
+  {
+   "title": "CIIL Bhasha Sanchika: Betta Kuruba community collection",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://sanchika.ciil.org/communities/f471779a-3400-4462-981d-c95b041550b4",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "xtz",
+ "name": "Tasmanian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:02:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: palawa kani",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Palawa_kani",
+   "found_in_search": true
+  },
+  {
+   "title": "Wukalina Walk: language guide",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wukalinawalk.com.au/language-guide",
+   "found_in_search": true
+  },
+  {
+   "title": "Whose Knowledge podcast: Theresa Sainty and the path to revive palawa kani",
+   "type": "audio",
+   "language": "English",
+   "url": "https://podcast.whoseknowledge.org/posts/ep12/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ionata: Advancing Language Research and Revival (place names app)",
+   "type": "software",
+   "language": "English",
+   "url": "https://ionata.com.au/2025/12/advancing-language-research-and-revival/",
+   "found_in_search": true
+  },
+  {
+   "title": "TasTAFE: Taypani (links to Tasmanian Aboriginal Centre palawa kani program and policy)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.tastafe.tas.edu.au/students/student-services/taypani",
+   "found_in_search": true
+  }
+ ]
+}
