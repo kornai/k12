@@ -1,0 +1,31 @@
+{
+ "iso": "wyr",
+ "name": "Wayoró",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:42:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wayoró language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wayor%C3%B3_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Em busca das classes de palavras da língua Wayoro",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.ufrj.br/index.php/rl/article/view/4614/33325",
+   "found_in_search": true
+  },
+  {
+   "title": "Galucio and Nogueira, CILLA V paper (AILLA)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ailla-legacy.lib.utexas.edu/sites/default/files/documents/Galucio_Nogueira_CILLA_V.pdf",
+   "found_in_search": true
+  }
+ ]
+}

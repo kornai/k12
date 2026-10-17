@@ -1,0 +1,52 @@
+{
+ "iso": "wyn",
+ "name": "Wyandot",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:42:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wyandot language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wyandot_language",
+   "found_in_search": true
+  },
+  {
+   "title": "DSMW - A Wandat (Wyandot) Language Workbook (ONLC bookstore)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.onlc.ca/bookstore/p/dsmw-a-wandat-wyandot-language-workbook",
+   "found_in_search": true
+  },
+  {
+   "title": "John Steckley, Wyandot tribal linguist (NCCIE)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.nccie.ca/story/john-steckley-wyandot-tribal-linguist/",
+   "found_in_search": true
+  },
+  {
+   "title": "Illinois State University dissertation on Wyandot language reclamation",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ir.library.illinoisstate.edu/etd/2297",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Wyandot",
+   "type": "other",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/wyandot.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wyandotte Nation culture page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wyandotte-nation.org/culture/",
+   "found_in_search": true
+  }
+ ]
+}
