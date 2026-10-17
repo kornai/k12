@@ -1,0 +1,66 @@
+{
+ "iso": "xah",
+ "name": "Kahayan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:44:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngaju language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngaju_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dayak Ngaju language profile (Missouri DICE)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dice.missouri.edu/assets/docs/austronesia/DayakNgaju.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Web-based Ngaju-English dictionary for elementary school children (UIN Palangka Raya proceedings)",
+   "type": "software",
+   "language": "English",
+   "url": "https://e-proceedings.uin-palangkaraya.ac.id/INACELT/article/download/84/87/145",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article, Universitas Muhammadiyah Palangkaraya (J-SAKTI)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journal.umpr.ac.id/index.php/jsakti/article/view/12580",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary entry",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://acd.clld.org/values/18577-4f54e367268784734aec17693bf5790d-1",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Ngaju",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Ngaju",
+   "found_in_search": true
+  },
+  {
+   "title": "KITLV page",
+   "type": "academic",
+   "language": "other",
+   "url": "https://kitlv.nl/?p=2174",
+   "found_in_search": true
+  },
+  {
+   "title": "Open Library record (Ngaju-related book)",
+   "type": "other",
+   "language": "other",
+   "url": "https://openlibrary.org/books/OL153128M?v=16",
+   "found_in_search": true
+  }
+ ]
+}

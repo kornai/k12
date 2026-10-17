@@ -1,0 +1,31 @@
+{
+ "iso": "xak",
+ "name": "Máku",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:44:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Máku: A Comprehensive Grammar (Rogers 2020), catalogue listing",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.sack.de/rogers-mku/9780367522193",
+   "found_in_search": true
+  },
+  {
+   "title": "Máku language of Auari (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/M%C3%A1ku_language_of_Auari",
+   "found_in_search": true
+  },
+  {
+   "title": "Maku (exonym) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Maku_(exonym)",
+   "found_in_search": true
+  }
+ ]
+}
