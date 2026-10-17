@@ -1,0 +1,59 @@
+{
+ "iso": "prt",
+ "name": "Prai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Prai language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Prai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mal language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "CRDO/Cocoon language page for prt (bibliography)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=prt",
+   "found_in_search": true
+  },
+  {
+   "title": "Sociolinguistic survey of the Lua Bo Kluea speech community, Nan Province (2025)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://so07.tci-thaijo.org/index.php/DJIIH/article/download/7217/5998/84584",
+   "found_in_search": true
+  },
+  {
+   "title": "Prai people - Wikipedia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Prai_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Prai in Thailand - Joshua Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14377/TH",
+   "found_in_search": true
+  },
+  {
+   "title": "Prai in Laos - Joshua Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14377/LA",
+   "found_in_search": true
+  }
+ ]
+}

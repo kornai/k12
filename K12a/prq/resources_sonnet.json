@@ -1,0 +1,45 @@
+{
+ "iso": "prq",
+ "name": "Ashéninka, Perené",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Alto Perené (Arawak) - front matter, JCU repository",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/40717/",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Alto Perené (Arawak) - De Gruyter",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110766301/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Ashéninka (Perené dialect) - SAPHON phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/AsheninkaPe.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Asheninka Perene (Arawak) 2010 collection, ELDP/ELAR",
+   "type": "audio",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0146/",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF grant BCS-0901196 (Perené documentation project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-0901196",
+   "found_in_search": true
+  }
+ ]
+}

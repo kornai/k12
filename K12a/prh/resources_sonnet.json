@@ -1,0 +1,38 @@
+{
+ "iso": "prh",
+ "name": "Porohanon",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammatical Sketch of Porohanon",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://linguistics.upd.edu.ph/theses_dissertation/a-grammatical-sketch-of-porohanon",
+   "found_in_search": true
+  },
+  {
+   "title": "Porohanon Grammar Addenda",
+   "type": "academic",
+   "language": "English",
+   "url": "https://pages.upd.edu.ph/vasantiago/presentations/porohanon-grammar-addenda",
+   "found_in_search": true
+  },
+  {
+   "title": "Language and Place in Poro, Camotes, Cebu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://pages.upd.edu.ph/vasantiago/node/4447",
+   "found_in_search": true
+  },
+  {
+   "title": "Porohanon language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Porohanon_language",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "iso": "prb",
+ "name": "Lua'",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Lua'/Prai sample",
+   "type": "other",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/5288/samples/9984?hl=zh-cn",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "iso": "prg",
+ "name": "Prussian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Prūsiskai - Prussian language and community (about)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://prusai.org/about-en.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Prūsiskai - Prussian language page",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.prusai.org/language-en.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikibooks: Prussian",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://en.wikibooks.org/wiki/Prussian",
+   "found_in_search": true
+  },
+  {
+   "title": "Old Prussian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Old_Prussian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Freelang Prussian dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://mail.freelang.net/dictionary/prussian.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Online Prussian dictionary (twanksta)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://wirdeins.twanksta.org/",
+   "found_in_search": true
+  },
+  {
+   "title": "Prussian Reconstructions (Vilnius University)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sitti.vdu.lt/prussian/",
+   "found_in_search": true
+  },
+  {
+   "title": "New Prussian (critical discussion, Vilnius University)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sitti.vdu.lt/prussian/princip.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Petit, Baltistica article on the Prussian catechism texts",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.baltistica.lt/index.php/baltistica/article/download/1179/1101",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages, Learning and Cultural Life in the Teutonic Order's Prussian and Livonian Territories (catechisms)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.ancient-history-sites.com/?p=158386",
+   "found_in_search": true
+  }
+ ]
+}

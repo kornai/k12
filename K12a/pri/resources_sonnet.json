@@ -1,0 +1,38 @@
+{
+ "iso": "pri",
+ "name": "Paicî",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language snapshot: Paicî (Language Documentation & Description)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lddjournal.org/article/id/1017",
+   "found_in_search": true
+  },
+  {
+   "title": "Paicî language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Paic%C3%AE_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Paicî in the Austronesian typological database (LPAN)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lpan.eva.mpg.de/austronesian/language.php?id=1479",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaires en langues kanak (Académie des Langues Kanak / Princeton partnership)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://outremers360.com/bassin-pacifique-appli/nouvelle-caledonie-des-dictionnaires-en-langues-kanak-bientot-accessibles-au-grand-public-grace-a-un-partenariat-avec-luniversite-de-princeton",
+   "found_in_search": true
+  }
+ ]
+}

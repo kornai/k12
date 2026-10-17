@@ -1,0 +1,38 @@
+{
+ "iso": "prr",
+ "name": "Puri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Puri language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Puri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Purian languages - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Purian_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Silva Neto 2007, reconstruction of Proto-Purian (UnB thesis)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.unb.br/bitstream/10482/2328/1/2007_AmbrosioPereiradaSilvaNeto.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ramirez, Vegini & França 2015, Koropó and Puri data (LIAMES)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/liames/article/view/8642302",
+   "found_in_search": true
+  }
+ ]
+}

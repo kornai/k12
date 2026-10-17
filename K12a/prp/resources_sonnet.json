@@ -1,0 +1,31 @@
+{
+ "iso": "prp",
+ "name": "Parsi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Parsi (retired languoid pars1251)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/pars1251",
+   "found_in_search": true
+  },
+  {
+   "title": "Parsi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Parsi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Gujarati languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gujarati_languages",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "prd",
+ "name": "Parsi-Dari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog bookkeeping entry: Parsi-Dari (duplicate of Zoroastrian Dari gbz)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/prd",
+   "found_in_search": true
+  },
+  {
+   "title": "Zoroastrian Dari (Behdini) in Kerman (Gholami and Farahmand, 2016)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.biblioiranica.info/zoroastrian-dari-behdini-in-kerman/",
+   "found_in_search": true
+  },
+  {
+   "title": "Zoroastrian Dari language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zoroastrian_Dari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Behdinan dialect (Encyclopaedia Iranica)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.iranicaonline.org/articles/behdinan-dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Remnants of Zoroastrian Dari in the colophons and salmargs of Iranian Avestan manuscripts (Iranian Studies)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/journals/iranian-studies/article/remnants-of-zoroastrian-dari-in-the-colophons-and-salmargs-of-iranian-avestan-manuscripts/1A56E34168FCE371B4608E53F08B686E",
+   "found_in_search": true
+  }
+ ]
+}

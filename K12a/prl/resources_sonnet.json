@@ -1,0 +1,38 @@
+{
+ "iso": "prl",
+ "name": "Peruvian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Manual de lenguaje de señas peruanas = Perú Mama Makillawan Rimaykuna",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://repositorio.minedu.gob.pe/handle/20.500.12799/5544",
+   "found_in_search": true
+  },
+  {
+   "title": "Lengua de señas peruana: guía para el aprendizaje, vocabulario básico",
+   "type": "primer",
+   "language": "other",
+   "url": "https://repositorio.minedu.gob.pe/handle/20.500.12799/5545",
+   "found_in_search": true
+  },
+  {
+   "title": "Congreso del Perú: lengua de señas (nota de investigación)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.congreso.gob.pe/Docs/DGP/DIDP/files/nir_2024-2025/nir-35-lengua-de-señas.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Nuevo reglamento sobre lengua de señas beneficia a más de 700,000 personas (Andina)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://andina.pe/ingles/noticia-nuevo-reglamento-sobre-lengua-senas-beneficia-a-mas-700000-personas-679001.aspx",
+   "found_in_search": true
+  }
+ ]
+}

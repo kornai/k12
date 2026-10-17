@@ -1,0 +1,52 @@
+{
+ "iso": "prk",
+ "name": "Wa, Parauk",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary of Wa (Watkins, 2013)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://eprints.soas.ac.uk/17317",
+   "found_in_search": true
+  },
+  {
+   "title": "Wa orthography",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://humancomp.org/wadict/wa_orthography.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wa resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://humancomp.org/wadict/wa_resources.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Parauk 2012 Edition (Bible)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/PRKBSM",
+   "found_in_search": true
+  },
+  {
+   "title": "Wa writing (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/wa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wa_language",
+   "found_in_search": true
+  }
+ ]
+}
