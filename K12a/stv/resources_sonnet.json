@@ -1,0 +1,38 @@
+{
+ "iso": "stv",
+ "name": "Silt’e",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Silt'e language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Silt%CA%BCe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Silt'e people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Silt%CA%BCe_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Planning and Policy in the Silt'e Zone (AAU thesis)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://etd.aau.edu.et/items/659cdb9c-1c4a-4d10-af3c-a93649760a1f",
+   "found_in_search": true
+  },
+  {
+   "title": "Opportunities and Challenges of Using Mother Tongue as a Medium of Instruction at Primary Schools in Ethiopia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glocal.soas.ac.uk/afala2023-121/",
+   "found_in_search": true
+  }
+ ]
+}

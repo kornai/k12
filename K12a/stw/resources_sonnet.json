@@ -1,0 +1,52 @@
+{
+ "iso": "stw",
+ "name": "Satawalese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Sketch Grammar of Satawalese (Roddy, 2007)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://habeleinstitute.org/wiki/Zotero_reference:LS24IPF6",
+   "found_in_search": true
+  },
+  {
+   "title": "Satawalese language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Satawalese_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Satawalese numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Satawalese.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: nikiti (Satawalese)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://en.wiktionary.com/wiki/nikiti",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Satawalese verbs",
+   "type": "other",
+   "language": "other",
+   "url": "https://docs.verbix.com/Languages/Satawalese",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Satawalese",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5426",
+   "found_in_search": true
+  }
+ ]
+}
