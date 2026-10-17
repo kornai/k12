@@ -1,0 +1,38 @@
+{
+ "iso": "xtq",
+ "name": "Tumshuqese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Saka language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Miscellany on the Tumshuqese Documents (Ogihara, Central Asiatic Journal)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://caj.harrassowitz-library.com/article/CAJ/2020/1-2/3",
+   "found_in_search": true
+  },
+  {
+   "title": "Miscellany on the Tumshuqese Documents: Part II",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.eco-vector.com/1811-8062/article/view/77877",
+   "found_in_search": true
+  },
+  {
+   "title": "On the Tumshuqese Karmavacana Text (Skjaervo)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/on-the-tumshuqese-karmavacana-text1/A4D0D647309421D71555FEC3DA2CC092",
+   "found_in_search": true
+  }
+ ]
+}
