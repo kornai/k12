@@ -1,0 +1,31 @@
+{
+ "iso": "yrs",
+ "name": "Yarsun",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:13:59Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sarmi-Jayapura languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sarmi%E2%80%93Jayapura_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Yarsun, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3166",
+   "found_in_search": true
+  },
+  {
+   "title": "Yarsun in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15996",
+   "found_in_search": true
+  }
+ ]
+}
