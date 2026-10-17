@@ -1,0 +1,38 @@
+{
+ "iso": "xbe",
+ "name": "Bigambal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:49:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AIATSIS AUSTLANG D34: Bigambul",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/d34",
+   "found_in_search": true
+  },
+  {
+   "title": "Bigambal language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bigambal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bigambul language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bigambul_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Augustinian Justice and Peace report on Bigambul language reconstruction (2020)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://osa.org.au/?p=4927",
+   "found_in_search": true
+  }
+ ]
+}

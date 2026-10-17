@@ -1,0 +1,45 @@
+{
+ "iso": "xbi",
+ "name": "Kombio",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:49:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kombio language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kombio_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kombio-Arapeshan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kombio-Arapeshan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Kombio Yanimoi Bible Portions",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://png.bible/details.php?id=xbi-y",
+   "found_in_search": true
+  },
+  {
+   "title": "Kombio Wampukuamp Bible Portions",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.png.bible/details.php?id=xbi-w",
+   "found_in_search": true
+  },
+  {
+   "title": "Kombio in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12760",
+   "found_in_search": true
+  }
+ ]
+}
