@@ -1,0 +1,52 @@
+{
+ "iso": "wth",
+ "name": "Wathawurrung",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:34:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wathaurong / Wadda Wurrung, VACL",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://vacl.org.au/language/wathaurong-wadda-wurrung/",
+   "found_in_search": true
+  },
+  {
+   "title": "VACL Schools Digital Resources Project",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://vacl.org.au/project/schools-digital-resources-project/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wathawurrung and the Colac language of southern Victoria (Blake, ed., 1998)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstreams/098c3e70-6d29-4f74-b631-7cec113d2e9a/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Wadawurrung language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wadawurrung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wathawurrung, Glottolog",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/wath1238",
+   "found_in_search": true
+  },
+  {
+   "title": "Inspiring projects around Australia, University of Melbourne",
+   "type": "academic",
+   "language": "English",
+   "url": "https://arts.unimelb.edu.au/research-unit-for-indigenous-language/resources/inspiring-projects",
+   "found_in_search": true
+  }
+ ]
+}
