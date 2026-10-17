@@ -1,0 +1,87 @@
+{
+ "iso": "swh",
+ "name": "Swahili",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Columbia University Libraries: Swahili resources (incl. African Storybook)",
+   "type": "other",
+   "language": "English",
+   "url": "https://library.columbia.edu/libraries/global/virtual-libraries/african_studies/languages/swahili.html",
+   "found_in_search": true
+  },
+  {
+   "title": "UDSM study: Kiswahili textbooks for children in Nyamagana District",
+   "type": "academic",
+   "language": "English",
+   "url": "https://libraryrepository.udsm.ac.tz/items/92d865fb-a71c-49bc-9c79-ae0218c2ebf1",
+   "found_in_search": true
+  },
+  {
+   "title": "Evaluation of A-level Kiswahili textbooks under the 1991 textbook policy",
+   "type": "academic",
+   "language": "English",
+   "url": "https://libraryrepository.udsm.ac.tz/items/599be783-4311-40f4-a597-09b826ecef6e",
+   "found_in_search": true
+  },
+  {
+   "title": "Kioo cha Lugha: grammar content in TET Kiswahili books",
+   "type": "academic",
+   "language": "native",
+   "url": "https://journals.udsm.ac.tz/index.php/kcl/article/view/6138/4969",
+   "found_in_search": true
+  },
+  {
+   "title": "Mulika journal article on Taasisi ya Elimu Tanzania and curricula",
+   "type": "academic",
+   "language": "native",
+   "url": "https://journals.udsm.ac.tz/index.php/mj/article/view/5648/4736",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexikos review of Kamusi ya Kiswahili Sanifu (3rd ed.)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/1273/786",
+   "found_in_search": true
+  },
+  {
+   "title": "TUKI English-Swahili Dictionary (catalogue record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://library.kab.ac.ug/Record/2891/Details",
+   "found_in_search": true
+  },
+  {
+   "title": "SwahiLib: Kamusi ya Kiswahili (app)",
+   "type": "software",
+   "language": "native",
+   "url": "https://apps.apple.com/app/id6446771678",
+   "found_in_search": true
+  },
+  {
+   "title": "Biblia Habari Njema (YouVersion)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/versions/393",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Swahili scripture and audio",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=swh",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Swahili Scripture Index",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00i-Scripture_Index.php?iso=swh",
+   "found_in_search": true
+  }
+ ]
+}

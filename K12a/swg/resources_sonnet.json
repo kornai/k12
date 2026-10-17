@@ -1,0 +1,45 @@
+{
+ "iso": "swg",
+ "name": "Swabian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Schwäbisches Handwörterbuch (Mohr Siebeck)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.mohrsiebeck.com/en/book/schwaebisches-handwoerterbuch-9783161520297",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos Swabian dictionary page",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.lexilogos.com/english/swabian_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "DIBS Dialectology Information System for Bavarian Swabia (BAdW)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://badw.de/en/research-hub/current-projects/translate-to-english-dibs",
+   "found_in_search": true
+  },
+  {
+   "title": "Bryksa: bachelor's thesis comparing Swabian and standard German",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ddd.uab.cat/pub/tfg/2016/tfg_45816/TFG_2015-16_FTI_Bryksa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Swabian German (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Swabish",
+   "found_in_search": true
+  }
+ ]
+}
