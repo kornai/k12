@@ -1,0 +1,31 @@
+{
+ "iso": "apf",
+ "name": "Pahanan Agta",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Scripture Earth: Palanan Agta (apf) scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=apf",
+   "found_in_search": true
+  },
+  {
+   "title": "Survey of northeastern Luzon languages including Pahanan (Oceanic Linguistics, 2013)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://doi.org/10.1353/ol.2013.0007",
+   "found_in_search": true
+  },
+  {
+   "title": "Casiguran Dumagat Agta (related language) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Casiguran_Dumagat_Agta",
+   "found_in_search": true
+  }
+ ]
+}

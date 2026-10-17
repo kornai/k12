@@ -1,0 +1,59 @@
+{
+ "iso": "alq",
+ "name": "Algonquin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kitigan Zibi Algonquin language and cultural program",
+   "type": "school_or_programme",
+   "language": "native",
+   "url": "https://kitiganzibi.ca/education/algonquin-language-cultural-program/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kitigan Zibi Kikinamadinan school (Mokasige immersion)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://kitiganzibi.ca/education/kitigan-zibi-kikanamadinan/",
+   "found_in_search": true
+  },
+  {
+   "title": "Algonquin language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Algonquin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Algonquin language resources (Anishinaabemowin), Media Co-op",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://mediacoop.ca/story/algonquin-language-resources-anishinaabemowin/36702",
+   "found_in_search": true
+  },
+  {
+   "title": "Case study of Kitigan Zibi immersion programme",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dialnet.unirioja.es/descarga/articulo/3199633.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kitigan Zibi Anishinabeg (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kitigan_Zibi_Anishinabeg",
+   "found_in_search": true
+  },
+  {
+   "title": "Algonquin College Kwey initiative",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.algonquincollege.com/tri/initiatives-kwey/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "ase",
+ "name": "American Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "K-12 ASL resources list (mdelio.org), incl. Gallaudet standards",
+   "type": "policy",
+   "language": "English",
+   "url": "https://mdelio.org/node/861",
+   "found_in_search": true
+  },
+  {
+   "title": "Gallaudet ASL & Deaf Studies K-12 Curriculum Framework",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://caslsintercom.uoregon.edu/content/8451",
+   "found_in_search": true
+  },
+  {
+   "title": "Lifeprint ASL University",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://amser.org/r1004/asl_university",
+   "found_in_search": true
+  },
+  {
+   "title": "ASL Access links, incl. American Sign Language at Home",
+   "type": "primer",
+   "language": "English",
+   "url": "https://aslaccess.org/links",
+   "found_in_search": true
+  },
+  {
+   "title": "Lifeprint American Sign Language Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://Lifeprint.com/dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "American Sign Language (ASL) Resources, University of Florida",
+   "type": "other",
+   "language": "English",
+   "url": "https://deafblind.ufl.edu/topics/american-sign-language-asl-resources/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "ads",
+ "name": "Adamorobe Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Adamorobe Sign Language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Adamorobe_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University: Nyst on simultaneous constructions in Adamorobe Sign Language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3589961/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Adamorobe Sign Language",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6909",
+   "found_in_search": true
+  }
+ ]
+}

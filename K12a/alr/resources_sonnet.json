@@ -1,0 +1,45 @@
+{
+ "iso": "alr",
+ "name": "Alutor",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Alyutor language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:alr",
+   "found_in_search": true
+  },
+  {
+   "title": "Alyutor, Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/alyutor.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Native-language teaching in Kamchatka Krai (RUDN Polylinguality)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journals.rudn.ru/polylinguality/article/view/38830",
+   "found_in_search": true
+  },
+  {
+   "title": "Nagayama, Alutor language decline, Acta Slavica Iaponica 25",
+   "type": "academic",
+   "language": "English",
+   "url": "https://src-h.slav.hokudai.ac.jp/publictn/acta/25/nagayama.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages and Folklore of the Indigenous Peoples of Siberia, article 700",
+   "type": "academic",
+   "language": "other",
+   "url": "https://philology.nsc.ru/journals/ykns_en/article.php?id=700",
+   "found_in_search": true
+  }
+ ]
+}

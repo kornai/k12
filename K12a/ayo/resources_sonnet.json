@@ -1,0 +1,59 @@
+{
+ "iso": "ayo",
+ "name": "Ayoreo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ayoreos reciben diccionario bilingue para las escuelas (La Nacion)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.lanacion.com.py/pais_edicion_impresa/2025/11/13/ayoreos-reciben-diccionario-bilingue-para-las-escuelas/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ayoreos reciben diccionario y apuntes de la gramatica bilingue (La Nacion)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lanacion.com.py/pais/2025/11/12/ayoreos-reciben-diccionario-y-apuntes-de-la-gramatica-bilingue-en-el-chaco-paraguayo/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ayore-Spanish dictionary (ayore.org)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://ayore.org/language/language-dictionaries/",
+   "found_in_search": true
+  },
+  {
+   "title": "James Cook University research record on Ayoreo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/48064/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages: Ayoreo",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/37589",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth resources for Ayoreo",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=ayo",
+   "found_in_search": true
+  },
+  {
+   "title": "ayore.org",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://ayore.org/bios/",
+   "found_in_search": true
+  }
+ ]
+}
