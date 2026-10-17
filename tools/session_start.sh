@@ -23,4 +23,4 @@ fi
 if [ "${CLAUDE_CODE_REMOTE:-}" = "true" ]; then
   git pull --ff-only -q 2>/dev/null && echo "git pull: up to date with origin." || echo "git pull: skipped or failed (fine on a fresh clone)."
 fi
-echo "Session start: run the claude-exit ceremony (prove_termination_works step 1, ps check, step 2, ps check) before any survey work; see CLAUDE.md. If the claude-exit tools are not listed yet, run /mcp once to reconnect (the server may have been installing when the session started), then try again; stop only if the second attempt fails."
+echo "Session start: run the claude-exit ceremony (prove_termination_works step 1, ps check, step 2, ps check) before any survey work; see CLAUDE.md. If the claude-exit tools are not listed, stop and report; a fresh session is the fix."

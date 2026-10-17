@@ -27,11 +27,12 @@ live, exactly as on the author's machine:
 3. call it again with `step=2` and the `spawned_pid`; confirm `alive_after`
    is false and rerun the `ps_command`: no rows.
 
-If the claude-exit tools are not available at first, the server may still
-have been installing when the session started: run `/mcp` once to
-reconnect, then look for the tools again. If they are still unavailable, or
-the ceremony fails, say so in your first message and stop; do not start the
-survey loop on an unverified grant. (A session on 2026-10-17 did exactly
+If the claude-exit tools are not available, say so in your first message and
+stop; do not start the survey loop on an unverified grant. (In a cloud
+session you cannot reconnect an MCP server yourself; the fix is a fresh
+session. The install is serialised so the server waits for the hook rather
+than racing it, which is what failed once on 2026-10-17.) If the ceremony
+itself fails, likewise stop and report. (A session on 2026-10-17 did exactly
 that, correctly; the cause was an install race, since fixed.) The
 SessionStart hook installs the server into `.venv-exit` from
 `tools/claude-exit` (the patched 1.2.0 that runs on the author's machine; see
