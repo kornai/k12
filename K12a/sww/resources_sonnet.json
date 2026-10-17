@@ -1,0 +1,31 @@
+{
+ "iso": "sww",
+ "name": "Sowa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sowa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sowa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue: Sowa (archived Andrew Gray web page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://catalog.paradisec.org.au/repository/External/Sowa",
+   "found_in_search": true
+  },
+  {
+   "title": "Schneider 2010, A grammar of Abma (neighbouring language, not Sowa)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://tlopo.clld.org/sources/Schneider2010",
+   "found_in_search": true
+  }
+ ]
+}

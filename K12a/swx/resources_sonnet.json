@@ -1,0 +1,52 @@
+{
+ "iso": "swx",
+ "name": "Suruahá",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammatical description of Suruwahá (UZH colloquium abstract)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.comparativelinguistics.uzh.ch/en/colloquium/past-isle-colloquium/fall-term-2024/abstracts/2024-10-29.html",
+   "found_in_search": true
+  },
+  {
+   "title": "UZH news 2025: thesis prize",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.comparativelinguistics.uzh.ch/en/news/2025/2025-04-21-herce.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Zuruahá language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zuruah%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Suruahá numerals (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Suruaha.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Povos Indígenas no Brasil: Zuruahã",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://pib.socioambiental.org/en/Povo:Zuruahã",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Suruahá",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/85778",
+   "found_in_search": true
+  }
+ ]
+}

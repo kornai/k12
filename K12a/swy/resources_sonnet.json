@@ -1,0 +1,38 @@
+{
+ "iso": "swy",
+ "name": "Sarua",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sarua language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sarua_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Jungraithmayr and Peust 2021, sketch of Sarwa (ZDMG)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://zdmg.harrassowitz-library.com/article/ZDMG/2021/1/4",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sarwa in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14775",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sarua",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2593?hl=de",
+   "found_in_search": true
+  }
+ ]
+}
