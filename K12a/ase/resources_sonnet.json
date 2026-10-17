@@ -1,0 +1,45 @@
+{
+ "iso": "ase",
+ "name": "American Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:06:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "American Sign Language and Deaf Culture 10, 20, 30 resource list (Saskatchewan)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://curriculum.gov.sk.ca/FullResourceList?id=599",
+   "found_in_search": true
+  },
+  {
+   "title": "MDElio ASL curriculum, instruction and assessment",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://mdelio.org/node/861",
+   "found_in_search": true
+  },
+  {
+   "title": "New York State American Sign Language guide",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.nysed.gov/sites/default/files/programs/world-languages/amsign.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Manitoba ASL framework (acknowledgments)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.edu.gov.mb.ca/k12/cur/languages/asl/framework/acknowledgements.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Education.com American Sign Language resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.education.com/resources/asl/",
+   "found_in_search": true
+  }
+ ]
+}

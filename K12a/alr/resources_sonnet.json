@@ -1,0 +1,45 @@
+{
+ "iso": "alr",
+ "name": "Alutor",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:03:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Kibrik, Kodzasov & Muravyova 2004 (Alutor grammar)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/310908",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kibrik, Kodzasov & Muravyova 2004 (second record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/549951",
+   "found_in_search": true
+  },
+  {
+   "title": "Nagayama Yukari paper, Kushiro repository",
+   "type": "academic",
+   "language": "other",
+   "url": "https://kushiro.repo.nii.ac.jp/record/2000034/files/人文･自然科学_永山ゆかり.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Alutor language page, Languages of Siberia (lingsib.iea.ras.ru)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingsib.iea.ras.ru/en/languages/aliutor.shtml",
+   "found_in_search": true
+  },
+  {
+   "title": "Atlas of Kamchatka indigenous peoples: Alutor language page",
+   "type": "other",
+   "language": "other",
+   "url": "https://atlaskmns.ru/page/en/lang_alutorcy_all.html",
+   "found_in_search": true
+  }
+ ]
+}

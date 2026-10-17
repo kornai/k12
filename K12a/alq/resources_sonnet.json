@@ -1,0 +1,66 @@
+{
+ "iso": "alq",
+ "name": "Algonquin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:03:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Algonquin College Kwey initiative",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.algonquincollege.com/tri/initiatives-kwey/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwey - AC Online (Algonquin College blog)",
+   "type": "video",
+   "language": "English",
+   "url": "https://www.algonquincollege.com/college-blog/kwey-ac-online/",
+   "found_in_search": true
+  },
+  {
+   "title": "Algonquin language resources (Anishinaabemowin), Media Co-op",
+   "type": "other",
+   "language": "English",
+   "url": "https://mediacoop.ca/story/algonquin-language-resources-anishinaabemowin/36702",
+   "found_in_search": true
+  },
+  {
+   "title": "Algonquin language resources (Anishinaabemowin), Media Co-op node",
+   "type": "other",
+   "language": "English",
+   "url": "https://mediacoop.ca/node/118715",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC wiki Algonquin Lexicon",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Algonquin_Lexicon",
+   "found_in_search": true
+  },
+  {
+   "title": "Lakehead University libguide on Indigenous language teaching (Ojibwe)",
+   "type": "other",
+   "language": "English",
+   "url": "https://libguides.lakeheadu.ca/indigenouslangteaching",
+   "found_in_search": true
+  },
+  {
+   "title": "Queen's University Anishinaabemowin courses",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.queensu.ca/llcu/academics/anishinaabemowin",
+   "found_in_search": true
+  },
+  {
+   "title": "MSU Native American resource guide, language resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://nai.msu.edu/resources/native-american-resource-guide/native-education-legal-health-and-other-resources/language-resources",
+   "found_in_search": true
+  }
+ ]
+}

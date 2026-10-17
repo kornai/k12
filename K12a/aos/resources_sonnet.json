@@ -1,0 +1,38 @@
+{
+ "iso": "aos",
+ "name": "Taikat",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:04:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Taikat language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taikat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Taikat 2 word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TAIKAT_2",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Taikat in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15196",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Taikat",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2783",
+   "found_in_search": true
+  }
+ ]
+}

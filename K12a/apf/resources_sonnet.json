@@ -1,0 +1,52 @@
+{
+ "iso": "apf",
+ "name": "Pahanan Agta",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:05:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Paranan Agta language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Paranan_Agta_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Family Paranan-Pahanan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/para1320",
+   "found_in_search": true
+  },
+  {
+   "title": "Oceanic Linguistics article on Northeastern Luzon languages (Project MUSE)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/511885",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Pahanan Agta",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=apf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pahanan Agta in Philippines",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20541",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Pahanan Agta",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/apf",
+   "found_in_search": true
+  }
+ ]
+}

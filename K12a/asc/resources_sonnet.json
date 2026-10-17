@@ -1,0 +1,38 @@
+{
+ "iso": "asc",
+ "name": "Asmat, Casuarina Coast",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:06:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Casuarina Coast Asmat language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Casuarina_Coast_Asmat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Casuarina Coast Asmat",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=asc",
+   "found_in_search": true
+  },
+  {
+   "title": "C. L. Voorhoeve 1980, The Asmat Languages of Irian Jaya (Glottolog record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/85998",
+   "found_in_search": true
+  },
+  {
+   "title": "TransNewGuinea.org wordlist database (Casuarina Coast entries)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://transnewguinea.org/word/crab",
+   "found_in_search": true
+  }
+ ]
+}

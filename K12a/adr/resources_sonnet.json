@@ -1,0 +1,45 @@
+{
+ "iso": "adr",
+ "name": "Adonara",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:02:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Western Lamaholot: a cross-dialectal grammar sketch (Michels, Leiden MA thesis, 2017)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openaccess.leidenuniv.nl/bitstream/handle/1887/52580/Western%20Lamaholot%20%28definitief%29.pdf?sequence=1",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Adonara",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/adon1237",
+   "found_in_search": true
+  },
+  {
+   "title": "Adonara language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Adonara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lamaholot language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lamaholot_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Variasi Dialek Bahasa Lamaholot di Pulau Adonara, Kabupaten Flores Timur: Sebuah Kajian Sinkronik",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ojs.unm.ac.id/ijses/article/view/22053",
+   "found_in_search": true
+  }
+ ]
+}

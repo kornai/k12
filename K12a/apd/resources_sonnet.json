@@ -1,0 +1,31 @@
+{
+ "iso": "apd",
+ "name": "Sudanese Arabic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:05:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sudanese Colloquial Arabic for Beginners (vendor listing)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://kenyaclc.org/shop/sudanese-colloquial-arabic-for-beginners/",
+   "found_in_search": true
+  },
+  {
+   "title": "Sudanese Arabic - English / English - Sudanese Arabic: A Concise Dictionary (vendor listing)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://kenyaclc.org/shop/sudanese-arabic-english-english-sudanese-arabic-a-concise-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Persson, Hussein and Persson 1980 (Glottolog reference entry)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/133773",
+   "found_in_search": true
+  }
+ ]
+}

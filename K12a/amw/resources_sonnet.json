@@ -1,0 +1,59 @@
+{
+ "iso": "amw",
+ "name": "Western Neo-Aramaic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:03:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Western Neo-Aramaic: The Dialect of Jubaadin (Abou-Ismail, 2019)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.cambridgescholars.com/product/978-1-5275-3352-3",
+   "found_in_search": true
+  },
+  {
+   "title": "DFG project: Dictionary of Western Neo-Aramaic",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://gepris.dfg.de/gepris/projekt/426492122",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Neo-Aramaic (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Western_Neo-Aramaic",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Western Neo-Aramaic",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/westernneoaramaic.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Archive of written records of Western Neo-Aramaic",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://aymennjawad.org/24069/archive-of-written-records-of-western-neo-aramaic",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry (Western Neo-Aramaic)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/39045",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry (Western Neo-Aramaic, second)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/95862",
+   "found_in_search": true
+  }
+ ]
+}

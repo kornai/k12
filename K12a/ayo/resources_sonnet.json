@@ -1,0 +1,45 @@
+{
+ "iso": "ayo",
+ "name": "Ayoreo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:06:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bertinetto and Ciucci 2015 (Zamucoan)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://researchonline.jcu.edu.au/48068/1/Bertinetto_Ciucci_2015.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ciucci 2018, Old Zamuco dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://researchonline.jcu.edu.au/55385/1/Ciucci%202018%20Old%20Zamuco%20dictionary.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SAPhon: Ayoreo phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Ayoreo.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Ayoreo (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ayoreo",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ayoreo",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/37589",
+   "found_in_search": true
+  }
+ ]
+}

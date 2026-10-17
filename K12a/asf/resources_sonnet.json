@@ -1,0 +1,31 @@
+{
+ "iso": "asf",
+ "name": "Auslan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:06:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Australian Curriculum: Languages, Auslan",
+   "type": "policy",
+   "language": "English",
+   "url": "https://australiancurriculum.edu.au/f-10-curriculum/languages/auslan",
+   "found_in_search": true
+  },
+  {
+   "title": "Victorian Curriculum: Auslan resources (VCAA)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://vcaa.vic.edu.au/curriculum/foundation-10/resources/languages/auslan",
+   "found_in_search": true
+  },
+  {
+   "title": "Twinkl Auslan resources F-2",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.twinkl.com.sa/resources/auslan-languages-f-2-australia",
+   "found_in_search": true
+  }
+ ]
+}

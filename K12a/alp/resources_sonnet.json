@@ -1,0 +1,66 @@
+{
+ "iso": "alp",
+ "name": "Alune",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:03:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Alune language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Alune_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Genta Bahtera article inventorying Alune phonemes",
+   "type": "academic",
+   "language": "other",
+   "url": "https://gentabahtera.kemdikbud.go.id/index.php/gentabahtera/article/download/82/56",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Alune verb list",
+   "type": "other",
+   "language": "native",
+   "url": "https://docs.verbix.com/Languages/Alune",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Alune-Indonesian entries (community-contributed)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://glosbe.com/alp/lib",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Alune-Maanyan entries (community-contributed)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://glosbe.com/alp/mxv",
+   "found_in_search": true
+  },
+  {
+   "title": "Alune New Testament (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/ALPWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Alune New Testament study app (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://bibles.dbs.org/ALPWBT/app-json-study/index.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Bible parallel text, Alune",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://glosbe.com/bib/alp",
+   "found_in_search": true
+  }
+ ]
+}

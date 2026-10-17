@@ -1,0 +1,38 @@
+{
+ "iso": "aot",
+ "name": "Atong",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:05:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Dictionary of Atong, a Tibeto-Burman Language of Northeast India and Bangladesh (catalogue record, OeAW)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9783110718003",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of Atong (catalogue record, TSU library)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://vufind.lib.tsu.ru/Record/libtsu.1013546/Details",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of A Dictionary of Atong (John Benjamins platform)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.jbe-platform.com/content/journals/10.1075/ltba.00012.dri",
+   "found_in_search": true
+  },
+  {
+   "title": "Atong language (Sino-Tibetan) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Atong_language_(Sino-Tibetan)",
+   "found_in_search": true
+  }
+ ]
+}
