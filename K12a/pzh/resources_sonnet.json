@@ -1,0 +1,24 @@
+{
+ "iso": "pzh",
+ "name": "Pazeh",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lin Chihkai: corpus study of Pazeh and Kaxabu (NINJAL abstract)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www2.ninjal.ac.jp/past-events/Methodsxvi/abs/Lin_Chihkai.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered languages and Taiwan (Paradisec blog)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.paradisec.org.au/blog/2007/06/endangered-languages-and-taiwan/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "qgu",
+ "name": "Wulguru",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wulguru Everyday Words (State Library of Queensland)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://content.slq.qld.gov.au/sites/default/files/Wulguru-Everyday-Words.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wulguru language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wulguru_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Donohue 2007, Wulguru salvage study (Glottolog reference record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/37337",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 17.3604 (Wulguru book announcement)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/17/3604",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang entry Y135",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/y135",
+   "found_in_search": true
+  },
+  {
+   "title": "Language week: Wulgurukaba (State Library of Queensland)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/language-week-week-thirty-one-wulgurukaba",
+   "found_in_search": true
+  },
+  {
+   "title": "Language week: Buluguyban (State Library of Queensland)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/language-week-week-nineteen-buluguyban",
+   "found_in_search": true
+  }
+ ]
+}

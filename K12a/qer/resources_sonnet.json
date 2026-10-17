@@ -1,0 +1,52 @@
+{
+ "iso": "qer",
+ "name": "Dalecarlian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Elfdalian (UCL Press, OAPEN open access)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/94747",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Elfdalian (University of Chicago Press distribution page)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://press.uchicago.edu/ucp/books/book/distributed/G/bo238314327.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Ovdalian (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/%C3%96vdalian",
+   "found_in_search": true
+  },
+  {
+   "title": "Elfdalian (ovdalsk) alphabet, Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/elfdalian.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Mercator: Elfdalian in Sweden",
+   "type": "policy",
+   "language": "English",
+   "url": "https://wiki.mercator-research.eu/_export/raw/languages:elfdalian_in_sweden",
+   "found_in_search": true
+  },
+  {
+   "title": "News report: Swedish ancient elvish language dying",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.thenewdaily.com.au/news/2015/05/18/sweden-ancient-elvish-language-dying",
+   "found_in_search": true
+  }
+ ]
+}

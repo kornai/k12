@@ -1013,3 +1013,11 @@ pys	Paraguayan Sign Language	2026-10-17T03:50:14Z	done	8	pys+pyu+pyx+pyy
 pyu	Puyuma	2026-10-17T03:50:14Z	done	2	pys+pyu+pyx+pyy
 pyx	Burma Pyu	2026-10-17T03:50:14Z	done	2	pys+pyu+pyx+pyy
 pyy	Pyen	2026-10-17T03:50:14Z	done	3	pys+pyu+pyx+pyy
+pze	Pesse	2026-10-17T03:51:05Z	done	5	pze+pzh+pzn+qbb
+pzh	Pazeh	2026-10-17T03:51:05Z	done	2	pze+pzh+pzn+qbb
+pzn	Jejara Naga	2026-10-17T03:51:05Z	done	5	pze+pzh+pzn+qbb
+qbb	Old Latin	2026-10-17T03:51:05Z	done	6	pze+pzh+pzn+qbb
+qcs	Tapachultec	2026-10-17T03:51:55Z	done	8	qcs+qer+qgu+qhr
+qer	Dalecarlian	2026-10-17T03:51:55Z	done	6	qcs+qer+qgu+qhr
+qgu	Wulguru	2026-10-17T03:51:55Z	done	7	qcs+qer+qgu+qhr
+qhr	Old Sabellic	2026-10-17T03:51:55Z	failed	0	qcs+qer+qgu+qhr
