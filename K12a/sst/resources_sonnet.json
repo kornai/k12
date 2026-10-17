@@ -1,0 +1,38 @@
+{
+ "iso": "sst",
+ "name": "Sinasina",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sinasina language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sinasina_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sinasina - ASJP word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SINASINA_2",
+   "found_in_search": true
+  },
+  {
+   "title": "Sinasina in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14190",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaipuleohone item (Tabare word list recording), University of Hawai'i ScholarSpace",
+   "type": "audio",
+   "language": "other",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/9b69c510-eddd-443e-aa9d-4501b5b5ce16",
+   "found_in_search": true
+  }
+ ]
+}
