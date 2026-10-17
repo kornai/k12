@@ -1,0 +1,45 @@
+{
+ "iso": "zpp",
+ "name": "Zapotec, El Alto",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:14:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "El Alto Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/El_Alto_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: El Alto Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/elal1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: El Alto Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zpp/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: El Alto Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/zpp",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, El Alto",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zpp",
+   "found_in_search": true
+  }
+ ]
+}
