@@ -1,0 +1,52 @@
+{
+ "iso": "whg",
+ "name": "Yuwei",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:02:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "North Wahgi (Yu We) language [Western Highlands Province] (McLean and McLean 2005)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/109907",
+   "found_in_search": true
+  },
+  {
+   "title": "Wahgi language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wahgi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: North Wahgi in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15819",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: whg",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=whg",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yuwei language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/whg",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: North Wahgi (Banz-Nondugl)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/5166",
+   "found_in_search": true
+  }
+ ]
+}
