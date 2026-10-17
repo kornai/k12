@@ -1,0 +1,52 @@
+{
+ "iso": "yai",
+ "name": "Yagnobi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:18:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yaghnobi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yaghnobi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yaghnobi - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/yaghnobi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "UKEN 300 (Charles University, Yaghnobi-Czech dictionary note)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://cuni.cz/UKEN-300-version1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lubomir Novak, 26-50 (Charles University)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://chatressar.ff.cuni.cz/wp-content/uploads/sites/89/2019/01/Lubomir_Novak_26-50.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yagnobi numerals (MPG)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yagnobi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Yagnobi page",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/yai/dbl",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "yah",
+ "name": "Yazghulami",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:18:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yazghulami language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yazghulami_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Yazghulami dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/yazghulami/?p=146825",
+   "found_in_search": true
+  },
+  {
+   "title": "Lemontree Yazghulami doculect",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lemontree210.pythonanywhere.com/en/doculect/yazghulami",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Yazghulami-English",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/yah/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yazghulami",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/yah?hl=pt-br",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yazghulami bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38718/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Yazghulami",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Yah",
+   "found_in_search": true
+  }
+ ]
+}

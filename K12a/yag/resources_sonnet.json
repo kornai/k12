@@ -1,0 +1,66 @@
+{
+ "iso": "yag",
+ "name": "Yámana",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:18:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yahgan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yahgan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bridges Yahgan HiSoN (Molineaux)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://benmolineaux.ppls.ed.ac.uk/Bridges-Yahgan-HiSoN.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "HiSoN23 (Molineaux)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://benmolineaux.ppls.ed.ac.uk/HiSoN23.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ICHL27 solo (Molineaux)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://benmolineaux.ppls.ed.ac.uk/ICHL27-solo.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ICHL27 solo slides (Molineaux)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://benmolineaux.ppls.ed.ac.uk/ICHL27-solo-slides.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yahgan people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.com/wiki/Yaghans",
+   "found_in_search": true
+  },
+  {
+   "title": "Excavating a language at the end of the world (Nautilus)",
+   "type": "other",
+   "language": "English",
+   "url": "https://nautil.us/excavating-a-language-at-the-end-of-the-world-747254",
+   "found_in_search": true
+  },
+  {
+   "title": "The Final Word (Atlas of Ocean Voyages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://atlasoceanvoyages.com/blog/the-final-word",
+   "found_in_search": true
+  }
+ ]
+}
