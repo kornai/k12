@@ -1,0 +1,45 @@
+{
+ "iso": "zpg",
+ "name": "Guevea de Humboldt Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:10:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Guevea Zapotec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Guevea_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral Systems of the World's Languages: Zapotec Guevea de Humboldt",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Zapotec-Guevea-de-Humboldt.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Guevea de Humboldt Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zpg/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Guevea de Humboldt",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/zpg",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Guevea (Guienagati)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/2828",
+   "found_in_search": true
+  }
+ ]
+}

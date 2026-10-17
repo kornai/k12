@@ -1,0 +1,52 @@
+{
+ "iso": "zpd",
+ "name": "Zapotec, Southeastern Ixtlán",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:10:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Southeastern Ixtlan Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sout3005",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Zapotec, Southeastern Ixtlán",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A247555",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Southeastern Ixtlán Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zpd/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zapoteco, Ixtlan Sureste",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/print/15012/MX",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Southeastern Ixtlan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zpd",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Southeastern Ixtlan (Ixtepeji)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/3402",
+   "found_in_search": true
+  }
+ ]
+}
