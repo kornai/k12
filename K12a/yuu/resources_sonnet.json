@@ -1,0 +1,45 @@
+{
+ "iso": "yuu",
+ "name": "Yugh (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Edward Vajda: Dictionary of the Yugh language (Werner and Vajda 2012), related page",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://works.bepress.com/edward_vajda/74",
+   "found_in_search": true
+  },
+  {
+   "title": "Yugh language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yugh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yugh",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/yug",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yugh",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/95312",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yugh (second entry)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/94476",
+   "found_in_search": true
+  }
+ ]
+}

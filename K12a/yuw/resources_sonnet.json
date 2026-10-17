@@ -1,0 +1,38 @@
+{
+ "iso": "yuw",
+ "name": "Yau",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yau language (Trans-New Guinea), Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yau_language_(Trans%E2%80%93New_Guinea)",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Yau (yaum1237)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/yaum1237",
+   "found_in_search": true
+  },
+  {
+   "title": "Nungon narratives by Roslyn Ogate and Fooyu Finisterre Huon Morob",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://researchers.westernsydney.edu.au/en/publications/nungon-narratives-by-roslyn-%C3%B6gate-and-fooyu-finisterre-huon-morob/",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals: Yau, Morobe",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yau-Morobe.htm",
+   "found_in_search": true
+  }
+ ]
+}
