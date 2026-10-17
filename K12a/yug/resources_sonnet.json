@@ -1,0 +1,52 @@
+{
+ "iso": "yug",
+ "name": "Yug",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yugh language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yugh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Heinrich Werner (linguist) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Heinrich_Werner_(linguist)",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yug (bibliography incl. Werner's dictionary and grammar)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/yug",
+   "found_in_search": true
+  },
+  {
+   "title": "Edward Vajda publication listing (bepress)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://works.bepress.com/edward_vajda/74",
+   "found_in_search": true
+  },
+  {
+   "title": "ICHL 26 paper 32 (Heidelberg)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.uni-heidelberg.de/md/slav/forschung/tagungen/ichl26/ichl26_paper_32.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 34.65",
+   "type": "other",
+   "language": "English",
+   "url": "https://dev.linguistlist.org/issues/34/65/",
+   "found_in_search": true
+  }
+ ]
+}
