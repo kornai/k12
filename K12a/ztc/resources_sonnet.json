@@ -1,0 +1,24 @@
+{
+ "iso": "ztc",
+ "name": "Lachirioag Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:20:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Lachirioag Zapotec (retired ztc, merged into zty)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/lach1251",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yatee Zapotec (zty), alternate name Lachirioag",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/zty",
+   "found_in_search": true
+  }
+ ]
+}
