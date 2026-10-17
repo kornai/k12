@@ -1,0 +1,59 @@
+{
+ "iso": "xnb",
+ "name": "Kanakanabu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kanakanavu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kanakanavu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kanakanavu people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kanakanavu_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Kanakanavu",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/kanakanavu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia Sinica Institute of Linguistics publication (PDF 1)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.ling.sinica.edu.tw/upload/researcher_manager_result/ec1a38be221f614d10ce7ba7149fe26d.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia Sinica Institute of Linguistics publication (PDF 2)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.ling.sinica.edu.tw/upload/researcher_manager_result/c95d71f0cb1814f6db3feee484ef7dce.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "The Language Closet: Languages of Taiwan, Kanakanabu",
+   "type": "other",
+   "language": "English",
+   "url": "https://thelanguagecloset.com/2021/03/13/languages-of-taiwan-kanakanabu-kanakanavu/",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Kanakanavu",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Kanakanavu",
+   "found_in_search": true
+  }
+ ]
+}
