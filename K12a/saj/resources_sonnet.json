@@ -1,0 +1,52 @@
+{
+ "iso": "saj",
+ "name": "Sahu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sahu-Indonesian-English Dictionary and Sahu Grammar Sketch (Visser and Voorhoeve 1987), Glottolog entry",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/87812",
+   "found_in_search": true
+  },
+  {
+   "title": "Sahu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sahu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Open Research repository item on Sahu (content not inspected)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/5e57480c-3473-448c-9cca-5f1c6f98b7b7/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Development of a Bilingual Dictionary of Sahu Tala'i - Indonesia Using the Aho-Corasick Algorithm",
+   "type": "software",
+   "language": "other",
+   "url": "https://journal.mmtc.ac.id/index.php/pekommas/article/view/5281",
+   "found_in_search": true
+  },
+  {
+   "title": "The Halmahera Collection (MPI)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.mpi.nl/de/node/53801",
+   "found_in_search": true
+  },
+  {
+   "title": "Series INHALM - Indonesia - Halmahera, Moluccas (PARADISEC)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://paradisec.org.au/fieldnotes/INHALM.htm",
+   "found_in_search": true
+  }
+ ]
+}

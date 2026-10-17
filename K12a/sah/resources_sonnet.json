@@ -1,0 +1,59 @@
+{
+ "iso": "sah",
+ "name": "Yakut",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Open lesson on Sakha language (infourok.ru)",
+   "type": "other",
+   "language": "native",
+   "url": "https://infourok.ru/otkrytyj-urok-na-temu-da5aahyn-aat-5770828.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Open letter on preserving national schools in Sakha (Yakutia)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.change.org/p/глава-республики-саха-якутия-николаев-а-с-открытое-обращение-главе-рс-я-николаеву-а-с-о-сохранении-и-развитии-национальных-школ",
+   "found_in_search": true
+  },
+  {
+   "title": "UD Yakut YKTDT treebank",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://universaldependencies.org/treebanks/sah_yktdt",
+   "found_in_search": true
+  },
+  {
+   "title": "Tools for supporting language learning for Sakha",
+   "type": "software",
+   "language": "English",
+   "url": "https://preview.aclanthology.org/naacl24-info/W19-6117",
+   "found_in_search": true
+  },
+  {
+   "title": "Vocabulary Sakha (World Loanword Database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wold.clld.org/vocabulary/19",
+   "found_in_search": true
+  },
+  {
+   "title": "SPRI library catalogue record (Yakut-Russian dictionary, 1972)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.spri.cam.ac.uk/library/catalogue/records/50510/",
+   "found_in_search": true
+  },
+  {
+   "title": "English-to-Yakut dictionary (Payhip)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://payhip.com/b/5SBDF",
+   "found_in_search": true
+  }
+ ]
+}

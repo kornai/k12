@@ -1,0 +1,66 @@
+{
+ "iso": "sag",
+ "name": "Sango",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sango dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/sango/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "The Sango Orthography (Webonary)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.webonary.work/sango/?p=146823",
+   "found_in_search": true
+  },
+  {
+   "title": "Sango alphabet (Webonary)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.webonary.work/sango/overview/alphabet/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Sango-English/English-Sango Dictionary and Phrasebook (Diki-Kidiri and Lechner, Hippocrene)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.hippocrenebooks.com/store/p512/SangoDictionaryandPhrasebook.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Sango (Wikibooks)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://en.wikibooks.org/wiki/Sango",
+   "found_in_search": true
+  },
+  {
+   "title": "Sango (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/sango.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Sango survey (APiCS Online)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://apics-online.info/surveys/59",
+   "found_in_search": true
+  },
+  {
+   "title": "Sango language resources (Universe of Memory)",
+   "type": "other",
+   "language": "English",
+   "url": "https://universeofmemory.com/sango-language-resources/",
+   "found_in_search": true
+  }
+ ]
+}

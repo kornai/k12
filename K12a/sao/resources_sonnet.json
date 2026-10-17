@@ -1,0 +1,38 @@
+{
+ "iso": "sao",
+ "name": "Sause",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sause language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sause_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kapauri-Sause languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kapauri%E2%80%93Sause_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwerbic languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwerbic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Kapauri-Sause",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/northwest-new-guinea/foja-range/west-foja-range/kapauri-sause/start",
+   "found_in_search": true
+  }
+ ]
+}

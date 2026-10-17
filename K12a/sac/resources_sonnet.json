@@ -1,0 +1,38 @@
+{
+ "iso": "sac",
+ "name": "Meskwaki",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Meskwaki Nation Language Preservation",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.meskwaki.org/language-preservation/",
+   "found_in_search": true
+  },
+  {
+   "title": "Meskwaki Settlement School - Meskwakiatoweni",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://msswarriors.org/school/meskwakiatoweni/",
+   "found_in_search": true
+  },
+  {
+   "title": "Smithsonian: Meskwaki dictionary (Goddard and Thomason)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://naturalhistory.si.edu/research/anthropology/programs/recovering-voices/outreach/news-research-updates/meskwaki-dictionary-mother-languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Our Iowa Heritage: Meskwaki language",
+   "type": "other",
+   "language": "English",
+   "url": "https://ouriowaheritage.com/our-iowa-heritage-meskwaki-language/",
+   "found_in_search": true
+  }
+ ]
+}

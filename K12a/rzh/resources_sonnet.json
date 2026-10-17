@@ -1,0 +1,52 @@
+{
+ "iso": "rzh",
+ "name": "Rāziḥī",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Razihi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Razihi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Razihi (Lahjah Rāziḥīt), Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/razihi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Watson, Glover Stalls, Razihi & Weir 2006, Two Texts from Jabal Rāziḥ (citation record)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://ociana.osu.edu/citations/11146",
+   "found_in_search": true
+  },
+  {
+   "title": "Blog post on Razihi vitality (linguisten.de)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://blog.linguisten.de/post/642926024430059520",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Razihi",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/10839",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Razihi in Yemen",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20969",
+   "found_in_search": true
+  }
+ ]
+}
