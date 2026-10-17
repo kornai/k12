@@ -1,0 +1,24 @@
+{
+ "iso": "wig",
+ "name": "Wik Ngathan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Y54: Wik Ngathan (AIATSIS Austlang)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1510875",
+   "found_in_search": true
+  },
+  {
+   "title": "A pan-dialectal documentation of Wik-Ngathan and Wik-Ngatharr: Cape York Peninsula, Australia (ELDP)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0192/",
+   "found_in_search": true
+  }
+ ]
+}

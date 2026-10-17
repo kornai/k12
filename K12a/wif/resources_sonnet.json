@@ -1,0 +1,38 @@
+{
+ "iso": "wif",
+ "name": "Wik-Keyangan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Y54: Wik Ngathan (AIATSIS; lists Wik-Keyangan Y173 in the family)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1510875",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik-Me'nh language (Wikipedia; mentions wif)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik-Me%27nh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik-Keyangan (UNESCO World Atlas of Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/en/languages/wik-keyangan",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik-Keyangan (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3348?hl=en",
+   "found_in_search": true
+  }
+ ]
+}
