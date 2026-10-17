@@ -1,0 +1,38 @@
+{
+ "iso": "zac",
+ "name": "Ocotlán Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:32Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Scripture Earth: Zapotec, Ocotlan (zac)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zac",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Ocotlan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zac",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Ocotlan, Asuncion",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/4950",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Zapotec Language (Mendez Espinoza), AILLA",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A279600",
+   "found_in_search": true
+  }
+ ]
+}

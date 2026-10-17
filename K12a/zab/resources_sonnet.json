@@ -1,0 +1,45 @@
+{
+ "iso": "zab",
+ "name": "Western Tlacolula Valley Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:32Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Whitecotton and Whitecotton 1993, Vocabulario zapoteco-castellano (Glottolog record)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://glottolog.org/resource/reference/id/305642",
+   "found_in_search": true
+  },
+  {
+   "title": "Guelavia Zapotec anecdotes told by Pedro Hernandez (ILV, 1984)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/downloads/nz8063419?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Project MUSE article on Guelavia/Valley Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/19092/summary",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Zapotec Language (Mendez Espinoza), AILLA",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A279600",
+   "found_in_search": true
+  },
+  {
+   "title": "Ticha: digital Valley Zapotec resource (Haverford)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://ds-omeka.haverford.edu/ticha/en/index.html",
+   "found_in_search": true
+  }
+ ]
+}
