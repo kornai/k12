@@ -1,0 +1,73 @@
+{
+ "iso": "psh",
+ "name": "Pashai, Southwest",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Morgenstierne, The Pashai Language (review record, Heidelberg)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://fid4sa-repository.ub.uni-heidelberg.de/3173",
+   "found_in_search": true
+  },
+  {
+   "title": "Morgenstierne, Georg Valentin von Munthe af (Encyclopaedia Iranica)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.iranicaonline.org/articles/morgenstierne-georg-valentin-von-munthe-af/",
+   "found_in_search": true
+  },
+  {
+   "title": "Southwest Pashai numerals (Max Planck)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Pashai-Southwest.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Illustration of the IPA: Southeastern Pashayi (related variety)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/product/8CDDFBEC9998A428ACA1FFB023555626/core-reader",
+   "found_in_search": true
+  },
+  {
+   "title": "Pashayi languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pashayi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Southwest Pashayi in Afghanistan (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/15072/AF",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page psh",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/psh",
+   "found_in_search": true
+  },
+  {
+   "title": "Pashai, Southwest language (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/psh",
+   "found_in_search": true
+  },
+  {
+   "title": "Pashai: Kohistani & Shahi language (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/3317",
+   "found_in_search": true
+  }
+ ]
+}

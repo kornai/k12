@@ -1,0 +1,59 @@
+{
+ "iso": "pug",
+ "name": "Phuie",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Puguli language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Puguli_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Phuie, Hauts-Bassins, Burkina Faso (numerals project data page)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Phuie.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Phuien Webonary: Introduction",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.webonary.work/phuien/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Phuie",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=pug",
+   "found_in_search": true
+  },
+  {
+   "title": "Pwo in Burkina Faso (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14489",
+   "found_in_search": true
+  },
+  {
+   "title": "Phuo Worldview, Burkina Faso (2019)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.webonary.work/phuien/files/2019-June-3-Phuo-Worldview-Burkina-Faso.pdf?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Phuie",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/pug/",
+   "found_in_search": true
+  }
+ ]
+}

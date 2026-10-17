@@ -1,0 +1,38 @@
+{
+ "iso": "pns",
+ "name": "Ponosakan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ponosakan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ponosakan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Ponosakan",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/ponosakan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "LDD Journal article (relevance unconfirmed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lddjournal.org/article/1203/galley/2447/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ponasakan in Indonesia",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14440",
+   "found_in_search": true
+  }
+ ]
+}

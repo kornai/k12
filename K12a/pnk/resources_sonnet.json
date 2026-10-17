@@ -1,0 +1,52 @@
+{
+ "iso": "pnk",
+ "name": "Paunaka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Paunaka (Terhart, Language Science Press)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://langsci-press.org/catalog/book/400",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Paunaka (OAPEN)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/90227?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Paunaka grammar record (Freie Universität Berlin Refubium)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://refubium.fu-berlin.de/handle/fub188/42745?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Paunaka journal article (Redalyc)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.redalyc.org/journal/3940/394056633008/",
+   "found_in_search": true
+  },
+  {
+   "title": "Paunaka language archive (ELAR/ELDP)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0104/",
+   "found_in_search": true
+  },
+  {
+   "title": "Last Whispers: Paunaka",
+   "type": "other",
+   "language": "English",
+   "url": "https://lastwhispers.org/paunaka",
+   "found_in_search": true
+  }
+ ]
+}

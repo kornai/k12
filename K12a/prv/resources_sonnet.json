@@ -1,0 +1,24 @@
+{
+ "iso": "prv",
+ "name": "Provençal (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bookkeeping: Provençal (Retired) - Glottolog",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/prov1247",
+   "found_in_search": true
+  },
+  {
+   "title": "Provençal dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Proven%C3%A7al_dialect",
+   "found_in_search": true
+  }
+ ]
+}

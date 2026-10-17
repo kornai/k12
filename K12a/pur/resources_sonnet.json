@@ -1,0 +1,45 @@
+{
+ "iso": "pur",
+ "name": "Puruborá",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Purubora language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Purubora_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Caracteristicas da lingua Puruborá (Povos Indigenas no Brasil)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://pib.socioambiental.org/files/file/PIB_verbetes/purubor%c3%a1/leiamais_caracteristicas%20da%20lingua%20purubora.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Museu Goeldi repository record: Puruborá",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.museu-goeldi.br/handle/mgoeldi/2304",
+   "found_in_search": true
+  },
+  {
+   "title": "Análise Fonética e Fonológica da língua Puruborá (PDF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.museu-goeldi.br/bitstream/mgoeldi/2311/1/70-AN%c3%81LISE%20FON%c3%89TICA%20E%20FONOL%c3%93GICA%20DA%20L%c3%adNGUA%20PURUBOR%c3%81.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Puruborá",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2766",
+   "found_in_search": true
+  }
+ ]
+}

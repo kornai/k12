@@ -1,0 +1,59 @@
+{
+ "iso": "pmd",
+ "name": "Pallanganmiddang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pallanganmiddang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pallanganmiddang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pallanganmiddang people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pallanganmiddang_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Blake and Reid, Pallanganmiddang analysis (Aboriginal History 23)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://press-files.anu.edu.au/downloads/press/p72831/pdf/article0217.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Dhudhuroa and Yaithmathang languages and social groups in north-east Victoria",
+   "type": "academic",
+   "language": "English",
+   "url": "https://press-files.anu.edu.au/downloads/press/p74631/html/ch09.html?page=12",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Pallanganmiddang wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PALLANGANMIDDANG",
+   "found_in_search": true
+  },
+  {
+   "title": "VACL Waywurru language page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://vacl.org.au/language/waywurru/",
+   "found_in_search": true
+  },
+  {
+   "title": "Aboriginal Languages Curriculum Victoria (VCAA) document",
+   "type": "policy",
+   "language": "English",
+   "url": "https://vcaa.vic.edu.au:443/Documents/alcv/History.pdf",
+   "found_in_search": true
+  }
+ ]
+}

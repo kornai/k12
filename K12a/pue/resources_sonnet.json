@@ -1,0 +1,45 @@
+{
+ "iso": "pue",
+ "name": "Puelche",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gününa Küne language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/G%C3%BCn%C3%BCna_K%C3%BCne_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Het peoples (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Het_peoples",
+   "found_in_search": true
+  },
+  {
+   "title": "Günün-Chonan Languages (University of Edinburgh)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://chico-sc.ppls.ed.ac.uk/?p=425",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Gününa Küne",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_gku",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: bibliography for Puelche",
+   "type": "academic",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/2899/bibliography?hl=fr",
+   "found_in_search": true
+  }
+ ]
+}

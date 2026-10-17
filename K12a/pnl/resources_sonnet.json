@@ -1,0 +1,52 @@
+{
+ "iso": "pnl",
+ "name": "Paleni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Paleni language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Paleni_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wara-Natyoro languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wara%E2%80%93Natyoro_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Deep Blue (Univ. of Michigan) data download, Paleni documentation",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://deepblue.lib.umich.edu/data/downloads/p8418p57f",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Paleni word list",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PALEN",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Paleni in Burkina Faso",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21002",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Burkina page",
+   "type": "other",
+   "language": "other",
+   "url": "https://sil-burkina.org/node/246",
+   "found_in_search": true
+  }
+ ]
+}

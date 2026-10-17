@@ -1,0 +1,45 @@
+{
+ "iso": "pst",
+ "name": "Central Pashto",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pashto: An Elementary Textbook (Inomkhojayev)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.booksamillion.com/p/Pashto/Rahmon-Inomkhojayev/9781589017733",
+   "found_in_search": true
+  },
+  {
+   "title": "Descriptive Grammar of Pashto and its Dialects (David)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9781614512318/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Pashto-English/English-Pashto Dictionary & Phrasebook (Awde, Sarwan)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.abebooks.com/9780781809726/Pashto-EnglishEnglish-Pashto-Dictionary-Phrasebook-Hippocrene-Phrasebooks-078180972X/plp",
+   "found_in_search": true
+  },
+  {
+   "title": "Pashto dictionary and phrasebook (Cambridge Language Centre entry)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langp/data/pu_112.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Pashto dictionaries list (Scribd)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://es.scribd.com/doc/288298711/Pashto-Dictionaries",
+   "found_in_search": true
+  }
+ ]
+}

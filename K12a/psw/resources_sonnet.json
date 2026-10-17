@@ -1,0 +1,45 @@
+{
+ "iso": "psw",
+ "name": "Port Sandwich",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "La Langue de Port-Sandwich: Introduction phonologique et grammaire (Charpentier 1979)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/131706",
+   "found_in_search": true
+  },
+  {
+   "title": "Langue de Port-Sandwich (Charpentier 1974)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/134295",
+   "found_in_search": true
+  },
+  {
+   "title": "Port Sandwich language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Port_Sandwich_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Port Sandwich",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/port1285",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Port Sandwich",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/30115",
+   "found_in_search": true
+  }
+ ]
+}

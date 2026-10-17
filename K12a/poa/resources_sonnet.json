@@ -1,0 +1,59 @@
+{
+ "iso": "poa",
+ "name": "Poqomam, Eastern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Poqomam, Eastern (retired, merged into poc)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/poqo1257",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Poqomam",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/poqo1253",
+   "found_in_search": true
+  },
+  {
+   "title": "Poqomam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Poqomam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AGN: virtual library for learning Poqomam (ALMG)",
+   "type": "other",
+   "language": "other",
+   "url": "https://agn.gt/sabias-que-existe-una-biblioteca-virtual-para-aprender-poqomam/",
+   "found_in_search": true
+  },
+  {
+   "title": "AGN: Mineduc trains 829 teachers in Poqomam",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://agn.gt/mineduc-concluye-capacitacion-de-829-docentes-en-idioma-poqomam/",
+   "found_in_search": true
+  },
+  {
+   "title": "AGN: Poqomam bilingual dictionary report",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://agn.gt/?p=402251",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Poqomam entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4986",
+   "found_in_search": true
+  }
+ ]
+}

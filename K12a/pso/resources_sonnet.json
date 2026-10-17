@@ -1,0 +1,73 @@
+{
+ "iso": "pso",
+ "name": "Polish Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Migaj razem z nami - multimedialny kurs polskiego języka migowego PJM",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.kuratorium.waw.pl/pl/informacje/aktualnosci/15615,MIGAJ-RAZEM-Z-NAMI-multimedialny-kurs-polskiego-jezyka-migowego-PJM.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurs polskiego języka migowego PJM (Ministerstwo Edukacji)",
+   "type": "school_or_programme",
+   "language": "native",
+   "url": "https://www.gov.pl/web/edukacja/kurs-polskiego-jezyka-migowego-pjm",
+   "found_in_search": true
+  },
+  {
+   "title": "MEN chce uczyć w szkołach polskiego języka migowego",
+   "type": "policy",
+   "language": "native",
+   "url": "https://www.prawo.pl/oswiata/men-chce-uczyc-w-szkolach-polskiego-jezyka-migowego,135233.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Rutkowski, Mostowski: Polski język migowy narzędziem przeciwdziałania wykluczeniu",
+   "type": "academic",
+   "language": "native",
+   "url": "https://www.plm.uw.edu.pl/wp-content/uploads/2012/07/Rutkowski-Mostowski-Polski-jezyk-migowy-narzedziem-przeciwdzialania-wykluczeniu.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Formy i sposoby osiągania poziomów biegłości (PJM)",
+   "type": "other",
+   "language": "native",
+   "url": "https://zpe.gov.pl/a/opis/DEL51L34P",
+   "found_in_search": true
+  },
+  {
+   "title": "Uchwała nr 1/2024 Polskiej Rady Języka Migowego",
+   "type": "policy",
+   "language": "native",
+   "url": "https://niepelnosprawni.gov.pl/wp-content/uploads/2025/06/Uchwala-1-2024-1743775612.docx",
+   "found_in_search": true
+  },
+  {
+   "title": "Spotkanie ministra edukacji i nauki z przedstawicielami Instytutu Praw Głuchych",
+   "type": "community_org",
+   "language": "native",
+   "url": "https://www.gov.pl/web/nauka/spotkanie-ministra-edukacji-i-nauki-z-przedstawicielami-instytutu-praw-gluchych",
+   "found_in_search": true
+  },
+  {
+   "title": "Szkolenie z kultury Głuchych i polskiego języka migowego (SWPS presentation)",
+   "type": "other",
+   "language": "native",
+   "url": "https://www0.swps.pl/images/DOKUMENTY/Prezentacja_-_Szkolenie_z_kultury_G%C5%82uchych_i_polskiego_j%C4%99zyka_migowego.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Program i terminarz kursu PJM A1",
+   "type": "school_or_programme",
+   "language": "native",
+   "url": "https://www.powiatgizycki.pl/wp-content/uploads/2024/11/PROGRAM-i-TERMINARZ-kursu-PJM-A1.pdf",
+   "found_in_search": true
+  }
+ ]
+}

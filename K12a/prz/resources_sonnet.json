@@ -1,0 +1,66 @@
+{
+ "iso": "prz",
+ "name": "Providencia Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Revisiting the shared sign language of Providence Island (ELDP project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/revisiting-the-shared-sign-language-of-providence-island",
+   "found_in_search": true
+  },
+  {
+   "title": "Forma y Funcion article on Providencia Sign Language",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.unal.edu.co/index.php/formayfuncion/article/view/101071",
+   "found_in_search": true
+  },
+  {
+   "title": "Forma y Funcion article (PDF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.unal.edu.co/index.php/formayfuncion/article/download/101071/89434/655006",
+   "found_in_search": true
+  },
+  {
+   "title": "El muestreo de senantes en la Isla de Providencia",
+   "type": "academic",
+   "language": "other",
+   "url": "https://redcol.minciencias.gov.co/Record/UCART2_6ba0cc445dbbbbd6f73826825631b0da/Details",
+   "found_in_search": true
+  },
+  {
+   "title": "Braithwaite 2017, SCL Occasional Paper 38",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scl-online.net/publications/SCL_OP_38_Braithwaite_2017.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Universidad Nacional de Colombia repository record",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.unal.edu.co/handle/unal/56239",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Providencia Sign Language",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/ProvidenciaSignLanguage",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Prz",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Prz",
+   "found_in_search": true
+  }
+ ]
+}

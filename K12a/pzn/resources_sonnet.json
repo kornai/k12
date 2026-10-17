@@ -1,0 +1,45 @@
+{
+ "iso": "pzn",
+ "name": "Jejara Naga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Para language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Para_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal of the Southeast Asian Linguistics Society (Nov 2022): Para Naga orthography paper",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://doaj.org/article/d99795571ebd47359002269326853daf",
+   "found_in_search": true
+  },
+  {
+   "title": "Jejara - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10415",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Myanmar Para Naga",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Para-Naga.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Para Naga in Myanmar - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12659",
+   "found_in_search": true
+  }
+ ]
+}

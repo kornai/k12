@@ -1,0 +1,38 @@
+{
+ "iso": "pwm",
+ "name": "Molbog",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Molbog language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Molbog_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Molbog-Bonggi languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Molbog-Bonggi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Molbog (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/molbog.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Molbog in Philippines (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/13774/RP",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "psi",
+ "name": "Southeast Pashai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pashayi languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pashayi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Southeastern Pashayi (IPA illustration, Lamuwal and Baker 2013)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://core-cms.cambridgecore.org/core/services/aop-cambridge-core/content/view/8CDDFBEC9998A428ACA1FFB023555626/S0025100313000133a.pdf/southeastern-pashayi.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Southeast Pashai",
+   "type": "other",
+   "language": "English",
+   "url": "https://phoible.org/languages/sout2672",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Southeast Pashayi in Afghanistan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15025",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language psi",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/psi",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: psi",
+   "type": "audio",
+   "language": "English",
+   "url": "https://www.globalrecordings.net/en/language/psi",
+   "found_in_search": true
+  }
+ ]
+}

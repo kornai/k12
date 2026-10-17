@@ -1,0 +1,45 @@
+{
+ "iso": "pwi",
+ "name": "Patwin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Patwin (Lewis C. Lawyer, University of Nebraska Press)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://muse.jhu.edu/book/82701",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistics Alum Writes First Grammar of Patwin (UC Davis Magazine)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ucdavis.edu/magazine/linguistics-alum-writes-first-grammar-of-patwin",
+   "found_in_search": true
+  },
+  {
+   "title": "Lewis C. Lawyer (UC Davis profile, mentions Patwin dictionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://nas.ucdavis.edu/people/lewis-lawyer",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF grant BCS-1264305 (Patwin documentation)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-1264305",
+   "found_in_search": true
+  },
+  {
+   "title": "Language is the Heart of Our Culture (Yocha Dehe Wintun Nation)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://yochadehe.gov/culture/language/",
+   "found_in_search": true
+  }
+ ]
+}

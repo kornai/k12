@@ -1,0 +1,52 @@
+{
+ "iso": "ppo",
+ "name": "Folopa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Folopa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Folopa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Teberan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Teberan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Folopa (New Guinea World, University of Zurich)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/papuan-gulf/tua-river/dadibi-folopa/folopa",
+   "found_in_search": true
+  },
+  {
+   "title": "Podopa in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14423",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network, language 1471",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/1471",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network, language 9849",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/9849",
+   "found_in_search": true
+  }
+ ]
+}

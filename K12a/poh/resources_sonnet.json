@@ -1,0 +1,45 @@
+{
+ "iso": "poh",
+ "name": "Poqomchi’",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Comunidad lingüística Poqomchi' lanza diccionario pedagógico (AGN)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://agn.gt/comunidad-linguistica-poqomchi-lanza-diccionario-pedagogico/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dobbels 2003, Diccionario Poqomchi'-Castellano (Glottolog reference)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://glottolog.org/resource/reference/id/104700",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Poqomchi'",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/112918",
+   "found_in_search": true
+  },
+  {
+   "title": "The Bible in Poqomchi' (New Testament)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/POHBSG",
+   "found_in_search": true
+  },
+  {
+   "title": "Poqomchi' Tusq'orik Living Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/poqomchi/about",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "pmy",
+ "name": "Papuan Malay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Papuan Malay (Language Science Press)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://langsci-press.org/catalog/book/78",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Papuan Malay (Leiden repository)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openaccess.leidenuniv.nl/handle/1887/25849",
+   "found_in_search": true
+  },
+  {
+   "title": "Schapper conference paper mentioning Papuan Malay",
+   "type": "academic",
+   "language": "English",
+   "url": "https://events.tuni.fi/app/uploads/sites/1396/2026/06/schapper.pdf",
+   "found_in_search": true
+  }
+ ]
+}

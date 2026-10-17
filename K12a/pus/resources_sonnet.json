@@ -1,0 +1,73 @@
+{
+ "iso": "pus",
+ "name": "pus",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pashto as a Second Language / Pashto teaching materials (wardak.de)",
+   "type": "primer",
+   "language": "other",
+   "url": "https://wardak.de/articles/pashto-afghanisch-als-zweite-sprache/",
+   "found_in_search": true
+  },
+  {
+   "title": "Pashto: An Elementary Textbook (Inomkhojayev), UTP distribution listing",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://utpdistribution.com/9781589017733/pashto",
+   "found_in_search": true
+  },
+  {
+   "title": "Pashto language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pashto",
+   "found_in_search": true
+  },
+  {
+   "title": "Pashto Language (EBSCO Research Starters)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ebsco.com/research-starters/language-and-linguistics/pashto-language",
+   "found_in_search": true
+  },
+  {
+   "title": "4training.net Pashto",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://4training.net/Pashto",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Pashto, Southern",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/pbt",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Pashto, Northern",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/pbu",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Pushto",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/pus",
+   "found_in_search": true
+  },
+  {
+   "title": "Learn Pashto (iOS app)",
+   "type": "software",
+   "language": "other",
+   "url": "https://apps.apple.com/us/app/id1176460224",
+   "found_in_search": true
+  }
+ ]
+}

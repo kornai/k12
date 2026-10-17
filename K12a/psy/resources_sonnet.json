@@ -1,0 +1,38 @@
+{
+ "iso": "psy",
+ "name": "Piscataway",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:59Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Piscataway language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Piscataway_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Piscataway - Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/108781",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Piscataway wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PISCATAWAY",
+   "found_in_search": true
+  },
+  {
+   "title": "Piscataway people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Piscataway_people",
+   "found_in_search": true
+  }
+ ]
+}

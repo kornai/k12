@@ -1,0 +1,73 @@
+{
+ "iso": "pwn",
+ "name": "Paiwan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "New Taipei City course outline: Paiwan 300 words and derivatives",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.buda.ntpc.gov.tw/plugin/course_information/uploadfiles/20240403115048331183207.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Taipei primary school curriculum plan (Northern/Southern Paiwan)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.cp.ptc.edu.tw/storage/134787/134787_114_B-02_2A.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Paiwan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Paiwan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Formosan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Formosan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Handbook of Formosan Languages Online (Brill)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://referenceworks.brillonline.com/browse/handbook-of-formosan-languages-the-indigenous-languages-of-taiwan/alpha/p",
+   "found_in_search": true
+  },
+  {
+   "title": "A comparative study on Formosan phonology: Paiwan and Budai Rukai",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repositories.lib.utexas.edu/items/aaf7ccba-4293-4498-ba57-ac2ee8357e30/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Taiwan: Paiwan (The Language Closet)",
+   "type": "other",
+   "language": "English",
+   "url": "https://thelanguagecloset.com/2020/12/19/languages-of-taiwan-paiwan-vinuculjan-pinayuanan/",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Paiwan (pwn)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Pwn",
+   "found_in_search": true
+  },
+  {
+   "title": "IAFOR presentation on gender in Eastern Paiwan textbooks",
+   "type": "academic",
+   "language": "English",
+   "url": "https://egen.iafor.org/presentation/submission110449/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "pmh",
+ "name": "Maharastri Prakrit",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ausgewaehlte Erzaehlungen in Maharastri (Jacobi), Jainpedia reading",
+   "type": "primer",
+   "language": "other",
+   "url": "https://jainpedia.org/reading/ausgewaehlte-erzaehlungen-in-maharastri",
+   "found_in_search": true
+  },
+  {
+   "title": "SOAS Digital Collections: Prakrit collection",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://digital.soas.ac.uk/prakrit/all/table",
+   "found_in_search": true
+  },
+  {
+   "title": "Wisdomlib Prakrit glossary, letter m",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.wisdomlib.org/prakrit/glossary/m",
+   "found_in_search": true
+  },
+  {
+   "title": "Jainpedia glossary: Maharastri Prakrit",
+   "type": "other",
+   "language": "English",
+   "url": "https://jainpedia.org/glossary/maharaṣṭri-prakrit",
+   "found_in_search": true
+  },
+  {
+   "title": "ISJS online Prakrit dictionary announcement (February 2026)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://isjs-newsletter.in/Newsletter/2026/February/01/Prakrit.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ISJS online Prakrit dictionary update (March 2026)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://isjs-newsletter.in/Newsletter/2026/March/01/Prakrit.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ISJS free global Prakrit dictionary access (April 2026)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://isjs-newsletter.in/Newsletter/2026/April/01/Prakrit.html",
+   "found_in_search": true
+  }
+ ]
+}

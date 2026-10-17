@@ -1,0 +1,31 @@
+{
+ "iso": "psu",
+ "name": "Sauraseni Prakrit",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Jain Journal 1996 04 (Banerjee, Sauraseni and Jain texts)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://jainqq.org/pagetext/Jain_Journal_1996_04/520122/10",
+   "found_in_search": true
+  },
+  {
+   "title": "Jain Journal 1996 04, further pages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://jainqq.org/explore/520122/5",
+   "found_in_search": true
+  },
+  {
+   "title": "Jain text scan (jainqq.org)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.jainqq.org/explore/006968/168",
+   "found_in_search": true
+  }
+ ]
+}

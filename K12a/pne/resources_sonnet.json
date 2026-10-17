@@ -1,0 +1,59 @@
+{
+ "iso": "pne",
+ "name": "Penan, Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Penan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Penan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Penan (ASJP)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WESTERN_PENAN",
+   "found_in_search": true
+  },
+  {
+   "title": "A dictionary of Eastern Penan (ELDP; different language, pez)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0250/",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Western Penan scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=pne",
+   "found_in_search": true
+  },
+  {
+   "title": "Penan-Nibong in Malaysia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14482",
+   "found_in_search": true
+  },
+  {
+   "title": "New Testament in Eastern Penan (Digital Bible Society; different language, pez)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://dbs.org/bibles/PEZBSM",
+   "found_in_search": true
+  },
+  {
+   "title": "Penan audio recordings (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/pne",
+   "found_in_search": true
+  }
+ ]
+}

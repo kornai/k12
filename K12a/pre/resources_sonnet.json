@@ -1,0 +1,45 @@
+{
+ "iso": "pre",
+ "name": "Principense",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lung'Ie dictionary (Living Dictionaries)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://livingdictionaries.app/lungie/about",
+   "found_in_search": true
+  },
+  {
+   "title": "APiCS survey chapter: Principense",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://apics-online.info/surveys/37",
+   "found_in_search": true
+  },
+  {
+   "title": "Principense Creole (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Principense_Creole",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 28.2786 (review of Principense grammar)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/28/2786/",
+   "found_in_search": true
+  },
+  {
+   "title": "Finnish Journal of Linguistics article on Principense",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journal.fi/finjol/article/view/152996/98520",
+   "found_in_search": true
+  }
+ ]
+}

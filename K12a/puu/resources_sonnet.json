@@ -1,0 +1,52 @@
+{
+ "iso": "puu",
+ "name": "Punu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A model for the macro- and microstructure of a Yipunu-French school dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://hdl.handle.net/10019.1/1416",
+   "found_in_search": true
+  },
+  {
+   "title": "Punu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Punu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Metalexicographic criteria for a monolingual descriptive dictionary presenting the standard variety of Yipunu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholar.sun.ac.za/items/f97e2537-5d0a-45e7-985e-2eb5095285d6",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexikos article on Gabonese language dictionaries (651)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/651/251",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexikos article (652)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/652/252",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 17.3333",
+   "type": "other",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/17/3333",
+   "found_in_search": true
+  }
+ ]
+}

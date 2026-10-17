@@ -1,0 +1,59 @@
+{
+ "iso": "pov",
+ "name": "Guinea-Bissau Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nanfadi: Kriol in school education (UNILAB thesis)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.unilab.edu.br/jspui/bitstream/123456789/6735/1/Vladimir%20Renato%20Nanfadi.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista Mandinga (UNILAB) article",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.unilab.edu.br/index.php/mandinga/article/download/34/24/138",
+   "found_in_search": true
+  },
+  {
+   "title": "Language policy survey, Forum (UFSC)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufsc.br/index.php/forum/article/download/95286/59081/411214",
+   "found_in_search": true
+  },
+  {
+   "title": "Stein: Dicionario bilingue portugues-crioulo da Guine-Bissau, vol. II (Editora UFPB)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.editora.ufpb.br/sistema/press5/index.php/UFPB/catalog/download/705/941/8096?inline=1",
+   "found_in_search": true
+  },
+  {
+   "title": "Scantamburlo: Grafia oficial do crioulo guineense",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://repositorio.ensinolusofona.pt/bitstream/10437.1/12021/1/S4_2018_Scantamburlo_Grafia%20oficial%20do%20crioulo%20guineense.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kihm: Kriyol Syntax",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1075/cll.14/html?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "APiCS survey chapter: Guinea-Bissau Kriyol",
+   "type": "academic",
+   "language": "English",
+   "url": "https://apics-online.info/surveys/33",
+   "found_in_search": true
+  }
+ ]
+}

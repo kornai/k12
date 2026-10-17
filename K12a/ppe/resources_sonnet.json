@@ -1,0 +1,31 @@
+{
+ "iso": "ppe",
+ "name": "Baiyamo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Papi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Papi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Baiyamo numerals (MPI EVA)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Baiyamo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Baiyamo",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2645",
+   "found_in_search": true
+  }
+ ]
+}

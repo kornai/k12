@@ -1,0 +1,31 @@
+{
+ "iso": "pty",
+ "name": "Pathiya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pathiya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pathiya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalanadi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kalanadi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kunduvadi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kunduvadi_language",
+   "found_in_search": true
+  }
+ ]
+}

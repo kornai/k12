@@ -1,0 +1,45 @@
+{
+ "iso": "pro",
+ "name": "Old Provençal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Old Occitan Dictionary is online (DOM, Trier Center for Digital Humanities)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://tcdh.uni-trier.de/en/newsbeitrag/old-occitan-dictionary-online",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire de l'occitan médiéval (DOM) dataset record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://b2find.eudat.eu/dataset/e13f5d75-8f47-5454-a882-2b4ef68e9047",
+   "found_in_search": true
+  },
+  {
+   "title": "LINDAT repository item (Old Occitan related)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lindat.mff.cuni.cz/repository/items/31cb7431-188d-46e1-a299-6f12dff9d26c",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire d'ancien occitan auvergnat (1340-1540), catalogue record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://katalog.lib.cas.cz/KNAV/EdsRecord/nlebk,286215",
+   "found_in_search": true
+  },
+  {
+   "title": "OeAW catalogue record 9783484971325",
+   "type": "academic",
+   "language": "other",
+   "url": "https://oeaw.ac.at/resources/Record/9783484971325",
+   "found_in_search": true
+  }
+ ]
+}

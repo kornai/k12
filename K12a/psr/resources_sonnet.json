@@ -1,0 +1,73 @@
+{
+ "iso": "psr",
+ "name": "Portuguese Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Programa curricular de Língua Gestual Portuguesa (pré-escolar e ensino básico)",
+   "type": "policy",
+   "language": "native",
+   "url": "https://www.dge.mec.pt/sites/default/files/ficheiros/programacurricularlgportuguesa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Programa curricular de LGP - ensino secundário",
+   "type": "policy",
+   "language": "native",
+   "url": "https://dge.mec.pt/sites/default/files/EEspecial/prog_curric_lgp_sec.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Programa de Português Língua Segunda (alunos surdos)",
+   "type": "policy",
+   "language": "native",
+   "url": "https://www.dge.mec.pt/sites/default/files/ficheiros/programa_portugueslingua2_1_.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Programa PL2 surdos",
+   "type": "policy",
+   "language": "native",
+   "url": "https://dge.mec.pt/sites/default/files/EEspecial/programa_pl2_surdos.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Repository item on LGP terminology dictionary proposal",
+   "type": "academic",
+   "language": "native",
+   "url": "https://comum.rcaap.pt/bitstreams/159c382c-cc05-4972-91e6-058ff4d8b6f7/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Repository item on LGP teaching (mestrado/estudo)",
+   "type": "academic",
+   "language": "native",
+   "url": "https://comum.rcaap.pt/bitstreams/6d49f723-61b7-4cc3-9fb8-4bc497990451/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista Espaço (INES): bilingual education of Deaf students in Portugal",
+   "type": "academic",
+   "language": "native",
+   "url": "https://seer.ines.gov.br/index.php/revista-espaco/article/download/1266/1282/4041",
+   "found_in_search": true
+  },
+  {
+   "title": "Momento (FURG) article on bilingual education and Decreto-Lei 3/2008",
+   "type": "academic",
+   "language": "native",
+   "url": "https://periodicos.furg.br/momento/article/download/14189/9687/49638",
+   "found_in_search": true
+  },
+  {
+   "title": "Ideação (Unioeste) article on LGP and Deaf education",
+   "type": "academic",
+   "language": "native",
+   "url": "https://e-revista.unioeste.br/index.php/ideacao/article/download/17226/11544/63299",
+   "found_in_search": true
+  }
+ ]
+}

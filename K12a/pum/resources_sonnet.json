@@ -1,0 +1,52 @@
+{
+ "iso": "pum",
+ "name": "Puma",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Puma-Nepali dictionary and grammar (Bickel, Gaenszle et al., 2009), ZORA record",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.zora.uzh.ch/entities/publication/03328fc1-de0b-4965-ac3b-4766a9fa8b00",
+   "found_in_search": true
+  },
+  {
+   "title": "Puma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:pum",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Puma bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1125/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Kirat Rai Chamling Language Research and Investigation (related language, context only)",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://kiratrai.org/?p=1777",
+   "found_in_search": true
+  },
+  {
+   "title": "Chintang and Puma Documentation Project",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://www.uzh.ch/cpdp/left%20home%20frame.html",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS poster: Chintang and Puma documentation",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/eurasia-chintang-print.pdf",
+   "found_in_search": true
+  }
+ ]
+}

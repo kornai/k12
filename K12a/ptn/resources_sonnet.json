@@ -1,0 +1,66 @@
+{
+ "iso": "ptn",
+ "name": "Patani",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Patani language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Patani_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rødvand 2024, grammatical description of Patani (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/704611",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Patani (pata1260)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/pata1260.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Study of the possessive system of Patani (De Gruyter, 2023)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/stuf-2023-2016/html?lang=de",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP word list: Patani",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PATANI",
+   "found_in_search": true
+  },
+  {
+   "title": "Comparative study of Patani and East Makeang (IJTK)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ijtk.iainkendari.ac.id/index.php/IJTK/article/download/33/36/92",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Patani in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14335",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Patani people profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Indonesia/Patani.pdf",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "qbb",
+ "name": "Old Latin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Duenos inscription (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Duenos_inscription",
+   "found_in_search": true
+  },
+  {
+   "title": "Praeneste fibula (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Praeneste_fibula",
+   "found_in_search": true
+  },
+  {
+   "title": "Praeneste Fibula (Britannica)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.britannica.com/topic/Praeneste-Fibula",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Gordon, The Inscribed Fibula Praenestina (Humanitas 29-30)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ap1.sib.uc.pt/bitstream/10316.2/29320/1/humanitas29-30_artigo40.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "OSU Epigraphy: CIL I2 21-24 photographs",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://epigraphy.osu.edu/collections/latin-photo/cil-i2-21-24",
+   "found_in_search": true
+  },
+  {
+   "title": "Textkit: Praeneste Fibula",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.textkit.com/t/praeneste-fibula/15946",
+   "found_in_search": true
+  }
+ ]
+}

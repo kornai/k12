@@ -1,0 +1,52 @@
+{
+ "iso": "puj",
+ "name": "Punan Tubu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Punan Tubu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Punan_Tubu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Cesard et al. 2017, Wacana 18(1) (Punan Tubu discussion)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://halshs.archives-ouvertes.fr/halshs-02542193v1/file/2017-C%C3%A9sard%20et%20al-Wacana%2018-1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Soriente and Inagaki: Kalimantan languages handout",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingdy.aa-ken.jp/wp-content/uploads/2012/01/120217_soriente_inagaki_a.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ScholarSpace: handwritten notes on Punan Tubu dialects",
+   "type": "other",
+   "language": "other",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/39366f64-8869-4bb2-b0a5-12153576a925/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Punan Tubu in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/print/14481/ID",
+   "found_in_search": true
+  },
+  {
+   "title": "MPI-EVA Jakarta archive: Punan Tubu data",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/archive/jakarta/data_PUNDUL.php.html",
+   "found_in_search": true
+  }
+ ]
+}

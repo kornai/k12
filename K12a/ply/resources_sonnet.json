@@ -1,0 +1,38 @@
+{
+ "iso": "ply",
+ "name": "Bolyu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bolyu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bolyu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bolyu (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/bolyu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Bolyu verb wordlist (ABVD)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=960",
+   "found_in_search": true
+  },
+  {
+   "title": "Bolyu numerals (Max Planck EVA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Bolyu.htm",
+   "found_in_search": true
+  }
+ ]
+}

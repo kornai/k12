@@ -1,0 +1,52 @@
+{
+ "iso": "pos",
+ "name": "Popoluca, Sayula",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Clark: Cartilla/Vocabulario popoluca de Sayula (COLMEX record 1)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/3b591d18n?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Clark: Cartilla/Vocabulario popoluca de Sayula (COLMEX record 2)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/jq085m825?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sayula Popoluca bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5286/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Clark and Clark 1960",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/13662",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Clark 1995 (Sayula Popoluca)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/sources/pos_clark1995",
+   "found_in_search": true
+  },
+  {
+   "title": "Sayula Popoluca (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.com/wiki/Sayultec",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "prw",
+ "name": "Parawen",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Parawen language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Parawen_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zgraggen 1980 source entry, Trans New Guinea database (contents unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/zgraggen-1980-nadelbert?page=120",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Parawen bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/10740/bibliography?hl=zh-cn",
+   "found_in_search": true
+  },
+  {
+   "title": "Parawen in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14318",
+   "found_in_search": true
+  },
+  {
+   "title": "Parawen language page (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/prw",
+   "found_in_search": true
+  }
+ ]
+}

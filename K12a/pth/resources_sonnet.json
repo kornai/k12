@@ -1,0 +1,59 @@
+{
+ "iso": "pth",
+ "name": "Pataxó Hã-Ha-Hãe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:59Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Proposta de ensino para o reavivamento Pataxo Hahahae (Cadernos da Abralin)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://cadernos.abralin.org/index.php/cadernos/article/download/253/246",
+   "found_in_search": true
+  },
+  {
+   "title": "Material didatico para o ensino do patxohã, Barra Velha (UFMG thesis, Santana 2016)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.biblio.fae.ufmg.br/monografias/2016/cleideane%20poncada%20santana.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Voos na sabedoria: o ensino do Patxohã na Escola Kijetxawe Zabele",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://revistas.ufrj.br/index.php/policromias/article/view/46721",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista Linguistica article on Patxohã revitalization",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.ufrj.br/index.php/rl/article/view/10433",
+   "found_in_search": true
+  },
+  {
+   "title": "Pataxó language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Patax%C3%B3_language",
+   "found_in_search": true
+  },
+  {
+   "title": "UFSB project on Patxohã revitalization (Projeto 51)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ufsb.edu.br/prosis/images/editais/BAP_2020/Projeto_51.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kua Me'a Arega: digital game for teaching Patxohã",
+   "type": "software",
+   "language": "other",
+   "url": "https://sol.sbc.org.br/index.php/sbgames/article/view/32341",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "pub",
+ "name": "Purum",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Purum language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Purum_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Purum people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Purum_people",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Purum word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PURUM",
+   "found_in_search": true
+  },
+  {
+   "title": "Purum - Orientation (Everyculture)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.everyculture.com/South-Asia/Purum-Orientation.html",
+   "found_in_search": true
+  },
+  {
+   "title": "North East Indian Linguistics (Hyslop et al. 2011, front pages)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/17240/11/17240_Hyslop_et_al_2011_Front_Pages.pdf",
+   "found_in_search": true
+  }
+ ]
+}

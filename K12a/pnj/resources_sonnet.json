@@ -1,0 +1,31 @@
+{
+ "iso": "pnj",
+ "name": "Pinjarup",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Noongar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Noongar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Nyoongar wordlist, south-west of Western Australia (Bindon and Chadwick)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://link.stirling.wa.gov.au/resource/k8mq-i6z1xE",
+   "found_in_search": true
+  },
+  {
+   "title": "Noongar words list, Noongar Dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.mayakeniny.com/language-list",
+   "found_in_search": true
+  }
+ ]
+}

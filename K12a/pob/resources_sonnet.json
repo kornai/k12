@@ -1,0 +1,45 @@
+{
+ "iso": "pob",
+ "name": "Poqomchi', Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:32Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Comunidad lingüística Poqomchi' lanza diccionario pedagógico (ALMG, via AGN)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://agn.gt/comunidad-linguistica-poqomchi-lanza-diccionario-pedagogico/",
+   "found_in_search": true
+  },
+  {
+   "title": "Pocomchi overview (native-languages.org)",
+   "type": "other",
+   "language": "English",
+   "url": "https://native-languages.org/pocomchi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry (node 112918)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/112918",
+   "found_in_search": true
+  },
+  {
+   "title": "The Bible in Poqomchi' (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/POHBSG",
+   "found_in_search": true
+  },
+  {
+   "title": "Poqomchi' Tusq'orik talking dictionary (Living Dictionaries)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/poqomchi/about",
+   "found_in_search": true
+  }
+ ]
+}

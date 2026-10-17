@@ -1,0 +1,59 @@
+{
+ "iso": "pnz",
+ "name": "Pana",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pana/Pani numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Pana-Pani.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO WAL: Pana in Cameroon",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/countries/cameroon/languages/pana",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pana in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/14285/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pana in Central African Republic",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14285/CT",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pana in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14285/CD",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language pnz",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/pnz",
+   "found_in_search": true
+  }
+ ]
+}

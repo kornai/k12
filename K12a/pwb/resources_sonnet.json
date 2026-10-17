@@ -1,0 +1,45 @@
+{
+ "iso": "pwb",
+ "name": "Panawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Panawa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Panawa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Blench and Nengel 2004 (Glottolog reference record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/18723",
+   "found_in_search": true
+  },
+  {
+   "title": "Panawa in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19670",
+   "found_in_search": true
+  },
+  {
+   "title": "Panawa language page (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/pwb",
+   "found_in_search": true
+  },
+  {
+   "title": "Panawa language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/pwb",
+   "found_in_search": true
+  }
+ ]
+}

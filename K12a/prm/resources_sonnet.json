@@ -1,0 +1,45 @@
+{
+ "iso": "prm",
+ "name": "Kibiri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Porome language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Porome_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kibiri/Porome",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/98693",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kibiri, Porome in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12676/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: prm",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/prm/",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Kibiri/Porome",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/KibiriPorome",
+   "found_in_search": true
+  }
+ ]
+}

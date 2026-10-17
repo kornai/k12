@@ -1,0 +1,38 @@
+{
+ "iso": "prx",
+ "name": "Purig",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Purgi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Purgi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Purgi Dictionary (iOS app)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://apps.apple.com/app/id6780769907",
+   "found_in_search": true
+  },
+  {
+   "title": "AJUIAK Demands Inclusion of Purigi as a Medium of Instruction in Schools",
+   "type": "policy",
+   "language": "English",
+   "url": "https://voiceofladakh.in/?p=1690",
+   "found_in_search": true
+  },
+  {
+   "title": "What do Experts tell About Purigi Language?",
+   "type": "other",
+   "language": "English",
+   "url": "https://voiceofladakh.in/2021/03/what-do-experts-tell-about-purigi-language/",
+   "found_in_search": true
+  }
+ ]
+}

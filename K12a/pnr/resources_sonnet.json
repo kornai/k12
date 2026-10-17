@@ -1,0 +1,52 @@
+{
+ "iso": "pnr",
+ "name": "Panim",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "About the Panim Dictionary by Madeleine Booth (Swarthmore Talking Dictionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://talkingdictionary.swarthmore.edu/panim/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Panim language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Panim_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC: Daniels Panim materials DD1/001",
+   "type": "audio",
+   "language": "English",
+   "url": "https://catalog.paradisec.org.au/repository/DD1/001",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC: Daniels Panim materials DD1/002",
+   "type": "audio",
+   "language": "English",
+   "url": "https://catalog.paradisec.org.au/repository/DD1/002",
+   "found_in_search": true
+  },
+  {
+   "title": "Living Tongues Institute: Madang Province",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://livingtongues.org/madang-province/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Panim in Papua New Guinea",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14297",
+   "found_in_search": true
+  }
+ ]
+}

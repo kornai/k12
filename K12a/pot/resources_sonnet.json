@@ -1,0 +1,38 @@
+{
+ "iso": "pot",
+ "name": "Potawatomi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bodewadmimwen now offered to Shawnee Public Schools sixth graders (Citizen Potawatomi Nation)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.potawatomi.org/blog/2022/01/12/bodewadmimwen-now-offered-to-shawnee-public-schools-sixth-graders/",
+   "found_in_search": true
+  },
+  {
+   "title": "Pokagon Band Education: Learning the language",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.pokagonband-nsn.gov/departments/education/higher-education/learning-the-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Potawatomi language learning tips (CPN)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.potawatomi.org/blog/2020/11/13/potawatomi-language-learning-tips/",
+   "found_in_search": true
+  },
+  {
+   "title": "CPN Language Director page (Justin Neely)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://potawatomi.org/?p=26476",
+   "found_in_search": true
+  }
+ ]
+}

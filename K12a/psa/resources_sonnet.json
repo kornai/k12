@@ -1,0 +1,17 @@
+{
+ "iso": "psa",
+ "name": "Awyu, Asue",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Greater Awyu Languages of West Papua (de Vries), catalogue record",
+   "type": "academic",
+   "language": "English",
+   "url": "https://vufind.lib.tsu.ru/Record/libtsu.1013453/Details",
+   "found_in_search": true
+  }
+ ]
+}

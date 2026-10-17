@@ -1,0 +1,17 @@
+{
+ "iso": "ppv",
+ "name": "Papavô",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Joshua Project: Papavo in Brazil",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14306/BR",
+   "found_in_search": true
+  }
+ ]
+}

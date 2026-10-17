@@ -1,0 +1,52 @@
+{
+ "iso": "pmf",
+ "name": "Pamona",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pamona-Indonesian dictionary (Tiladuru, ed. Schrauwers), LOBO vol. 1",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://lobo.journals.yorku.ca/index.php/default/article/download/4/4",
+   "found_in_search": true
+  },
+  {
+   "title": "Pamona language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pamona_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaili-Pamona languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaili%E2%80%93Pamona_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Pamona",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/pamona.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Atlantis Press article (content not examined)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.atlantis-press.com/article/125999904.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Pamona translations",
+   "type": "software",
+   "language": "other",
+   "url": "https://glosbe.com/pmf/mxv",
+   "found_in_search": true
+  }
+ ]
+}

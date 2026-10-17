@@ -1,0 +1,31 @@
+{
+ "iso": "pmn",
+ "name": "Pam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Pam",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/pamm1242.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Pam numerals (Chan numerals database, MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Pam.htm",
+   "found_in_search": true
+  }
+ ]
+}

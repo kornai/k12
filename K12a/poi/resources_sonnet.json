@@ -1,0 +1,45 @@
+{
+ "iso": "poi",
+ "name": "Highland Popoluca",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project bibliography for Sierra Popoluca (Elson & Gutierrez 1999 dictionary; Fernandez de Miranda & Elson 1960 grammar)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/6169/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Elson 1967, Sierra Popoluca (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/16610",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Highland Popoluca",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/high1276",
+   "found_in_search": true
+  },
+  {
+   "title": "Sierra Popoluca (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sierra_Popoluca",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Sierra Popoluca",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/sierrapopoluca.htm",
+   "found_in_search": true
+  }
+ ]
+}

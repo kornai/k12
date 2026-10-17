@@ -1,0 +1,31 @@
+{
+ "iso": "prs",
+ "name": "Dari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Afghanistan Grade 1 Curriculum - Dari Language (learner.net, unofficial)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://learner.net/u/afghanistan-grade-1-dari-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Afghanistan Lower Secondary Dari Curriculum (Grade 9) (learner.net, unofficial)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://learner.net/u/afghanistan-grade-9-dari-curriculum",
+   "found_in_search": true
+  },
+  {
+   "title": "Afghanistan Lower Secondary School Syllabus (Grades 7-9) - Dari (learner.net, unofficial)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://learner.net/u/afghanistan-grade-7-9-dari-studies",
+   "found_in_search": true
+  }
+ ]
+}

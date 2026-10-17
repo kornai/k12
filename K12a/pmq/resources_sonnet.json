@@ -1,0 +1,45 @@
+{
+ "iso": "pmq",
+ "name": "Northern Pame",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Phonological Grammar of Northern Pame (Berthiaume 2003)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://phoible.org/sources/pmq_berthiaume2003",
+   "found_in_search": true
+  },
+  {
+   "title": "Pame languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pame_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Pame (CELL, El Colegio de Mexico)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://cell.colmex.mx/archivos/QWxpbQogNDAKZG9jdW1lbnRv/39%20Pame.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Northern Pame",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/NORTHERN_PAME",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Pame Collection of Pye, Berthiaume and Pfeiler (AILLA)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A268837",
+   "found_in_search": true
+  }
+ ]
+}

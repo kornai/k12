@@ -1,0 +1,45 @@
+{
+ "iso": "pni",
+ "name": "Aoheng",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aoheng language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Aoheng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Aoheng numerals (MPI EVA Channumerals)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Aoheng.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Menggenggam Dunia: Mengukur dan Mengira dalam Kalangan Masyarakat Aoheng Borneo",
+   "type": "academic",
+   "language": "other",
+   "url": "https://publisher.unimas.my/ojs/index.php/BJK/article/view/4399",
+   "found_in_search": true
+  },
+  {
+   "title": "Sellato and Soriente 2015 (Glottolog reference)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/472369",
+   "found_in_search": true
+  },
+  {
+   "title": "A bibliography of the languages of Borneo (Blust and Smith)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/586718",
+   "found_in_search": true
+  }
+ ]
+}

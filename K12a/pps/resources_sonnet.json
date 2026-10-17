@@ -1,0 +1,59 @@
+{
+ "iso": "pps",
+ "name": "San Luís Temalacayuca Popoloca",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Northern Popoloca language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Northern_Popoloca_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Popoloca (Ngigua) - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/northernpopoloca.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tlalocan article on Popoloca (UNAM)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas-filologicas.unam.mx/tlalocan/index.php/tl/article/download/444/435/661",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: San Luis Temalacayuca Popoloca",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SAN_LUIS_TEMALACAYUCA_POPOLOCA",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: San Luís Temalacayuca Popoloca",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/pps/",
+   "found_in_search": true
+  },
+  {
+   "title": "Temalacayuca Popoloca New Testament",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/PPSWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Popoloca, San Luis Temalacayuca",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/pps",
+   "found_in_search": true
+  }
+ ]
+}

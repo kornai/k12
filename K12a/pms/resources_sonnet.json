@@ -1,0 +1,45 @@
+{
+ "iso": "pms",
+ "name": "Piedmontese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Duberti and Tosco 2021, Teaching Piedmontese",
+   "type": "academic",
+   "language": "English",
+   "url": "https://iris.unito.it/retrieve/339cf423-8037-4ec6-b693-84b36791ca03/DUBERTI%20%26%20TOSCO_2021_Teaching%20Piedmontese.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Introduction to Piemonteis (Bertola)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://bertola.eu/piemonteis/intro/?_l=en&_1=1",
+   "found_in_search": true
+  },
+  {
+   "title": "Piemonteis: How to continue (Bertola)",
+   "type": "other",
+   "language": "English",
+   "url": "https://bertola.eu/piemonteis/intro/end.php?_l=en&_1=1",
+   "found_in_search": true
+  },
+  {
+   "title": "Piedmontese language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://EN.wikipedia.com/wiki/Piedmontese",
+   "found_in_search": true
+  },
+  {
+   "title": "Mercator wiki: Piedmontese in Italy",
+   "type": "policy",
+   "language": "English",
+   "url": "https://wiki.mercator-research.eu/languages:piedmontese_in_italy",
+   "found_in_search": true
+  }
+ ]
+}

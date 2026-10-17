@@ -1,0 +1,31 @@
+{
+ "iso": "pnd",
+ "name": "Mpinda",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mpinda language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mpinda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mpinda in Angola (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21580/AO",
+   "found_in_search": true
+  },
+  {
+   "title": "Mpinda language page, pnd (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/pnd",
+   "found_in_search": true
+  }
+ ]
+}

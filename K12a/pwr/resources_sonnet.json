@@ -1,0 +1,24 @@
+{
+ "iso": "pwr",
+ "name": "Powari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Powari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Powari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bagheli language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bagheli_language",
+   "found_in_search": true
+  }
+ ]
+}
