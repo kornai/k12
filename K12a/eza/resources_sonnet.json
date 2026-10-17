@@ -1,0 +1,38 @@
+{
+ "iso": "eza",
+ "name": "Ezaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ezaa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ezaa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Izi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Izi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ezaa people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ezaa_people",
+   "found_in_search": true
+  },
+  {
+   "title": "ezza people (Academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/30405742/ezza_people",
+   "found_in_search": true
+  }
+ ]
+}

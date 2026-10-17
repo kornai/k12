@@ -1,0 +1,45 @@
+{
+ "iso": "fal",
+ "name": "Fali, South",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fali languages (Cameroon) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fali_languages_(Cameroon)",
+   "found_in_search": true
+  },
+  {
+   "title": "Fali, South - Joshua Project language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/languages/fal",
+   "found_in_search": true
+  },
+  {
+   "title": "South Fali in Cameroon (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11183",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: fal",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=fal",
+   "found_in_search": true
+  },
+  {
+   "title": "Fali - Orientation (Countries and Their Cultures)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.everyculture.com/Africa-Middle-East/Fali-Orientation.html",
+   "found_in_search": true
+  }
+ ]
+}

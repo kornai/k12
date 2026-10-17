@@ -1,0 +1,38 @@
+{
+ "iso": "eya",
+ "name": "Eyak",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Guide to the Eyak Language Collection (Alaska Native Language Archive)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://uaf.edu/anla/collections/eyak/index.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Overview of the Eyak Language (ANLA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://uaf.edu/anla/collections/eyak/about/index.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Eyak on Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/eyak.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Michael E. Krauss (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Michael_E._Krauss",
+   "found_in_search": true
+  }
+ ]
+}

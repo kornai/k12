@@ -1,0 +1,52 @@
+{
+ "iso": "ewo",
+ "name": "Ewondo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:58Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Descriptive Grammar of Ewondo (Redden 1979), Glottolog reference",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/146626",
+   "found_in_search": true
+  },
+  {
+   "title": "Ewondo Afranaph Bibliography",
+   "type": "academic",
+   "language": "other",
+   "url": "https://afranaphproject.afranaphdatabase.com/images/bibliographies/Ewondo__Afranaph-Bibliography.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ewondo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ewondo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ewondo on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/ewondo.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo/CoCoon Ewondo entry",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=ewo",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Ewondo translations",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/ewo/lib",
+   "found_in_search": true
+  }
+ ]
+}

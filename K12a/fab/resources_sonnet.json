@@ -1,0 +1,59 @@
+{
+ "iso": "fab",
+ "name": "Fa d’Ambu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Annobonese Creole (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Annobonese_Creole",
+   "found_in_search": true
+  },
+  {
+   "title": "Agostinho 2021, Fa d'Ambô language snapshot (Language Documentation and Description)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.lddjournal.org/article/id/1262",
+   "found_in_search": true
+  },
+  {
+   "title": "Fa d'Ambô: from past to present (IJSL 2016)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2016-0009/pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Fa d'Ambô: from past to present (repository record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://oasisbr.ibict.br/vufind/Record/RCAP_e3b38b5d95bacde146ac84a121bfd956",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Work Papers, University of North Dakota, vol. 54 iss. 1 item 2",
+   "type": "academic",
+   "language": "English",
+   "url": "https://commons.und.edu/sil-work-papers/vol54/iss1/2",
+   "found_in_search": true
+  },
+  {
+   "title": "CLUL bibliographic reference 8689",
+   "type": "academic",
+   "language": "other",
+   "url": "https://clul.ulisboa.pt/bibcite/reference/8689",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Fa d'Ambu (fab)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Fab",
+   "found_in_search": true
+  }
+ ]
+}

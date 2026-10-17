@@ -1,0 +1,52 @@
+{
+ "iso": "ewe",
+ "name": "Éwé",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:21:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Omniglot: Ewe",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com:443/writing/ewe.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Indiana University CeLTOP: Ewe",
+   "type": "other",
+   "language": "English",
+   "url": "https://celtop.indiana.edu/portal/languages/ewe/index.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Ewe dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.lexilogos.com/english/ewe_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Ewe dictionnaire",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/ewe_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Interview with the author of a new French-Ewe dictionary in Togo (Global Voices)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://lingua.globalvoices.org/2025/01/interview-with-the-author-of-a-new-french-ewe-dictionary-in-togo/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ewe New Testament (SOAS digital)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://digital.soas.ac.uk/AA00001744/00001/marc",
+   "found_in_search": true
+  }
+ ]
+}

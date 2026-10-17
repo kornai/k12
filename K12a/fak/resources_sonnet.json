@@ -1,0 +1,45 @@
+{
+ "iso": "fak",
+ "name": "Fang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fang language (Cameroon) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fang_language_(Cameroon)",
+   "found_in_search": true
+  },
+  {
+   "title": "Fang (Cameroon) - UNESCO World Atlas of Languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/en/countries/cameroon/languages/fang-cameroon",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Fang (fak)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/fak",
+   "found_in_search": true
+  },
+  {
+   "title": "Benjube Fenga Fang in Cameroon (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/19661/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Ntum Fang in Cameroon (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/11187/CM",
+   "found_in_search": true
+  }
+ ]
+}

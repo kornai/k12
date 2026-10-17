@@ -1,0 +1,38 @@
+{
+ "iso": "fad",
+ "name": "Wagi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:23:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wagi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wagi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Spencer et al. 2011 sociolinguistic survey (Trans New Guinea database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/spencer-et-al-2011?page=3",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wagi",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/fad",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Wagi",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/fad/",
+   "found_in_search": true
+  }
+ ]
+}
