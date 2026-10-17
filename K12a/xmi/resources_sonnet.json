@@ -1,0 +1,17 @@
+{
+ "iso": "xmi",
+ "name": "Miarrã",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog reference: Orlando Villas Boas 1975 (mentions Miarrã [xmi])",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/120022",
+   "found_in_search": true
+  }
+ ]
+}
