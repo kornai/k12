@@ -1,0 +1,52 @@
+{
+ "iso": "swp",
+ "name": "Suau",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "New dictionary for Suau people (Ta alina Suau)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://emtv.com.pg/new-dictionary-for-suau-people",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Suau language",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Suau",
+   "found_in_search": true
+  },
+  {
+   "title": "Suau language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:swp",
+   "found_in_search": true
+  },
+  {
+   "title": "Suau Bible: Ribaharihariuna (swp_all)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/pdf/swp/swp_all.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Suau-Daui, Fife Bay in Papua New Guinea (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15097",
+   "found_in_search": true
+  },
+  {
+   "title": "Suau, Sinaki in Papua New Guinea (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14189",
+   "found_in_search": true
+  }
+ ]
+}
