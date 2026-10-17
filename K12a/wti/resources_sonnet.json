@@ -1,0 +1,52 @@
+{
+ "iso": "wti",
+ "name": "Berta",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:35:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Berta language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Berta_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Berta languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Berta_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Berta",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Berta",
+   "found_in_search": true
+  },
+  {
+   "title": "Foundation for Endangered Languages (Ogmios) report on Benishangul-Gumuz languages",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.ogmios.org/ogmios_files/172.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Berta in Ethiopia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/10793/ET",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: Wti (Berta)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Wti",
+   "found_in_search": true
+  }
+ ]
+}

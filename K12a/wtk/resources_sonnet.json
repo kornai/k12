@@ -1,0 +1,73 @@
+{
+ "iso": "wtk",
+ "name": "Watakataui",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:35:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Watakataui language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Watakataui_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Watakataui",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Watakataui",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Watakataui word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WATAKAKAUI",
+   "found_in_search": true
+  },
+  {
+   "title": "Crossgram: Watakataui",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/wata1251",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Watakataui",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/10618?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Yamada, Yoichi 1998",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/73286",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Yamada, Yoichi 1995",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/13246",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Watakataui language (scripture information)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://joshuaproject.net/index.php/languages/wtk",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Watakataui",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wtk",
+   "found_in_search": true
+  }
+ ]
+}

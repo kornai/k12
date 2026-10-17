@@ -1,0 +1,52 @@
+{
+ "iso": "wtm",
+ "name": "Mewati",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:35:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mewati language (overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:wtm",
+   "found_in_search": true
+  },
+  {
+   "title": "Morphology of Mewati Language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cle.org.pk/clt16/Presentations/Morphology of Mewati Language.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO World Atlas of Languages: Mewati in India",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/index.php/en/countries/india/languages/mewati",
+   "found_in_search": true
+  },
+  {
+   "title": "Morphemic structure of Lahori Mewati (M.Phil thesis, Nadia Fareed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://escholar.umt.edu.pk/items/3cdfd632-7021-486b-9417-575d0ca1a4ae/full",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 18.2197",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/18/2197/",
+   "found_in_search": true
+  },
+  {
+   "title": "How did Mewati get the status of separate language in Pakistan?",
+   "type": "policy",
+   "language": "English",
+   "url": "https://loksujag.com/story/How-Did-Mewati-Gain-Language-Status-76-Years-After-Migration-eng",
+   "found_in_search": true
+  }
+ ]
+}
