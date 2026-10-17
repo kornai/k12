@@ -1,0 +1,35 @@
+You will research 4 languages (yar, yas, yat, yau), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE yar ===
+Please help me gather resources for the Yabarana language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yar; Glottocode: yaba1248; family: Cariban; macro-area: South America; approx. speakers: about 20. Reference description: Yabarana is an endangered indigenous language of Venezuela. It belongs to the Cariban language family. Direct evidence is lacking, but the language is thought to be used as a first language by older adults only. It is not known to be taught in schools.
+
+=== LANGUAGE yas ===
+Please help me gather resources for the Nugunu language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yas; Glottocode: nugu1242; family: Atlantic-Congo; macro-area: Africa; approx. speakers: about 35,000. Reference description: Nugunu is a stable indigenous language of Cameroon. It belongs to the Niger-Congo language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE yat ===
+Please help me gather resources for the Yambeta language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yat; Glottocode: yamb1252; family: Atlantic-Congo; macro-area: Africa; approx. speakers: about 3,700. Reference description: Yambeta is an endangered indigenous language of Cameroon. It belongs to the Niger-Congo language family. The language is used as a first language by all adults in the ethnic community, but not all young people. It is taught as a subject of instruction in some schools.
+
+=== LANGUAGE yau ===
+Please help me gather resources for the Hodï language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yau; Glottocode: yuwa1244; macro-area: South America; approx. speakers: about 640. Reference description: Hodï is a stable indigenous language of Venezuela. It is an isolate that is not known to be related to any other language. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

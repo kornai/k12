@@ -1,0 +1,59 @@
+{
+ "iso": "yat",
+ "name": "Yambeta",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:22:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yambeta language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yambeta_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yambeta",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yambeta.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary: Yambeta",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/yambeta/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Cameroon archive: yat resources",
+   "type": "other",
+   "language": "native",
+   "url": "https://www.silcam.org/fr/resources/search/contributors/27378/language/yat/subject/339411",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Yambeta",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=yat",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yambetta, Nedek in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15973",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yambeta language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/yat",
+   "found_in_search": true
+  }
+ ]
+}
