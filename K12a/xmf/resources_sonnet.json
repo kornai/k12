@@ -1,0 +1,59 @@
+{
+ "iso": "xmf",
+ "name": "Mingrelian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mingrelian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mingrelian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mingrelian grammar (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mingrelian_grammar",
+   "found_in_search": true
+  },
+  {
+   "title": "Reference Grammar for Megrelian (Lund University)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://projekt.ht.lu.se/megrelian/",
+   "found_in_search": true
+  },
+  {
+   "title": "Compiling a bilingual Megrelian-English online dictionary (EURALEX)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://euralex.org/publications/compiling-a-bilingual-megrelian-english-online-dictionary-preserving-endangered-kartvelian-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Mingrelian dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/english/mingrelian_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: dictionnaire mingrelien",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/mingrelien_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Rusudan Gersamia, Ilia State University",
+   "type": "academic",
+   "language": "English",
+   "url": "https://faculty.iliauni.edu.ge/en/sas_faculty/rusudan-gersamia/",
+   "found_in_search": true
+  }
+ ]
+}
