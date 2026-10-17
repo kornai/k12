@@ -1,0 +1,31 @@
+{
+ "iso": "yey",
+ "name": "Yeyi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:35:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Yeyi",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1886",
+   "found_in_search": true
+  },
+  {
+   "title": "Yeyi word list (1998), Endangered Languages Project",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/node/86237",
+   "found_in_search": true
+  },
+  {
+   "title": "Yeyi language (National Library of Israel authority record; references Lukusa, Groundwork in Shiyeyi grammar)",
+   "type": "other",
+   "language": "English",
+   "url": "https://nli.org.il/en/authorities/987007530319505171",
+   "found_in_search": true
+  }
+ ]
+}

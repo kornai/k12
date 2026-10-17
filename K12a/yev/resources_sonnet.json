@@ -1,0 +1,45 @@
+{
+ "iso": "yev",
+ "name": "Yeri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:35:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yapunda language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yapunda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yeri (Yapunda)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2709",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Yeri (dissertation, ProQuest)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.proquest.com/docview/1878004238",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Yeri (MPI-EVA project page)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.eva.mpg.de/linguistics/past-research-resources/documentation-and-description/a-grammar-of-yeri/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yapunda in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15990",
+   "found_in_search": true
+  }
+ ]
+}

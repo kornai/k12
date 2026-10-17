@@ -1,0 +1,52 @@
+{
+ "iso": "yeu",
+ "name": "Yerukula",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:35:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Omniglot: Yerukula",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/yerukula.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "A Descriptive Grammar of Yerukala, An Endangered South Dravidian Language (PhD thesis, Dravidian University)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://shodhganga.inflibnet.ac.in/handle/10603/549629",
+   "found_in_search": true
+  },
+  {
+   "title": "Yerukala language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yerukala_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dravidian Etymological Dictionary (Burrow and Emeneau), front matter",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://dsal.uchicago.edu/dictionaries/burrow/new_frontmatter.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo entry for yeu",
+   "type": "other",
+   "language": "English",
+   "url": "https://finto.fi/lexvo/en/page/yeu",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yerukula in India",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18342",
+   "found_in_search": true
+  }
+ ]
+}
