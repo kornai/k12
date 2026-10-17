@@ -1,0 +1,59 @@
+{
+ "iso": "zmu",
+ "name": "Muruwari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:02:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AIATSIS Austlang D32: Muruwari",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/D32",
+   "found_in_search": true
+  },
+  {
+   "title": "Muruwari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Muruwari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Muruwari (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Muruwari",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Australia: Muruwari (The Language Closet)",
+   "type": "other",
+   "language": "English",
+   "url": "https://thelanguagecloset.com/2022/01/22/languages-of-australia-muruwari/",
+   "found_in_search": true
+  },
+  {
+   "title": "The Western Herald: $4 million to revitalise Aboriginal languages",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.thewesternherald.com.au/single-post/4-million-to-revitalise-aboriginal-languages",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland: Word Week 2019, Muruwari",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-forty-three",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: Zmu",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Zmu",
+   "found_in_search": true
+  }
+ ]
+}
