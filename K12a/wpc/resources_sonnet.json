@@ -1,0 +1,52 @@
+{
+ "iso": "wpc",
+ "name": "Maco",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:28:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Mako language: Vitality, Grammar and Classification (Rosés Labrada, UWO dissertation)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://ir.lib.uwo.ca/etd/2851",
+   "found_in_search": true
+  },
+  {
+   "title": "The Mako language: Vitality, Grammar and Classification (CORE record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://core.ac.uk/works/9175237",
+   "found_in_search": true
+  },
+  {
+   "title": "Collaborative Documentation and Description of Mako, a Sáliban Language of Venezuela (ELDP)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0174/",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Maco (maco1239)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/maco1239",
+   "found_in_search": true
+  },
+  {
+   "title": "Wirö language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wir%C3%B6_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth listing for wpc",
+   "type": "other",
+   "language": "English",
+   "url": "https://scriptureearth.org/00eng.php?iso=wpc",
+   "found_in_search": true
+  }
+ ]
+}

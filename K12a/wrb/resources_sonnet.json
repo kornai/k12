@@ -1,0 +1,59 @@
+{
+ "iso": "wrb",
+ "name": "Waluwarra",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:28:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Warluwarra language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warluwarra_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang G10: Warluwarra",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/g10",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang G41: Parnkarra",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/g41",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang G43: Kapula",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/g43",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Warluwara",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WARLUWARA",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngarna languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngarna_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project sample page",
+   "type": "other",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/3355/samples/10194",
+   "found_in_search": true
+  }
+ ]
+}
