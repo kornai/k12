@@ -1,0 +1,45 @@
+{
+ "iso": "xsq",
+ "name": "Makhuwa-Saka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:54:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Makhuwa language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Makhuwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Makhuwa-Saka (xsq)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/xsq/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Makhuwa-Saka in Mozambique",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19512/MZ",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Makhuwa-Saka language (xsq)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://joshuaproject.net/languages/xsq",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Esaka (related variety)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/25571",
+   "found_in_search": true
+  }
+ ]
+}
