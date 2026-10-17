@@ -1,0 +1,31 @@
+{
+ "iso": "xgi",
+ "name": "Garingbal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Garaynbal (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Garaynbal",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland: International Year of Indigenous Languages Word Week, week forty-eight",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-forty-eight",
+   "found_in_search": true
+  },
+  {
+   "title": "Aboriginal & Torres Strait Islander Data Archive: Garingbal thesaurus entry",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.atsida.edu.au/node/175",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xgm",
+ "name": "Dharumbal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dharumbal body chart (State Library of Queensland)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://content.slq.qld.gov.au/sites/default/files/0005-211883-gamburu-gamu-biyu-dharumbal.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Nurturing First Nations languages and arts (media release)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://minister.infrastructure.gov.au/burke/media-release/nurturing-first-nations-languages-and-arts",
+   "found_in_search": true
+  },
+  {
+   "title": "Grants record: Darumbal language learning resources",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.grants.gov.au/Ga/Show/c67fd8e8-3bc0-4a78-a36a-e14248b24542",
+   "found_in_search": true
+  },
+  {
+   "title": "Darumbal (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Darumbal",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland: Rockhampton Indigenous languages workshop",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/rockhampton-indigenous-languages-workshop",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Dharumbal",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/26564",
+   "found_in_search": true
+  }
+ ]
+}
