@@ -1,0 +1,45 @@
+{
+ "iso": "xbo",
+ "name": "Bolgarian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:50:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bulgar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bulgar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Bulgar",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Bulgar",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Volga Bulgar",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/BulgarVolga",
+   "found_in_search": true
+  },
+  {
+   "title": "Volga Bulgaria (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Bulgar_Ulus",
+   "found_in_search": true
+  },
+  {
+   "title": "Volga Bulgars language (Humanities Institute, A. Dietrich)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://humanitiesinstitute.org/__static/c0c8faf8456c0900d36c85ba3a3a91ff/volga-bulgars-language(2).pdf?dl=1",
+   "found_in_search": true
+  }
+ ]
+}

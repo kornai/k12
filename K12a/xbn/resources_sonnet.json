@@ -1,0 +1,45 @@
+{
+ "iso": "xbn",
+ "name": "Kenaboi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:50:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kenaboi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kenaboi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kenaboi (kena1236)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kena1236",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Kenaboi (I) word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=1564",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Kenaboi (II) word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=1568",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages that either went extinct, survived or were revived (Free Malaysia Today)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.freemalaysiatoday.com/category/2022/02/21/languages-that-either-went-extinct-survived-or-were-revived",
+   "found_in_search": true
+  }
+ ]
+}
