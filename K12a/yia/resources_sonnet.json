@@ -1,0 +1,52 @@
+{
+ "iso": "yia",
+ "name": "Yinggarda",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:39:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A dictionary of Yinggarda, Western Australia (Austin, 1992), library record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://cockburnlibrary.spydus.com/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/114780683/12214210,32",
+   "found_in_search": true
+  },
+  {
+   "title": "Gascoyne region languages (Peter K. Austin)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://peterkaustin.com/?p=75",
+   "found_in_search": true
+  },
+  {
+   "title": "Yinggarda language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yinggarda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AUSTLANG W19: Yingkarta",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/W19",
+   "found_in_search": true
+  },
+  {
+   "title": "Yinggarda (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3198",
+   "found_in_search": true
+  },
+  {
+   "title": "Aboriginal Culture (Gascoyne Development Commission)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://gdc.wa.gov.au/our-region/aboriginal-culture.aspx",
+   "found_in_search": true
+  }
+ ]
+}
