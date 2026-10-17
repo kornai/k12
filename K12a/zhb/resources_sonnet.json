@@ -1,0 +1,38 @@
+{
+ "iso": "zhb",
+ "name": "Zhaba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zhaba language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zhaba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Gong 2007, Zhabayu Yanjiu (A Study of the nDrapa Language)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/cldf:gong:07:2",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Zhaba bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5610/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Zhaba word list",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/ZHABA",
+   "found_in_search": true
+  }
+ ]
+}
