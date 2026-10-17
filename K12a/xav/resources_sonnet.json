@@ -1,0 +1,52 @@
+{
+ "iso": "xav",
+ "name": "Xavánte",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:47:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A'uwẽ Mreme: Dicionário Preliminar da Língua Xavante (2020)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://escholarship.org/uc/item/8j764483",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Xavante dictionary: English introduction",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.org/xavante/visao-geral/english-introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Xavante language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xavante_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wamreme: a revitalização da escrita da língua a'uwẽ uptabi",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.bc.ufg.br/tede/items/1a2be540-ea69-4670-936e-0e9f9f49267d",
+   "found_in_search": true
+  },
+  {
+   "title": "Classes de idade xavante e a educação escolar: uma contribuição pedagógica",
+   "type": "academic",
+   "language": "other",
+   "url": "https://site.ucdb.br//public/md-dissertacoes/7922-classes-de-idade-xavante-e-a-educacao-escolar-uma-contribuicao-pedagogica.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Entreletras (UFNT) article on Xavante",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufnt.edu.br/index.php/entreletras/article/download/994/532/3591",
+   "found_in_search": true
+  }
+ ]
+}

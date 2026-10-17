@@ -1,0 +1,31 @@
+{
+ "iso": "xaj",
+ "name": "Ararandewára",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:44:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ararandewára language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ararandew%C3%A1ra_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tupi language (Wikipedia, background)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tupi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Museu Goeldi repository record (relevance unverified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.museu-goeldi.br/handle/mgoeldi/1219",
+   "found_in_search": true
+  }
+ ]
+}

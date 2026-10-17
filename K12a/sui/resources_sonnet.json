@@ -1,0 +1,52 @@
+{
+ "iso": "sui",
+ "name": "Suki",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Suki language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suki_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Gogodala-Suki languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gogodala%E2%80%93Suki_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Suki-Aramia River (New Guinea World)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/papuan-gulf/suki-aramia-river/start",
+   "found_in_search": true
+  },
+  {
+   "title": "Ethnologue subgroup page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ethnologue.com/subgroup/2275/",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS language page for Suki",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_suk",
+   "found_in_search": true
+  },
+  {
+   "title": "Suki in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15108/PP",
+   "found_in_search": true
+  }
+ ]
+}

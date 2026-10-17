@@ -1,0 +1,31 @@
+{
+ "iso": "wky",
+ "name": "Wangkayutyuru",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:11:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "PHOIBLE: Wangkayutyuru / Wanggamala sound inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/wang1289",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE source: Jones 2011",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/sources/319249",
+   "found_in_search": true
+  },
+  {
+   "title": "Wanggamala language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:lnw",
+   "found_in_search": true
+  }
+ ]
+}

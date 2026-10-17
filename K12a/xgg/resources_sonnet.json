@@ -1,0 +1,38 @@
+{
+ "iso": "xgg",
+ "name": "Goreng",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Noongar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Noongar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Nyoongar wordlist from the south-west of Western Australia (Bindon and Chadwick), Stirling library record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://link.stirling.wa.gov.au/resource/k8mq-i6z1xE",
+   "found_in_search": true
+  },
+  {
+   "title": "A Nyoongar wordlist from the south-west of Western Australia (Bindon and Chadwick), Belmont library record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://link.belmont.wa.gov.au/resource/MiktFl81xzc",
+   "found_in_search": true
+  },
+  {
+   "title": "W41: Noongar / Nyoongar (AIATSIS)",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1510236",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "iso": "xho",
+ "name": "Xhosa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:01:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "CAPS isiXhosa Home Language Grades 4-6",
+   "type": "policy",
+   "language": "native",
+   "url": "https://wcedeportal.westerncape.gov.za/eresource/curriculum-and-assessment-policy-statement-caps-isixhosa-home-language-grade-4-6",
+   "found_in_search": true
+  },
+  {
+   "title": "CAPS isiXhosa Home Language Grades 7-9",
+   "type": "policy",
+   "language": "native",
+   "url": "https://wcedeportal.westerncape.gov.za/eresource/curriculum-and-assessment-policy-statement-caps-isixhosa-home-language-grade-7-9",
+   "found_in_search": true
+  },
+  {
+   "title": "Gr 1 IsiXhosa HL lesson plan T1 W5&6 (WCED)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://wcedeportal.co.za/eresource/186881",
+   "found_in_search": true
+  },
+  {
+   "title": "Oxford Bilingual School Dictionary: IsiXhosa and English Grade 4-9",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://oxford.co.za/shop/resources-and-home-learning/resource-book/9780195766820-oxford-bilingual-school-dictionary-isixhosa-and-english-grade-4-9",
+   "found_in_search": true
+  },
+  {
+   "title": "Oxford First Bilingual Dictionary: IsiXhosa and English 2e ePDF",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://oxford.co.za/?p=60614",
+   "found_in_search": true
+  },
+  {
+   "title": "Oxford First Bilingual Dictionary flash cards full pack isiXhosa",
+   "type": "primer",
+   "language": "English",
+   "url": "https://oxford.co.za/shop/resources-and-home-learning/resource-book/9780190401375-oxford-first-bilingual-dictionary-flash-cards-full-pack-isixhosa/",
+   "found_in_search": true
+  },
+  {
+   "title": "Oxford English Xhosa Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://oxford.co.za/shop/resources-and-home-learning/resource-book/9780199043422-oxford-english-xhosa-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "The Bible in isiXhosa (Bible Society of South Africa)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://biblesa.co.za/nso/methopo/about-bible-translation/bible-translations/the-bible-in-isixhosa-2",
+   "found_in_search": true
+  },
+  {
+   "title": "Bible Society of South Africa: isiXhosa Bible resource page",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.biblesociety.co.za/index.php/resources/the-bible?id=117",
+   "found_in_search": true
+  },
+  {
+   "title": "IsiXhosa Bible 1996 (YouVersion)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/my-MM/versions/3526",
+   "found_in_search": true
+  }
+ ]
+}

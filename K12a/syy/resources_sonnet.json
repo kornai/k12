@@ -1,0 +1,45 @@
+{
+ "iso": "syy",
+ "name": "Al-Sayyid Bedouin Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "University of Haifa Sign Language Research Lab: Al-Sayyid Bedouin Sign Language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://signlab.haifa.ac.il/?p=179",
+   "found_in_search": true
+  },
+  {
+   "title": "Haifa Sign Language Lab: ABSL overview",
+   "type": "academic",
+   "language": "English",
+   "url": "https://signlab.haifa.ac.il/2013/01/15/absl-1/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Al-Sayyid Bedouin Sign Language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/6998?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Al-Sayyid Bedouin Sign Language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Al-Sayyid_Bedouin_Sign_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Al-Sayyid Bedouin Sign Language",
+   "type": "video",
+   "language": "other",
+   "url": "https://wikitongues.org/languages/syy/",
+   "found_in_search": true
+  }
+ ]
+}

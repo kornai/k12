@@ -1,0 +1,66 @@
+{
+ "iso": "sue",
+ "name": "Suena",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Suena language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suena_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Suena Grammar (D. Wilson 1974), Endangered Languages Project bibliography",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5427/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Suena-English / English-Suena dictionary (L. and D. Wilson), Glottolog reference",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/311748",
+   "found_in_search": true
+  },
+  {
+   "title": "Cross-Gram source entry: Wilson 1974",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/sources/veselinovanegex-RN344",
+   "found_in_search": true
+  },
+  {
+   "title": "Suena numerals (Max Planck Institute database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Suena.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "TransNewGuinea.org word entry (Suena, Yema-Yarawe)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/word/finger?page=4",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Suena",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/sue",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Suena language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/sue",
+   "found_in_search": true
+  }
+ ]
+}

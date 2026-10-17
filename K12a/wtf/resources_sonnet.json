@@ -1,0 +1,38 @@
+{
+ "iso": "wtf",
+ "name": "Watiwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:34:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Watiwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Watiwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dumpu, Papua New Guinea (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dumpu,_Papua_New_Guinea",
+   "found_in_search": true
+  },
+  {
+   "title": "Watiwa in Papua New Guinea, Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15889",
+   "found_in_search": true
+  },
+  {
+   "title": "Watiwa language page, Joshua Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/wtf",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "wmw",
+ "name": "Mwani",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:21:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mwani: grammatical sketch",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://publikationen.ub.uni-frankfurt.de/opus4/frontdoor/index/index/year/2011/docId/22342",
+   "found_in_search": true
+  },
+  {
+   "title": "Mwani (Kimwani) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/mwani.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Mwani language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mwani_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mwani people - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mwani_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Mwani of Mozambique (mission profile)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://worldea.org/?p=14121",
+   "found_in_search": true
+  },
+  {
+   "title": "Counting in Mwani",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.languagesandnumbers.com/how-to-count-in-mwani/en/wmw/",
+   "found_in_search": true
+  }
+ ]
+}

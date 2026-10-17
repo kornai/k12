@@ -1,0 +1,24 @@
+{
+ "iso": "wlg",
+ "name": "Kunbarlang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Varieties of Kun-barlang, a language on the edge (ELDP collection 0384)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0384/",
+   "found_in_search": true
+  },
+  {
+   "title": "Comprehensive pan-varietal, ethnobiological, anthropological record of Kun-barlang (ELDP collection 0400)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0400/",
+   "found_in_search": true
+  }
+ ]
+}

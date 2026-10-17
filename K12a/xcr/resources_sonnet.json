@@ -1,0 +1,31 @@
+{
+ "iso": "xcr",
+ "name": "Carian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:53:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Carian Language (Adiego, Brill 2007), table of contents record",
+   "type": "academic",
+   "language": "English",
+   "url": "https://library.arce.org/portal/Record/36777/TOC",
+   "found_in_search": true
+  },
+  {
+   "title": "Carian alphabets (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.Wikipedia.com/wiki/Carian_script",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode WG2 N3020: encoding of Carian characters",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://unicode.org/wg2/docs/n3020.pdf",
+   "found_in_search": true
+  }
+ ]
+}

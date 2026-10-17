@@ -1,0 +1,52 @@
+{
+ "iso": "xab",
+ "name": "Sambe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:43:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Final Records of the Sambe Language of Central Nigeria: Phonology, noun morphology, and wordlist (Blench 2015)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/2065949b-c8ec-431b-bc2c-07995aa11e54",
+   "found_in_search": true
+  },
+  {
+   "title": "The Sambe language of Central Nigeria and its affinities (Blench and Kato 2006)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/95664",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sambe",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/8949",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Blench 2015",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/474792",
+   "found_in_search": true
+  },
+  {
+   "title": "Sambe language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sambe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Foundation for Endangered Languages, Ogmios newsletter",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.ogmios.org/ogmios_files/206.htm",
+   "found_in_search": true
+  }
+ ]
+}

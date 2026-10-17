@@ -1,0 +1,59 @@
+{
+ "iso": "sxw",
+ "name": "Saxwe Gbe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Saxwe language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saxwe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Saxwe (saxwɛgbe) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/saxwe.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Saxwe Webonary site, introduction",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.webonary.work/saxwe/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Saxwe Gbe in Benin (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14797",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page sxw",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/sxw",
+   "found_in_search": true
+  },
+  {
+   "title": "Gbe, Saxwe language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/sxw",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth listing (code gbh)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=gbh",
+   "found_in_search": true
+  }
+ ]
+}

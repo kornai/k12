@@ -1,0 +1,38 @@
+{
+ "iso": "xbw",
+ "name": "Kambiwá",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:51:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kambiwá language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kambiw%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Os índios kambiwá de Pernambuco: arte e identidade étnica (UFRJ thesis record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://bdtd.ibict.br/vufind/Record/UFRJ_7f3f8067158366249d03fc9cabc385aa",
+   "found_in_search": true
+  },
+  {
+   "title": "Kambiwa in Brazil (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12471",
+   "found_in_search": true
+  },
+  {
+   "title": "Kambiwá em espalhamentos: provocações sobre fronteiras políticas e poéticas de territórios indígenas através do barro (UNIVASF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://portais.univasf.edu.br/cartes/conartes/anais-do-i-conartes/artigos/kambiwa-em-espalhamentos-provocacoes-sobre-fronteiras-politicas-e-poeticas-de-territorios-indigenas-atraves-do-barro-debora-caroline-viana-almeida",
+   "found_in_search": true
+  }
+ ]
+}

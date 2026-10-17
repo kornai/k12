@@ -1,0 +1,31 @@
+{
+ "iso": "wiu",
+ "name": "Wiru",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:08:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wiru language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wiru_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Children's acquisition of Wiru (ANU Centre for Child Language research project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://chl.anu.edu.au/event/childrens-acquisition-wiru-trans-new-guinea-language-thesis-proposal-review",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiru in Papua New Guinea (Joshua Project profile, mentions scripture and audio resources)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15402",
+   "found_in_search": true
+  }
+ ]
+}

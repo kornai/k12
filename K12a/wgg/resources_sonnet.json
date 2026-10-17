@@ -1,0 +1,45 @@
+{
+ "iso": "wgg",
+ "name": "Wangkangurru",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wangkangurru wangka-purru (Wangkangurru dictionary 2022)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://portal.mobilelanguageteam.com.au/wp-content/uploads/2022/05/Wangkangurru-dictionary-2022.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangkangurru wangka-purru online lessons (Mobile Language Team portal)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://portal.mobilelanguageteam.com.au/?p=4251",
+   "found_in_search": true
+  },
+  {
+   "title": "Mobile Language Team: Wangkangurru language page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mobilelanguageteam.com.au/languages/wangkangurru/",
+   "found_in_search": true
+  },
+  {
+   "title": "Mobile Language Team (Wangkangurru page, p=223)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mobilelanguageteam.com.au/?p=223",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangkangurru dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wangkangurru_dialect",
+   "found_in_search": true
+  }
+ ]
+}

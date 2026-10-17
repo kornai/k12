@@ -1,0 +1,66 @@
+{
+ "iso": "wow",
+ "name": "Wawonii",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:27:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Morphological Complexity in Wawonii: A Documentation of Affixation Patterns in a Threatened Language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tpls.academypublication.com/index.php/tpls/article/view/12526",
+   "found_in_search": true
+  },
+  {
+   "title": "Morphological Complexity in Wawonii (full text PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tpls.academypublication.com/index.php/tpls/article/download/12526/10483/40653",
+   "found_in_search": true
+  },
+  {
+   "title": "Ganaya article on Wawonii language use in Konawe Kepulauan (Jayapangus Press)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://jayapanguspress.penerbit.org/index.php/ganaya/article/download/305/299/595",
+   "found_in_search": true
+  },
+  {
+   "title": "Hasanuddin University publication record (Scopus)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://discover.unhas.ac.id/publications/pub_scopus_105035412367",
+   "found_in_search": true
+  },
+  {
+   "title": "Wawonii language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wawonii_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wawonii (Wowonii) on Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/wawonii.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Wawonii",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Wawonii",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest people-group profile: Wawonii",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Indonesia/Wawonii.pdf",
+   "found_in_search": true
+  }
+ ]
+}

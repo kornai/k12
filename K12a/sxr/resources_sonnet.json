@@ -1,0 +1,59 @@
+{
+ "iso": "sxr",
+ "name": "Saaroa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Saaroa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saaroa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Saaroa writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/saaroa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Taiwan: Saaroa (Lha'alua), The Language Closet",
+   "type": "other",
+   "language": "English",
+   "url": "https://thelanguagecloset.com/2021/12/04/languages-of-taiwan-saaroa-lhaalua/",
+   "found_in_search": true
+  },
+  {
+   "title": "Saaroa numerals (MPI EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Saaroa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "A Documentation of Saaroa, a Moribund Austronesian Language of Taiwan (project page)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/a-documentation-of-saaroa-a-moribund-austronesian-language-of-taiwan",
+   "found_in_search": true
+  },
+  {
+   "title": "ELDP Saaroa documentation archive record",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk0379/",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Saaroa numbers",
+   "type": "audio",
+   "language": "English",
+   "url": "https://omniglot.com/language/numbers/saaroa.htm",
+   "found_in_search": true
+  }
+ ]
+}

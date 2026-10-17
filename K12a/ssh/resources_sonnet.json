@@ -1,0 +1,45 @@
+{
+ "iso": "ssh",
+ "name": "Arabic, Shihhi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Shihhi Arabic (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shihhi_Arabic",
+   "found_in_search": true
+  },
+  {
+   "title": "Shihuh (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shihuh",
+   "found_in_search": true
+  },
+  {
+   "title": "Arabic, Shihhi language - Global Recordings Network",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/ssh",
+   "found_in_search": true
+  },
+  {
+   "title": "Aletihad report on Shihuh oral heritage research (date unreliable)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.aletihad.ae/news/culture/4688139/javasxript:",
+   "found_in_search": true
+  },
+  {
+   "title": "Shihhi Arabic Language (Detect Language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://detectlanguage.com/languages/ssh",
+   "found_in_search": true
+  }
+ ]
+}

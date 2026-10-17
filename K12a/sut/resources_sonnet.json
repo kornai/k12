@@ -1,0 +1,45 @@
+{
+ "iso": "sut",
+ "name": "Subtiaba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Subtiaba language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Subtiaba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Berendt 1874 manuscript: Subtiaba vocabulary, pronunciation and grammar (Ms. Coll. 700 item 242)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://openn.library.upenn.edu/Data/0002/html/mscoll700_item242.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Berendt comparative vocabulary incl. Subtiaba (Ms. Coll. 700 item 144)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://openn.library.upenn.edu/Data/0002/html/mscoll700_item144.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Colenda Digital Repository record, University of Pennsylvania",
+   "type": "academic",
+   "language": "other",
+   "url": "https://colenda.library.upenn.edu/catalog/81431-p39c6sn0w",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: sut",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Sut",
+   "found_in_search": true
+  }
+ ]
+}

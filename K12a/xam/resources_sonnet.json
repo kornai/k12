@@ -1,0 +1,59 @@
+{
+ "iso": "xam",
+ "name": "ǀXam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:45:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "When the World Was (Pippa Skotnes), UCT Centre for Curating the Archive",
+   "type": "other",
+   "language": "English",
+   "url": "https://humanities.uct.ac.za/cca/articles/2025-06-05-when-world-was-book-children-and-adults",
+   "found_in_search": true
+  },
+  {
+   "title": "High Sky Stories - the short report (Children's Book Network)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.childrensbook.co.za/2013/05/20/high-sky-stories-short-report/",
+   "found_in_search": true
+  },
+  {
+   "title": "ǀXam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/%C7%80Xam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "About the Digital Bleek and Lloyd",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://bal2.cs.uct.ac.za/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Digital Bleek and Lloyd: ǀXam dictionary index",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://digitalbleeklloyd.uct.ac.za/metadata/dictionaries/Xam/index.html",
+   "found_in_search": true
+  },
+  {
+   "title": "The Digital Bleek & Lloyd (stories)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://lloydbleekcollection.cs.uct.ac.za/stories/1127/index.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Specimens of Bushman Folklore",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Specimens_of_Bushman_Folklore",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xbg",
+ "name": "Bunganditj",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:49:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Blake 2003, The Bunganditj (Buwandik) language of the Mount Gambier Region (PHOIBLE source record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://phoible.org/sources/blake_bunganditj_2003",
+   "found_in_search": true
+  },
+  {
+   "title": "Bungandidj language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bungandidj_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Gale, archival material and new vocabulary (AUSTRALEX)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.adelaide.edu.au/australex/publications/gale.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Bunganditj",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/BUNGANDITJ",
+   "found_in_search": true
+  },
+  {
+   "title": "Mobile Language Team: Bunganditj/Boandik",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mobilelanguageteam.com.au/languages/bunganditj-boandik/",
+   "found_in_search": true
+  },
+  {
+   "title": "Landmark Mount Gambier attractions adopt dual names",
+   "type": "policy",
+   "language": "English",
+   "url": "https://theleadsouthaustralia.com.au/?p=41832",
+   "found_in_search": true
+  }
+ ]
+}

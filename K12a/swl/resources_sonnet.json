@@ -1,0 +1,59 @@
+{
+ "iso": "swl",
+ "name": "Swedish Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SPSM ramkursplan i svenskt teckenspråk",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.spsm.se/contentassets/7e31ce7c5ea7406cbb94c7e5b29b3ff0/ramkursplan-plan.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Skolverket SKOLFS 2023:275 (teckenspråk för hörande)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://skolfs.skolverket.se/api/document/ANDRINGSFORFATTNING/2023:275/pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SPSM informationsblad: Vänerskolan",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://spsm.se/siteassets/vara-skolor-2025/informationsblad-alla-skolor-2425/infoblad_vanerskolan.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SPSM: Lära, utveckla och använda teckenspråk",
+   "type": "academic",
+   "language": "other",
+   "url": "https://webbutiken.spsm.se/globalassets/publikationer/filer/lara-utveckla-och-anvanda-teckensprak-tillganglig-version.pdf/",
+   "found_in_search": true
+  },
+  {
+   "title": "SPSM: Teckenspråk, talat och skrivet språk",
+   "type": "academic",
+   "language": "other",
+   "url": "https://webbutiken.spsm.se/globalassets/publikationer/filer/teckensprak-talat-och-skrivet-sprak-pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Sveriges Dövas Riksförbund: Utbildningspolicy",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://sdr.org/wp-content/uploads/2023/08/utbildningspolicy.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Skolverket/SPSM: Förberedande uppdrag för kursplaner i teckenspråk",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.skolverket.se/download/18.2cb418a019afcca00f8eb2f/1765373625660/F%C3%B6rberedande%20uppdrag%20f%C3%B6r%20kursplaner%20i%20teckenspr%C3%A5k.pdf",
+   "found_in_search": true
+  }
+ ]
+}

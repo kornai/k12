@@ -1,0 +1,52 @@
+{
+ "iso": "sxb",
+ "name": "Suba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:39Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Suba language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Suba (Olusuba) on Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/suba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Suba people (Kenya) (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suba_people_(Kenya)",
+   "found_in_search": true
+  },
+  {
+   "title": "Push to save dying Suba language (Nation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.nation.africa/kenya/counties/homa-bay/-push-to-save-dying-suba-language-now-gathers-momentum-4128100",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Suba",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/es/suba-distribution-2026",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Suba",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4789?hl=fr",
+   "found_in_search": true
+  }
+ ]
+}

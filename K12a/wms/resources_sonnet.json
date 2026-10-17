@@ -1,0 +1,31 @@
+{
+ "iso": "wms",
+ "name": "Wambon",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:20:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wambon language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wambon_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yonggom Wambon, a Dumut language of West Papua (van den Heuvel, 2025)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/100430?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wambon in Indonesia",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15845",
+   "found_in_search": true
+  }
+ ]
+}

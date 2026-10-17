@@ -1,0 +1,31 @@
+{
+ "iso": "svl",
+ "name": "Southern Lalo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mangdi language (Wikipedia; lists Southern Lalo as alternate name)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mangdi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lalo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lalo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Lalo (Susanna Björverud, 1998; related Longjie variety)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.lunduniversity.lu.se/lup/publication/00a3c596-d8d1-4438-a7fa-abe79ceead0a",
+   "found_in_search": true
+  }
+ ]
+}

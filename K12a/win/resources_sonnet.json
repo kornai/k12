@@ -1,0 +1,52 @@
+{
+ "iso": "win",
+ "name": "Ho-Chunk",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hocak Teaching Materials, Vol. 1: Elements of Grammar / Learner's Dictionary",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Ho%C3%A7ak_Teaching_Materials,_Volume_1:_Elements_of_Grammar/Learner%27s_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Hocak Teaching Materials Volume 12 (SUNY Press)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://sunypress.edu/Books/H/Hocak-Teaching-Materials-Volume-12",
+   "found_in_search": true
+  },
+  {
+   "title": "Wisconsin Winnebago Lexicon (1976)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Wisconsin_Winnebago_Lexicon",
+   "found_in_search": true
+  },
+  {
+   "title": "A Lexical Study of Winnebago (White Eagle, 1988)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/A_Lexical_Study_of_Winnebago",
+   "found_in_search": true
+  },
+  {
+   "title": "Ho-Chunk Dictionary (mobile app, The Language Conservancy)",
+   "type": "software",
+   "language": "native",
+   "url": "https://apps.apple.com/app/id1633317298",
+   "found_in_search": true
+  },
+  {
+   "title": "Ho-Chunk Phrasebook (Russo and Chiguela, 2024)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://shop.wisconsinhistory.org/ho-chunk-phrasebook",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "xeg",
+ "name": "ǁXegwi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:56:32Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ǁXegwi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/%C7%81Xegwi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuu languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tuu_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: ǁXegwi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/xegw1238",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals of ǁXegwi (MPI EVA)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Xegwi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Batwa word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/BATWA",
+   "found_in_search": true
+  }
+ ]
+}

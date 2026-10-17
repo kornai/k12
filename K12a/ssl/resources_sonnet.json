@@ -1,0 +1,38 @@
+{
+ "iso": "ssl",
+ "name": "Sisaala, Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sisaala language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sisaala_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sisaala Dictionary (Webonary, GILLBT/SILDEP)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/sisaala/help/",
+   "found_in_search": true
+  },
+  {
+   "title": "Paasaal (Pasaale Sisaala) writing system (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/paasaal.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Western Sisaala in Ghana",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14953",
+   "found_in_search": true
+  }
+ ]
+}

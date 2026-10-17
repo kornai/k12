@@ -1,0 +1,24 @@
+{
+ "iso": "wre",
+ "name": "Ware",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Unattested: Ware (ware1252)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ware1252",
+   "found_in_search": true
+  },
+  {
+   "title": "Ware language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ware_language",
+   "found_in_search": true
+  }
+ ]
+}

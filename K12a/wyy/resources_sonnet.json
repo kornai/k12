@@ -1,0 +1,66 @@
+{
+ "iso": "wyy",
+ "name": "Fijian, Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:42:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Words of Waya: A dictionary of the Wayan dialect of the Western Fijian language",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/45052c6d-54d9-4bd4-8d53-b5a1751dcb87",
+   "found_in_search": true
+  },
+  {
+   "title": "The dialects of the Yasawa Islands of Fiji (Triffitt, Pacific Linguistics)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstreams/07f5c73a-ff97-4b28-9a63-aba3fc38fc2a/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank entry for Waya (cites Pawley 2018, A Short Grammar of Wayan)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/waya1268",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Fijian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Western_Fijian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nadroga dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nadroga_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Western Fijian",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/westernfijian.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Paradisec: Capell papers including Nadroga vocabulary",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://paradisec.org.au/fieldnotes/09.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "SOAS manuscript: Dialects of Bau, Nadroga and Ba of Fiji",
+   "type": "other",
+   "language": "other",
+   "url": "https://library.soas.ac.uk/Record/PP_MS_3.03.04",
+   "found_in_search": true
+  }
+ ]
+}

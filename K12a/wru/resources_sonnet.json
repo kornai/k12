@@ -1,0 +1,45 @@
+{
+ "iso": "wru",
+ "name": "Waru",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:31:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waru language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waru_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Waru wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WARU",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Waru",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2802",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Waru in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15875",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Waru",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Waru",
+   "found_in_search": true
+  }
+ ]
+}

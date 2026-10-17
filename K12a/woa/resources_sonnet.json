@@ -1,0 +1,45 @@
+{
+ "iso": "woa",
+ "name": "Kuwema",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Kuwema (tyar1236)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tyar1236",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: bibliography page (lang 3329)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3329/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Malak-Malak language (Wikipedia; discusses Kuwema/Tyaraity)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Malak-Malak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kandjerramalh language (Wikipedia; name overlap)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kandjerramalh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: woa",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/woa/",
+   "found_in_search": true
+  }
+ ]
+}

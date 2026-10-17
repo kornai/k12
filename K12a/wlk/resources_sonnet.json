@@ -1,0 +1,31 @@
+{
+ "iso": "wlk",
+ "name": "Wailaki",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:14:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wailaki language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wailaki_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wailaki / Eel River Dene (California Language Archive, UC Berkeley)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://cla.berkeley.edu/languages/eel-river-athabaskan.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wailaki word list (ASJP)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WAILAKI",
+   "found_in_search": true
+  }
+ ]
+}

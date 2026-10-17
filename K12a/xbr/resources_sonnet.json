@@ -1,0 +1,52 @@
+{
+ "iso": "xbr",
+ "name": "Kambera",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:50:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kambera language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kambera_language",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 9.1342: review notice of Klamer, A Grammar of Kambera",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/9/1342/",
+   "found_in_search": true
+  },
+  {
+   "title": "Klamer, Kambera (in Adelaar & Himmelmann eds. 2005)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://marianklamer.org/uploads/1/2/4/7/124768088/klamer_kambera_in_adelaar_himmelmann_eds_2005.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Klamer 2006 chapter (Dixon & Aikhenvald eds.)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://marianklamer.lucdh.nl/uploads/1/2/4/7/124768088/klamer_2006_dixon_and_aikhenvald_eds.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Klamer: Kambera continuative aspect and dative clitic (Springer)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://link.springer.com/chapter/10.1007/978-94-017-1580-5_3",
+   "found_in_search": true
+  },
+  {
+   "title": "Leksikologi Kosakata Fauna Bahasa Kambera (Kulturistik)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejurnal.warmadewa.ac.id/index.php/kulturistik/article/view/6062",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "ssg",
+ "name": "Seimat",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Seimat Grammar Essentials (Wozna and Wilson, 2005), catalogue record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/42399",
+   "found_in_search": true
+  },
+  {
+   "title": "Seimat numerals (Channumerals database)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Seimat.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Seimat - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/seimat.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Seimat language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Seimat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ninigo, Seimat in Papua New Guinea (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13405/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Seimat verb list",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Seimat",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia entry for ssg",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Ssg",
+   "found_in_search": true
+  }
+ ]
+}

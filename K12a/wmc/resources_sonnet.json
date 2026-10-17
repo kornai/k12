@@ -1,0 +1,38 @@
+{
+ "iso": "wmc",
+ "name": "Wamas",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:17:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Wamas",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3335",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Wamas (wama1247)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/wama1247.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wamas language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wamas_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wamas in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15844",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "wyi",
+ "name": "Woiwurrung",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:41:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Woiwurrung early years language kit (news report)",
+   "type": "other",
+   "language": "native",
+   "url": "https://upperyarra.mailcommunity.com.au/mail/2015-10-09/indigenous-words-launch/",
+   "found_in_search": true
+  },
+  {
+   "title": "Woi-wurrung language for kids (library session)",
+   "type": "school_or_programme",
+   "language": "native",
+   "url": "https://libraryevents.mvcc.vic.gov.au/event?id=226295",
+   "found_in_search": true
+  },
+  {
+   "title": "AUSTLANG S36: Woiwurrung",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/s36",
+   "found_in_search": true
+  },
+  {
+   "title": "VACL items on Woiwurrung in Victorian Collections",
+   "type": "other",
+   "language": "English",
+   "url": "https://victoriancollections.net.au/collections?q=woiwuru",
+   "found_in_search": true
+  },
+  {
+   "title": "Clark and Heydon 2002 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/5428",
+   "found_in_search": true
+  },
+  {
+   "title": "Exhibition hopes to revive Wurundjeri language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://upperyarra.mailcommunity.com.au/entertainment/2019-05-14/exhibition-hopes-to-revive-wurundjeri-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Woiwurrung Language Awareness with Djirri Djirri",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://djirra.org.au/?p=6911",
+   "found_in_search": true
+  }
+ ]
+}

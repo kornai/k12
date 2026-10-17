@@ -1,0 +1,52 @@
+{
+ "iso": "xiy",
+ "name": "Xipaya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Xipaya language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xipaya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Povos Indigenas no Brasil: Xipaya",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://pib.socioambiental.org/en/povo/Xipaya",
+   "found_in_search": true
+  },
+  {
+   "title": "Moara (UFPA) article",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufpa.br/index.php/moara/article/download/10906/7505",
+   "found_in_search": true
+  },
+  {
+   "title": "Papers by Cristina Martins Fargetti",
+   "type": "academic",
+   "language": "other",
+   "url": "https://unep.academia.edu/CristinaMartinsFargetti",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of Urgently Endangered Tupian Languages (ELDP)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk0233/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Xipaya",
+   "type": "other",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/1001?hl=pt-br",
+   "found_in_search": true
+  }
+ ]
+}

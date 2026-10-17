@@ -1,0 +1,45 @@
+{
+ "iso": "stt",
+ "name": "Stieng, Budeh",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Azémar French-Stieng dictionary (Glottolog reference, 1887)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/547146",
+   "found_in_search": true
+  },
+  {
+   "title": "Azémar 1886 (Glottolog reference)",
+   "type": "other",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/19156",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Stieng, Budeh",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/stt",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Budeh Stieng audio",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/stt",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Stieng, Budeh language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/ja/language/3169",
+   "found_in_search": true
+  }
+ ]
+}

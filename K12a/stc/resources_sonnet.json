@@ -1,0 +1,52 @@
+{
+ "iso": "stc",
+ "name": "Natügu (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Natügu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nat%C3%BCgu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Santa Cruz language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Santa_Cruz_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Natügu (Retired)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/natu1249",
+   "found_in_search": true
+  },
+  {
+   "title": "Santa Cruz - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/santacruz.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS language entry (nbk), contents not checked",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_nbk",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue item SAW2/077, contents not checked",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/SAW2/077",
+   "found_in_search": true
+  }
+ ]
+}

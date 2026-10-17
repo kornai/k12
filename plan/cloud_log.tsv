@@ -1237,3 +1237,403 @@ ysg	Sonaga	2026-10-17T05:16:57Z	done	4	ysg+ysl+ysm+ysn
 ysl	Slovenian Sign Language	2026-10-17T05:16:57Z	done	13	ysg+ysl+ysm+ysn
 ysm	Myanmar Sign Language	2026-10-17T05:16:57Z	done	8	ysg+ysl+ysm+ysn
 ysn	Sani	2026-10-17T05:16:57Z	done	8	ysg+ysl+ysm+ysn
+srz	Shahmirzadi	2026-10-17T03:12:10Z	done	6	srz+ssb+ssc+sse
+ssb	Southern Sama	2026-10-17T03:12:10Z	done	5	srz+ssb+ssc+sse
+ssc	Suba-Simbiti	2026-10-17T03:12:10Z	done	6	srz+ssb+ssc+sse
+sse	Balangingih Sama	2026-10-17T03:12:10Z	done	4	srz+ssb+ssc+sse
+ssf	Thao	2026-10-17T03:13:41Z	done	6	ssf+ssg+ssh+ssi
+ssg	Seimat	2026-10-17T03:13:41Z	done	7	ssf+ssg+ssh+ssi
+ssh	Arabic, Shihhi	2026-10-17T03:13:41Z	done	5	ssf+ssg+ssh+ssi
+ssi	Sansi	2026-10-17T03:13:41Z	done	5	ssf+ssg+ssh+ssi
+ssj	Wia	2026-10-17T03:14:44Z	done	3	ssj+ssk+ssl+ssm
+ssk	Sunam	2026-10-17T03:14:44Z	done	3	ssj+ssk+ssl+ssm
+ssl	Sisaala, Western	2026-10-17T03:14:44Z	done	4	ssj+ssk+ssl+ssm
+ssm	Semnam	2026-10-17T03:14:44Z	done	4	ssj+ssk+ssl+ssm
+ssn	Waata	2026-10-17T03:16:01Z	done	6	ssn+sso+ssp+ssq
+sso	Essono	2026-10-17T03:16:01Z	done	4	ssn+sso+ssp+ssq
+ssp	Spanish Sign Language	2026-10-17T03:16:01Z	done	6	ssn+sso+ssp+ssq
+ssq	So’a	2026-10-17T03:16:01Z	done	4	ssn+sso+ssp+ssq
+ssr	Swiss-French Sign Language	2026-10-17T03:17:19Z	done	4	ssr+sss+sst+ssu
+sss	So	2026-10-17T03:17:19Z	done	2	ssr+sss+sst+ssu
+sst	Sinasina	2026-10-17T03:17:19Z	done	4	ssr+sss+sst+ssu
+ssu	Susuami	2026-10-17T03:17:19Z	done	4	ssr+sss+sst+ssu
+ssv	Ngen	2026-10-17T03:18:28Z	done	2	ssv+ssw+ssx+ssy
+ssw	Swati	2026-10-17T03:18:28Z	done	6	ssv+ssw+ssx+ssy
+ssx	Samberigi	2026-10-17T03:18:28Z	done	4	ssv+ssw+ssx+ssy
+ssy	Saho	2026-10-17T03:18:28Z	done	5	ssv+ssw+ssx+ssy
+ssz	Sengseng	2026-10-17T03:19:38Z	done	6	ssz+sta+stb+stc
+sta	Settla	2026-10-17T03:19:38Z	done	4	ssz+sta+stb+stc
+stb	Subanen, Northern	2026-10-17T03:19:38Z	done	4	ssz+sta+stb+stc
+stc	Natügu (Retired)	2026-10-17T03:19:38Z	done	6	ssz+sta+stb+stc
+std	Sentinel	2026-10-17T03:20:54Z	done	3	std+ste+stf+stg
+ste	Liana-Seti	2026-10-17T03:20:54Z	done	4	std+ste+stf+stg
+stf	Seta	2026-10-17T03:20:54Z	done	6	std+ste+stf+stg
+stg	Trieng	2026-10-17T03:20:54Z	done	5	std+ste+stf+stg
+sth	Shelta	2026-10-17T03:22:10Z	done	5	sth+sti+stj+stk
+sti	Bulo Stieng	2026-10-17T03:22:10Z	done	6	sth+sti+stj+stk
+stj	Matya Samo	2026-10-17T03:22:10Z	done	6	sth+sti+stj+stk
+stk	Aramba	2026-10-17T03:22:10Z	done	9	sth+sti+stj+stk
+stl	Stellingwerfs	2026-10-17T03:23:23Z	done	6	stl+stm+stn+sto
+stm	Setaman	2026-10-17T03:23:23Z	done	4	stl+stm+stn+sto
+stn	Owa	2026-10-17T03:23:23Z	done	5	stl+stm+stn+sto
+sto	Stoney	2026-10-17T03:23:23Z	done	4	stl+stm+stn+sto
+stp	Southeastern Tepehuan	2026-10-17T03:24:49Z	done	7	stp+stq+str+sts
+stq	Saterfriesisch	2026-10-17T03:24:49Z	done	7	stp+stq+str+sts
+str	Northern Straits Salish	2026-10-17T03:24:49Z	done	6	stp+stq+str+sts
+sts	Shumashti	2026-10-17T03:24:49Z	done	4	stp+stq+str+sts
+stt	Stieng, Budeh	2026-10-17T03:25:53Z	done	5	stt+stu+stv+stw
+stu	Samtao	2026-10-17T03:25:53Z	done	4	stt+stu+stv+stw
+stv	Silt’e	2026-10-17T03:25:53Z	done	4	stt+stu+stv+stw
+stw	Satawalese	2026-10-17T03:25:53Z	done	6	stt+stu+stv+stw
+sty	Siberian Tatar	2026-10-17T03:27:05Z	done	3	sty+sua+sub+suc
+sua	Sulka	2026-10-17T03:27:05Z	done	6	sty+sua+sub+suc
+sub	Suku	2026-10-17T03:27:05Z	done	4	sty+sua+sub+suc
+suc	Western Subanon	2026-10-17T03:27:05Z	done	6	sty+sua+sub+suc
+sue	Suena	2026-10-17T03:28:26Z	done	8	sue+suf+sug+suh
+suf	Sufrai	2026-10-17T03:28:26Z	done	5	sue+suf+sug+suh
+sug	Suganga	2026-10-17T03:28:26Z	done	5	sue+suf+sug+suh
+suh	Suba (Retired)	2026-10-17T03:28:26Z	done	6	sue+suf+sug+suh
+sui	Suki	2026-10-17T03:29:47Z	done	6	sui+suj+suk+sun
+suj	Shubi	2026-10-17T03:29:47Z	done	6	sui+suj+suk+sun
+suk	Sukuma	2026-10-17T03:29:47Z	done	5	sui+suj+suk+sun
+sun	Sunda	2026-10-17T03:29:47Z	done	6	sui+suj+suk+sun
+suo	Bouni	2026-10-17T03:31:05Z	done	6	suo+suq+sur+sus
+suq	Tirmaga-Chai Suri	2026-10-17T03:31:05Z	done	7	suo+suq+sur+sus
+sur	Mwaghavul	2026-10-17T03:31:05Z	done	6	suo+suq+sur+sus
+sus	Susu	2026-10-17T03:31:05Z	done	7	suo+suq+sur+sus
+sut	Subtiaba	2026-10-17T03:32:21Z	done	5	sut+suu+suv+suw
+suu	Sungkai (Indonesia)	2026-10-17T03:32:21Z	done	3	sut+suu+suv+suw
+suv	Puroik	2026-10-17T03:32:21Z	done	5	sut+suu+suv+suw
+suw	Sumbwa	2026-10-17T03:32:21Z	done	5	sut+suu+suv+suw
+sux	Sumerian	2026-10-17T03:33:34Z	done	4	sux+suy+suz+sva
+suy	Suyá	2026-10-17T03:33:34Z	done	5	sux+suy+suz+sva
+suz	Sunwar	2026-10-17T03:33:34Z	done	6	sux+suy+suz+sva
+sva	Svan	2026-10-17T03:33:34Z	done	5	sux+suy+suz+sva
+svb	Ulau-Suain	2026-10-17T03:34:52Z	done	7	svb+svc+sve+svk
+svc	Vincentian English Creole	2026-10-17T03:34:52Z	done	3	svb+svc+sve+svk
+sve	Serili	2026-10-17T03:34:52Z	done	6	svb+svc+sve+svk
+svk	Slovakian Sign Language	2026-10-17T03:34:52Z	done	7	svb+svc+sve+svk
+svl	Southern Lalo	2026-10-17T03:36:22Z	done	3	svl+svm+svr+svs
+svm	Slavomolisano	2026-10-17T03:36:22Z	done	5	svl+svm+svr+svs
+svr	Savara	2026-10-17T03:36:22Z	done	1	svl+svm+svr+svs
+svs	Savosavo	2026-10-17T03:36:22Z	done	9	svl+svm+svr+svs
+swa	swa	2026-10-17T03:38:04Z	done	13	swa+swb+swc+swf
+swb	Maore Comorian	2026-10-17T03:38:04Z	done	6	swa+swb+swc+swf
+swc	Congo Swahili	2026-10-17T03:38:04Z	done	5	swa+swb+swc+swf
+swf	Sere	2026-10-17T03:38:04Z	done	6	swa+swb+swc+swf
+swg	Swabian	2026-10-17T03:39:38Z	done	5	swg+swh+swi+swj
+swh	Swahili	2026-10-17T03:39:38Z	done	11	swg+swh+swi+swj
+swi	Sui	2026-10-17T03:39:38Z	done	5	swg+swh+swi+swj
+swj	Sira	2026-10-17T03:39:38Z	done	7	swg+swh+swi+swj
+swk	Sena, Malawi	2026-10-17T03:40:57Z	done	4	swk+swl+swm+swn
+swl	Swedish Sign Language	2026-10-17T03:40:57Z	done	7	swk+swl+swm+swn
+swm	Samosa	2026-10-17T03:40:57Z	done	3	swk+swl+swm+swn
+swn	Sawknah	2026-10-17T03:40:57Z	done	5	swk+swl+swm+swn
+swo	Shanenawa	2026-10-17T03:42:17Z	done	6	swo+swp+swq+swr
+swp	Suau	2026-10-17T03:42:17Z	done	6	swo+swp+swq+swr
+swq	Sharwa	2026-10-17T03:42:17Z	done	4	swo+swp+swq+swr
+swr	Saweru	2026-10-17T03:42:17Z	done	6	swo+swp+swq+swr
+sws	Seluwasan	2026-10-17T03:43:31Z	done	6	sws+swt+swu+swv
+swt	Sawila	2026-10-17T03:43:31Z	done	5	sws+swt+swu+swv
+swu	Suwawa	2026-10-17T03:43:31Z	done	5	sws+swt+swu+swv
+swv	Shekhawati	2026-10-17T03:43:31Z	done	6	sws+swt+swu+swv
+sww	Sowa	2026-10-17T03:44:39Z	done	3	sww+swx+swy+sxb
+swx	Suruahá	2026-10-17T03:44:39Z	done	6	sww+swx+swy+sxb
+swy	Sarua	2026-10-17T03:44:39Z	done	4	sww+swx+swy+sxb
+sxb	Suba	2026-10-17T03:44:39Z	done	6	sww+swx+swy+sxb
+sxc	Sicana	2026-10-17T03:46:21Z	done	3	sxc+sxe+sxg+sxk
+sxe	Sighu	2026-10-17T03:46:21Z	done	5	sxc+sxe+sxg+sxk
+sxg	Shuhi	2026-10-17T03:46:21Z	done	7	sxc+sxe+sxg+sxk
+sxk	Southern Kalapuya	2026-10-17T03:46:21Z	done	8	sxc+sxe+sxg+sxk
+sxm	Samre	2026-10-17T03:47:37Z	done	7	sxm+sxn+sxr+sxs
+sxn	Sangir	2026-10-17T03:47:37Z	done	6	sxm+sxn+sxr+sxs
+sxr	Saaroa	2026-10-17T03:47:37Z	done	7	sxm+sxn+sxr+sxs
+sxs	Sasaru	2026-10-17T03:47:37Z	done	5	sxm+sxn+sxr+sxs
+sxu	Upper Saxon	2026-10-17T03:48:44Z	done	3	sxu+sxw+sya+syb
+sxw	Saxwe Gbe	2026-10-17T03:48:44Z	done	7	sxu+sxw+sya+syb
+sya	Siang	2026-10-17T03:48:44Z	done	5	sxu+sxw+sya+syb
+syb	Central Subanen	2026-10-17T03:48:44Z	done	5	sxu+sxw+sya+syb
+syc	Syriac	2026-10-17T03:50:07Z	done	6	syc+syi+syk+syl
+syi	Seki	2026-10-17T03:50:07Z	done	8	syc+syi+syk+syl
+syk	Sukur	2026-10-17T03:50:07Z	done	7	syc+syi+syk+syl
+syl	Sylheti	2026-10-17T03:50:07Z	done	10	syc+syi+syk+syl
+sym	Maya Samo	2026-10-17T03:51:43Z	done	6	sym+syo+syr+sys
+syo	Su’ung	2026-10-17T03:51:43Z	done	5	sym+syo+syr+sys
+syr	syr	2026-10-17T03:51:43Z	done	6	sym+syo+syr+sys
+sys	Sinyar	2026-10-17T03:51:43Z	done	7	sym+syo+syr+sys
+syw	Syuba	2026-10-17T03:52:57Z	done	5	syw+syx+syy+sza
+syx	Samay	2026-10-17T03:52:57Z	done	5	syw+syx+syy+sza
+syy	Al-Sayyid Bedouin Sign Language	2026-10-17T03:52:57Z	done	5	syw+syx+syy+sza
+sza	Semelai	2026-10-17T03:52:57Z	done	5	syw+syx+syy+sza
+szb	Ngalum	2026-10-17T03:54:18Z	done	5	szb+szc+szd+sze
+szc	Semaq Beri	2026-10-17T03:54:18Z	done	5	szb+szc+szd+sze
+szd	Seru	2026-10-17T03:54:18Z	done	2	szb+szc+szd+sze
+sze	Seze	2026-10-17T03:54:18Z	done	5	szb+szc+szd+sze
+szg	Sengele	2026-10-17T03:55:38Z	done	4	szg+szl+szn+szp
+szl	Silesian	2026-10-17T03:55:38Z	done	6	szg+szl+szn+szp
+szn	Sula	2026-10-17T03:55:38Z	done	4	szg+szl+szn+szp
+szp	Suabo	2026-10-17T03:55:38Z	done	5	szg+szl+szn+szp
+szs	Solomon Islands Sign Language	2026-10-17T03:56:45Z	done	3	szs+szv+szw+szy
+szv	Isubu	2026-10-17T03:56:45Z	done	3	szs+szv+szw+szy
+szw	Sawai	2026-10-17T03:56:45Z	done	5	szs+szv+szw+szy
+szy	Sakizaya	2026-10-17T03:56:45Z	done	3	szs+szv+szw+szy
+wer	Amam	2026-10-17T03:58:03Z	done	3	wer+wes+wet+weu
+wes	Cameroon Pidgin	2026-10-17T03:58:03Z	done	8	wer+wes+wet+weu
+wet	Perai	2026-10-17T03:58:03Z	done	0	wer+wes+wet+weu
+weu	Chin, Rawngtu	2026-10-17T03:58:03Z	done	3	wer+wes+wet+weu
+wew	Wejewa	2026-10-17T03:59:11Z	done	7	wew+wfg+wga+wgb
+wfg	Zorop	2026-10-17T03:59:11Z	done	7	wew+wfg+wga+wgb
+wga	Wagaya	2026-10-17T03:59:11Z	done	3	wew+wfg+wga+wgb
+wgb	Wagawaga	2026-10-17T03:59:11Z	done	3	wew+wfg+wga+wgb
+wgg	Wangkangurru	2026-10-17T04:00:37Z	done	5	wgg+wgi+wgo+wgu
+wgi	Wahgi	2026-10-17T04:00:37Z	done	6	wgg+wgi+wgo+wgu
+wgo	Ambel	2026-10-17T04:00:37Z	done	6	wgg+wgi+wgo+wgu
+wgu	Wirangu	2026-10-17T04:00:37Z	done	7	wgg+wgi+wgo+wgu
+wgw	Wagawaga (Retired)	2026-10-17T04:02:04Z	done	6	wgw+wgy+wha+whg
+wgy	Warrgamay	2026-10-17T04:02:04Z	done	6	wgw+wgy+wha+whg
+wha	Sou Upaa	2026-10-17T04:02:04Z	done	4	wgw+wgy+wha+whg
+whg	Yuwei	2026-10-17T04:02:04Z	done	6	wgw+wgy+wha+whg
+whk	Kenyah, Wahau	2026-10-17T04:03:31Z	done	6	whk+whu+wib+wic
+whu	Kayan, Wahau	2026-10-17T04:03:31Z	done	3	whk+whu+wib+wic
+wib	Southern Toussian	2026-10-17T04:03:31Z	done	9	whk+whu+wib+wic
+wic	Wichita	2026-10-17T04:03:31Z	done	7	whk+whu+wib+wic
+wie	Wik-Epa	2026-10-17T04:04:38Z	done	3	wie+wif+wig+wih
+wif	Wik-Keyangan	2026-10-17T04:04:38Z	done	4	wie+wif+wig+wih
+wig	Wik Ngathan	2026-10-17T04:04:38Z	done	2	wie+wif+wig+wih
+wih	Wik-Me’anha	2026-10-17T04:04:38Z	done	3	wie+wif+wig+wih
+wii	Minidien	2026-10-17T04:05:41Z	done	3	wii+wij+wik+wil
+wij	Wik-Iiyanh	2026-10-17T04:05:41Z	done	5	wii+wij+wik+wil
+wik	Wikalkan	2026-10-17T04:05:41Z	done	5	wii+wij+wik+wil
+wil	Wilawila	2026-10-17T04:05:41Z	done	6	wii+wij+wik+wil
+wim	Wik-Mungkan	2026-10-17T04:07:05Z	done	6	wim+win+wir+wit
+win	Ho-Chunk	2026-10-17T04:07:05Z	done	6	wim+win+wir+wit
+wir	Wiraféd	2026-10-17T04:07:05Z	done	4	wim+win+wir+wit
+wit	Wintu	2026-10-17T04:07:05Z	done	4	wim+win+wir+wit
+wiu	Wiru	2026-10-17T04:08:23Z	done	3	wiu+wiv+wiw+wiy
+wiv	Vitu	2026-10-17T04:08:23Z	done	5	wiu+wiv+wiw+wiy
+wiw	Wirangu-Nauo	2026-10-17T04:08:23Z	done	5	wiu+wiv+wiw+wiy
+wiy	Wiyot	2026-10-17T04:08:23Z	done	6	wiu+wiv+wiw+wiy
+wja	Waja	2026-10-17T04:09:34Z	done	4	wja+wji+wka+wkb
+wji	Warji	2026-10-17T04:09:34Z	done	4	wja+wji+wka+wkb
+wka	Kw’adza	2026-10-17T04:09:34Z	done	3	wja+wji+wka+wkb
+wkb	Kumbaran	2026-10-17T04:09:34Z	done	3	wja+wji+wka+wkb
+wkd	Mo	2026-10-17T04:10:35Z	done	2	wkd+wkl+wkr+wku
+wkl	Kalanadi	2026-10-17T04:10:35Z	done	3	wkd+wkl+wkr+wku
+wkr	Keerray-Woorroong	2026-10-17T04:10:35Z	done	5	wkd+wkl+wkr+wku
+wku	Kunduvadi	2026-10-17T04:10:35Z	done	2	wkd+wkl+wkr+wku
+wkw	Wakawaka	2026-10-17T04:11:56Z	done	5	wkw+wky+wla+wlc
+wky	Wangkayutyuru	2026-10-17T04:11:56Z	done	3	wkw+wky+wla+wlc
+wla	Walio	2026-10-17T04:11:56Z	done	6	wkw+wky+wla+wlc
+wlc	Comorian, Mwali	2026-10-17T04:11:56Z	done	7	wkw+wky+wla+wlc
+wle	Wolane	2026-10-17T04:13:11Z	done	5	wle+wlg+wlh+wli
+wlg	Kunbarlang	2026-10-17T04:13:11Z	done	2	wle+wlg+wlh+wli
+wlh	Welaun	2026-10-17T04:13:11Z	done	5	wle+wlg+wlh+wli
+wli	Waioli	2026-10-17T04:13:11Z	done	1	wle+wlg+wlh+wli
+wlk	Wailaki	2026-10-17T04:14:18Z	done	3	wlk+wll+wln+wlo
+wll	Wali	2026-10-17T04:14:18Z	done	6	wlk+wll+wln+wlo
+wln	Walloon	2026-10-17T04:14:18Z	done	3	wlk+wll+wln+wlo
+wlo	Wolio	2026-10-17T04:14:18Z	done	3	wlk+wll+wln+wlo
+wlr	Moiso	2026-10-17T04:15:35Z	done	4	wlr+wls+wlu+wlv
+wls	Wallisian	2026-10-17T04:15:35Z	done	5	wlr+wls+wlu+wlv
+wlu	Wuliwuli	2026-10-17T04:15:35Z	done	3	wlr+wls+wlu+wlv
+wlv	Bermejo Wichí	2026-10-17T04:15:35Z	done	4	wlr+wls+wlu+wlv
+wlw	Walak	2026-10-17T04:16:31Z	done	5	wlw+wlx+wly+wma
+wlx	Wali	2026-10-17T04:16:31Z	done	1	wlw+wlx+wly+wma
+wly	Waling	2026-10-17T04:16:31Z	done	2	wlw+wlx+wly+wma
+wma	Mawa	2026-10-17T04:16:31Z	done	2	wlw+wlx+wly+wma
+wmb	Wambaya	2026-10-17T04:17:40Z	done	5	wmb+wmc+wmd+wme
+wmc	Wamas	2026-10-17T04:17:40Z	done	4	wmb+wmc+wmd+wme
+wmd	Mamaindê	2026-10-17T04:17:40Z	done	3	wmb+wmc+wmd+wme
+wme	Wambule	2026-10-17T04:17:40Z	done	4	wmb+wmc+wmd+wme
+wmg	Minyag, Western	2026-10-17T04:18:57Z	done	5	wmg+wmh+wmi+wmm
+wmh	Waima’a	2026-10-17T04:18:57Z	done	7	wmg+wmh+wmi+wmm
+wmi	Wamin	2026-10-17T04:18:57Z	done	3	wmg+wmh+wmi+wmm
+wmm	Maiwa	2026-10-17T04:18:57Z	done	5	wmg+wmh+wmi+wmm
+wmn	Waamwang	2026-10-17T04:20:10Z	done	3	wmn+wmo+wms+wmt
+wmo	Wom	2026-10-17T04:20:10Z	done	3	wmn+wmo+wms+wmt
+wms	Wambon	2026-10-17T04:20:10Z	done	3	wmn+wmo+wms+wmt
+wmt	Walmajarri	2026-10-17T04:20:10Z	done	6	wmn+wmo+wms+wmt
+wmw	Mwani	2026-10-17T04:21:33Z	done	6	wmw+wmx+wnb+wnc
+wmx	Pin	2026-10-17T04:21:33Z	done	4	wmw+wmx+wnb+wnc
+wnb	Mokati	2026-10-17T04:21:33Z	done	2	wmw+wmx+wnb+wnc
+wnc	Wantoat	2026-10-17T04:21:33Z	done	5	wmw+wmx+wnb+wnc
+wnd	Wandarang	2026-10-17T04:22:22Z	done	3	wnd+wne+wng+wni
+wne	Waneci	2026-10-17T04:22:22Z	done	6	wnd+wne+wng+wni
+wng	Wanggom	2026-10-17T04:22:22Z	done	6	wnd+wne+wng+wni
+wni	Ndzwani Comorian	2026-10-17T04:22:22Z	done	3	wnd+wne+wng+wni
+wnk	Wanukaka	2026-10-17T04:23:10Z	done	6	wnk+wnm+wnn+wno
+wnm	Wanggamala	2026-10-17T04:23:10Z	done	4	wnk+wnm+wnn+wno
+wnn	Wunumara	2026-10-17T04:23:10Z	done	4	wnk+wnm+wnn+wno
+wno	Wano	2026-10-17T04:23:10Z	done	6	wnk+wnm+wnn+wno
+wnp	Wanap	2026-10-17T04:23:59Z	done	5	wnp+wnu+wnw+wny
+wnu	Usan	2026-10-17T04:23:59Z	done	5	wnp+wnu+wnw+wny
+wnw	Wintu	2026-10-17T04:23:59Z	done	6	wnp+wnu+wnw+wny
+wny	Waanyi	2026-10-17T04:23:59Z	done	3	wnp+wnu+wnw+wny
+woa	Kuwema	2026-10-17T04:24:48Z	done	5	woa+wob+woc+wod
+wob	Wè Northern	2026-10-17T04:24:48Z	done	6	woa+wob+woc+wod
+woc	Wogeo	2026-10-17T04:24:48Z	done	4	woa+wob+woc+wod
+wod	Wolani	2026-10-17T04:24:48Z	done	3	woa+wob+woc+wod
+woe	Woleaian	2026-10-17T04:25:42Z	done	5	woe+wof+wog+woi
+wof	Gambian Wolof	2026-10-17T04:25:42Z	done	6	woe+wof+wog+woi
+wog	Wogamusin	2026-10-17T04:25:42Z	done	5	woe+wof+wog+woi
+woi	Kamang	2026-10-17T04:25:42Z	done	5	woe+wof+wog+woi
+wok	Longto	2026-10-17T04:26:50Z	done	5	wok+wol+wom+won
+wol	Wolof	2026-10-17T04:26:50Z	done	12	wok+wol+wom+won
+wom	Wom	2026-10-17T04:26:50Z	done	8	wok+wol+wom+won
+won	Wongo	2026-10-17T04:26:50Z	done	4	wok+wol+wom+won
+woo	Manombai	2026-10-17T04:27:42Z	done	4	woo+wor+wos+wow
+wor	Woria	2026-10-17T04:27:42Z	done	3	woo+wor+wos+wow
+wos	Hanga Hundi	2026-10-17T04:27:42Z	done	9	woo+wor+wos+wow
+wow	Wawonii	2026-10-17T04:27:42Z	done	8	woo+wor+wos+wow
+woy	Weyto	2026-10-17T04:28:36Z	done	5	woy+wpc+wrb+wrd
+wpc	Maco	2026-10-17T04:28:36Z	done	6	woy+wpc+wrb+wrd
+wrb	Waluwarra	2026-10-17T04:28:36Z	done	7	woy+wpc+wrb+wrd
+wrd	Warduji	2026-10-17T04:28:36Z	done	4	woy+wpc+wrb+wrd
+wre	Ware	2026-10-17T04:29:43Z	done	2	wre+wrg+wrh+wri
+wrg	Warungu	2026-10-17T04:29:43Z	done	6	wre+wrg+wrh+wri
+wrh	Wiradjuri	2026-10-17T04:29:43Z	done	9	wre+wrg+wrh+wri
+wri	Wariyangga	2026-10-17T04:29:43Z	done	4	wre+wrg+wrh+wri
+wrk	Garrwa	2026-10-17T04:30:53Z	done	5	wrk+wrl+wrm+wro
+wrl	Warlmanpa	2026-10-17T04:30:53Z	done	5	wrk+wrl+wrm+wro
+wrm	Warumungu	2026-10-17T04:30:53Z	done	5	wrk+wrl+wrm+wro
+wro	Worrorra	2026-10-17T04:30:53Z	done	4	wrk+wrl+wrm+wro
+wrp	Waropen	2026-10-17T04:31:40Z	done	4	wrp+wrr+wrs+wru
+wrr	Wardaman	2026-10-17T04:31:40Z	done	6	wrp+wrr+wrs+wru
+wrs	Waris	2026-10-17T04:31:40Z	done	5	wrp+wrr+wrs+wru
+wru	Waru	2026-10-17T04:31:40Z	done	5	wrp+wrr+wrs+wru
+wrv	Waruna	2026-10-17T04:32:24Z	done	6	wrv+wrw+wrx+wry
+wrw	Gugu Warra	2026-10-17T04:32:24Z	done	2	wrv+wrw+wrx+wry
+wrx	Wae Rana	2026-10-17T04:32:24Z	done	3	wrv+wrw+wrx+wry
+wry	Merwari	2026-10-17T04:32:24Z	done	2	wrv+wrw+wrx+wry
+wrz	Waray	2026-10-17T04:33:21Z	done	6	wrz+wsa+wsg+wsi
+wsa	Warembori	2026-10-17T04:33:21Z	done	6	wrz+wsa+wsg+wsi
+wsg	Adilabad Gondi	2026-10-17T04:33:21Z	done	7	wrz+wsa+wsg+wsi
+wsi	Jo	2026-10-17T04:33:21Z	done	7	wrz+wsa+wsg+wsi
+wsk	Waskia	2026-10-17T04:34:08Z	done	6	wsk+wsr+wss+wsu
+wsr	Owenia	2026-10-17T04:34:08Z	done	3	wsk+wsr+wss+wsu
+wss	Wasa	2026-10-17T04:34:08Z	done	5	wsk+wsr+wss+wsu
+wsu	Wasu	2026-10-17T04:34:08Z	done	3	wsk+wsr+wss+wsu
+wsv	Degano	2026-10-17T04:34:55Z	done	2	wsv+wtb+wtf+wth
+wtb	Matambwe	2026-10-17T04:34:55Z	done	3	wsv+wtb+wtf+wth
+wtf	Watiwa	2026-10-17T04:34:55Z	done	4	wsv+wtb+wtf+wth
+wth	Wathawurrung	2026-10-17T04:34:55Z	done	6	wsv+wtb+wtf+wth
+wti	Berta	2026-10-17T04:35:51Z	done	6	wti+wtk+wtm+wtw
+wtk	Watakataui	2026-10-17T04:35:51Z	done	9	wti+wtk+wtm+wtw
+wtm	Mewati	2026-10-17T04:35:51Z	done	6	wti+wtk+wtm+wtw
+wtw	Wotu	2026-10-17T04:35:51Z	done	3	wti+wtk+wtm+wtw
+wua	Wikngenchera	2026-10-17T04:36:47Z	done	2	wua+wub+wud+wuh
+wub	Wunambal	2026-10-17T04:36:47Z	done	5	wua+wub+wud+wuh
+wud	Wudu	2026-10-17T04:36:47Z	done	5	wua+wub+wud+wuh
+wuh	Wutunhua	2026-10-17T04:36:47Z	done	7	wua+wub+wud+wuh
+wul	Silimo	2026-10-17T04:37:33Z	done	3	wul+wum+wun+wur
+wum	Wumbvu	2026-10-17T04:37:33Z	done	6	wul+wum+wun+wur
+wun	Bungu	2026-10-17T04:37:33Z	done	4	wul+wum+wun+wur
+wur	Wurrugu	2026-10-17T04:37:33Z	done	4	wul+wum+wun+wur
+wut	Wutung	2026-10-17T04:38:25Z	done	5	wut+wuu+wuv+wux
+wuu	Wu Chinese	2026-10-17T04:38:25Z	done	7	wut+wuu+wuv+wux
+wuv	Wuvulu-Aua	2026-10-17T04:38:25Z	done	6	wut+wuu+wuv+wux
+wux	Wulna	2026-10-17T04:38:25Z	done	5	wut+wuu+wuv+wux
+wuy	Wauyai	2026-10-17T04:39:16Z	done	3	wuy+wwa+wwb+wwo
+wwa	Waama	2026-10-17T04:39:16Z	done	4	wuy+wwa+wwb+wwo
+wwb	Wakabunga	2026-10-17T04:39:16Z	done	3	wuy+wwa+wwb+wwo
+wwo	Dorig	2026-10-17T04:39:16Z	done	4	wuy+wwa+wwb+wwo
+wwr	Warrwa	2026-10-17T04:40:15Z	done	5	wwr+www+wxa+wxw
+www	Wawa	2026-10-17T04:40:15Z	done	5	wwr+www+wxa+wxw
+wxa	Waxianghua	2026-10-17T04:40:15Z	done	8	wwr+www+wxa+wxw
+wxw	Wardandi	2026-10-17T04:40:15Z	done	8	wwr+www+wxa+wxw
+wya	Huron-Wyandot	2026-10-17T04:41:31Z	done	11	wya+wyb+wyi+wym
+wyb	Wangaaybuwan-Ngiyambaa	2026-10-17T04:41:31Z	done	7	wya+wyb+wyi+wym
+wyi	Woiwurrung	2026-10-17T04:41:31Z	done	7	wya+wyb+wyi+wym
+wym	Wymysorys	2026-10-17T04:41:31Z	done	9	wya+wyb+wyi+wym
+wyn	Wyandot	2026-10-17T04:42:38Z	done	6	wyn+wyr+wyy+xaa
+wyr	Wayoró	2026-10-17T04:42:38Z	done	3	wyn+wyr+wyy+xaa
+wyy	Fijian, Western	2026-10-17T04:42:38Z	done	8	wyn+wyr+wyy+xaa
+xaa	Andalusian Arabic	2026-10-17T04:42:38Z	done	5	wyn+wyr+wyy+xaa
+xab	Sambe	2026-10-17T04:43:36Z	done	6	xab+xac+xad+xag
+xac	Kachari	2026-10-17T04:43:36Z	done	4	xab+xac+xad+xag
+xad	Adai	2026-10-17T04:43:36Z	done	6	xab+xac+xad+xag
+xag	Aghwan	2026-10-17T04:43:36Z	done	4	xab+xac+xad+xag
+xah	Kahayan	2026-10-17T04:44:29Z	done	8	xah+xai+xaj+xak
+xai	Kaimbé	2026-10-17T04:44:29Z	done	4	xah+xai+xaj+xak
+xaj	Ararandewára	2026-10-17T04:44:29Z	done	3	xah+xai+xaj+xak
+xak	Máku	2026-10-17T04:44:29Z	done	3	xah+xai+xaj+xak
+xal	Kalmyk-Oirat	2026-10-17T04:45:49Z	done	11	xal+xam+xan+xao
+xam	ǀXam	2026-10-17T04:45:49Z	done	7	xal+xam+xan+xao
+xan	Xamtanga	2026-10-17T04:45:49Z	done	8	xal+xam+xan+xao
+xao	Khao	2026-10-17T04:45:49Z	done	4	xal+xam+xan+xao
+xap	Apalachee	2026-10-17T04:46:43Z	done	3	xap+xar+xas+xat
+xar	Karami	2026-10-17T04:46:43Z	done	7	xap+xar+xas+xat
+xas	Kamas	2026-10-17T04:46:43Z	done	7	xap+xar+xas+xat
+xat	Katawixi	2026-10-17T04:46:43Z	done	5	xap+xar+xas+xat
+xau	Kauwera	2026-10-17T04:47:40Z	done	8	xau+xav+xaw+xay
+xav	Xavánte	2026-10-17T04:47:40Z	done	6	xau+xav+xaw+xay
+xaw	Kawaiisu	2026-10-17T04:47:40Z	done	6	xau+xav+xaw+xay
+xay	Kayan Mahakam	2026-10-17T04:47:40Z	done	7	xau+xav+xaw+xay
+xba	Kamba (Brazil)	2026-10-17T04:48:43Z	done	3	xba+xbb+xbc+xbd
+xbb	Lower Burdekin	2026-10-17T04:48:43Z	done	3	xba+xbb+xbc+xbd
+xbc	Bactrian	2026-10-17T04:48:43Z	done	6	xba+xbb+xbc+xbd
+xbd	Bindal	2026-10-17T04:48:43Z	done	7	xba+xbb+xbc+xbd
+xbe	Bigambal	2026-10-17T04:49:51Z	done	4	xbe+xbg+xbi+xbj
+xbg	Bunganditj	2026-10-17T04:49:51Z	done	6	xbe+xbg+xbi+xbj
+xbi	Kombio	2026-10-17T04:49:51Z	done	5	xbe+xbg+xbi+xbj
+xbj	Birrpayi	2026-10-17T04:49:51Z	done	5	xbe+xbg+xbi+xbj
+xbn	Kenaboi	2026-10-17T04:50:48Z	done	5	xbn+xbo+xbp+xbr
+xbo	Bolgarian	2026-10-17T04:50:48Z	done	5	xbn+xbo+xbp+xbr
+xbp	Bibbulman	2026-10-17T04:50:48Z	done	2	xbn+xbo+xbp+xbr
+xbr	Kambera	2026-10-17T04:50:48Z	done	6	xbn+xbo+xbp+xbr
+xbw	Kambiwá	2026-10-17T04:51:45Z	done	4	xbw+xbx+xby+xce
+xbx	Kabixí	2026-10-17T04:51:45Z	done	4	xbw+xbx+xby+xce
+xby	Butchulla	2026-10-17T04:51:45Z	done	6	xbw+xbx+xby+xce
+xce	Celtiberian	2026-10-17T04:51:45Z	done	7	xbw+xbx+xby+xce
+xcg	Cisalpine Gaulish	2026-10-17T04:52:40Z	done	5	xcg+xch+xcl+xcm
+xch	Chemakum	2026-10-17T04:52:40Z	done	4	xcg+xch+xcl+xcm
+xcl	Classical-Middle Armenian	2026-10-17T04:52:40Z	done	5	xcg+xch+xcl+xcm
+xcm	Comecrudo	2026-10-17T04:52:40Z	done	3	xcg+xch+xcl+xcm
+xcn	Cotoname	2026-10-17T04:53:41Z	done	4	xcn+xco+xcr+xct
+xco	Khwarezmian	2026-10-17T04:53:41Z	done	5	xcn+xco+xcr+xct
+xcr	Carian	2026-10-17T04:53:41Z	done	3	xcn+xco+xcr+xct
+xct	Classical Tibetan	2026-10-17T04:53:41Z	done	7	xcn+xco+xcr+xct
+xcv	Chuvantsy	2026-10-17T04:54:39Z	done	3	xcv+xcw+xcy+xda
+xcw	Coahuilteco	2026-10-17T04:54:39Z	done	5	xcv+xcw+xcy+xda
+xcy	Cayuse	2026-10-17T04:54:39Z	done	6	xcv+xcw+xcy+xda
+xda	Darkinyung	2026-10-17T04:54:39Z	done	8	xcv+xcw+xcy+xda
+xdc	Dacian	2026-10-17T04:55:30Z	done	4	xdc+xdk+xdo+xdq
+xdk	Dharuk	2026-10-17T04:55:30Z	done	4	xdc+xdk+xdo+xdq
+xdo	Kwandu	2026-10-17T04:55:30Z	done	2	xdc+xdk+xdo+xdq
+xdq	Kaitag	2026-10-17T04:55:30Z	done	6	xdc+xdk+xdo+xdq
+xdy	Malayic Dayak	2026-10-17T04:56:32Z	done	6	xdy+xeb+xed+xeg
+xeb	Eblaite	2026-10-17T04:56:32Z	done	8	xdy+xeb+xed+xeg
+xed	Hdi	2026-10-17T04:56:32Z	done	7	xdy+xeb+xed+xeg
+xeg	ǁXegwi	2026-10-17T04:56:32Z	done	5	xdy+xeb+xed+xeg
+xel	Kelo	2026-10-17T04:57:24Z	done	4	xel+xem+xer+xes
+xem	Mateq	2026-10-17T04:57:24Z	done	7	xel+xem+xer+xes
+xer	Xerénte	2026-10-17T04:57:24Z	done	1	xel+xem+xer+xes
+xes	Koromu	2026-10-17T04:57:24Z	done	5	xel+xem+xer+xes
+xet	Xetá	2026-10-17T04:58:17Z	done	7	xet+xeu+xfa+xga
+xeu	Keoru-Ahia	2026-10-17T04:58:17Z	done	6	xet+xeu+xfa+xga
+xfa	Faliscan	2026-10-17T04:58:17Z	done	6	xet+xeu+xfa+xga
+xga	Galatian	2026-10-17T04:58:17Z	done	5	xet+xeu+xfa+xga
+xgb	Gbin	2026-10-17T04:59:08Z	done	2	xgb+xgd+xgf+xgg
+xgd	Gudang	2026-10-17T04:59:08Z	done	7	xgb+xgd+xgf+xgg
+xgf	Gabrielino-Fernandeño	2026-10-17T04:59:08Z	done	4	xgb+xgd+xgf+xgg
+xgg	Goreng	2026-10-17T04:59:08Z	done	4	xgb+xgd+xgf+xgg
+xgi	Garingbal	2026-10-17T04:59:56Z	done	3	xgi+xgm+xgr+xgu
+xgm	Dharumbal	2026-10-17T04:59:56Z	done	6	xgi+xgm+xgr+xgu
+xgr	Garza	2026-10-17T04:59:56Z	done	2	xgi+xgm+xgr+xgu
+xgu	Unggumi	2026-10-17T04:59:56Z	done	3	xgi+xgm+xgr+xgu
+xgw	Guwa	2026-10-17T05:01:15Z	done	5	xgw+xhd+xhe+xho
+xhd	Hadrami	2026-10-17T05:01:15Z	done	5	xgw+xhd+xhe+xho
+xhe	Khetrani	2026-10-17T05:01:15Z	done	6	xgw+xhd+xhe+xho
+xho	Xhosa	2026-10-17T05:01:15Z	done	10	xgw+xhd+xhe+xho
+xht	Hattic	2026-10-17T05:02:11Z	done	5	xht+xhu+xhv+xib
+xhu	Hurrian	2026-10-17T05:02:11Z	done	5	xht+xhu+xhv+xib
+xhv	Khua	2026-10-17T05:02:11Z	done	4	xht+xhu+xhv+xib
+xib	Iberian	2026-10-17T05:02:11Z	done	4	xht+xhu+xhv+xib
+xii	Xiri	2026-10-17T05:03:03Z	done	5	xii+xil+xin+xip
+xil	Illyrian	2026-10-17T05:03:03Z	done	4	xii+xil+xin+xip
+xin	Xinca	2026-10-17T05:03:03Z	done	5	xii+xil+xin+xip
+xip	Xipináwa	2026-10-17T05:03:03Z	done	3	xii+xil+xin+xip
+xir	Xiriâna	2026-10-17T05:03:56Z	done	4	xir+xis+xiv+xiy
+xis	Kisan	2026-10-17T05:03:56Z	done	3	xir+xis+xiv+xiy
+xiv	Harappan	2026-10-17T05:03:56Z	done	4	xir+xis+xiv+xiy
+xiy	Xipaya	2026-10-17T05:03:56Z	done	6	xir+xis+xiv+xiy

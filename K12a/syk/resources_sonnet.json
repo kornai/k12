@@ -1,0 +1,59 @@
+{
+ "iso": "syk",
+ "name": "Sukur",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Sakun (Sukur) - Michael Thomas, University of Colorado",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/1c18dg03s",
+   "found_in_search": true
+  },
+  {
+   "title": "Sakun (Sukur) Language Documentation (ELDP/ELAR)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0252/",
+   "found_in_search": true
+  },
+  {
+   "title": "Sukur language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sukur_language",
+   "found_in_search": true
+  },
+  {
+   "title": "About the Sakun Language (SIUE exhibit)",
+   "type": "other",
+   "language": "English",
+   "url": "https://iris.siue.edu/eng-318/exhibits/show/sakunlanguage/aboutsakun",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sakun/Sukur",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/es/node/97656",
+   "found_in_search": true
+  },
+  {
+   "title": "DFG project 282128451",
+   "type": "academic",
+   "language": "English",
+   "url": "https://gepris.dfg.de/gepris/projekt/282128451",
+   "found_in_search": true
+  },
+  {
+   "title": "Friederike Vigeland, Mainz",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ifeas.uni-mainz.de/friederike-vigeland-m-a",
+   "found_in_search": true
+  }
+ ]
+}

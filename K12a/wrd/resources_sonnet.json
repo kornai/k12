@@ -1,0 +1,38 @@
+{
+ "iso": "wrd",
+ "name": "Warduji",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:28:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ISO 639-3 Registration Authority 2021 (Glottolog reference)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/641369",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Warduji (ward1243)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ward1243.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ISO 639-3 change request form for wrd",
+   "type": "policy",
+   "language": "English",
+   "url": "https://mtb.jdhuang.people.aws.dev/assignments/lang-subtags-templates/wrd.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Warduji language page",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/ja/language/wrd",
+   "found_in_search": true
+  }
+ ]
+}

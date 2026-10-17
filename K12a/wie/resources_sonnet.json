@@ -1,0 +1,31 @@
+{
+ "iso": "wie",
+ "name": "Wik-Epa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Y52: Wik Epa (AIATSIS Austlang)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/y52",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik Epa (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik_Epa",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik peoples (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik_peoples",
+   "found_in_search": true
+  }
+ ]
+}

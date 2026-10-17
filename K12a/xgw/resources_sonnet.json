@@ -1,0 +1,45 @@
+{
+ "iso": "xgw",
+ "name": "Guwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:01:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Guwa (Blake and Breen 1990), in Salvage Studies of Western Queensland Aboriginal Languages (PHOIBLE record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://phoible.org/sources/309499",
+   "found_in_search": true
+  },
+  {
+   "title": "Salvage Studies of Western Queensland Aboriginal Languages, Pacific Linguistics B-105 (ANU open research repository)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstreams/8c107f99-568b-4347-98ac-e823afe0ca3d/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Guwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Guwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Guwa bibliography (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6784/bibliography?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP database: Guwa",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/GUWAMU",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "iso": "wrw",
+ "name": "Gugu Warra",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:32:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mbariman-Gudhinma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mbariman-Gudhinma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Sydney Archives catalogue entry 17326",
+   "type": "other",
+   "language": "English",
+   "url": "https://archives-search.sydney.edu.au/nodes/view/17326",
+   "found_in_search": true
+  }
+ ]
+}

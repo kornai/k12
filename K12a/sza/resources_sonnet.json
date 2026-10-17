@@ -1,0 +1,45 @@
+{
+ "iso": "sza",
+ "name": "Semelai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Semelai (Kruspe, Cambridge University Press)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/product/0886C124391546CC261AF3BCA4535A5E",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Semelai: Semelai (Cambridge chapter page)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/books/grammar-of-semelai/semelai/FEA4C80456E38AD503FA5D5C9B9583AE",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 18.988 review of A Grammar of Semelai",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/18/988/",
+   "found_in_search": true
+  },
+  {
+   "title": "Semelai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Semelai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Semelai",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_sml",
+   "found_in_search": true
+  }
+ ]
+}

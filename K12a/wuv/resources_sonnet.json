@@ -1,0 +1,52 @@
+{
+ "iso": "wuv",
+ "name": "Wuvulu-Aua",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:38:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wuvulu-Aua language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wuvulu-Aua_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wuvulu Grammar and Vocabulary (Hafford 2014, WorldCat)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://search.worldcat.org/title/Wuvulu-Grammar-and-Vocabulary/oclc/1257963345",
+   "found_in_search": true
+  },
+  {
+   "title": "Hafford 2014 (Glottolog reference record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/475990",
+   "found_in_search": true
+  },
+  {
+   "title": "Elements of Wuvulu Grammar (Hafford 1999, Grambank source)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/sources/gHaffordWuvulu",
+   "found_in_search": true
+  },
+  {
+   "title": "Hafford 1999 (TLOPoD source record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tlopo.clld.org/sources/Hafford1999",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Wuvulu-Aua language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/wuvu1239",
+   "found_in_search": true
+  }
+ ]
+}

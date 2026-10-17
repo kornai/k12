@@ -1,0 +1,31 @@
+{
+ "iso": "wnd",
+ "name": "Wandarang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:22:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AIATSIS Austlang entry N120 (Warndarang)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/N120",
+   "found_in_search": true
+  },
+  {
+   "title": "Warndarrang (encyclopedic overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Warndarrang",
+   "found_in_search": true
+  },
+  {
+   "title": "AfBo: Warndarang language entry",
+   "type": "academic",
+   "language": "English",
+   "url": "https://afbo.info/languages/warndarangwnd",
+   "found_in_search": true
+  }
+ ]
+}

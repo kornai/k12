@@ -1,0 +1,45 @@
+{
+ "iso": "xat",
+ "name": "Katawixi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:46:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Katawixi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Katawixi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Katukinan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Katukinan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Katawixi numerals (Max Planck EVA)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Katawixi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of Kanamari (ELDP; related Katukinan language)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0158/",
+   "found_in_search": true
+  },
+  {
+   "title": "Himarima (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Himarim%C3%A3",
+   "found_in_search": true
+  }
+ ]
+}

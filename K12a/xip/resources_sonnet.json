@@ -1,0 +1,31 @@
+{
+ "iso": "xip",
+ "name": "Xipináwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Xipinawa (xipi1238)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/xipi1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Panoan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Panoan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Panoan Languages",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://ailla-legacy.lib.utexas.edu/islandora/object/ailla%3A256953",
+   "found_in_search": true
+  }
+ ]
+}

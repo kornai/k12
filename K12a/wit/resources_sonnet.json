@@ -1,0 +1,38 @@
+{
+ "iso": "wit",
+ "name": "Wintu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wintu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wintu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wintu (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/wintu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Winnemem Wintu (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Winnemem_Wintu",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wintu resources",
+   "type": "video",
+   "language": "native",
+   "url": "https://endangeredlanguages.com/node/37667/resources",
+   "found_in_search": true
+  }
+ ]
+}

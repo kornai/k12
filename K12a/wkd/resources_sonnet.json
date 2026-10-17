@@ -1,0 +1,24 @@
+{
+ "iso": "wkd",
+ "name": "Mo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:10:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wakde language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wakde_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wakde in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15831",
+   "found_in_search": true
+  }
+ ]
+}

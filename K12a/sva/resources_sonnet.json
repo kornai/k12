@@ -1,0 +1,45 @@
+{
+ "iso": "sva",
+ "name": "Svan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Svan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Svan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuite 1998, Svan grammar (PHOIBLE source record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://phoible.org/sources/tuite1998",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Kevin Tuite, Svan (G. Hewitt)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://georgehewitt.net/articles/reviews/141-review-of-kevin-tuite-svan",
+   "found_in_search": true
+  },
+  {
+   "title": "Svan grammar and lexis article (Kalbotyra, Vilnius University)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.zurnalai.vu.lt/kalbotyra/article/download/22211/21382/39845",
+   "found_in_search": true
+  },
+  {
+   "title": "Georgian-Megrelian-Laz-Svan-English Dictionary (TSU)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://mail1.tsu.ge/data/image_db_innova/GEORGIAN-MEGRELIAN-LAZ-SVAN ENGLISH DICTIONARY.pdf",
+   "found_in_search": true
+  }
+ ]
+}

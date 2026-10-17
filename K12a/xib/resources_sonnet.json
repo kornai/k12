@@ -1,0 +1,38 @@
+{
+ "iso": "xib",
+ "name": "Iberian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:02:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hesperia Palaeohispanic Languages Data Bank (Digital Classicist wiki)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://wiki.digitalclassicist.org/Hesperia_Palaeohispanic_Languages_Data_Bank",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexikon der iberischen Inschriften / Lexico de las inscripciones ibericas (Reichert Verlag)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://reichert-verlag.de/en/subjects/linguistics/9783954902910_lexikon_der_iberischen_inschriften_lexico_de_las_inscripciones_ibericas-detail",
+   "found_in_search": true
+  },
+  {
+   "title": "On Hesperia and AELAW",
+   "type": "academic",
+   "language": "English",
+   "url": "https://latinnow.eu/wp-content/uploads/2019/08/on-hesperia-and-aelaw.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "CORDIS project report (AELAW Iberian volume)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cordis.europa.eu/project/id/655938/reporting/pl",
+   "found_in_search": true
+  }
+ ]
+}

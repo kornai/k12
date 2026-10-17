@@ -1,0 +1,52 @@
+{
+ "iso": "swv",
+ "name": "Shekhawati",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gusain, Shekhawati (Lincom Europa, 2001): LINGUIST List notice",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/12/2004/",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 17.3764 (Languages of the World/Materials notice)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/17/3764/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lakhan Gusain, Columbia AMESA scholar profile",
+   "type": "academic",
+   "language": "English",
+   "url": "https://amesa.library.columbia.edu/scholars/718?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Shekhawati language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shekhawati_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Shekhawati wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/SHEKHAWATI",
+   "found_in_search": true
+  },
+  {
+   "title": "BnF catalogue record: Grierson, Linguistic Survey of India (Rajasthani, incl. Shekhawati)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://catalogue.bnf.fr/ark:/12148/cb160322897",
+   "found_in_search": true
+  }
+ ]
+}

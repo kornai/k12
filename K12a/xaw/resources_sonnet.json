@@ -1,0 +1,52 @@
+{
+ "iso": "xaw",
+ "name": "Kawaiisu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:47:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kawaiisu Language & Cultural Center (ACTA)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://actaonline.org/kawaiisu-language-cultural-center",
+   "found_in_search": true
+  },
+  {
+   "title": "Kawaiisu: A Grammar and Dictionary, With Texts (MIT Press Bookstore listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mitpressbookstore.mit.edu/book/9780520097476",
+   "found_in_search": true
+  },
+  {
+   "title": "Kawaiisu: A Grammar and Dictionary, With Texts (Page 158 Books listing)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://page158books.com/book/9780520097476",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF BCS-1160669 Kawaiisu documentation project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-1160669",
+   "found_in_search": true
+  },
+  {
+   "title": "Kawaiisu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kawaiisu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Community Voices: The origins of Tehachapi (Tehachapi News)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.tehachapinews.com/opinion/community-voices-the-origins-of-tehachapi/article_f29fce07-aacf-4b9c-b166-66221a9328b9.html",
+   "found_in_search": true
+  }
+ ]
+}

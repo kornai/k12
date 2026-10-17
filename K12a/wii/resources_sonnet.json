@@ -1,0 +1,31 @@
+{
+ "iso": "wii",
+ "name": "Minidien",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:05:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Minidien language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Minidien_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Torricelli languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Torricelli_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiaki in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15396",
+   "found_in_search": true
+  }
+ ]
+}

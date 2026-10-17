@@ -1,0 +1,52 @@
+{
+ "iso": "ssf",
+ "name": "Thao",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Thao Dictionary (Robert Blust, 2003, Academia Sinica)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/143591",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia Sinica Institute of Linguistics paper on Thao (PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ling.sinica.edu.tw/upload/researcher_manager_result/1c8effa7f30e926d8eda4eb1dc225796.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Thao language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thao_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Thao (Thau a lalawa) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/thao.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Thao - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2452",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC blog post (content not verified)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://www.paradisec.org.au/blog/wp-json/wp/v2/posts/3583",
+   "found_in_search": true
+  }
+ ]
+}

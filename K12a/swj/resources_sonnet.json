@@ -1,0 +1,59 @@
+{
+ "iso": "swj",
+ "name": "Sira",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Shira language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shira_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Blanchon 1988: Eshira tone (Glottolog record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/25883",
+   "found_in_search": true
+  },
+  {
+   "title": "Blanchon and Mouguiama 1997: verb tonality in Eshira de Manji (Glottolog record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/97160",
+   "found_in_search": true
+  },
+  {
+   "title": "Mouguiama 1994 (Glottolog record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/147050",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: B41 Shira",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/B41_SHIRA",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Sira",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SIRA",
+   "found_in_search": true
+  },
+  {
+   "title": "Comparative Bantu Pottery Vocabulary (RMCA), Sira entry",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.africamuseum.be/en/research/discover/human_sciences/culture_society/cb-pottery/comparative/3599/vocabulary",
+   "found_in_search": true
+  }
+ ]
+}

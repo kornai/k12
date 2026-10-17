@@ -1,0 +1,52 @@
+{
+ "iso": "suc",
+ "name": "Western Subanon",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Western Subanon (Sinubanon) - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/westernsubanon.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Western Subanon (DLSU repository)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://animorepository.dlsu.edu.ph/faculty_research/9373",
+   "found_in_search": true
+  },
+  {
+   "title": "2020 LLL Conference Featured Talk: A Grammar of Western Subanon",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/fdca16c7-9225-4a10-861a-5fb4dbb43d05",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Subanon Grammar (Brill, 2025, open access)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/isbn/9789004703056/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Subanen languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Subanen_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Kalibugan Subanon in Philippines (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15100",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "wim",
+ "name": "Wik-Mungkan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:07:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Wik-Mungkan (Alan Everton Ray, Monash PhD thesis, 2021)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://bridges.monash.edu/articles/thesis/A_Grammar_of_Wik-Mungkan/15049146",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary and source book of the Wik-Mungkan language (Kilham et al., SIL 1986), bibliographic record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://lexbib.elex.is/wiki/Item:Q28882",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik-Mungkan Linguistic Notes and Sources (Pama Language Centre)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.pamacentre.org.au/wik-mungkan-linguistic-notes-and-sources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Pama Language Centre: Wik-Mungkan page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.pamacentre.org.au/wik-mungkan-2/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik Mungkan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik_Mungkan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Ray, Alan Everton 2021",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/589191",
+   "found_in_search": true
+  }
+ ]
+}

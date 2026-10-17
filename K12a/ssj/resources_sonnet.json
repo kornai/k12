@@ -1,0 +1,31 @@
+{
+ "iso": "ssj",
+ "name": "Wia",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sausi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sausi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language ssj",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ssj",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sausi, Uya people group",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14789",
+   "found_in_search": true
+  }
+ ]
+}

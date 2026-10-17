@@ -1,0 +1,52 @@
+{
+ "iso": "swb",
+ "name": "Maore Comorian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vers un enseignement du shimaore et du kibushi à l'école ?",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.mayottehebdo.com/?p=3609",
+   "found_in_search": true
+  },
+  {
+   "title": "Enseignement des langues mahoraises à l'école, une nouvelle étape franchie",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.mayottehebdo.com/?p=26959",
+   "found_in_search": true
+  },
+  {
+   "title": "Assemblée nationale written question on regional languages in Mayotte schools",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE27356.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Comorian dictionaries (Mahorais-French)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/comorien_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Shimaore",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Shimaore",
+   "found_in_search": true
+  },
+  {
+   "title": "Les langues maternelles célébrées à Ouangani",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://www.mayottehebdo.com/actualite/culture/les-langues-maternelles-celebrees-a-ouangani",
+   "found_in_search": true
+  }
+ ]
+}

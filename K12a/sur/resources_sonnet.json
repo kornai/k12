@@ -1,0 +1,52 @@
+{
+ "iso": "sur",
+ "name": "Mwaghavul",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mwaghavul language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mwaghavul_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Mwaghavul writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/mwaghavul.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Mwaghavul (Sura), Minority Languages Pressbooks chapter",
+   "type": "academic",
+   "language": "English",
+   "url": "https://pressbooks.txst.edu/minoritylanguages/chapter/introduction-2/",
+   "found_in_search": true
+  },
+  {
+   "title": "Mwaghavul Minority Minoritized Languages and Cultures Project (PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://pressbooks.txst.edu/app/uploads/sites/4/2023/02/Mwaghavul-Minority-Minoritized-Languages-and-Cultures-Project-AA.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mwaghavul in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15128",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mwaghavul",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/sur",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "xap",
+ "name": "Apalachee",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:46:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Apalachee language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Apalachee_language",
+   "found_in_search": true
+  },
+  {
+   "title": "An Apalachee Vocabulary (UBC Wiki, RelLex)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/An_Apalachee_Vocabulary",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Apalachee resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38123/resources",
+   "found_in_search": true
+  }
+ ]
+}

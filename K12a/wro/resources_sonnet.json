@@ -1,0 +1,38 @@
+{
+ "iso": "wro",
+ "name": "Worrorra",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:30:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Worrorra: a language of the north-west Kimberley coast (Clendon, University of Adelaide Press PDF)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.adelaide.edu.au/press/ua/media/709/uap-worrorra-ebook.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Worrorra: a language of the north-west Kimberley coast (OAPEN PDF)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.oapen.org/bitstream/20.500.12657/33150/1/560353.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Handbook of Kimberley Languages (1988), AUSTLANG entry K17 (AIATSIS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/k17",
+   "found_in_search": true
+  },
+  {
+   "title": "Mowanjum Arts, Language page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mowanjumarts.com/about/language",
+   "found_in_search": true
+  }
+ ]
+}

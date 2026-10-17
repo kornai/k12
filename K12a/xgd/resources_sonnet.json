@@ -1,0 +1,59 @@
+{
+ "iso": "xgd",
+ "name": "Gudang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gudang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gudang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Austlang record Y191 (AIATSIS)",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/Y191",
+   "found_in_search": true
+  },
+  {
+   "title": "Jardine 1886, Cape York: the Gudang tribe (Glottolog reference)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/151737",
+   "found_in_search": true
+  },
+  {
+   "title": "Harper 1992 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/3239",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland: Word Week eleven",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-eleven",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland: Language week twenty, Djagaraga",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/language-week-week-twenty-djagaraga",
+   "found_in_search": true
+  },
+  {
+   "title": "Pama Language Centre",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.pamacentre.org.au/?p=987",
+   "found_in_search": true
+  }
+ ]
+}

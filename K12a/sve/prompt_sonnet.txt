@@ -1,0 +1,35 @@
+You will research 4 languages (svb, svc, sve, svk), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE svb ===
+Please help me gather resources for the Ulau-Suain language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: svb; Glottocode: ulau1237; family: Austronesian; macro-area: Papunesia; approx. speakers: about 2,800. Reference description: Ulau-Suain is an endangered indigenous language of Papua New Guinea. It belongs to the Austronesian language family. The language is used as a first language by all adults in the ethnic community, but not all young people. It is not known to be taught in schools.
+
+=== LANGUAGE svc ===
+Please help me gather resources for the Vincentian English Creole language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: svc; Glottocode: vinc1243; family: Indo-European; macro-area: North America; approx. speakers: about 100,000. Reference description: Vincentian English Creole is a stable indigenous language of Saint Vincent and the Grenadines. It is an English-based creole. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE sve ===
+Please help me gather resources for the Serili language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: sve; Glottocode: seri1255; family: Austronesian; macro-area: Papunesia; approx. speakers: about 330. Reference description: Serili is an endangered indigenous language of Indonesia. It belongs to the Austronesian language family. Direct evidence is lacking, but the language is thought to be used as a first language by older adults only. It is not known to be taught in schools.
+
+=== LANGUAGE svk ===
+Please help me gather resources for the Slovakian Sign Language language, both English and native. This is a sign language. The goal is a comprehensive K-12 curriculum for deaf and hearing learners that uses the sign language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: svk; Glottocode: slov1263; family: Sign Language; macro-area: Eurasia. Reference description: Slovakian Sign Language is a stable indigenous language of Slovakia. It is a deaf community sign language. The language is used as a first language by deaf people of all ages.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

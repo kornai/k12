@@ -1,0 +1,52 @@
+{
+ "iso": "wrr",
+ "name": "Wardaman",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:31:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Wardaman: a language of the Northern Territory of Australia (WorldCat record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://search.worldcat.org/oclc/28926390",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Wardaman (De Gruyter)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110871371/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wardaman Dictionary, Narrative, Song and Country (ELDP archive)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0696/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wardaman Dictionary, Narrative, Song and Country (ANU project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchportalplus.anu.edu.au/en/projects/wardaman-dictionary-narrative-song-and-country/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wardaman people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wardaman_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wardaman",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2580",
+   "found_in_search": true
+  }
+ ]
+}

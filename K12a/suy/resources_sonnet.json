@@ -1,0 +1,45 @@
+{
+ "iso": "suy",
+ "name": "Suyá",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Traços de Linguagem: language policies and school context in Khikatxi village",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.unemat.br/index.php/tracos/article/download/11220/7980/41067",
+   "found_in_search": true
+  },
+  {
+   "title": "Suyá language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suy%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kĩsêdjê language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/K%C4%A9s%C3%AAdj%C3%AA_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Signum (UEL) article on Suyá grammar",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ojs.uel.br/revistas/uel/index.php/signum/article/view/47304",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Suyá bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2725/bibliography?hl=de",
+   "found_in_search": true
+  }
+ ]
+}

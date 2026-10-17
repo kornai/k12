@@ -1,0 +1,45 @@
+{
+ "iso": "ssy",
+ "name": "Saho",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Eritrea: educating children in their mother tongue (GPE)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://globalpartnership.org/blog/eritrea-educating-children-their-mother-tongue",
+   "found_in_search": true
+  },
+  {
+   "title": "The Saho of Eritrea and the Documentation of their Language and Cultural Heritage (Banti and Vergari)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.sahoarchive.org/wp-content/uploads/2014/08/Banti_Vergari_The_Saho_of_Eritrea_and_the_Documentation_of_their_Language_and_Cultural_Heritage-libre.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "A sketch of Saho grammar (Banti and Vergari)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.academia.edu/758286/A_sketch_of_Saho_grammare",
+   "found_in_search": true
+  },
+  {
+   "title": "Saho Archive: grammatical notes",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.sahoarchive.org/grammatical-notes/",
+   "found_in_search": true
+  },
+  {
+   "title": "Saho Archive",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.sahoarchive.org/?p=9",
+   "found_in_search": true
+  }
+ ]
+}

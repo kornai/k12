@@ -1,0 +1,38 @@
+{
+ "iso": "xir",
+ "name": "Xiriâna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Xiriana language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xiriana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bahuana language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bahuana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Shiriana (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shiriana",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Xiriana (xiri1243)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/xiri1243.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}

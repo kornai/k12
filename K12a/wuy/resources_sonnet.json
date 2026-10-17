@@ -1,0 +1,31 @@
+{
+ "iso": "wuy",
+ "name": "Wauyai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:39:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Morphosyntactic data for Wauyai Ma'ya (WAU018), University of Edinburgh DataShare",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://datashare.ed.ac.uk/handle/10283/8610?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Wauyai in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19542",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wauyai (wuy)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/wuy",
+   "found_in_search": true
+  }
+ ]
+}

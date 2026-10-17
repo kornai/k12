@@ -1,0 +1,38 @@
+{
+ "iso": "ssr",
+ "name": "Swiss-French Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Swiss-French Sign Language - Endangered Languages Project (bibliography and profile)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/7360/bibliography?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "La Langue des Signes de Suisse Romande (speech2sign project, University of Geneva)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://speech2sign.unige.ch/index.php/download_file/view/16/134",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Geneva open archive record (unige:6004)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://archive-ouverte.unige.ch/unige:6004",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth page for ssr",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=ssr",
+   "found_in_search": true
+  }
+ ]
+}

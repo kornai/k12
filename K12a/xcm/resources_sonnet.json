@@ -1,0 +1,31 @@
+{
+ "iso": "xcm",
+ "name": "Comecrudo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:52:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Comecrudo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Comecrudo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Comecrudan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Comecrudan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Garza language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Garza_language",
+   "found_in_search": true
+  }
+ ]
+}

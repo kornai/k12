@@ -1,0 +1,52 @@
+{
+ "iso": "ssn",
+ "name": "Waata",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waata language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waata_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Heine 1981, The Waata Dialect of Oromo: Grammatical Sketch and Vocabulary (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/82381",
+   "found_in_search": true
+  },
+  {
+   "title": "The Waata dialect of Oromo: grammatical sketch and vocabulary (Quai Branly bibliography record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://quaibranly.fr/en/explore-collections/base/Bibliography/action/show/notice/000084582-the-waata-dialect-of-oromo-grammatical-sketch-and-vocabulary",
+   "found_in_search": true
+  },
+  {
+   "title": "Waata (Waatah) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/waata.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Waata language - Global Recordings Network",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/ssn",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Waata",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/4787?hl=de",
+   "found_in_search": true
+  }
+ ]
+}

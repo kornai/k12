@@ -1,0 +1,24 @@
+{
+ "iso": "xgb",
+ "name": "Gbin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gbin language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gbin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mandenkan article on Beng and Gbin (Isidore)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://isidore.science/document/10.4000/mandenkan.555",
+   "found_in_search": true
+  }
+ ]
+}

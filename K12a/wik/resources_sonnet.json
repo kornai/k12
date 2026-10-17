@@ -1,0 +1,45 @@
+{
+ "iso": "wik",
+ "name": "Wikalkan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:05:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wik Elken (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik_Elken",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik peoples (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik_peoples",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik-Ngathan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik-Ngathan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik-Ngatharr dialect (ISO 639:wik page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:wik",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik Mungkan - Orientation (neighbouring language overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.everyculture.com/Oceania/Wik-Mungkan-Orientation.html",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "sux",
+ "name": "Sumerian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Getting Started with... Sumerian (ISAW Library, NYU)",
+   "type": "other",
+   "language": "English",
+   "url": "https://isaw.nyu.edu/library/blog/getting-started-with-sumerian",
+   "found_in_search": true
+  },
+  {
+   "title": "Online Resources for Ancient Mesopotamia? (Digital Orientalist)",
+   "type": "other",
+   "language": "English",
+   "url": "https://digitalorientalist.com/2019/03/06/online-resources-for-ancient-mesopotamia/",
+   "found_in_search": true
+  },
+  {
+   "title": "ePSD2: electronic Pennsylvania Sumerian Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://stars.library.ucf.edu/ancientneareast/26",
+   "found_in_search": true
+  },
+  {
+   "title": "Flashcards: Hayes, Manual of Sumerian Grammar and Texts (Mnemosyne)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://mnemosyne-proj.org/cards/hayess-manual-sumerian-grammar-and-texts",
+   "found_in_search": true
+  }
+ ]
+}

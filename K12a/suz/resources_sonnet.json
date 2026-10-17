@@ -1,0 +1,52 @@
+{
+ "iso": "suz",
+ "name": "Sunwar",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Sunwar (Borchers, Brill 2008), Leiden University",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.universiteitleiden.nl/en/research/research-output/humanities/a-grammar-of-sunwar.-descriptive-grammar-paradigms-texts-and-glossary",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Sunwar, Leiden repository",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2920095/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Sunuwar dictionary (Webonary): preface",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/sunuwar/overview/preface/",
+   "found_in_search": true
+  },
+  {
+   "title": "Sunuwar dictionary (Webonary): credits and acknowledgements",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/sunuwar/?p=186002",
+   "found_in_search": true
+  },
+  {
+   "title": "Bieri and Schulze 1971, A Vocabulary of the Sunwar Language (Glottolog record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/154287",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sunwar entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/97180",
+   "found_in_search": true
+  }
+ ]
+}

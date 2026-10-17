@@ -1,0 +1,45 @@
+{
+ "iso": "wle",
+ "name": "Wolane",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ronny Meyer: Wolane. Descriptive Grammar of an East Gurage Language (Ethiosemitic) (review, Aethiopica)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://journals.sub.uni-hamburg.de/aethiopica/article/view/172",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolane: Descriptive Grammar of an East Gurage Language (publisher page, Koeppe)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_wolane",
+   "found_in_search": true
+  },
+  {
+   "title": "Addis Ababa University MA thesis: Grammatical Sketch of Wolane and Documentation of Wolane Riddles",
+   "type": "academic",
+   "language": "English",
+   "url": "https://etd.aau.edu.et/bitstreams/00ebee1d-636b-442d-a40c-1dfb7bb8f4e3/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wolane in Ethiopia",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19814/ET",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Wolane people",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wolane_people",
+   "found_in_search": true
+  }
+ ]
+}

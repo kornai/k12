@@ -1,0 +1,31 @@
+{
+ "iso": "wln",
+ "name": "Walloon",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:14:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Rifondou Walon (Common Written Walloon) - dictionary, lexicon, grammar and teaching resources",
+   "type": "other",
+   "language": "native",
+   "url": "https://rifondou.walon.org/index-engl.html",
+   "found_in_search": true
+  },
+  {
+   "title": "UCLouvain course listing: Walloon dialect languages and literature (2005)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://sites.uclouvain.be/etudes/2005/cours/en/rom2471a.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Berdelaedje (Walloon-language forum)",
+   "type": "community_org",
+   "language": "native",
+   "url": "https://berdelaedje.walon.org/viewtopic.php?p=1945",
+   "found_in_search": true
+  }
+ ]
+}

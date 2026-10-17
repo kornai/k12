@@ -1,0 +1,52 @@
+{
+ "iso": "ssp",
+ "name": "Spanish Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "CNSE: Proyecto ABC and related documentation (2009)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.cnse.es/media/k2/attachments/226.2009.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Una pagina web facilita la ensenanza de la lengua de signos en los centros educativos (CNSE Actividades en LSE)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.consumer.es/?p=233005",
+   "found_in_search": true
+  },
+  {
+   "title": "Universidad de Granada course guide 2024-2025 (Spread The Sign, DILSE, Pinedo Peydro dictionary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://grados.ugr.es/sites/grados/default/public/guias-firmadas/2024-2025/28611A6.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Dialnet article on LSE and deaf education",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dialnet.unirioja.es/descarga/articulo/3286682.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Gomez y otros (CNLSE archive)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://cnlse.es/antiguos/15Gomez_yOtros.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "CCOO note (2005) citing CNSE on sign language and school failure",
+   "type": "policy",
+   "language": "other",
+   "url": "https://hemerotecate.fe.ccoo.es/assets/20050616.pdf",
+   "found_in_search": true
+  }
+ ]
+}

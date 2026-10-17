@@ -1,0 +1,45 @@
+{
+ "iso": "sxs",
+ "name": "Sasaru",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sasaru language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sasaru_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Sasaru map",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sasa1252.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Igwe map",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/igwe1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sasaru in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14777",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language sxs",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/sxs",
+   "found_in_search": true
+  }
+ ]
+}

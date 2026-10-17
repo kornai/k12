@@ -1,0 +1,52 @@
+{
+ "iso": "wll",
+ "name": "Wali",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:14:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "An initial sketch on Wali phonology (a Sudanese endangered language)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://onlinejournals.uofk.edu/JFA/article/view/2083",
+   "found_in_search": true
+  },
+  {
+   "title": "Wali language (Sudan) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wali_language_(Sudan)",
+   "found_in_search": true
+  },
+  {
+   "title": "Wali (Glottolog)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/wali1262",
+   "found_in_search": true
+  },
+  {
+   "title": "Wali Sudan word list (ASJP)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WALI_SUDAN",
+   "found_in_search": true
+  },
+  {
+   "title": "Wali (Verbix endangered languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Wali",
+   "found_in_search": true
+  },
+  {
+   "title": "Wali in Sudan (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15836",
+   "found_in_search": true
+  }
+ ]
+}

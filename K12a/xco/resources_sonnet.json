@@ -1,0 +1,45 @@
+{
+ "iso": "xco",
+ "name": "Khwarezmian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:53:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Khwarezmian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khwarezmian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Chorasmian Online (Chorasmian Dictionary Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://chorasmianonline.melc.berkeley.edu",
+   "found_in_search": true
+  },
+  {
+   "title": "Chorasmian Online dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://chorasmianonline.melc.berkeley.edu/dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "The Chorasmian Dictionary Project: Materials & Goals",
+   "type": "academic",
+   "language": "English",
+   "url": "https://chorasmianonline.melc.berkeley.edu/2024/01/07/chorasmian-dictionary-project-materials-goals",
+   "found_in_search": true
+  },
+  {
+   "title": "Henning, Walter B. 1971 (Glottolog reference record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/58258",
+   "found_in_search": true
+  }
+ ]
+}

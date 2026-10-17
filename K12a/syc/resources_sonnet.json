@@ -1,0 +1,52 @@
+{
+ "iso": "syc",
+ "name": "Syriac",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Basics of Classical Syriac (Zondervan Academic pack)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://zondervanacademic.com/products/basics-of-classical-syriac-pack",
+   "found_in_search": true
+  },
+  {
+   "title": "Basics of Classical Syriac: Complete Grammar, Workbook, and Lexicon (Logos)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://logos.com/product/190239/basics-of-classical-syriac-complete-grammar-workbook-and-lexicon",
+   "found_in_search": true
+  },
+  {
+   "title": "Gorgias Concise Syriac-English, English-Syriac Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://gorgiaspress.com/gorgias-concise-syriac-english-english-syriac-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Gorgias Illustrated Learner's Syriac-English, English-Syriac Dictionary (catalogue record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://catalogo.abie.es/Record/rbagr.507165",
+   "found_in_search": true
+  },
+  {
+   "title": "Hugoye review of Classical Syriac course books",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hugoye.bethmardutho.org/pdf/vol25/HV25N2PRAim.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Edinburgh beginner Syriac course",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.drps.ed.ac.uk/25-26/dpt/cxdivi11053.htm",
+   "found_in_search": true
+  }
+ ]
+}

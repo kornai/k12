@@ -1,0 +1,52 @@
+{
+ "iso": "ssz",
+ "name": "Sengseng",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sengseng language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sengseng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sengseng",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2650",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems of the world's languages: Sengseng (Henley, MPI)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Sengseng.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Sengseng",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Sengseng",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sengseng in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14855",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: ssz",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/ssz",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "wiw",
+ "name": "Wirangu-Nauo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:08:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wirangu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wirangu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of the Wirangu Language of the Far West Coast of South Australia (catalogue record, ANU)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/a-dictionary-of-the-wirangu-language-of-the-far-west-coast-of-sou/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wirangu Language Project dataset (ATSIDA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://www.atsida.edu.au/archive/datasets/wlp",
+   "found_in_search": true
+  },
+  {
+   "title": "Adelaidean news: Wirangu talking picture dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.adelaide.edu.au/adelaidean/issues/12741/news12757.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Mobile Language Team",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mobilelanguageteam.com.au/?p=227",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "wlh",
+ "name": "Welaun",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Reintroducing Welaun (Owen Edwards, Oceanic Linguistics 2019; Leiden repository copy)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2979444/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Welaun language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Welaun_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Welaun wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/WELAUN",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Welaun in Timor-Leste",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/21838/TT",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC: Welaun narrative 'Life in Oele'u' (Edwards 2017)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/OE8/Welaun20171204_OeleuStory",
+   "found_in_search": true
+  }
+ ]
+}

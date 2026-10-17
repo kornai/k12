@@ -1,0 +1,31 @@
+{
+ "iso": "wmn",
+ "name": "Waamwang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:20:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waamwang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waamwang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Waamwang wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WAAMWANG",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Waamwang (waam1236)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/waam1236.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}

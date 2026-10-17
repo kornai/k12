@@ -1,0 +1,35 @@
+You will research 4 languages (swo, swp, swq, swr), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE swo ===
+Please help me gather resources for the Shanenawa language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: swo; Glottocode: shan1283; family: Pano-Tacanan; macro-area: South America; approx. speakers: about 9. Reference description: Shanenawa is an endangered indigenous language of Brazil. It belongs to the Panoan language family. The language is used as a first language by the elderly only. It is not known to be taught in schools.
+
+=== LANGUAGE swp ===
+Please help me gather resources for the Suau language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: swp; Glottocode: suau1242; family: Austronesian; macro-area: Papunesia; approx. speakers: about 6,800. Reference description: Suau is a language of wider communication that originated in Papua New Guinea. It belongs to the Austronesian language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE swq ===
+Please help me gather resources for the Sharwa language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: swq; Glottocode: shar1249; family: Afro-Asiatic; macro-area: Africa; approx. speakers: about 5,100. Reference description: Sharwa is an endangered indigenous language of Cameroon. It belongs to the Afro-Asiatic language family. The language is used as a first language by some people in every generation of the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE swr ===
+Please help me gather resources for the Saweru language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: swr; Glottocode: sawe1240; family: Yawa-Saweru; macro-area: Papunesia. Reference description: Saweru is an endangered indigenous language of Indonesia. It belongs to the West Papuan language family. The language is used as a first language by all adults in the ethnic community, but not all young people. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

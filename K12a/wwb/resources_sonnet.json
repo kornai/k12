@@ -1,0 +1,31 @@
+{
+ "iso": "wwb",
+ "name": "Wakabunga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:39:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wakabunga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wakabunga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wakabunga (people), Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wakabunga",
+   "found_in_search": true
+  },
+  {
+   "title": "Wakabunga (QLD), South Australian Museum archives, language groups",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.samuseum.sa.gov.au/collection/archives/language_groups/wakabunga",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "szg",
+ "name": "Sengele",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:55:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sengele language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sengele_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sengele (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/sengele.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Sengele in Congo, Democratic Republic of (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14852",
+   "found_in_search": true
+  },
+  {
+   "title": "AJOL article (possibly related to Sengele linguistic study; unconfirmed)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.ajol.info/index.php/aq/article/view/5596",
+   "found_in_search": true
+  }
+ ]
+}

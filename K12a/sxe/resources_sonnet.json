@@ -1,0 +1,45 @@
+{
+ "iso": "sxe",
+ "name": "Sighu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sighu language (English Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sighu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sighu (German Wikipedia)",
+   "type": "other",
+   "language": "other",
+   "url": "https://de.wikipedia.org/wiki/Sighu",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Sighu",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/SIGHU",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Sighu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sigh1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sighu in Gabon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19288/GB",
+   "found_in_search": true
+  }
+ ]
+}

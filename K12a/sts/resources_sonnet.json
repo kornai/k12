@@ -1,0 +1,38 @@
+{
+ "iso": "sts",
+ "name": "Shumashti",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Shumashti language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shumashti_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Shumashti",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5425",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Shumashti",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Shumashti",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Shumashti (sts)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Sts",
+   "found_in_search": true
+  }
+ ]
+}

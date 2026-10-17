@@ -1,0 +1,31 @@
+{
+ "iso": "wmo",
+ "name": "Wom",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:20:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wom language (Papua New Guinea) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wom_language_(Papua_New_Guinea)",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wom",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10565",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wom language",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/wmo",
+   "found_in_search": true
+  }
+ ]
+}

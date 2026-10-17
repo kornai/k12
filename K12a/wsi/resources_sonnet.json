@@ -1,0 +1,59 @@
+{
+ "iso": "wsi",
+ "name": "Jo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:33:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wusi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wusi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Wusi",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Wusi",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages catalogue entry (lang 2518)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2518",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages catalogue entry (lang 2511)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2511",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages bibliography (lang 3321)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3321/bibliography?hl=ru",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Jo (Elia)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/29971",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Jo (Kula Big Bay Bush)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/29972",
+   "found_in_search": true
+  }
+ ]
+}

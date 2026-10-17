@@ -1,0 +1,38 @@
+{
+ "iso": "xai",
+ "name": "Kaimbé",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:44:29Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kaimbé language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaimb%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dissertation PDF, UFRJ Pantheon (relevance unverified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://pantheon.ufrj.br/bitstream/11422/23466/1/PTBSilva.pdf.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Percursos article (UFES) on Northeast Brazilian indigenous language revitalization (not Kaimbé-specific)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufes.br/percursos/article/download/40923/27776",
+   "found_in_search": true
+  },
+  {
+   "title": "Leetra Indígena article (UFSCar) (not Kaimbé-specific)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://leetraindigena.ufscar.br/index.php/leetraindigena/article/download/43/33/153",
+   "found_in_search": true
+  }
+ ]
+}

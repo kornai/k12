@@ -1,0 +1,45 @@
+{
+ "iso": "xbj",
+ "name": "Birrpayi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:49:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Birrpayi (xbj)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/xbj",
+   "found_in_search": true
+  },
+  {
+   "title": "Gathang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gathang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Birrbay (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Birrbay",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG E3",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/e3",
+   "found_in_search": true
+  },
+  {
+   "title": "Birpai studies (Mid North Coast library research)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mnclibrary.org.au/research/birpai-studies/",
+   "found_in_search": true
+  }
+ ]
+}

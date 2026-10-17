@@ -1,0 +1,45 @@
+{
+ "iso": "ssb",
+ "name": "Southern Sama",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sama, Southern (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/SamaSouthern",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Sama Tawi-Tawi (ssb)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=ssb",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog entry for Southern Sama",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sout2844",
+   "found_in_search": true
+  },
+  {
+   "title": "sinama.org (Central Sinama dictionary app, orthography, poster)",
+   "type": "community_org",
+   "language": "native",
+   "url": "https://sinama.org/page/3/",
+   "found_in_search": true
+  },
+  {
+   "title": "Sama-Bajaw languages overview",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.Wikipedia.org/wiki/Sinama",
+   "found_in_search": true
+  }
+ ]
+}

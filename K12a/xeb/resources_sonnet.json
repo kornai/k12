@@ -1,0 +1,66 @@
+{
+ "iso": "xeb",
+ "name": "Eblaite",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:56:32Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ebla tablets (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ebla_tablets",
+   "found_in_search": true
+  },
+  {
+   "title": "Eblaite language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eblaite_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Eblaite language (Britannica)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.britannica.com/print/article/177618",
+   "found_in_search": true
+  },
+  {
+   "title": "Pettinato 1979, Old Canaanite Cuneiform Texts of the Third Millennium (Undena)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://undena.com/EL-UP/Pettinato_1979_Old_Canaanite_Cuneiform_Texts_-_MANE_1.7.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "The Ebla chancery texts in the light of recent linguistic research",
+   "type": "academic",
+   "language": "English",
+   "url": "https://plosjournal.deepdyve.com/lp/de-gruyter/the-ebla-chancery-texts-in-the-light-of-recent-linguistic-research-th0Gdl3DRP",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Eblaite",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ebla1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "CDLI: Ebla tablet P244156",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cdli.earth/artifacts/244156",
+   "found_in_search": true
+  },
+  {
+   "title": "The Palace Archive of Ebla, Syria",
+   "type": "other",
+   "language": "English",
+   "url": "https://historyofinformation.com/detail.php?id=3426",
+   "found_in_search": true
+  }
+ ]
+}

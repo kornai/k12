@@ -1,0 +1,45 @@
+{
+ "iso": "suv",
+ "name": "Puroik",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Bulu Puroik (Lieberherr, Univ. of Bern, 2017)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://biblio.unibe.ch/download/eldiss/17lieberherr_i.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "BORIS Theses: A grammar of Bulu Puroik",
+   "type": "academic",
+   "language": "English",
+   "url": "https://boristheses.unibe.ch/2251",
+   "found_in_search": true
+  },
+  {
+   "title": "Papers by Ismael Lieberherr (Academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://unibe-ch.academia.edu/IsmaelLieberherr",
+   "found_in_search": true
+  },
+  {
+   "title": "Puroik language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Puroik_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Puroik entry (cites Rai Soja English-Puroik Dictionary 2009)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/96719",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+You will research 4 languages (stl, stm, stn, sto), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE stl ===
+Please help me gather resources for the Stellingwerfs language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: stl. Reference description: Stellingwerfs is a stable indigenous language of Netherlands. It belongs to the Indo-European language family. Direct evidence is lacking, but the language is thought to be used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE stm ===
+Please help me gather resources for the Setaman language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: stm; Glottocode: seta1246; family: Nuclear Trans New Guinea; macro-area: Papunesia. Reference description: Setaman is a stable indigenous language of Papua New Guinea. It belongs to the Trans-New Guinea language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE stn ===
+Please help me gather resources for the Owa language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: stn; Glottocode: owaa1237; family: Austronesian; macro-area: Papunesia; approx. speakers: about 8,400. Reference description: Owa is a stable indigenous language of the Solomon Islands. It belongs to the Austronesian language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE sto ===
+Please help me gather resources for the Stoney language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: sto; Glottocode: ston1242; family: Siouan; macro-area: North America; approx. speakers: about 3,200. Reference description: Stoney is an endangered indigenous language of Canada. It belongs to the Siouan-Catawban language family. The language is used as a first language by adults only. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

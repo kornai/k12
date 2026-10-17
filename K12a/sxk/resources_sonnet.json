@@ -1,0 +1,66 @@
+{
+ "iso": "sxk",
+ "name": "Southern Kalapuya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kalapuyan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kalapuyan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Yoncalla language (ISO 639 sxk page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:sxk",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalapuyan Dictionary (UBC knowledge base entry)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=8483",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Oregon Language Revitalization Lab",
+   "type": "academic",
+   "language": "English",
+   "url": "https://blogs.uoregon.edu/revitalizationlab",
+   "found_in_search": true
+  },
+  {
+   "title": "Siletz tribal members lead effort to learn Kalapuyan (Lincoln Chronicle)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://lincolnchronicle.org/siletz-tribal-members-in-southern-oregon-are-leading-the-effort-to-learn-and-revive-the-native-kalapuyan-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "PSU: Jedd Schrock interviewed on reviving Kalapuya",
+   "type": "academic",
+   "language": "English",
+   "url": "https://pdx.edu/applied-linguistics/news/applied-linguistics-adjunct-faculty-jedd-schrock-recently-interviewed-reviving-kalapuya",
+   "found_in_search": true
+  },
+  {
+   "title": "Eustace Howard: A Kalapuya Narrative Resurrected (Corvallis Advocate)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://corvallisadvocate.com/eustace-howard-a-kalapuya-narrative-resurrecte/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalapuyan Language Lessons 2018 (blog)",
+   "type": "other",
+   "language": "English",
+   "url": "https://ndnhistoryresearch.com/?p=5548",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "wsa",
+ "name": "Warembori",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:33:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Warembori language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warembori_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lower Mamberamo languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lower_Mamberamo_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Donohue, note on Warembori (MPI EVA)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.eva.mpg.de/lingua/tools-at-lingboard/pdf/donohue_waremborinote.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages catalogue: Warembori",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/es/node/88791",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages catalogue: Warembori sample (grammar introduction listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3322/samples/10754?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: wsa",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Wsa",
+   "found_in_search": true
+  }
+ ]
+}

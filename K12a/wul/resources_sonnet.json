@@ -1,0 +1,31 @@
+{
+ "iso": "wul",
+ "name": "Silimo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:37:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Silimo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Silimo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Resources: Silimo (wul), Scripture Earth",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=wul",
+   "found_in_search": true
+  },
+  {
+   "title": "South Ngalik in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13332",
+   "found_in_search": true
+  }
+ ]
+}

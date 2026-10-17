@@ -1,0 +1,59 @@
+{
+ "iso": "wew",
+ "name": "Wejewa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:59:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wejewa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wejewa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wejewa verb list (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Wejewa",
+   "found_in_search": true
+  },
+  {
+   "title": "Wejewa writing and language (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/wejewa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Weyewa (Wiktionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.com/wiki/Weyewa",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC collection WEW2018",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/WEW2018",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC WEW2018 item MON022",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/WEW2018/items/MON022",
+   "found_in_search": true
+  },
+  {
+   "title": "Recordings of various texts, Tenggara Indonesia (Research Data Australia)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://researchdata.edu.au/recordings-various-texts-tenggara-indonesia/1426096",
+   "found_in_search": true
+  }
+ ]
+}

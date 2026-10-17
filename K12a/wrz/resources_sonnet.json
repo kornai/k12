@@ -1,0 +1,52 @@
+{
+ "iso": "wrz",
+ "name": "Waray",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:33:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Warray language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warray_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Austlang N25: Warray (AIATSIS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/N25",
+   "found_in_search": true
+  },
+  {
+   "title": "Gunwinyguan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gunwinyguan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Waray",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/WARAY",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages catalogue: Warray",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2025?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "The Oxford Guide to Australian Languages (chapter)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://academic.oup.com/book/46706/chapter/410240832",
+   "found_in_search": true
+  }
+ ]
+}

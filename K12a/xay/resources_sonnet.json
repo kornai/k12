@@ -1,0 +1,59 @@
+{
+ "iso": "xay",
+ "name": "Kayan Mahakam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:47:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kayan language (Borneo) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kayan_language_(Borneo)",
+   "found_in_search": true
+  },
+  {
+   "title": "Mahakam languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mahakam_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Kalimantan (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Languages_of_Kalimantan",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kayan Mahakam",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kaya1324.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Pacific Linguistics D-69 (Holle Lists, Kalimantan)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/144584/1/PL-D69.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Soriente and Inagaki 2012 conference paper",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingdy.aa-ken.jp/wp-content/uploads/2012/01/120217_soriente_inagaki_h2.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "A Comparative Vocabulary of the Kayan, Kenyah and Kalabit dialects",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://biodiversitylibrary.org/part/292444",
+   "found_in_search": true
+  }
+ ]
+}

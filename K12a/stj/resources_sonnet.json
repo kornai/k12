@@ -1,0 +1,52 @@
+{
+ "iso": "stj",
+ "name": "Matya Samo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Samo language (Burkina) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Samo_language_(Burkina)",
+   "found_in_search": true
+  },
+  {
+   "title": "Matya Samo (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/stj/",
+   "found_in_search": true
+  },
+  {
+   "title": "Samo-Matya numerals (MPI-EVA channumerals)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Samo-Matya.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language stj",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/stj",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Samo Matya in Burkina Faso",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/14675/UV",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Samo Matya in Mali",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/14675/ML",
+   "found_in_search": true
+  }
+ ]
+}

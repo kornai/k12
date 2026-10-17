@@ -1,0 +1,52 @@
+{
+ "iso": "wgy",
+ "name": "Warrgamay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:02:04Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gamburu gamu biyu: Warrgamay body chart (State Library of Queensland)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://content.slq.qld.gov.au/sites/default/files/0011-211889-gamburu-gamu-biyu-warrgamay_0.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS: Y220 Biyay",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1510719",
+   "found_in_search": true
+  },
+  {
+   "title": "Warrgamay language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warrgamay_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Warrgamay",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/88838",
+   "found_in_search": true
+  },
+  {
+   "title": "Warrgamay Bada Bada Aboriginal Corporation RNTBC",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wettropicsplan.org.au/contacts-plan-partners/warrgamay-bada-bada-aboriginal-corporation-rntbc",
+   "found_in_search": true
+  },
+  {
+   "title": "Girringun Aboriginal Corporation",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wettropicsplan.org.au/contacts-plan-partners/girringun-aboriginal-corporation/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "szw",
+ "name": "Sawai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:56:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sawai dictionary (draft, Webonary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/sawai/overview/foreword/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawai language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sawai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawai (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/sawai.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawai numeral system paper (Taha, Febriningsih, Erniati, 2021)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.atlantis-press.com/proceedings/asbam-21/125973606",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawai numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Sawai.htm",
+   "found_in_search": true
+  }
+ ]
+}

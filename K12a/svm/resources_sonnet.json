@@ -1,0 +1,45 @@
+{
+ "iso": "svm",
+ "name": "Slavomolisano",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammatica essenziale dello slavomolisano (Walter Breu, University of Konstanz)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://kops.uni-konstanz.de/server/api/core/bitstreams/32ad082a-52a2-4da0-8869-dd618d3a17d9/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Konstanz Slavic linguistics page on Molise Slavic / Acquaviva Collecroce dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://uni-konstanz.de/FuF/Philo/Sprachwiss/slavistik/acqua/spracheE.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Slavomolisano dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:svm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Slavomolisano",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Slavomolisano",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Salerno IRIS record (contents not examined)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.iris.unisa.it/handle/11386/4819215",
+   "found_in_search": true
+  }
+ ]
+}

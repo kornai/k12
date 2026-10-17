@@ -1,0 +1,59 @@
+{
+ "iso": "sxg",
+ "name": "Shuhi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Shixing language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shixing_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Chirkova: Lower Xumi (HAL PDF, 2012)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://halshs.archives-ouvertes.fr/hal-01136684v1/file/2012%20Lower%20Xumi%20HAL.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Katia Chirkova 2014 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/319917",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Shixing word list",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/SHIXING",
+   "found_in_search": true
+  },
+  {
+   "title": "Cocoon archive listing for sxg",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=sxg",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Shixing people-group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/sichuan/shixing.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Shixing (Xumi)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5431",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "xin",
+ "name": "Xinca",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Xinka (Webonary), introduction",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/xinka/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Xinca",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/112966",
+   "found_in_search": true
+  },
+  {
+   "title": "Frauke Sachse, publications (Academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://doaks.academia.edu/FraukeSachse/Books",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University repository item on Xinkan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2961976/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Britannica: Xinca language",
+   "type": "other",
+   "language": "English",
+   "url": "https://britannica.com/topic/Xinca-language",
+   "found_in_search": true
+  }
+ ]
+}

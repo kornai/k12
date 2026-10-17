@@ -1,0 +1,45 @@
+{
+ "iso": "ssi",
+ "name": "Sansi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sansi language (Wikipedia, archived)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://webcf.waybackmachine.org/web/20220318070737/https://en.wikipedia.org/wiki/Sansi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sansi people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sansi_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Sansi (Sikh traditions) in India (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18166",
+   "found_in_search": true
+  },
+  {
+   "title": "Sansi (Hindu traditions) in India (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/18019/IN",
+   "found_in_search": true
+  },
+  {
+   "title": "Sansi in India (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21498",
+   "found_in_search": true
+  }
+ ]
+}

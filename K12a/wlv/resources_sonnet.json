@@ -1,0 +1,38 @@
+{
+ "iso": "wlv",
+ "name": "Bermejo Wichí",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "CONICET: Wichi (news and projects on Wichi bilingual materials)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.conicet.gov.ar/tag/wichi/",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of the DIWICA Wichi-Castellano dictionary, Revista de Lexicografia 28",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://revistas.udc.gal/index.php/rlex/article/view/rlex.2022.28.1.9489/g9489_pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "tsalanawufichas (2006), Lengua Wichi site",
+   "type": "other",
+   "language": "native",
+   "url": "https://lenguawichi.com.ar/wp-content/uploads/2017/01/2006-tsalanawufichas.original.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Vidal and Nercesian 2009, Lengua Wichi site",
+   "type": "academic",
+   "language": "other",
+   "url": "https://lenguawichi.com.ar/wp-content/uploads/2017/01/vidal-nercesian-2009.original.pdf",
+   "found_in_search": true
+  }
+ ]
+}

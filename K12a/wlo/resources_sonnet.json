@@ -1,0 +1,31 @@
+{
+ "iso": "wlo",
+ "name": "Wolio",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:14:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wolio language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wolio_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolio (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/wolio.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolio language information by source (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/112056",
+   "found_in_search": true
+  }
+ ]
+}

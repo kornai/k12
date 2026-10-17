@@ -1,0 +1,24 @@
+{
+ "iso": "wsv",
+ "name": "Degano",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:34:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wotapuri-Katarqalai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wotapuri-Katarqalai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wotapuri-Katarqalai entry, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3319",
+   "found_in_search": true
+  }
+ ]
+}

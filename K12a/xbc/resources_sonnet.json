@@ -1,0 +1,52 @@
+{
+ "iso": "xbc",
+ "name": "Bactrian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:48:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bactrian Documents from Northern Afghanistan (Sims-Williams), Khalili Collections listing",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.khalilicollections.org/?p=3958",
+   "found_in_search": true
+  },
+  {
+   "title": "Rabatak inscription - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Rabatak_inscription",
+   "found_in_search": true
+  },
+  {
+   "title": "Bactrian language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.Wikipedia.com/wiki/Bactrian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bactrian (Αριαο) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/bactrian.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The Rabatak Inscription (journal article)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tesl.shirazu.ac.ir/article_255.html",
+   "found_in_search": true
+  },
+  {
+   "title": "British Academy collections object bab 12729 (Bactrian-related record)",
+   "type": "other",
+   "language": "English",
+   "url": "https://collections.thebritishacademy.ac.uk/object-bab-12729",
+   "found_in_search": true
+  }
+ ]
+}

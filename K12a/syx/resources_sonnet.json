@@ -1,0 +1,45 @@
+{
+ "iso": "syx",
+ "name": "Samay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Samay language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Samay_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Osamayi (osam1235)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/osam1235.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Samay (syx)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=syx",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Samay in Gabon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20995",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Samay (syx)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/syx",
+   "found_in_search": true
+  }
+ ]
+}

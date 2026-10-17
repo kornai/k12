@@ -1,0 +1,52 @@
+{
+ "iso": "sua",
+ "name": "Sulka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sulka of East New Britain: A Mixture of Oceanic and Papuan Traits (Reesink 2005)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/184769/",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Sulka",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/sulk1246",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank source: Reesink, Sulka",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/sources/sReesinkSulka",
+   "found_in_search": true
+  },
+  {
+   "title": "Clifton 1996, Two non-Austronesian grammars from the islands (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/142755",
+   "found_in_search": true
+  },
+  {
+   "title": "Sulka language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sulka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sulka (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/110541",
+   "found_in_search": true
+  }
+ ]
+}

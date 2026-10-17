@@ -1,0 +1,38 @@
+{
+ "iso": "xao",
+ "name": "Khao",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:45:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Khao [xao]",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/xao",
+   "found_in_search": true
+  },
+  {
+   "title": "Kháng language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kh%C3%A1ng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Khao numerals (MPI-EVA Lingweb)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Khao.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Khao in Vietnam (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12653",
+   "found_in_search": true
+  }
+ ]
+}

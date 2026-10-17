@@ -1,0 +1,52 @@
+{
+ "iso": "wob",
+ "name": "Wè Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Egner, Ingeborg 1989: Précis de grammaire wobé (Glottolog record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/116019",
+   "found_in_search": true
+  },
+  {
+   "title": "Bertho, J. 1951 (Géré and Wobê dialects; Glottolog record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/27617",
+   "found_in_search": true
+  },
+  {
+   "title": "CNRS REFLEX bibliography for Wobé",
+   "type": "academic",
+   "language": "other",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio.php?LGNOM=Wobé",
+   "found_in_search": true
+  },
+  {
+   "title": "Wobé language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wob%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Guere language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Guere_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Wobé (Wɛɛ)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/wobe.htm",
+   "found_in_search": true
+  }
+ ]
+}

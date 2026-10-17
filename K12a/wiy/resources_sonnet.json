@@ -1,0 +1,52 @@
+{
+ "iso": "wiy",
+ "name": "Wiyot",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:08:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wiyot language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wiyot_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiyot dictionary and corpus project (UC Berkeley Linguistics)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://linguistics.berkeley.edu/~wiyot/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF award BCS-0854176 (Wiyot documentation)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-0854176",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiyot language overview (Language Geek)",
+   "type": "other",
+   "language": "English",
+   "url": "https://languagegeek.com/california/wiyot.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Speaking Soulatluk (Eureka waterfront signs project)",
+   "type": "community_org",
+   "language": "native",
+   "url": "https://www.inkpeople.org/speakingsoulatluk",
+   "found_in_search": true
+  },
+  {
+   "title": "Federal grant program aims to revitalize Native languages (KRCB)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://krcb.org/2022061779834/news-feed/fading-native-languages-thrown-federal-lifeline",
+   "found_in_search": true
+  }
+ ]
+}

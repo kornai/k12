@@ -1,0 +1,31 @@
+{
+ "iso": "xgu",
+ "name": "Unggumi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Unggumi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ungg1243",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Unggumi",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/UNGGUMI",
+   "found_in_search": true
+  },
+  {
+   "title": "Worrorran languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Worrorran_languages",
+   "found_in_search": true
+  }
+ ]
+}

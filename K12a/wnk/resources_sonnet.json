@@ -1,0 +1,52 @@
+{
+ "iso": "wnk",
+ "name": "Wanukaka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wanukaka dictionary (Dictionaria)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://dictionaria.clld.org/contributions/wanukaka",
+   "found_in_search": true
+  },
+  {
+   "title": "Wanukaka language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wanukaka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bukti-bukti fonologis pembeda bahasa Wanokaka dan bahasa Anakalang di Sumba Tengah-NTT",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.undiksha.ac.id/index.php/PRASI/article/view/6826",
+   "found_in_search": true
+  },
+  {
+   "title": "GARUDA record on Wanokaka and Anakalang",
+   "type": "academic",
+   "language": "other",
+   "url": "https://garuda.kemdiktisaintek.go.id/documents/detail/6082956",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Wanukaka",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Wanukaka",
+   "found_in_search": true
+  },
+  {
+   "title": "Wanukaka in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15859",
+   "found_in_search": true
+  }
+ ]
+}

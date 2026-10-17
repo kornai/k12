@@ -1,0 +1,45 @@
+{
+ "iso": "wiv",
+ "name": "Vitu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:08:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vitu (Pole Vitu) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/vitu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 18.371 (review of Vitu Grammar Sketch)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dev.linguistlist.org/issues/18/371/",
+   "found_in_search": true
+  },
+  {
+   "title": "Vitu verb list (Verbix)",
+   "type": "other",
+   "language": "other",
+   "url": "https://docs.verbix.com/Languages/Vitu",
+   "found_in_search": true
+  },
+  {
+   "title": "Vitu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vitu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Vitu (mudu1242)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mudu1242",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "wja",
+ "name": "Waja",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:09:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waja language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waja_language",
+   "found_in_search": true
+  },
+  {
+   "title": "The study of suffixation in Waja language plural formation",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.jolan.com.ng/index.php/home/article/view/412",
+   "found_in_search": true
+  },
+  {
+   "title": "Waja Bible (eBible.org)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/Bible/details.php?id=wja",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Waja language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/wja",
+   "found_in_search": true
+  }
+ ]
+}

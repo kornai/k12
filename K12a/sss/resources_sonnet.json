@@ -1,0 +1,24 @@
+{
+ "iso": "sss",
+ "name": "So",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:19Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SO LAOS - ASJP language page",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SO_LAOS",
+   "found_in_search": true
+  },
+  {
+   "title": "Migliazza - ethnolinguistic paper with So population estimates",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ethnorema.it/wp-content/uploads/1-03-Migliazza.pdf",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "swi",
+ "name": "Sui",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sui language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sui_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sui script (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sui_script",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Sui script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/sui.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Letter from the Shui community to Unicode WG2 (N4981)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://unicode.org/wg2/docs/n4981-LetterFromShuiCommunity.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Shui people-group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.people-groups.asiaharvest.org/China/chinaPeoples/S/Shui.pdf",
+   "found_in_search": true
+  }
+ ]
+}

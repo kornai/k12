@@ -1,0 +1,45 @@
+{
+ "iso": "xaa",
+ "name": "Andalusian Arabic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:42:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Review of A Descriptive and Comparative Grammar of Andalusi Arabic (JAOS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lockwoodonlinejournals.com/index.php/jaos/article/view/1662",
+   "found_in_search": true
+  },
+  {
+   "title": "Library record: A Descriptive and Comparative Grammar of Andalusi Arabic (OeAW)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.oeaw.ac.at/resources/Record/993582399004498",
+   "found_in_search": true
+  },
+  {
+   "title": "Monroe, article on zajal and muwashshaha in Oral Tradition",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journal.oraltradition.org/wp-content/uploads/files/articles/4i-ii/4_Monroe.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Zajal (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zajal",
+   "found_in_search": true
+  },
+  {
+   "title": "Toponomasticon Hispaniae entry citing the Andalusi Arabic grammar",
+   "type": "other",
+   "language": "other",
+   "url": "https://toponhisp.org/eu/node/5049",
+   "found_in_search": true
+  }
+ ]
+}

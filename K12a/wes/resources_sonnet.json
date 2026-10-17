@@ -1,0 +1,66 @@
+{
+ "iso": "wes",
+ "name": "Cameroon Pidgin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:58:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cameroonian Pidgin English (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Cameroonian_Pidgin_English",
+   "found_in_search": true
+  },
+  {
+   "title": "Kouega, Jean-Paul 2008 (Dictionary of Cameroon Pidgin English Usage), Glottolog reference record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/52263",
+   "found_in_search": true
+  },
+  {
+   "title": "Cameroon Pidgin English: A comprehensive grammar (chapter listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://lwc1.benjamins.com/catalog/loall.20.c12",
+   "found_in_search": true
+  },
+  {
+   "title": "A Survey of the Linguistic Preferences of Cameroon Pidgin English Speakers",
+   "type": "academic",
+   "language": "English",
+   "url": "https://benjamins.com/catalog/jpcl.9.1.04wil",
+   "found_in_search": true
+  },
+  {
+   "title": "A spoken corpus of Cameroon Pidgin English: Compilation, applications and next steps",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://blog.philsoc.org.uk/2019/01/25/a-spoken-corpus-of-cameroon-pidgin-english-compilation-applications-and-next-steps/",
+   "found_in_search": true
+  },
+  {
+   "title": "Mbah and Anderson 2005 (PHOIBLE source)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://phoible.org/sources/1632_mbah_pny",
+   "found_in_search": true
+  },
+  {
+   "title": "New Testament (Dramatized), Pidgin, Cameroon (wes)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m0b6334-new-testament-dramatized-wes-pidgin-cameroon-audio-bible/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Cameroon Pidgin (wes)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wes",
+   "found_in_search": true
+  }
+ ]
+}

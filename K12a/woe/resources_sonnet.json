@@ -1,0 +1,45 @@
+{
+ "iso": "woe",
+ "name": "Woleaian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:25:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Woleaian-English Dictionary (UH Press Manifold)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://manifold.uhpress.hawaii.edu/projects/woleaian-english-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Woleaian-English Dictionary (ScholarSpace)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/51651da3-5029-4b86-a343-aca8c94167c4/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Woleaian-English Dictionary (Habele Institute reference)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://habeleinstitute.org/wiki/Zotero_reference:X6GLC5C4",
+   "found_in_search": true
+  },
+  {
+   "title": "Woleaian Reference Grammar (Sohn, 1975)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://oalib-perpustakaan.upi.edu/Record/doab_20_500_12854_114450/Holdings",
+   "found_in_search": true
+  },
+  {
+   "title": "tekinged.com Woleaian dictionary (partial online clone)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://tekinged.com/books/woleaian_dict.php",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "syr",
+ "name": "syr",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "UCLouvain course: Syriac (LGLOR1644A)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://uclouvain.be/en-cours-2026-lglor1644a",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexical Tools to the Syriac New Testament (Kiraz, Gorgias Press)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://gorgiaspress.com/lexical-tools-to-the-syriac-new-testament",
+   "found_in_search": true
+  },
+  {
+   "title": "Gospel Studies: Syriac language resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.biblicalstudies.gospelstudies.org.uk/lang_syriac.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Beth Mardutho - Wikipedia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Beth_Mardutho",
+   "found_in_search": true
+  },
+  {
+   "title": "Digital Syriac Corpus: History",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://syriaccorpus.org/history.html",
+   "found_in_search": true
+  },
+  {
+   "title": "eBethArke: The Syriac Digital Library",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://rucore.libraries.rutgers.edu/portals/ebetharke/",
+   "found_in_search": true
+  }
+ ]
+}

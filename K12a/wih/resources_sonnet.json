@@ -1,0 +1,31 @@
+{
+ "iso": "wih",
+ "name": "Wik-Me’anha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wik-Me'nh language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik-Me%27nh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik Me'anh (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik_Me%27anh",
+   "found_in_search": true
+  },
+  {
+   "title": "Wik peoples (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wik_peoples",
+   "found_in_search": true
+  }
+ ]
+}

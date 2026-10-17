@@ -1,0 +1,52 @@
+{
+ "iso": "whk",
+ "name": "Kenyah, Wahau",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:03:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wahau Kenyah language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wahau_Kenyah_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kalimantan language documentation overview (Soriente and Inagaki, handout)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingdy.aa-ken.jp/wp-content/uploads/2012/01/120217_soriente_inagaki_h2.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wahau Kenya (Verbix Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/WahauKenya",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Wahau Kenyah scripture resources",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=whk",
+   "found_in_search": true
+  },
+  {
+   "title": "Kenyah, Wahau in Indonesia (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/print/12626/ID",
+   "found_in_search": true
+  },
+  {
+   "title": "Kenyah, Wahau (Global Recordings Network; no recordings listed)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/whk",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "wtw",
+ "name": "Wotu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:35:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wotu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wotu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wotu in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15419",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wotu",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2804",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "srz",
+ "name": "Shahmirzadi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Caspian Language of Šahmirzād (Borjian, JAOS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lockwoodonlinejournals.com/index.php/jaos/article/view/882",
+   "found_in_search": true
+  },
+  {
+   "title": "The Caspian Language of Šahmirzād (full text PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lockwoodonlinejournals.com/index.php/jaos/article/download/882/717/1854",
+   "found_in_search": true
+  },
+  {
+   "title": "Shahmirzadi numerals (MPI-EVA)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Shahmirzadi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry (contents unverified)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/96185",
+   "found_in_search": true
+  },
+  {
+   "title": "Shahmirzadi in Iran (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/18860",
+   "found_in_search": true
+  },
+  {
+   "title": "Sangesari Webonary (related but different language)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/sangesari/?p=9444",
+   "found_in_search": true
+  }
+ ]
+}

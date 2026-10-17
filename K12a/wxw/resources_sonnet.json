@@ -1,0 +1,66 @@
+{
+ "iso": "wxw",
+ "name": "Wardandi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:40:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "WA Curriculum: Noongar Language Revival, Year 5 (role of language building)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://k10outline.scsa.wa.edu.au/home/teaching/curriculum-browser/languages/western-australian-aboriginal-languages-noongar-language-revival-pre-primary-to-year-10/year-5/understanding/role-of-language-building/aclfwu172",
+   "found_in_search": true
+  },
+  {
+   "title": "WA Curriculum: Noongar Language Revival, Year 7 (role of language building)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://k10outline.scsa.wa.edu.au/home/teaching/curriculum-browser/languages/western-australian-aboriginal-languages-noongar-language-revival-pre-primary-to-year-10/year-7/understanding/role-of-language-building/aclfwu194",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG entry w3",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/w3",
+   "found_in_search": true
+  },
+  {
+   "title": "Bracknell et al. (AIATSIS Yumi Sabe)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://yumi-sabe.aiatsis.gov.au/sites/default/files/outputs/2024-02/Bracknell_etal.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Rebuilding as Research: Noongar Song, Language and Ways of Knowing",
+   "type": "academic",
+   "language": "English",
+   "url": "https://research-repository.uwa.edu.au/en/publications/rebuilding-as-research-noongar-song-language-and-ways-of-knowing/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wardandi Clan Plaque (Noongar Boodjar)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://noongarboodjar.com.au/?p=1964",
+   "found_in_search": true
+  },
+  {
+   "title": "My journey on coastal Noongar Boodjar (IYIL 2019)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.iyil2019.org/wp-content/uploads/2019/05/my-journey-on-coastal-noongar-boodjar-noongar-country.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ever widening circles: Wirlomin Noongar archival material (ECU)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ro.ecu.edu.au/exhibit/highlighting-aboriginal-and-torres-strait-islander-research-at-ecu/language/ever-widening-circles-consolidating-and-enhancing-wirlomin-noongar-archival-material-in-the-community/",
+   "found_in_search": true
+  }
+ ]
+}

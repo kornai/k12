@@ -1,0 +1,38 @@
+{
+ "iso": "ssq",
+ "name": "So’a",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "So'a language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/So%CA%BCa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: So'a",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/9589?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Soa language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Soa",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: So'a in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14968",
+   "found_in_search": true
+  }
+ ]
+}

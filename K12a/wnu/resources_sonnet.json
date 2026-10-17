@@ -1,0 +1,45 @@
+{
+ "iso": "wnu",
+ "name": "Usan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:59Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Usan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Usan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Structures and their Functions in Usan (Reesink 1987)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1075/slcs.13/html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Usan",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/USAN",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Wanuma",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/WANUMA",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Usan, Wanuma in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15743",
+   "found_in_search": true
+  }
+ ]
+}

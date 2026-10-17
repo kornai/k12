@@ -1,0 +1,31 @@
+{
+ "iso": "wga",
+ "name": "Wagaya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:59:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wagaya language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wagaya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wagaya language word list (Rankine, 1985), Territory Stories",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://territorystories.nt.gov.au/10070/884443",
+   "found_in_search": true
+  },
+  {
+   "title": "Wagaya (Grambank)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/waga1260",
+   "found_in_search": true
+  }
+ ]
+}

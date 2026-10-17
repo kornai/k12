@@ -1,0 +1,87 @@
+{
+ "iso": "wya",
+ "name": "Huron-Wyandot",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:41:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wendat language site (Langue wendat)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://languewendat.com/en/?p=691",
+   "found_in_search": true
+  },
+  {
+   "title": "DSMW - A Wandat (Wyandot) Language Workbook",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.onlc.ca/bookstore/p/dsmw-a-wandat-wyandot-language-workbook",
+   "found_in_search": true
+  },
+  {
+   "title": "Wyandot language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wyandot_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar and Dictionary of Wyandot (Kopris 2001)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/A_Grammar_and_Dictionary_of_Wyandot",
+   "found_in_search": true
+  },
+  {
+   "title": "A Huron-English/English-Huron Dictionary (Steckley 2007)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/A_Huron-English/English-Huron_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "The First French-Huron Dictionary by Father Jean de Brebeuf and his Jesuit Brethren",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=3902",
+   "found_in_search": true
+  },
+  {
+   "title": "Wendat Dictionary (UBC RelLex entry)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Wendat_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Wendat (Waⁿdat) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/wyandot.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wyandotte Nation culture page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wyandotte-nation.org/culture/",
+   "found_in_search": true
+  },
+  {
+   "title": "John Steckley, Wyandot tribal linguist (NCCIE)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.nccie.ca/story/john-steckley-wyandot-tribal-linguist/",
+   "found_in_search": true
+  },
+  {
+   "title": "FirstVoices Huron-Wendat",
+   "type": "audio",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Huron-Wendat_FirstVoices",
+   "found_in_search": true
+  }
+ ]
+}

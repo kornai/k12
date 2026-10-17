@@ -1,0 +1,45 @@
+{
+ "iso": "suk",
+ "name": "Sukuma",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:47Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sukuma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sukuma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sukuma (Kisukuma) on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/sukuma.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Seidel, German-Kisukuma dictionary and grammatical sketch (HALD)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://hald.byu.edu/summary_sukuma_Seidel",
+   "found_in_search": true
+  },
+  {
+   "title": "REFLEX (CNRS) bibliography for Sukuma",
+   "type": "academic",
+   "language": "English",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio.php?LGNOM=Suk",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Sukuma",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=suk",
+   "found_in_search": true
+  }
+ ]
+}

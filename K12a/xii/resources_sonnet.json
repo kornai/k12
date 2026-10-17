@@ -1,0 +1,45 @@
+{
+ "iso": "xii",
+ "name": "Xiri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Khoemana (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khoemana",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP database entry for Xiri",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/XIRI",
+   "found_in_search": true
+  },
+  {
+   "title": "Channumerals: Xiri, Western Cape, South Africa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Xiri.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Gueldemann: Western Ui (conference paper, Speaking of Khoisan 2015)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.eva.mpg.de/fileadmin/content_files/linguistics/conferences/2015-speaking-of-Khoisan/P5_Linguistics_Gueldemann_Western__Ui.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Studies in African Linguistics article on the spelling of Xiri",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.flvc.org/sal/article/download/118040/116005/172172",
+   "found_in_search": true
+  }
+ ]
+}

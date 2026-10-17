@@ -1,0 +1,38 @@
+{
+ "iso": "wur",
+ "name": "Wurrugu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:37:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wurrugu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wurrugu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Marrku-Wurrugu languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marrku%E2%80%93Wurrugu_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: Wurrugu (N37)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/N37",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog family: Marrku-Wurrugu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/marr1257",
+   "found_in_search": true
+  }
+ ]
+}

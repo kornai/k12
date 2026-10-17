@@ -1,0 +1,38 @@
+{
+ "iso": "wri",
+ "name": "Wariyangga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Wariyangga (wari1262)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/wari1262",
+   "found_in_search": true
+  },
+  {
+   "title": "Warriyangga (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warriyangga",
+   "found_in_search": true
+  },
+  {
+   "title": "Mantharta language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mantharta_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AUSTLANG entry (AIATSIS), Mantharta group",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/w28",
+   "found_in_search": true
+  }
+ ]
+}

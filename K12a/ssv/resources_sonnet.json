@@ -1,0 +1,24 @@
+{
+ "iso": "ssv",
+ "name": "Ngen",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngen language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngen_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngen - Endangered Languages (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Ngen",
+   "found_in_search": true
+  }
+ ]
+}

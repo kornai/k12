@@ -1,0 +1,31 @@
+{
+ "iso": "suu",
+ "name": "Sungkai (Indonesia)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Sungkai (Indonesia), retired, merged into Lampung Api",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sung1271",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Lampung Api (Sungkai) wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=608",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Lampung Sungkai in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15124",
+   "found_in_search": true
+  }
+ ]
+}
