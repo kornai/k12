@@ -1,0 +1,31 @@
+{
+ "iso": "klc",
+ "name": "Kolbila",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Linguistische Beschreibung des Kolbila",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_print_linguistische-beschreibung-des-kolbila",
+   "found_in_search": true
+  },
+  {
+   "title": "Kolbila language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kolbila_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Kolbila-Likum word pairs (crowd-sourced)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/klc/lib",
+   "found_in_search": true
+  }
+ ]
+}
