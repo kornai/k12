@@ -1,0 +1,31 @@
+{
+ "iso": "ynu",
+ "name": "Yahuna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yahuna language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yahuna_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tucanoan languages (Wikipedia mirror)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://static.hlt.bme.hu/semantics/external/pages/jokuc/en.wikipedia.org/wiki/Tucanoan_languages.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yauna in Colombia (note: lists Macuna, likely a different group)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15948/CO",
+   "found_in_search": true
+  }
+ ]
+}

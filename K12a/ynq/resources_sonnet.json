@@ -1,0 +1,45 @@
+{
+ "iso": "ynq",
+ "name": "Yendang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yendang language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yendang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Yendang",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/YENDANG",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yandang in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15978",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language ynq",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/ynq",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yendang (Akule &amp; Ikume)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/1878",
+   "found_in_search": true
+  }
+ ]
+}

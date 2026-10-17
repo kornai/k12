@@ -1,0 +1,31 @@
+{
+ "iso": "yob",
+ "name": "Yoba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yoba language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yoba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yoba numerals (Max Planck EVA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yoba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yoba",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yoba1237.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}

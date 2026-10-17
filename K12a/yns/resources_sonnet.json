@@ -1,0 +1,52 @@
+{
+ "iso": "yns",
+ "name": "Iyansi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yansi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yansi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yansi (Eyansi)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/yansi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Yansi",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/yns/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yansi in DR Congo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15986/CG",
+   "found_in_search": true
+  },
+  {
+   "title": "Yanzi people (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yanzi_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yansi",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/yns",
+   "found_in_search": true
+  }
+ ]
+}
