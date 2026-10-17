@@ -1,0 +1,31 @@
+{
+ "iso": "sty",
+ "name": "Siberian Tatar",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tatar language teaching in Tyumen region schools and need for textbooks (Tatar Congress)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://tatar-congress.org/en/?p=9195",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on Giganov's 1804 Russian-Tatar dictionary and Siberian Tatar dialect vocabulary (Tomsk State University journal)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.tsu.ru/vestnik/en/&amp;journal_page=archive&amp;id=868&amp;article_id=49459",
+   "found_in_search": true
+  },
+  {
+   "title": "Euralex 2016 paper p475 (lexicography; relevance to Siberian Tatar unconfirmed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202016/euralex_2016_052_p475.pdf",
+   "found_in_search": true
+  }
+ ]
+}
