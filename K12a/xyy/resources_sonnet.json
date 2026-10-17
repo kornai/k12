@@ -1,0 +1,52 @@
+{
+ "iso": "xyy",
+ "name": "Yorta Yorta",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yorta Yorta language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yorta_Yorta_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Community, Languages, Schools (Gowrie Street Primary School Yorta Yorta program)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://vaeai.org.au/?p=6888",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaiela Institute Yorta Yorta Language case study",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.jawun.org.au/s/GM_Case-Study_Kaiela-Institute_Yorta-Yorta-Language.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yorta Yorta dictionary app",
+   "type": "software",
+   "language": "native",
+   "url": "https://apps.apple.com/app/id1356419603",
+   "found_in_search": true
+  },
+  {
+   "title": "Yorta Yorta app flyer (Moira Shire)",
+   "type": "software",
+   "language": "English",
+   "url": "https://www.moira.vic.gov.au/files/sharedassets/public/v/1/01-residents/maternal-and-child-health/yorta-yorta-app-flyer.docx",
+   "found_in_search": true
+  },
+  {
+   "title": "Shepparton Interfaith page mentioning Yorta Yorta Language Heritage (Monash)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://sheppartoninterfaith.org.au/?p=2560",
+   "found_in_search": true
+  }
+ ]
+}

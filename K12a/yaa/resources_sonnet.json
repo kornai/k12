@@ -1,0 +1,52 @@
+{
+ "iso": "yaa",
+ "name": "Yaminahua",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lengua yaminahua (EcuRed)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.ecured.cu/Lengua_yaminawa",
+   "found_in_search": true
+  },
+  {
+   "title": "Yaminawa (Yaminauá), Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yaminawa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Faust and Loos 2002, Gramática del idioma yaminahua",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://ldh.clld.org/sources/item_402694",
+   "found_in_search": true
+  },
+  {
+   "title": "SAPhon: Yaminahua phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Yaminahua.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Multidialectal Lexical Documentation of Yaminahua, Nahua, and Sharanahua",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/multidialectal-lexical-documentation-of-yaminahua-nahua-and-sharanahua",
+   "found_in_search": true
+  },
+  {
+   "title": "ELDP/ELAR archive: Multidialectal lexical documentation of Yaminahua, Nahua, and Sharanahua",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0605/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+You will research 4 languages (xyy, xzh, xzm, yaa), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE xyy ===
+Please help me gather resources for the Yorta Yorta language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xyy; Glottocode: yort1237; family: Pama-Nyungan; macro-area: Australia. Reference description: Yorta Yorta is an extinct language of Australia. It belongs to the Australian language family.
+
+=== LANGUAGE xzh ===
+Please help me gather resources for the Zhangzhung language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xzh; Glottocode: zhan1239; family: Sino-Tibetan; macro-area: Eurasia
+
+=== LANGUAGE xzm ===
+Please help me gather resources for the Zemgalian language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xzm. Reference description: Zemgalian is an extinct language of Latvia and Lithuania. It belongs to the Indo-European language family.
+
+=== LANGUAGE yaa ===
+Please help me gather resources for the Yaminahua language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: yaa; Glottocode: yami1256; family: Pano-Tacanan; macro-area: South America; approx. speakers: about 3,500. Reference description: Yaminahua is a stable indigenous language of Peru, Bolivia, and Brazil. It belongs to the Panoan language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

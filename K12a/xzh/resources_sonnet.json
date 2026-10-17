@@ -1,0 +1,66 @@
+{
+ "iso": "xzh",
+ "name": "Zhangzhung",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Zhang-Zhung language: a grammar and dictionary (Haarh 1968), OeAW catalogue",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.oeaw.ac.at/resources/Record/990001864100504498?lng=en",
+   "found_in_search": true
+  },
+  {
+   "title": "The Zhang-zhung language: a grammar and dictionary (Applied Buddhism record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.appliedbuddhism.org.uk/node/29671",
+   "found_in_search": true
+  },
+  {
+   "title": "Haarh, Zhang-Zhung language (UPenn catalogue)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://find.library.upenn.edu/catalog/998390953503681",
+   "found_in_search": true
+  },
+  {
+   "title": "Haarh 1968 (WALS reference database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/refdb/record/Haarh-1968",
+   "found_in_search": true
+  },
+  {
+   "title": "The Present Stage of Deciphering Old Zhangzhung",
+   "type": "academic",
+   "language": "English",
+   "url": "https://minpaku.repo.nii.ac.jp/record/2570/files/SES75_010.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhangzhung paper (Senri Ethnological Reports 76)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://minpaku.repo.nii.ac.jp/record/7403/files/SER76_002.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference entry for Zhangzhung",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/302963",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Zhangzhung",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/33490",
+   "found_in_search": true
+  }
+ ]
+}
