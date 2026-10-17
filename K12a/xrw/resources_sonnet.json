@@ -1,0 +1,59 @@
+{
+ "iso": "xrw",
+ "name": "Karawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Karawa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Karawa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ram languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ram_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Karawa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kara1495.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Karawa wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KARAWA",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Karawa",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Karawa",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: xrw",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/xrw",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: xrw",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/xrw",
+   "found_in_search": true
+  }
+ ]
+}

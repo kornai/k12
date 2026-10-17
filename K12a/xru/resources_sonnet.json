@@ -1,0 +1,45 @@
+{
+ "iso": "xru",
+ "name": "Marriammu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Marriammu entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2329",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Marrithiyel and dialects, with bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mari1420",
+   "found_in_search": true
+  },
+  {
+   "title": "Marrithiyel language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marrithiyel_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: xru",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/xru",
+   "found_in_search": true
+  },
+  {
+   "title": "Mariamo people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.org/wiki/Mariamo",
+   "found_in_search": true
+  }
+ ]
+}

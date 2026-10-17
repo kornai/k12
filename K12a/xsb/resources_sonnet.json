@@ -1,0 +1,38 @@
+{
+ "iso": "xsb",
+ "name": "Sambal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sambal language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sambal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "UP Linguistics language capsule: Sambal",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.upd.edu.ph/the-katig-collective/language-capsules/sambal",
+   "found_in_search": true
+  },
+  {
+   "title": "UP Linguistics: Sambal page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.upd.edu.ph/?p=9638",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagalog.com dictionary entry: Sambal",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.tagalog.com/dictionary/sambal",
+   "found_in_search": true
+  }
+ ]
+}
