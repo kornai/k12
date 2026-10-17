@@ -1,0 +1,73 @@
+{
+ "iso": "pwo",
+ "name": "Karen, Pwo Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:48:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Karen Language Resources (mnkaren.org)",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://mnkaren.org/resources/karen-language-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Pwo (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/westernpwo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Karen Pwo Western",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KAREN_PWO_WESTERN",
+   "found_in_search": true
+  },
+  {
+   "title": "UNHCR: Committee begins development of English, Myanmar and Karen languages dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://data.unhcr.org/en/news/20297",
+   "found_in_search": true
+  },
+  {
+   "title": "Karen News: karen languages tag",
+   "type": "other",
+   "language": "English",
+   "url": "https://karennews.org/tag/karen-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Pwo Karen Western (Myanmar)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Pwo-Karen-Western.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Karen, Pwo Western",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/pwo",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Karen, Pwo Western (alternate listing)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/416",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Pwo Western, Kanchanaburi Pwo (Thailand)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/11631",
+   "found_in_search": true
+  }
+ ]
+}

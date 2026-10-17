@@ -1,0 +1,24 @@
+{
+ "iso": "pyu",
+ "name": "Puyuma",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nanwang Puyuma-English Dictionary (Cauquelin, Academia Sinica)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.govbooks.com.tw/books/108522",
+   "found_in_search": true
+  },
+  {
+   "title": "Puyuma language (Wikipedia, with links to teaching materials and online dictionary)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.org/wiki/ISO_639:pyu",
+   "found_in_search": true
+  }
+ ]
+}

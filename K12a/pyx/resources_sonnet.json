@@ -1,0 +1,24 @@
+{
+ "iso": "pyx",
+ "name": "Burma Pyu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pyu language (Sino-Tibetan) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pyu_language_(Sino-Tibetan)",
+   "found_in_search": true
+  },
+  {
+   "title": "Miyake: Pyu as a Sino-Tibetan branch (John Benjamins catalogue)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.benjamins.com/catalog/ltba.18013.miy",
+   "found_in_search": true
+  }
+ ]
+}

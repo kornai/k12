@@ -1,0 +1,45 @@
+{
+ "iso": "pye",
+ "name": "Pye Krumen",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pye Krumen dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/pye/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals of Pye Krumen (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Krumen-Pye.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Northeastern Krumen",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14003",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Krumen Pye, Yapo",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/12363",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Krumen Pye, Wlepo",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/12361",
+   "found_in_search": true
+  }
+ ]
+}

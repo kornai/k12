@@ -1,0 +1,66 @@
+{
+ "iso": "pys",
+ "name": "Paraguayan Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:50:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "UNICEF Paraguay: classics of children's literature for deaf and hearing children (LSPy video books)",
+   "type": "video",
+   "language": "other",
+   "url": "https://www.unicef.org/paraguay/stories/m%C3%A1s-cl%C3%A1sicos-de-la-literatura-para-ni%C3%B1os-sordos-y-oyentes",
+   "found_in_search": true
+  },
+  {
+   "title": "Escuela de Sordos comparte importancia de la lengua de señas (ABC Color)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://www.abc.com.py/nacionales/2023/09/22/escuela-de-sordos-comparte-importancia-de-la-lengua-de-senas/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lengua de señas tendrá diccionario digital (Hoy)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.hoy.com.py/nacionales/lengua-de-senas-tendra-diccionario-digital",
+   "found_in_search": true
+  },
+  {
+   "title": "Anuario Académico, Universidad Española de Paraguay: literacy proposal for deaf people",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ojs.uep.edu.py/index.php/anuarioacademico/article/download/67/50",
+   "found_in_search": true
+  },
+  {
+   "title": "Iglesias cristianas se unen para traducir la Biblia a lengua de señas (La Nación)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.lanacion.com.py/pais/2026/09/30/iglesias-cristianas-se-unen-para-traducir-la-biblia-a-lengua-de-senas/",
+   "found_in_search": true
+  },
+  {
+   "title": "Presentan campaña que promociona lengua de señas (La Nación)",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://www.lanacion.com.py/pais/2018/09/14/presentan-campana-que-promociona-lengua-de-senas/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lenguaje de señas: lo básico que todos debemos saber (La Nación)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.lanacion.com.py/pais/2019/09/23/lenguaje-de-senas-lo-basico-que-todos-debemos-saber/",
+   "found_in_search": true
+  },
+  {
+   "title": "Manos que escriben el aire: incluir a 20.000 personas sordas (Última Hora)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.ultimahora.com/manos-que-escriben-el-aire-incluir-20000-personas-sordas-n732324",
+   "found_in_search": true
+  }
+ ]
+}

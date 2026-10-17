@@ -1,0 +1,45 @@
+{
+ "iso": "pym",
+ "name": "Pyam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pyam dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/pyam/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals of Pyam (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Pyam.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: East Plateau languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/East_Plateau_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Pyem people",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pyem_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Pyam",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5303",
+   "found_in_search": true
+  }
+ ]
+}

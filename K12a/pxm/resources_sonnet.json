@@ -1,0 +1,59 @@
+{
+ "iso": "pxm",
+ "name": "Quetzaltepec Mixe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Swarthmore ling073 wiki: Mixe",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikis.swarthmore.edu/ling073/Mixe",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Bradley 1970",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/48857",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS reference: Bradley 1970",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/refdb/record/Bradley-1970",
+   "found_in_search": true
+  },
+  {
+   "title": "Colonial Mixe texts with brief grammar and glossary (minpaku)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://minpaku.repo.nii.ac.jp/record/4275/files/KH_016_2_003.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Quetzaltepec Mixe",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/pxm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Quetzaltepec Mixe",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/pxm/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry (Mixe)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/bn/node/112946",
+   "found_in_search": true
+  }
+ ]
+}

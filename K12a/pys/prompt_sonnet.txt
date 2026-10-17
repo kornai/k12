@@ -1,0 +1,35 @@
+You will research 4 languages (pys, pyu, pyx, pyy), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE pys ===
+Please help me gather resources for the Paraguayan Sign Language language, both English and native. This is a sign language. The goal is a comprehensive K-12 curriculum for deaf and hearing learners that uses the sign language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: pys; Glottocode: para1318; family: Sign Language; macro-area: South America. Reference description: Paraguayan Sign Language is a stable indigenous language of Paraguay. It is a deaf community sign language. The language is used as a first language by deaf people of all ages.
+
+=== LANGUAGE pyu ===
+Please help me gather resources for the Puyuma language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: pyu; Glottocode: puyu1239; family: Austronesian; macro-area: Papunesia; approx. speakers: about 8,500. Reference description: Puyuma is an endangered indigenous language of Taiwan. It belongs to the Austronesian language family. The language is used as a first language by older adults only. It is not known to be taught in schools.
+
+=== LANGUAGE pyx ===
+Please help me gather resources for the Burma Pyu language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: pyx; Glottocode: burm1262; family: Sino-Tibetan; macro-area: Eurasia
+
+=== LANGUAGE pyy ===
+Please help me gather resources for the Pyen language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: pyy; Glottocode: pyen1239; family: Sino-Tibetan; macro-area: Eurasia; approx. speakers: about 600. Reference description: Pyen is a stable indigenous language of Myanmar. It belongs to the Sino-Tibetan language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.
