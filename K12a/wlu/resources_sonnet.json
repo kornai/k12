@@ -1,0 +1,31 @@
+{
+ "iso": "wlu",
+ "name": "Wuliwuli",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wulli Wulli language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wulli_Wulli_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: Wulli Wulli (E89)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/e89",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland: Word of the Week, week thirty-nine (2019)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-thirty-nine",
+   "found_in_search": true
+  }
+ ]
+}

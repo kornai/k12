@@ -1,0 +1,45 @@
+{
+ "iso": "wls",
+ "name": "Wallisian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "East Uvean: A condensed grammar (Livingston 2016)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://digital.lib.washington.edu/researchworks/items/2a9fbe02-60ce-4f08-b20d-6c04f7414ab9",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: East Uvean, information from Livingston (2016)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/11041",
+   "found_in_search": true
+  },
+  {
+   "title": "Wallisian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wallisian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Elements de grammaire wallisienne (PARADISEC catalogue)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/collections/NLA1/items/SPCmf36",
+   "found_in_search": true
+  },
+  {
+   "title": "Living Dictionaries: Faka'uvea",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/lea-fakauvea/about",
+   "found_in_search": true
+  }
+ ]
+}
