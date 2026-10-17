@@ -1,0 +1,35 @@
+You will research 4 languages (xla, xlb, xlc, xld), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE xla ===
+Please help me gather resources for the Kamula language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xla; Glottocode: kamu1260; family: Kamula-Elevala; macro-area: Papunesia; approx. speakers: about 800. Reference description: Kamula is a stable indigenous language of Papua New Guinea. It belongs to the Trans-New Guinea language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE xlb ===
+Please help me gather resources for the Loup B language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xlb; Glottocode: loup1245; family: Algic; macro-area: North America. Reference description: Loup B is an extinct language of the United States. It belongs to the Algic language family.
+
+=== LANGUAGE xlc ===
+Please help me gather resources for the Lycian A language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xlc; Glottocode: lyci1241; family: Indo-European; macro-area: Eurasia
+
+=== LANGUAGE xld ===
+Please help me gather resources for the Lydian language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xld; Glottocode: lydi1241; family: Indo-European; macro-area: Eurasia
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.
