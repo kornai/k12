@@ -1,0 +1,45 @@
+{
+ "iso": "xps",
+ "name": "Pisidian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pisidian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pisidian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pisidian language (Britannica)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.britannica.com/print/article/1380518",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University scholarly publication on Pisidian",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3677187/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Notes and Inscriptions from Pisidia, Part 1 (Anatolian Studies)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/journals/anatolian-studies/article/abs/notes-and-inscriptions-from-pisidia-part-1/39C43B2A31BCBDD3B4D24CD125E71674",
+   "found_in_search": true
+  },
+  {
+   "title": "Unpublished inscriptions from Pisidian Antioch (Anatolian Studies)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/journals/anatolian-studies/article/abs/unpublished-inscriptions-from-pisidian-antioch/07CF22EBABA6A5CD6B9261121BADF45A",
+   "found_in_search": true
+  }
+ ]
+}

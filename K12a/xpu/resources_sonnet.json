@@ -1,0 +1,45 @@
+{
+ "iso": "xpu",
+ "name": "Punic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Phoenician-Punic Grammar (ARCE library record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.arce.org/portal/Record/40648",
+   "found_in_search": true
+  },
+  {
+   "title": "A Phoenician-Punic Grammar, table of contents",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.arce.org/portal/Record/40648/TOC",
+   "found_in_search": true
+  },
+  {
+   "title": "A Phoenician-Punic Grammar (Brill, De Gruyter Brill page)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/isbn/9789004294202/html",
+   "found_in_search": true
+  },
+  {
+   "title": "A Phoenician-Punic Grammar (SBL Press reprint)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://cart.sbl-site.org/books/069556P",
+   "found_in_search": true
+  },
+  {
+   "title": "Punic Language (Academia.edu topic page)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/Documents/in/Punic_Language",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "xpt",
+ "name": "Punthamara",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Punthamara (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Punthamara",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS collection record for Punthamara",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1508862",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Punthamara word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PUNTHAMARA",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE Punthamara",
+   "type": "other",
+   "language": "English",
+   "url": "https://phoible.org/languages/punt1240",
+   "found_in_search": true
+  },
+  {
+   "title": "Mathews, Robert Hamilton 1905 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/584391",
+   "found_in_search": true
+  },
+  {
+   "title": "Biodiversity Heritage Library part 212925",
+   "type": "other",
+   "language": "English",
+   "url": "https://biodiversitylibrary.org/part/212925",
+   "found_in_search": true
+  },
+  {
+   "title": "Punthamara (QLD), South Australian Museum archives",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.samuseum.sa.gov.au/collection/archives/language_groups/punthamara",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland, Word Week blog 2019",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-six",
+   "found_in_search": true
+  }
+ ]
+}
