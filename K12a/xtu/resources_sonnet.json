@@ -1,0 +1,45 @@
+{
+ "iso": "xtu",
+ "name": "Mixtec, Cuyamecalco",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:01:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cuyamecalco Mixtec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Cuyamecalco_Mixtec",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Alta Mixtec (Endangered Languages Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/10533?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "Cuyamecalco Mixtec (Wikitongues)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/xtu/",
+   "found_in_search": true
+  },
+  {
+   "title": "Cuyamecalco Mixtec (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/xtu",
+   "found_in_search": true
+  },
+  {
+   "title": "Mixtec, Cuyamecalco language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/xtu",
+   "found_in_search": true
+  }
+ ]
+}

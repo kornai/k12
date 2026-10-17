@@ -1,0 +1,24 @@
+{
+ "iso": "xtt",
+ "name": "Mixtec, Tacahua",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:01:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mixtec, Tacahua language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/xtt",
+   "found_in_search": true
+  },
+  {
+   "title": "Atatláhuca–San Miguel Mixtec (Wikipedia, Tacahua Mixtec redirect)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.wikipedia.com/wiki/Tacahua_Mixtec",
+   "found_in_search": true
+  }
+ ]
+}
