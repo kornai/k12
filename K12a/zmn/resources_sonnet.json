@@ -1,0 +1,59 @@
+{
+ "iso": "zmn",
+ "name": "Mbangwe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:01:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mbangwe language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mbangwe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Mbangwe (mban1268)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mban1268.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Mbangwe word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/MBANGWE",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mbangwe in Gabon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/13619/GB",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mbangwe in Republic of the Congo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/13619/CF",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language zmn",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/languages/zmn",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: zmn",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zmn",
+   "found_in_search": true
+  }
+ ]
+}
