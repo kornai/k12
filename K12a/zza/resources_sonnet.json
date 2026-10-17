@@ -1,0 +1,45 @@
+{
+ "iso": "zza",
+ "name": "zza",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:29:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Digital Dialects: Zazaki illustrated dictionaries",
+   "type": "software",
+   "language": "English",
+   "url": "https://digitaldialects.com/Zazaki_picture_dictionaries.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Zazaki dictionary (foreword)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/zazaki/foreword/",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Zazaki word list entries (from the Keskin textbook word list)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/zazaki/?p=184575",
+   "found_in_search": true
+  },
+  {
+   "title": "Zaza-English / English-Zaza Dictionary & Phrasebook (Nicholas Awde, Hippocrene Books)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.hippocrenebooks.com/store/p513/ZazaDictionaryandPhrasebook.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Munzur University: Zaza Language and Literature course content",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.munzur.edu.tr/birimler/idari/erasmus/pages/File/DersIcerikleri/Faculty%20of%20Letters/Zaza%20Language%20and%20Literature.pdf",
+   "found_in_search": true
+  }
+ ]
+}
