@@ -1,0 +1,38 @@
+{
+ "iso": "ztm",
+ "name": "Zapotec, San Agustín Mixtepec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:22:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "San Agustín Mixtepec Zapotec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/San_Agust%C3%ADn_Mixtepec_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: San Agustín Mixtepec Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/SanAgustinMixtepecZapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: San Agustín Mixtepec Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3116",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapoteco, San Agustin Mixtepec",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/ztm",
+   "found_in_search": true
+  }
+ ]
+}

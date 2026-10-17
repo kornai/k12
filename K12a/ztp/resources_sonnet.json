@@ -1,0 +1,66 @@
+{
+ "iso": "ztp",
+ "name": "Loxicha Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:22:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Loxicha Zapotec (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Loxicha_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Loxicha Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/loxi1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Loxicha Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ztp/",
+   "found_in_search": true
+  },
+  {
+   "title": "ELDP collection on San Bartolomé Loxicha Zapotec",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk01620182/",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Zapotec Loxicha word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/ZAPOTEC_LOXICHA",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Loxicha Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/loxi1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Miahuatec Zapotec (San Bartolomé Loxicha) Talking Dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://works.swarthmore.edu/fac-linguistics/361",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Loxicha",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/ztp",
+   "found_in_search": true
+  }
+ ]
+}
