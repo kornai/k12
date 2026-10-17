@@ -1,0 +1,66 @@
+{
+ "iso": "zpv",
+ "name": "Chichicapan Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Chichicapam Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Phonemes and examples in Chichicapan Central Zapoteco",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A135293",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Illustrated dictionary elicitation in Chichicapan Central Zapoteco",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A135249",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Minimal pairs",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A135270",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Survey of Zapotec and Chatino Languages Collection",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://islandora-ailla.lib.utexas.edu/node/151",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Changing of the Authorities in San Baltazar Chichicapan",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A135263",
+   "found_in_search": true
+  },
+  {
+   "title": "Zapotec, Chichicapan language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zpv",
+   "found_in_search": true
+  },
+  {
+   "title": "Chichicapan Zapotec language (GRN, alternate page)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/4440",
+   "found_in_search": true
+  }
+ ]
+}

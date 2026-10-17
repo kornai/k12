@@ -1,0 +1,52 @@
+{
+ "iso": "zpu",
+ "name": "Yalálag Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:15:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yalalag Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yal%C3%A1lag_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Alonso Ortiz: positional verbs in Yalalag Zapotec (Linguistica Mexicana)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://linguisticamexicana-amla.colmex.mx/index.php/Linguistica_mexicana/article/download/319/351/1459",
+   "found_in_search": true
+  },
+  {
+   "title": "Lopez: Cuento del conejo y la zorra (Colmex repository)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/pz50gx934?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL working paper with Zapotec data (Zapotec to English)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://icu.repo.nii.ac.jp/record/5377/files/02_Zapotec_ZAPtoENG.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yalalag community and textiles information",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mexicantextiles.com/grouppages/groups/zapotecsierra/yalalag/index.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Zapotec, Yalalag language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zpu",
+   "found_in_search": true
+  }
+ ]
+}
