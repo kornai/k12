@@ -1,0 +1,45 @@
+{
+ "iso": "ypl",
+ "name": "Pula Yi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:08:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Pula Yi (retired code ypl)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/ypl",
+   "found_in_search": true
+  },
+  {
+   "title": "Puzzling over Phula (Pelkey)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/2435607/Puzzling_over_Phula",
+   "found_in_search": true
+  },
+  {
+   "title": "Phula numerals (MPI-EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Phula.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Pula people profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/China/chinaPeoples/P/Pula.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Phola in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/16151",
+   "found_in_search": true
+  }
+ ]
+}

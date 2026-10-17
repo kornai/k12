@@ -1,0 +1,59 @@
+{
+ "iso": "ypb",
+ "name": "Phowa, Labo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:08:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Phowa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Phowa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Puzzling over Phula (Pelkey)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/2435607/Puzzling_over_Phula",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Labo Phowa (ypb)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/ypb",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Puwa Yi",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/puwa1234",
+   "found_in_search": true
+  },
+  {
+   "title": "Southeastern Loloish languages / Phula language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.com/wiki/Phula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Labo Phowa in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20609",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: ypb",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/ypb",
+   "found_in_search": true
+  }
+ ]
+}

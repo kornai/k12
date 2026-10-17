@@ -1,0 +1,38 @@
+{
+ "iso": "yph",
+ "name": "Phupha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:08:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Phupha language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Phupha_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Phupha in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20628",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Phupa in China (related variety)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20611",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: yph",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/yph",
+   "found_in_search": true
+  }
+ ]
+}
