@@ -1,0 +1,31 @@
+{
+ "iso": "ysc",
+ "name": "Yassic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:15:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Jassic dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Jassic_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Ossetians (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ossetians",
+   "found_in_search": true
+  },
+  {
+   "title": "Jasz people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Jasz_people",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "yry",
+ "name": "Yarluyandi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:15:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mobile Language Team: Yarluyandi",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://portal.mobilelanguageteam.com.au/languages/yarluyandi/",
+   "found_in_search": true
+  },
+  {
+   "title": "Hercus, Yarluyandi vocabulary (PHOIBLE source entry)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://phoible.org/sources/hercus_yarluyandi_nodate",
+   "found_in_search": true
+  },
+  {
+   "title": "Yarluyandi (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yarluyandi",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: Diyari (Sourcebook for Central Australian Languages)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/l17",
+   "found_in_search": true
+  }
+ ]
+}
