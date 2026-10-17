@@ -1,0 +1,66 @@
+{
+ "iso": "yso",
+ "name": "Nisi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:53Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Nisi (China) nisi1238",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/nisi1238.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Nisu language (Wikipedia, related varieties)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nisu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nyisu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nyisu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lama: Nisoic subgrouping dissertation (UT Arlington)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://uta-ir.tdl.org/uta-ir/bitstream/handle/10106/11161/Lama_uta_2502D_11591.pdf%3Fsequence=1&amp;isAllowed=y",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Southwestern Nisu (nsv, related)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/nsv",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Northwestern Nisu (nsf, related)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/nsf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Eastern Nisu (nos, related)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/nos",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Eastern Nisu (nos, related)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/nos/",
+   "found_in_search": true
+  }
+ ]
+}
