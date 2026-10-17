@@ -1,0 +1,38 @@
+{
+ "iso": "ywq",
+ "name": "Yi, Wuding-Luquan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nasu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nasu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Wuding-Luquan Yi",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/wudi1238",
+   "found_in_search": true
+  },
+  {
+   "title": "ScholarSpace: Naisu wordlist recording, Wuding County",
+   "type": "audio",
+   "language": "other",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/cf83ef6d-ec48-4ce8-bd00-d4e433c6eed8/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yi, Wuding-Luquan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/ywq",
+   "found_in_search": true
+  }
+ ]
+}
