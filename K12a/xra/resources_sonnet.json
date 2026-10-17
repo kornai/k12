@@ -1,0 +1,45 @@
+{
+ "iso": "xra",
+ "name": "Krahô",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Educação Indígena Krahô: material de apoio pedagógico",
+   "type": "other",
+   "language": "other",
+   "url": "https://mail.sumarios.org/artigo/educa%C3%A7%C3%A3o-ind%C3%ADgena-krah%C3%B4-material-de-apoio-pedag%C3%B3gico",
+   "found_in_search": true
+  },
+  {
+   "title": "Escola Timbira (CTI library)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://biblioteca.trabalhoindigenista.org.br/wp-content/uploads/2018/06/escola_timbira.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on Krahô schooling (UFPel, Revista Linguagem e Ensino)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufpel.edu.br/index.php/rle/article/download/16066/10115",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on Krahô schooling (UFG, Interação)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.ufg.br/interacao/article/download/41003/21434/179638",
+   "found_in_search": true
+  },
+  {
+   "title": "Extension report on Krahô narratives (Unitins)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revista.unitins.br/index.php/extensao/article/download/8369/4943",
+   "found_in_search": true
+  }
+ ]
+}

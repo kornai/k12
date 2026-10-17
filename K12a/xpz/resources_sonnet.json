@@ -1,0 +1,52 @@
+{
+ "iso": "xpz",
+ "name": "Tasmanian, Bruny Island",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bruny Island Tasmanian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bruny_Island_Tasmanian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nuenonne language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nuenonne_language",
+   "found_in_search": true
+  },
+  {
+   "title": "palawa kani (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Palawa_kani",
+   "found_in_search": true
+  },
+  {
+   "title": "Aboriginal &amp; Torres Strait Islander Data Archive record",
+   "type": "other",
+   "language": "English",
+   "url": "https://atsida.edu.au/node/351",
+   "found_in_search": true
+  },
+  {
+   "title": "Native Land: Nuenonne territory",
+   "type": "other",
+   "language": "English",
+   "url": "https://native-land.ca/maps/territories/nuenonne/",
+   "found_in_search": true
+  },
+  {
+   "title": "Bruny Island: Aboriginal story page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://brunyisland.org.au/our-island/rodneydillon-aboriginal-story/",
+   "found_in_search": true
+  }
+ ]
+}
