@@ -1,0 +1,45 @@
+{
+ "iso": "xga",
+ "name": "Galatian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:58:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Galatian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Galatian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Continental Celtic languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Continental_Celtic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "BMCR 2002.12.19 review",
+   "type": "academic",
+   "language": "English",
+   "url": "https://bmcr.brynmawr.edu/?p=22725",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC repository item (Galatian-related)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://circle.ubc.ca/handle/2429/21055",
+   "found_in_search": true
+  },
+  {
+   "title": "Galatians: Celts in Anatolia (Folkdance Footnotes)",
+   "type": "other",
+   "language": "English",
+   "url": "https://folkdancefootnotes.org/culture/ethnicity-history-geography/galatians-celts-in-anatolia/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xfa",
+ "name": "Faliscan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:58:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Faliscan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Faliscan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PRIN Italia Antica project page (Faliscan)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.prin-italia-antica.unifi.it/p149.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Rigobianco: Digital Italy (Faliscan corpus overview)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.prin-italia-antica.unifi.it/upload/sub/immagini/Rigobianco-Digital-Italy.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Falisco (overview, University of Venice repository)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://iris.unive.it/retrieve/e4239ddd-ee09-7180-e053-3705fe0a3322/Falisco.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Doctoral thesis re-examining Faliscan inscriptions",
+   "type": "academic",
+   "language": "other",
+   "url": "https://tesidottorato.depositolegale.it/handle/20.500.14242/194697",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia.edu item on Faliscan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/34993242",
+   "found_in_search": true
+  }
+ ]
+}

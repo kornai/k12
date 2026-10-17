@@ -1,0 +1,52 @@
+{
+ "iso": "xeu",
+ "name": "Keoru-Ahia",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:58:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Keoru language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Keoru_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Eleman languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eleman_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Category:Keoru-Ahia language (Wiktionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/Category:Keoru-Ahia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Keoru-Ahia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/keor1235.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Keoru-Ahia language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/xeu",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Keuru in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12643/PP",
+   "found_in_search": true
+  }
+ ]
+}

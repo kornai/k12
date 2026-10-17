@@ -1,0 +1,59 @@
+{
+ "iso": "xet",
+ "name": "Xetá",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:58:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Xeta language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Xeta_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Povos Indigenas no Brasil: Xeta",
+   "type": "academic",
+   "language": "English",
+   "url": "https://pib.socioambiental.org/en/Povo:Xetá",
+   "found_in_search": true
+  },
+  {
+   "title": "Indios.org.br: Xeta",
+   "type": "other",
+   "language": "English",
+   "url": "https://indios.org.br/en/povo/xeta",
+   "found_in_search": true
+  },
+  {
+   "title": "eduCAPES repository item on Xeta (UFPR)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://educapes.capes.gov.br/handle/1884/37035?mode=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Jane Reko Paranuha: teacher education and revival of the Xeta language in Parana (UCLA conference paper)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://conferences.gseis.ucla.edu/simposio/ponencias-presentations/faustinorosangela-celia-keros-gustavo-mileski-universidade-estadual-de-maringa-brasil-.-jane-reko-paranuha-a-experiencia-com-a-revitalizacao-da-lingua-xeta-no-parana-jane-reko-paranuha-an-experience-in-indigenous-teachers-formation-and-the-re/jane-reko-paranuha-an-experience-in-indigenous-teachers-formation-and-the-revival-of-the-xeta-language-in-the-state-of-parana-brazil/at_download/file",
+   "found_in_search": true
+  },
+  {
+   "title": "Anchietano antropologia volume 73 article (Xeta-related)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.anchietano.unisinos.br/publicacoes/antropologia/volumes/073/010.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Caderno CEB article (PUCPR, Xeta-related)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.pucpr.br/ceb/article/download/22509/21593",
+   "found_in_search": true
+  }
+ ]
+}
