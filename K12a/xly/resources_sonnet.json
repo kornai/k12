@@ -1,0 +1,45 @@
+{
+ "iso": "xly",
+ "name": "Elymian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Elymian language (overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:xly",
+   "found_in_search": true
+  },
+  {
+   "title": "Elymians (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Elymians",
+   "found_in_search": true
+  },
+  {
+   "title": "Elymian (Expired Knowledge)",
+   "type": "other",
+   "language": "English",
+   "url": "https://expiredknowledge.com/elymian/",
+   "found_in_search": true
+  },
+  {
+   "title": "A new language in the epigraphic landscape of ancient Sicily (Oxford CrossReads)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossreads.web.ox.ac.uk/node/1992046",
+   "found_in_search": true
+  },
+  {
+   "title": "Segesta (See Palermo)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.seepalermo.com/segesta.htm",
+   "found_in_search": true
+  }
+ ]
+}
