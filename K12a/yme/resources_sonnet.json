@@ -1,0 +1,31 @@
+{
+ "iso": "yme",
+ "name": "Yameo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:55:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yameo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yameo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yameo numerals (Loreto, Peru), numerals database",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yameo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Yagua people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.Wikipedia.com/wiki/Yagua",
+   "found_in_search": true
+  }
+ ]
+}

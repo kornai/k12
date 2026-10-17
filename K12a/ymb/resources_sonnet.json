@@ -1,0 +1,38 @@
+{
+ "iso": "ymb",
+ "name": "Yambes",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:55:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yambes language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yambes_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Crossgram: Yambes (yamb1254)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/yamb1254",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yambes in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15972/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language ymb",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ymb",
+   "found_in_search": true
+  }
+ ]
+}
