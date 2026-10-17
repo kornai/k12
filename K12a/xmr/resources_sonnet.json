@@ -1,0 +1,66 @@
+{
+ "iso": "xmr",
+ "name": "Meroitic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Meroitic Language and Writing System (Rilly and de Voogt), Cambridge excerpt",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://assets.cambridge.org/97811070/08663/excerpt/9781107008663_excerpt.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The Meroitic Language and Writing System, excerpt PDF",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://assets.cambridge.org/97811070/08663/excerpt/9781107008663_excerpt.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Claude Rilly: Meroitic Phonology, Syntax, and Linguistic Family",
+   "type": "academic",
+   "language": "English",
+   "url": "https://voices.uchicago.edu/lvc/2024/03/05/claude-rilly-cnrs-ephe-paris-sorbonne-meroitic-phonology-syntax-and-linguistic-family",
+   "found_in_search": true
+  },
+  {
+   "title": "Dotawo article on Meroitic",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journalpub.escholarship.org/dotawo/article/53835/galley/40735/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Mitteilungen der Sudanarchäologischen Gesellschaft article",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.ub.uni-heidelberg.de/index.php/mittsag/article/view/90327/84978",
+   "found_in_search": true
+  },
+  {
+   "title": "Sudan History: Meroitic writing",
+   "type": "other",
+   "language": "English",
+   "url": "https://sudanhistory.org/writing_02_meroitic.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ALP 2025 paper on computational Meroitic decipherment",
+   "type": "academic",
+   "language": "English",
+   "url": "https://preview.aclanthology.org/moar-dois/2025.alp-1.11.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Cracking Codes: 5 Ancient Languages Yet to Be Deciphered",
+   "type": "other",
+   "language": "English",
+   "url": "https://amp.livescience.com/59851-ancient-languages-not-yet-deciphered.html",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "xmq",
+ "name": "Kuku-Mangk",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sidney H. Ray 1907, comparative vocabulary of Cape York languages (Glottolog reference entry; Kuku-Mangk coverage unconfirmed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/472081",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe xmq page (mislabelled, unreliable)",
+   "type": "other",
+   "language": "other",
+   "url": "https://glosbe.com/mxv/xmq",
+   "found_in_search": true
+  },
+  {
+   "title": "Pama Language Centre: Kuuku Ya'u (different language, context only)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.pamacentre.org.au/kuuku-yau/",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of Umpithamu, with notes on Middle Paman (neighbouring language, context only)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://shop.slq.qld.gov.au/products/9781925302219",
+   "found_in_search": true
+  }
+ ]
+}
