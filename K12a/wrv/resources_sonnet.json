@@ -1,0 +1,52 @@
+{
+ "iso": "wrv",
+ "name": "Waruna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:32:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waruna language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waruna_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Waruna (waru1267)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/waru1267",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Waruna word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/WARUNA",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Waruna in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15877/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Waruna language (wrv)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/wrv",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Waruna (wrv)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wrv",
+   "found_in_search": true
+  }
+ ]
+}

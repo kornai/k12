@@ -1,0 +1,31 @@
+{
+ "iso": "wrx",
+ "name": "Wae Rana",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:32:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wae Rana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wae_Rana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Wae Rana",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/WaeRana",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wae Rana in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19303",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "iso": "wry",
+ "name": "Merwari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:32:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Marwari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marwari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Marwari glossary (work in progress)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/marwari/?p=9444",
+   "found_in_search": true
+  }
+ ]
+}
