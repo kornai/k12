@@ -1,0 +1,45 @@
+{
+ "iso": "pnt",
+ "name": "Pontic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "PontosWorld: dialect overview (dictionary, lessons, articles)",
+   "type": "other",
+   "language": "English",
+   "url": "https://pontosworld.com/index.php/dialect/overview",
+   "found_in_search": true
+  },
+  {
+   "title": "Romeika - Türkçe Sözlük (Vahit Tursun)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://mail.pontosworld.com/index.php/books/pontic/847-romeika-turkce-sozluk",
+   "found_in_search": true
+  },
+  {
+   "title": "Thesis grammatical description of Romeyka (University of Bamberg repository)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://fis.uni-bamberg.de/handle/uniba/95115",
+   "found_in_search": true
+  },
+  {
+   "title": "Pontic Greek dictionary (Languagehat post)",
+   "type": "other",
+   "language": "English",
+   "url": "https://languagehat.com/pontic-greek-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Pontic/Romeyka",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/96251",
+   "found_in_search": true
+  }
+ ]
+}

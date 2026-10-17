@@ -1,0 +1,45 @@
+{
+ "iso": "pnv",
+ "name": "Pinigura",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pinikura language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pinikura_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Pinigura (pini1244)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/pini1244.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ISO 639 pnv page (covers Thalanyji; Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:pnv",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangka Maya: Binigura cultural introduction",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/binigura/01-cultural-introduction",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Pinigura",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4984?hl=en",
+   "found_in_search": true
+  }
+ ]
+}

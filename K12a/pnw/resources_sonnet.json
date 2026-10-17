@@ -1,0 +1,45 @@
+{
+ "iso": "pnw",
+ "name": "Banyjima",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Banyjima Dictionary with English-Banyjima wordlist and topic wordlists (Wangka Maya, bookseller listing)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://elizabethsbookshop.com.au/shop/australiana/west-australiana/banyjima-banyjima-dictionary-with-english-banyjima-wordlist-and-topic-wordlists",
+   "found_in_search": true
+  },
+  {
+   "title": "Bilybara (1992) Pilbara reference book with Banyjima section",
+   "type": "other",
+   "language": "English",
+   "url": "https://nthieberger.net/Bilybara.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Panyjima language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Panyjima_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang A53: Banyjima",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/A53",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangka Maya Pilbara Aboriginal Language Centre: Banyjima",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/01-banyjima",
+   "found_in_search": true
+  }
+ ]
+}

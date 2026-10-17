@@ -1,0 +1,45 @@
+{
+ "iso": "pnu",
+ "name": "Bunu, Jiongnai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:20:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kiong Nai language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kiong_Nai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bu-Nao languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bu%E2%80%93Nao_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Bunu, Jiongnai (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/BunuJiongnai",
+   "found_in_search": true
+  },
+  {
+   "title": "Jiongnai (Longhua) word list, ABVD",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=768",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Yao Guangxi Jinxiu Changtong word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/YAO_GUANGXI_JINXIU_CHANGTONG",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "png",
+ "name": "Pangu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pongu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pongu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pongu entry and bibliography (Endangered Languages Project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2206/bibliography?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Pongu in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14443/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Pongu: Azhiga language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/15737",
+   "found_in_search": true
+  }
+ ]
+}

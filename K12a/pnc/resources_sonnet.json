@@ -1,0 +1,38 @@
+{
+ "iso": "pnc",
+ "name": "Pannei",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pannei language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pannei_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pannei in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14301",
+   "found_in_search": true
+  },
+  {
+   "title": "Pannei people-group profile (Asia Harvest, PDF)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Indonesia/Pannei.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Praying for Indonesia: Pannei page",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.prayingforindonesia.com/?p=843",
+   "found_in_search": true
+  }
+ ]
+}

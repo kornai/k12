@@ -1,0 +1,66 @@
+{
+ "iso": "pnh",
+ "name": "Penrhyn",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:23Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary of Cook Islands Languages (Penrhyn)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://penrhyn.cookislandsdictionary.com/",
+   "found_in_search": true
+  },
+  {
+   "title": "Penrhyn dictionary resources page",
+   "type": "other",
+   "language": "English",
+   "url": "https://penrhyn.cookislandsdictionary.com/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Penrhyn dictionary about page (Shibata 2003 basis)",
+   "type": "other",
+   "language": "English",
+   "url": "https://penrhyn.cookislandsdictionary.com/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Cook Islands Dictionary app (AUT)",
+   "type": "software",
+   "language": "English",
+   "url": "https://apps.apple.com/us/app/id6754361002",
+   "found_in_search": true
+  },
+  {
+   "title": "The structure of the Penrhyn phrase (Yasuda 1968)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/d7ff038e-ae5d-42bc-93ee-6e79d8457a3b",
+   "found_in_search": true
+  },
+  {
+   "title": "Penrhyn language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Penrhyn_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Penrhyn writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/penrhyn.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Penrhyn",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2994",
+   "found_in_search": true
+  }
+ ]
+}
