@@ -1,0 +1,38 @@
+{
+ "iso": "xyt",
+ "name": "Mayi-Thakurti",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Breen: Laves's Mayi-Thakurti material (ANU PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www0.anu.edu.au/linguistics/nash/aust/laves/Breen-MT.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Gavan Breen 1981, The Mayi Languages of the Queensland Gulf Country (Glottolog reference record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/64840",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang G16",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/G16",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Maykulan (mnt)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/mnt",
+   "found_in_search": true
+  }
+ ]
+}

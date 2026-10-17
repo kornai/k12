@@ -1,0 +1,31 @@
+{
+ "iso": "xyl",
+ "name": "Yalakalore",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:46Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Yalakalore (xyl)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/xyl",
+   "found_in_search": true
+  },
+  {
+   "title": "David M. Eberhard 2009 (Glottolog reference record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/37160",
+   "found_in_search": true
+  },
+  {
+   "title": "Nambikwaran languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nambikwaran_languages",
+   "found_in_search": true
+  }
+ ]
+}
