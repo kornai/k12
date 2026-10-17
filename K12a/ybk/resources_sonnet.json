@@ -1,0 +1,31 @@
+{
+ "iso": "ybk",
+ "name": "Bokha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:27:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikitongues: Bokha (ybk)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ybk/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Bokha in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18417",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Bokha language page (ybk)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/ybk",
+   "found_in_search": true
+  }
+ ]
+}
