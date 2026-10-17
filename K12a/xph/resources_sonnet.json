@@ -1,0 +1,52 @@
+{
+ "iso": "xph",
+ "name": "Tasmanian, North Midlands",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "palawa kani program (Tasmanian Aboriginal Centre)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://tacinc.com.au/programs/palawa-kani/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tasmanian languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tasmanian_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Northeastern Tasmanian languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Northeastern_Tasmanian_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "N. J. B. Plomley 1976 (Glottolog reference)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/20405",
+   "found_in_search": true
+  },
+  {
+   "title": "Tasmanian tribes (Queen Victoria Museum occasional publication)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.qvmag.tas.gov.au/files/assets/qvmag/library/publications/occasional/tas-tribes.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Tasmania eprint 19369",
+   "type": "academic",
+   "language": "English",
+   "url": "https://eprints.utas.edu.au/19369/",
+   "found_in_search": true
+  }
+ ]
+}
