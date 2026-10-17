@@ -1,0 +1,52 @@
+{
+ "iso": "zty",
+ "name": "Zapotec, Yatee",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:25:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "San Francisco Yatee Zapotec Living Dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://livingdictionaries.app/san-francisco-yatee-zapo",
+   "found_in_search": true
+  },
+  {
+   "title": "San Francisco Yatee Zapotec Living Dictionary: About",
+   "type": "other",
+   "language": "English",
+   "url": "https://livingdictionaries.app/san-francisco-yatee-zapo/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Yatee Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yatee_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yatee Zapotec (zty)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/zty",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Zapotec Language (AILLA, multi-variety, not Yatee-specific)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A279600",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapoteco, Yatee",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zty",
+   "found_in_search": true
+  }
+ ]
+}

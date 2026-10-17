@@ -1,0 +1,31 @@
+{
+ "iso": "zuh",
+ "name": "Tokano",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:25:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tokano language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tokano_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Tokano (zuh)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zuh/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tokano, Lower Asaro in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15534",
+   "found_in_search": true
+  }
+ ]
+}
