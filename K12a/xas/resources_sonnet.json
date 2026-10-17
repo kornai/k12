@@ -1,0 +1,59 @@
+{
+ "iso": "xas",
+ "name": "Kamas",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:46:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kamas language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kamas_language",
+   "found_in_search": true
+  },
+  {
+   "title": "INEL Kamas Corpus",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://inel.corpora.uni-hamburg.de/KamasCorpus",
+   "found_in_search": true
+  },
+  {
+   "title": "kamas 2.0 corpus documentation (INEL)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://s3-uhh.lzs.uni-hamburg.de/gwiss-inel-corpora/remote/kamas-2.0/documentation/kamas-2.0-documentation.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Kamas entry (cites Joki 1944, Kamassisches Woerterbuch)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KAMAS",
+   "found_in_search": true
+  },
+  {
+   "title": "o1 kamas (LMU Munich e-learning PDF)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.infuse.finnougristik.uni-muenchen.de/e-learning/kamas/o1_kamas.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "journal.fi article on Kamas",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journal.fi/fuf/article/download/113108/67507/222194",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kamas",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/109155",
+   "found_in_search": true
+  }
+ ]
+}

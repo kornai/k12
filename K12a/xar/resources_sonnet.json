@@ -1,0 +1,59 @@
+{
+ "iso": "xar",
+ "name": "Karami",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:46:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Karami language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Karami_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Karami word list entry",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/KARAMI",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: L. A. Flint 1917-1918 (Karami vocabulary)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/109402",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Karl J. Franklin 1973",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/303435",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Andrew Pawley 1966",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/150153",
+   "found_in_search": true
+  },
+  {
+   "title": "CrossGram: Karami (kara1497)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/kara1497",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Karami",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10740?hl=de",
+   "found_in_search": true
+  }
+ ]
+}
