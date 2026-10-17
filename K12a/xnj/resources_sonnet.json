@@ -1,0 +1,52 @@
+{
+ "iso": "xnj",
+ "name": "Chingoni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngoni language (Tanzania) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngoni_language_(Tanzania)",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngoni language (ISO 639:ngo overview)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:ngo",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Ngoni (Chingoni / Xingoni)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/ngoni.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Ngoni numbers",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/language/numbers/ngoni.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Chingoni (tanz1241)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/tanz1241",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Chingoni in Tanzania",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13367",
+   "found_in_search": true
+  }
+ ]
+}

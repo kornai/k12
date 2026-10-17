@@ -1,0 +1,59 @@
+{
+ "iso": "xnh",
+ "name": "Kuanhua",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:32:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kuan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kuan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kuanhua (kuan1250)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kuan1250",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kuanhua (by ISO xnh)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/xnh",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kuanhua",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5765",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kuanhua bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5765/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Kuanhua",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Kuanhua",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest people-group profile: Kuan (Laos)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Laos/Kuan-OC.pdf",
+   "found_in_search": true
+  }
+ ]
+}
