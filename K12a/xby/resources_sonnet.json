@@ -1,0 +1,52 @@
+{
+ "iso": "xby",
+ "name": "Butchulla",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:51:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gamburu Gamu Biyu - Butchulla (State Library of Queensland)",
+   "type": "other",
+   "language": "native",
+   "url": "https://content.slq.qld.gov.au/sites/default/files/Gamburu%20Gamu%20Biyu%20-%20Butchulla.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Singing Lullabies to Preserve the Butchulla Language (Global Voices)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://rising.globalvoices.org/blog/2015/07/22/singing-lullabies-to-preserve-the-butchulla-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Gubbi-Gubbi and Butchulla Languages (Jeanie Bell, 1994)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://noosadistrictshs.eq.edu.au/SupportAndResources/FormsAndDocuments/Documents/Indigenous%20Resources/dictionary-of-the-gubbi-gubbi-and-butchulla-languages.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Butchulla today (Queensland Parks, K'gari)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://parks.qld.gov.au/parks/kgari-fraser/about/butchulla/today",
+   "found_in_search": true
+  },
+  {
+   "title": "Indigenous Languages and Arts grant record (grants.gov.au)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.grants.gov.au/Ga/Show/abd02d99-8640-4d1a-8da0-2ab7b3e8216d",
+   "found_in_search": true
+  },
+  {
+   "title": "First Nations and Torres Strait Islander History and Culture (Our Fraser Coast libraries)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.ourfrasercoast.com.au/Libraries/Heritage-History-and-Culture/First-Nations-and-Torres-Strait-Islander-History-and-Culture",
+   "found_in_search": true
+  }
+ ]
+}

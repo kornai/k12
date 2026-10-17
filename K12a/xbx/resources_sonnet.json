@@ -1,0 +1,38 @@
+{
+ "iso": "xbx",
+ "name": "Kabixí",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:51:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kabixiana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kabixiana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Cabixi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Cabixi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wanyam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wanyam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kabixi in Brazil (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19322",
+   "found_in_search": true
+  }
+ ]
+}

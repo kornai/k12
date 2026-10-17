@@ -1,0 +1,59 @@
+{
+ "iso": "xce",
+ "name": "Celtiberian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:51:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Celtiberian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Celtiberian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Botorrita plaque (Wikipedia)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Botorrita_plaque",
+   "found_in_search": true
+  },
+  {
+   "title": "Celtiberian script (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Celtiberian_script",
+   "found_in_search": true
+  },
+  {
+   "title": "Keltiberisch course notes (Stifter, University of Copenhagen)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://rootsofeurope.ku.dk/kalender/arkiv_2012/celtic_spring/Keltiberisch_3_WS_2010.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Palaeohispanic Languages and Epigraphies (Oxford University Press)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://academic.oup.com/book/36477/chapter/321084103",
+   "found_in_search": true
+  },
+  {
+   "title": "Celtiberian inscriptions (Meid, catalogue record)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://zenon.dainst.org/Record/000054064",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo concept page for xce",
+   "type": "other",
+   "language": "English",
+   "url": "https://finto.fi/lexvo/en/page/xce",
+   "found_in_search": true
+  }
+ ]
+}
