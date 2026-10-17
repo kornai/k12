@@ -1,0 +1,31 @@
+{
+ "iso": "fas",
+ "name": "fas",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ketab Farsi Haftom (Iran grade 7 Persian textbook; unverified host)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://wiki.nektra.com/Download_PDFS/u35D7C/244880/Ketab Farsi Haftom.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Perfect Your Persian 3 (Chicago Persian School)",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://www.lulu.com/shop/chicago-persian-school/perfect-your-persian-3/paperback/product-nvmmmv7.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Modern Persian, Elementary Level (Anthem Press)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://anthempress.com/books/modern-persian-elementary-level-pb",
+   "found_in_search": true
+  }
+ ]
+}

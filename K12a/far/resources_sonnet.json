@@ -1,0 +1,31 @@
+{
+ "iso": "far",
+ "name": "Fataleka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Farongoe Lea Ana Fataleka (New Testament, PDF)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://eBible.org/pdf/far/far_book.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Fataleka New Testament (ePub, eBible.org)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.ebible.org/epub/far.epub",
+   "found_in_search": true
+  },
+  {
+   "title": "Fataleka in Solomon Islands (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11192",
+   "found_in_search": true
+  }
+ ]
+}

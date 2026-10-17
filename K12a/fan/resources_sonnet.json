@@ -1,0 +1,59 @@
+{
+ "iso": "fan",
+ "name": "Fang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Fang language and writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/fang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Africa Museum: Fang-French / French-Fang dictionary project",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.africamuseum.be/en/research/discover/projects/prj_detail?prjid=214",
+   "found_in_search": true
+  },
+  {
+   "title": "Zabala 1887, Fang-Spanish vocabulary (Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/66800",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Fang in Gabon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/11187/GB",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Fang",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/fan",
+   "found_in_search": true
+  },
+  {
+   "title": "Fang New Testament (Dramatized) audio",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://megavoice.com/media-cloud/m0b6415-new-testament-dramatized-fan-fang-audio-bible",
+   "found_in_search": true
+  }
+ ]
+}

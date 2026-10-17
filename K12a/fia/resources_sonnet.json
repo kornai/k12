@@ -1,0 +1,45 @@
+{
+ "iso": "fia",
+ "name": "Nobiin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nobiin language (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nobiin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Nobiin writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/nobiin.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Nubians are trying to bring an alphabet back from the dead (New Lines)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://newlinesmag.com/spotlight/in-egypt-and-sudan-nubians-are-trying-to-bring-an-alphabet-back-from-the-dead/",
+   "found_in_search": true
+  },
+  {
+   "title": "Reading Nubian: Books for a new generation (Middle East Eye)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://acquiaprod.middleeasteye.net/node/217656",
+   "found_in_search": true
+  },
+  {
+   "title": "Learn Nubian! (Nobiin) app",
+   "type": "software",
+   "language": "other",
+   "url": "https://apps.apple.com/ph/app/learn-nubian-nobiin-premium/id6476841617",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "fau",
+ "name": "Fayu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammatical description of Fayu (Maitland 2020, Glottolog entry)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/580998",
+   "found_in_search": true
+  },
+  {
+   "title": "Fayu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fayu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Clouse 1997 (Lakes Plain classification), Trans New Guinea database",
+   "type": "academic",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/clouse-1997?page=47",
+   "found_in_search": true
+  },
+  {
+   "title": "Fayu - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1762?hl=zh-cn",
+   "found_in_search": true
+  }
+ ]
+}

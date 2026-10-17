@@ -1,0 +1,38 @@
+{
+ "iso": "fay",
+ "name": "Fars, Southwestern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Southwestern Fars (sout2645)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sout2645",
+   "found_in_search": true
+  },
+  {
+   "title": "Dialects of Fars (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dialects_of_Fars",
+   "found_in_search": true
+  },
+  {
+   "title": "Old Kazeruni dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Old_Kazeruni_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Xunæ: Lari Language Archives",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://larilanguage.org/",
+   "found_in_search": true
+  }
+ ]
+}

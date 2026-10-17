@@ -1,0 +1,87 @@
+{
+ "iso": "fao",
+ "name": "Faroese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:34Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Faroese schoolbook wins major European award (Finka)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://kvf.fo/greinar/2020/10/14/faroese-schoolbook-wins-major-european-award",
+   "found_in_search": true
+  },
+  {
+   "title": "Education in the Faroe Islands (Wikipedia)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Education_in_the_Faroe_Islands",
+   "found_in_search": true
+  },
+  {
+   "title": "Online dictionary Sprotin (Study in the Faroe Islands)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.studyinfaroeislands.fo/life-in-the-faroes/learn-the-language/online-dictionary-sprotin",
+   "found_in_search": true
+  },
+  {
+   "title": "Faroese Spelling Dictionary",
+   "type": "orthography",
+   "language": "native",
+   "url": "https://mtd.setur.fo/en/resource/stavsetingarordabokin/",
+   "found_in_search": true
+  },
+  {
+   "title": "Faroese Language (tvk.fo)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://tvk.fo/en/living/language-culture/faroese-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Mercator: Faroese on the Faroe Islands",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.mercator-research.eu/languages:faroese_on_the_faroe_islands_under_construction2",
+   "found_in_search": true
+  },
+  {
+   "title": "The Faroese Bible Society",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://biblian.fo/english",
+   "found_in_search": true
+  },
+  {
+   "title": "Bible translations into Faroese (Wikipedia)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bible_translations_into_Faroese",
+   "found_in_search": true
+  },
+  {
+   "title": "Best Books And Resources For Learning Faroese",
+   "type": "other",
+   "language": "English",
+   "url": "https://faroeseonline.com/resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Faroese: A Language Course for Beginners",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://studyinfaroeislands.fo/life-in-the-faroes/learn-the-language/faroese-a-language-course-for-beginners",
+   "found_in_search": true
+  },
+  {
+   "title": "University of the Faroe Islands: course book in Faroese for foreigners",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.setur.fo/fo/setrid/tidindi/fralaerubok-i-foeroyskum-fyri-utlendingar",
+   "found_in_search": true
+  }
+ ]
+}

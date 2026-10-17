@@ -1,0 +1,45 @@
+{
+ "iso": "ffm",
+ "name": "Maasina Fulfulde",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:03Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Maasina Fulfulde (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Maasina_Fulfulde",
+   "found_in_search": true
+  },
+  {
+   "title": "Fula alphabets (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fula_alphabets",
+   "found_in_search": true
+  },
+  {
+   "title": "Fulfulde Maasina-English-French Lexicon (MSU Press)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://msupress.org/9780870139420/fulfulde-maasina-english-french-lexicon",
+   "found_in_search": true
+  },
+  {
+   "title": "Fulfulde language learning resources (UW LCTL)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://wisc.pb.unizin.org/lctlresources/chapter/fulfulde-language-learning-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Fula Language on the Internet (Columbia University Libraries)",
+   "type": "other",
+   "language": "English",
+   "url": "https://library.columbia.edu/libraries/global/virtual-libraries/african_studies/languages/fula.html",
+   "found_in_search": true
+  }
+ ]
+}

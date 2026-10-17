@@ -1,0 +1,45 @@
+{
+ "iso": "fat",
+ "name": "Fanti",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fante dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fante_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Fante (Mfante) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/fante.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "SOAS digital archive: Akan materials incl. Mfantsi grammar (Brown, 1913)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://digital.soas.ac.uk/akan/all/thumbs",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Akan language page (Bible availability)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/aka",
+   "found_in_search": true
+  },
+  {
+   "title": "Localazy language hub: Fanti",
+   "type": "software",
+   "language": "English",
+   "url": "https://hub.localazy.com/en/languages/fat-fanti",
+   "found_in_search": true
+  }
+ ]
+}

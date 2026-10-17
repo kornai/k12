@@ -1,0 +1,24 @@
+{
+ "iso": "faz",
+ "name": "Fars, Northwestern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ethnologue: faz entry",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ethnologue.com/language/faz",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Northwestern Fars (nort2640)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/nort2640.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}
