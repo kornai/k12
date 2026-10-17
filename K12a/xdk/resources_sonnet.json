@@ -1,0 +1,38 @@
+{
+ "iso": "xdk",
+ "name": "Dharuk",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:55:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dharug language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dharug_language",
+   "found_in_search": true
+  },
+  {
+   "title": "The Sydney Language (J. Troy), AIATSIS shop",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://shop.aiatsis.gov.au/products/the-sydney-language-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "William Dawes's word lists (J. Steele), SOAS Archives",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://archiveshub.jisc.ac.uk/data/gb102-ms380782",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Dharug sample (Troy wordlist)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/6686/samples/11052",
+   "found_in_search": true
+  }
+ ]
+}

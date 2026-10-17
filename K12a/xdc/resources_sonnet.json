@@ -1,0 +1,38 @@
+{
+ "iso": "xdc",
+ "name": "Dacian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:55:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dacian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dacian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "List of Romanian words of possible pre-Roman origin (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/List_of_Romanian_words_of_possible_pre-Roman_origin",
+   "found_in_search": true
+  },
+  {
+   "title": "Springer chapter on the Dacian language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://link.springer.com/chapter/10.1007/978-3-031-04051-1_27",
+   "found_in_search": true
+  },
+  {
+   "title": "Inherited from the substratum, ultimately: reflections on a dictionary",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journals.unibuc.ro/index.php/tal/article/view/1346",
+   "found_in_search": true
+  }
+ ]
+}

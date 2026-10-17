@@ -1,0 +1,52 @@
+{
+ "iso": "xdq",
+ "name": "Kaitag",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:55:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Magomed Magomedov: Kaitag-English dictionary and other books (Academia.edu)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://independent.academia.edu/alkaitagi",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaitag language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaitag_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaitags (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaitags",
+   "found_in_search": true
+  },
+  {
+   "title": "Khaydak-Russian dictionary project article",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.nbpublish.com/library_read_article.php?id=76193",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaitag writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/kaitag.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The watchtower on the mountain of Dagestan's indigenous languages (Global Voices)",
+   "type": "other",
+   "language": "English",
+   "url": "https://globalvoices.org/2021/03/28/the-watchtower-on-the-mountain-of-dagestans-indigenous-languages/",
+   "found_in_search": true
+  }
+ ]
+}

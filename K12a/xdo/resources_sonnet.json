@@ -1,0 +1,24 @@
+{
+ "iso": "xdo",
+ "name": "Kwandu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:55:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kwandu in Angola (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21064/AO",
+   "found_in_search": true
+  },
+  {
+   "title": "Kuvale language (Wikipedia), a different neighbouring language, for context",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kuvale_language",
+   "found_in_search": true
+  }
+ ]
+}
