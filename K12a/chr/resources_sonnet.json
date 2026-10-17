@@ -1,0 +1,38 @@
+{
+ "iso": "chr",
+ "name": "Cherokee",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:11:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Learning Cherokee (Cherokee Nation)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://cherokee.gov/life-events/learning-cherokee-2",
+   "found_in_search": true
+  },
+  {
+   "title": "Starting young (Cherokee Nation)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.cherokee.gov/life-events/learning-the-cherokee-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "CARLA 2008 immersion conference language plan",
+   "type": "policy",
+   "language": "English",
+   "url": "https://archive.carla.umn.edu/conferences/past/immersion2008/documents/Peter_L_LanguagePlan.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Apple newsroom: Cherokee language learners bridge generations with iPad and Mac",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.apple.com/ph/newsroom/2026/05/cherokee-language-learners-bridge-generations-with-ipad-and-mac/",
+   "found_in_search": true
+  }
+ ]
+}

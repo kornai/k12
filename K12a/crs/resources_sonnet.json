@@ -1,0 +1,45 @@
+{
+ "iso": "crs",
+ "name": "Seychelles French Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Researching Kreol Seselwa and its role in education (Zelime, Academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://independent.academia.edu/jzelime",
+   "found_in_search": true
+  },
+  {
+   "title": "Seychellois Creole (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Seychellois_Creole",
+   "found_in_search": true
+  },
+  {
+   "title": "Les Seychelles (language policy overview, CEFAN Laval)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://axl.cefan.ulaval.ca/afrique/seychel.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "APiCS survey: Seychelles Creole",
+   "type": "academic",
+   "language": "English",
+   "url": "https://apics-online.info/surveys/56",
+   "found_in_search": true
+  },
+  {
+   "title": "Creole Academy publishes first monolingual Creole dictionary (Seychelles News Agency via Le Mauricien)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.lemauricien.com/?p=584344",
+   "found_in_search": true
+  }
+ ]
+}

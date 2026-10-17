@@ -1,0 +1,59 @@
+{
+ "iso": "dmo",
+ "name": "Kemedzung",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kemezung language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kemezung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Kemezung (Kemedzung)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/kemezung.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Kemezung numbers",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/language/numbers/kemezung.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Channumerals: Kemedzung",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kemedzung.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary: Kemedzung dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/kemedzung/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Cameroon archive item 48160",
+   "type": "other",
+   "language": "native",
+   "url": "https://www.silcam.org/resources/archives/48160",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Cameroon archive item 9128",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.silcam.org/resources/archives/9128",
+   "found_in_search": true
+  }
+ ]
+}

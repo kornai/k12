@@ -1,0 +1,38 @@
+{
+ "iso": "cht",
+ "name": "Cholón",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:11:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cholón language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chol%C3%B3n_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Hibito–Cholon languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hibito%E2%80%93Cholon_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Linguistic Discovery article (Urban) on Cholón",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/xmlpage/1/article/513",
+   "found_in_search": true
+  },
+  {
+   "title": "The Oxford Guide to the Languages of the Central Andes (chapter)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://academic.oup.com/book/59575/chapter/503209455",
+   "found_in_search": true
+  }
+ ]
+}

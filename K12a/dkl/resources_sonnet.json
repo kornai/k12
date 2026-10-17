@@ -1,0 +1,38 @@
+{
+ "iso": "dkl",
+ "name": "Kolum So Dogon",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:15:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "IANA subtag registry template: dkl (deprecated)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/dkl.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "Mombo Dogon (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mombo_Dogon",
+   "found_in_search": true
+  },
+  {
+   "title": "Ampari Dogon (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ampari_Dogon",
+   "found_in_search": true
+  },
+  {
+   "title": "Blench and Douyon 2005 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/47983",
+   "found_in_search": true
+  }
+ ]
+}

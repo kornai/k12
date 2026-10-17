@@ -1,0 +1,45 @@
+{
+ "iso": "crt",
+ "name": "Chorote, Iyojwa’ja",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:13:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Chorote-Spanish dictionary (ELDP archive, Drayson)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0080/",
+   "found_in_search": true
+  },
+  {
+   "title": "Gerzenstein 1978-1979, Lengua chorote (Glottolog record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/14118",
+   "found_in_search": true
+  },
+  {
+   "title": "Gerzenstein 1976, descriptive grammar of Chorote (Glottolog record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/548985",
+   "found_in_search": true
+  },
+  {
+   "title": "Esbozo fonologico del chorote (mataguayo)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://sumarios.org/artigo/esbozo-fonol%C3%B3gico-del-chorote-mataguayo",
+   "found_in_search": true
+  },
+  {
+   "title": "SAPhon: Chorote (Iyo'wujwa and Iyowa'ja dialects) inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Chorote.html",
+   "found_in_search": true
+  }
+ ]
+}

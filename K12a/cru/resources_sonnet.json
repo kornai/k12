@@ -1,0 +1,38 @@
+{
+ "iso": "cru",
+ "name": "Carútana",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Baniwa of Içana (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Baniwa_of_I%C3%A7ana",
+   "found_in_search": true
+  },
+  {
+   "title": "Karu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Karu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/88596",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Carutana in Brazil",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/19321",
+   "found_in_search": true
+  }
+ ]
+}

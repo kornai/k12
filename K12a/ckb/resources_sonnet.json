@@ -1,0 +1,45 @@
+{
+ "iso": "ckb",
+ "name": "Central Kurdish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mastering Central Kurdish: a comprehensive guide to Sorani (Udemy course)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.udemy.com/course/mastering-central-kurdish-a-comprehensive-guide-to-sorani/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurdish Grammar (Central Kurdish/Soranî), Feryad Fazil Omar, Institut für Kurdische Studien",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://ifkurds.de/en/component/k2/item/106-kurdish-grammar.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurdish Grammar: SORANI Reference Book by Murat Baran (review)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://kurdishcentral.org/baran-kurdish-grammar/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurdish (Sorani)-English/English-Kurdish (Sorani) Dictionary and Phrasebook",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.ingramacademic.com/9780781812450/kurdish-sorani-englishenglish-kurdish-sorani-dictionary-and-phrasebook",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Kurdish (Swarthmore LING073 wiki)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikis.swarthmore.edu/ling073/Central_Kurdish",
+   "found_in_search": true
+  }
+ ]
+}

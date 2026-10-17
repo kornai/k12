@@ -1,0 +1,31 @@
+{
+ "iso": "czh",
+ "name": "Chinese, Huizhou",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Huizhou dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Huizhou_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Huizhou Chinese (Wikipedia ISO 639:czh)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:czh",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe: Huizhou Chinese to English",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/czh/en",
+   "found_in_search": true
+  }
+ ]
+}

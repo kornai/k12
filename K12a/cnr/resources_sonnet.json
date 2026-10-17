@@ -1,0 +1,38 @@
+{
+ "iso": "cnr",
+ "name": "Montenegrin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bosnian, Croatian, Montenegrin and Serbian: An Essential Grammar (Vrabec, Routledge 2022)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://hoepli.it/amp/bosnian-croatian-montenegrin-and-serbian/9780367723637.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Montenegrin (University of Oregon Slavic languages research guide)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchguides.uoregon.edu/slavic-languages/montenegrin",
+   "found_in_search": true
+  },
+  {
+   "title": "Grammatical Data in the Dictionary of Montenegrin National and Literary Language (Lexikos)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/1908",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Montenegrin dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/montenegrin_dictionnaire.htm",
+   "found_in_search": true
+  }
+ ]
+}
