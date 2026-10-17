@@ -1,0 +1,52 @@
+{
+ "iso": "sxn",
+ "name": "Sangir",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kamus Dasar Bahasa Sangihe-Bahasa Indonesia (Zacot 2022, Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/669281",
+   "found_in_search": true
+  },
+  {
+   "title": "Sangir language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sangir_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sangir people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sangir_people",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Sangir, Tabukang Dialect",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=446",
+   "found_in_search": true
+  },
+  {
+   "title": "Atlantis Press article on Tagulandang dialect",
+   "type": "academic",
+   "language": "other",
+   "url": "https://atlantis-press.com/article/25903921.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Sangir verbs",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Sangir",
+   "found_in_search": true
+  }
+ ]
+}

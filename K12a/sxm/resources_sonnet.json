@@ -1,0 +1,59 @@
+{
+ "iso": "sxm",
+ "name": "Samre",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Samre language of Pursat (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Samre_language_of_Pursat",
+   "found_in_search": true
+  },
+  {
+   "title": "Pearic languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pearic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Headley 1977, A Pearic Vocabulary (Glottolog record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/103665",
+   "found_in_search": true
+  },
+  {
+   "title": "Thongkum 1984, The Samre language (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/306421",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog languoid record (smu, Somray)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/smu",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/1223",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo entry for sxm",
+   "type": "other",
+   "language": "English",
+   "url": "https://finto.fi/lexvo/en/page/sxm",
+   "found_in_search": true
+  }
+ ]
+}
