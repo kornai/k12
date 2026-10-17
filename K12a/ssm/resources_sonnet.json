@@ -1,0 +1,38 @@
+{
+ "iso": "ssm",
+ "name": "Semnam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Preliminary notes on the phonology, orthography and vocabulary of Semnam (Burenhult and Wegener, MPI)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.mpi.nl/publications/item68372/preliminary-notes-phonology-orthography-and-vocabulary-semnam-austroasiatic",
+   "found_in_search": true
+  },
+  {
+   "title": "Preliminary notes on Semnam (Bielefeld record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://pub.uni-bielefeld.de/record/2900407",
+   "found_in_search": true
+  },
+  {
+   "title": "Preliminary notes on Semnam (Lund full-text PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lucris.lub.lu.se/ws/files/6330526/1790595.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Semnam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Semnam_language",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "ssk",
+ "name": "Sunam",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:14:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language snapshot: Sunam (Negi, Language Documentation and Description 19)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.lddjournal.org/article/id/1232",
+   "found_in_search": true
+  },
+  {
+   "title": "Sunam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sunam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "The Linguistic Landscape of the Indian Himalayas (OAPEN)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/76653",
+   "found_in_search": true
+  }
+ ]
+}
