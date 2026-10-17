@@ -1,0 +1,52 @@
+{
+ "iso": "szl",
+ "name": "Silesian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:55:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Silesian course (Wikibooks mirror) with Silesian-English dictionary",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://kwx.liehendr.com/content/wikibooks_en_all_maxi_2021-03/A/Silesian",
+   "found_in_search": true
+  },
+  {
+   "title": "Slownik Gwar Slaskich, tom I (A - BECZKA)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ceeol.com/search/book-detail?id=531599",
+   "found_in_search": true
+  },
+  {
+   "title": "Slownik Gwar Slaskich, tom II (BECZKOWAC - BRAW)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ceeol.com/search/book-detail?id=532353",
+   "found_in_search": true
+  },
+  {
+   "title": "Slownik Gwar Slaskich, tom XIII (HYRO - JUZYNECZKI)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ceeol.com/search/book-detail?id=532470",
+   "found_in_search": true
+  },
+  {
+   "title": "Silesian in the nineteenth and twentieth centuries (Nationalities Papers)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/journals/nationalities-papers/article/silesian-in-the-nineteenth-and-twentieth-centuries-a-language-caught-in-the-net-of-conflicting-nationalisms-politics-and-identities/F0B364407B367D4FCBF0A792CB81ECB6",
+   "found_in_search": true
+  },
+  {
+   "title": "ASI35_008 (Hokkaido University repository, on Silesian)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://eprints.lib.hokudai.ac.jp/repo/huscap/all/60021/ASI35_008.pdf",
+   "found_in_search": true
+  }
+ ]
+}

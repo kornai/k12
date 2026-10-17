@@ -1,0 +1,45 @@
+{
+ "iso": "szp",
+ "name": "Suabo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:55:38Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Suabo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suabo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Suabo (nidaibo) (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/suabo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University publication on Inanwatan (title not verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3463909/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Suabo numerals (MPI-EVA Chan numerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Suabo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Melanesia PDF (content not verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://langlxmelanesia.com/_files/ugd/4bb486_4206f5c31f584db68cea182777c1217a.pdf",
+   "found_in_search": true
+  }
+ ]
+}
