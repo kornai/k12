@@ -1,0 +1,59 @@
+{
+ "iso": "xpj",
+ "name": "Mpalitjanh",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mpalitjanh dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mpalitjanh_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Luthigh language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Luthigh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Hale, Kenneth L. 1976 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/306792",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference ozbib:2457",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/ozbib:2457",
+   "found_in_search": true
+  },
+  {
+   "title": "Luthigh (Handbook of Australian cultures, PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.hgcosmos.org/assets/culture/AZ/L/Luthigh.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "About the North community profile page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://aboutthenorth.au/styled-59/styled-184/styled-238/styled-446/",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: xpj",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/xpj/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xpl",
+ "name": "Tasmanian, Port Sorell",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:42:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Port Sorell language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Port_Sorell_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Palawa kani (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Palawa_kani",
+   "found_in_search": true
+  },
+  {
+   "title": "The Oxford Guide to Australian Languages (chapter)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://academic.oup.com/book/46706/chapter/410243287",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: language information by source",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/111966",
+   "found_in_search": true
+  },
+  {
+   "title": "Policy and protocol for use of palawa kani Aboriginal language (TAC)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://tacinc.com.au/the-policy-and-protocol-for-use-of-palawa-kani-aboriginal-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "palawa Country: Awakening Culture, Language and Landscape",
+   "type": "other",
+   "language": "English",
+   "url": "https://artsandculture.google.com/story/RQWhq6xnl5GOfQ",
+   "found_in_search": true
+  }
+ ]
+}
