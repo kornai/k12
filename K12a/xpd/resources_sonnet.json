@@ -1,0 +1,59 @@
+{
+ "iso": "xpd",
+ "name": "Tasmanian, Oyster Bay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Paredarerme language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Paredarerme_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Little Swanport language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Little_Swanport_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tasmanian languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tasmanian_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Tasmanian languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eastern_Tasmanian_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG entry T2",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/T2",
+   "found_in_search": true
+  },
+  {
+   "title": "ATSIDA archive record (unexamined)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.atsida.edu.au/node/363",
+   "found_in_search": true
+  },
+  {
+   "title": "Palawa kani (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Palawa_kani",
+   "found_in_search": true
+  }
+ ]
+}

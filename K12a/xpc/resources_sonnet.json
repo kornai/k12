@@ -1,0 +1,45 @@
+{
+ "iso": "xpc",
+ "name": "Pecheneg",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:33Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pechenegs (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pechenegs",
+   "found_in_search": true
+  },
+  {
+   "title": "Voros 2002, Relics of the Pecheneg language in the works of Constantine (Glottolog record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/hh:ld:Voros:Pecheneg",
+   "found_in_search": true
+  },
+  {
+   "title": "Mudrak 2020 analysis of Pecheneg names (abstract)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://istina.ips.ac.ru/publications/article/330365212/",
+   "found_in_search": true
+  },
+  {
+   "title": "Pecheneg names and titles (Pechenezhskie imena i nazvaniya)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://nasplib.isofts.kiev.ua/handle/123456789/172374",
+   "found_in_search": true
+  },
+  {
+   "title": "Cambridge University Press book chapter (unexamined)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/product/identifier/CBO9780511815638A014/type/BOOK_PART",
+   "found_in_search": true
+  }
+ ]
+}
