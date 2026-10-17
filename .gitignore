@@ -2,3 +2,6 @@
 work/
 __pycache__/
 *.pyc
+.venv-exit.lock
+.venv-exit.install.log
+.venv-exit.tmp.*
