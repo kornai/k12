@@ -1,0 +1,17 @@
+{
+ "iso": "wli",
+ "name": "Waioli",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Jurnal Penelitian Humano (2021): lexicostatistical study of non-Austronesian languages of West Halmahera including Waioli",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.unkhair.ac.id/index.php/humano/article/download/3281/2434",
+   "found_in_search": true
+  }
+ ]
+}
