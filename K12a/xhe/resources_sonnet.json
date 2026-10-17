@@ -1,0 +1,52 @@
+{
+ "iso": "xhe",
+ "name": "Khetrani",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:01:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Birmani and Ahmed 2017, Language of the Khetrans of Barkhan of Pakistani Balochistan: A preliminary description (Glottolog reference record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/553807",
+   "found_in_search": true
+  },
+  {
+   "title": "Khetrani language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khetrani_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Khetran (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khetran",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog classification page (Sindhic)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/balo1266.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP database: Khetrani",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KHETRANI",
+   "found_in_search": true
+  },
+  {
+   "title": "Khetran Baloch in Pakistan (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20248",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "xhd",
+ "name": "Hadrami",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:01:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hadramautic language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hadramautic_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kingdom of Hadhramaut (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Hadhramaut",
+   "found_in_search": true
+  },
+  {
+   "title": "Category: Hadrami language (Wiktionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/Category:Hadrami_language",
+   "found_in_search": true
+  },
+  {
+   "title": "DASI: Digital Archive for the Study of pre-Islamic Arabian Inscriptions",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dasi.cnr.it/index.php?id=83",
+   "found_in_search": true
+  },
+  {
+   "title": "Hadhrami Arabic (Wikipedia mirror, ISO 639:ayh)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:ayh",
+   "found_in_search": true
+  }
+ ]
+}
