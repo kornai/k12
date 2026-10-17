@@ -1,0 +1,31 @@
+{
+ "iso": "szv",
+ "name": "Isubu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:56:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "DOBES documentation project: Bubia and Isubu",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=1024",
+   "found_in_search": true
+  },
+  {
+   "title": "Isubu entry, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/91997",
+   "found_in_search": true
+  },
+  {
+   "title": "Subu people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Subu_people",
+   "found_in_search": true
+  }
+ ]
+}

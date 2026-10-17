@@ -1,0 +1,31 @@
+{
+ "iso": "szs",
+ "name": "Solomon Islands Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:56:45Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Partners launch ground-breaking project supporting education for deaf youth (Iumi Tugeda Helpem, SIBC)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.sibconline.com.sb/partners-launch-ground-breaking-project-supporting-education-for-deaf-youth",
+   "found_in_search": true
+  },
+  {
+   "title": "New project will send sign language teachers into remote villages of Solomon Islands (ACU)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://acu.edu.au/about-acu/news/2022/july/new-project-will-send-sign-language-teachers-into-remote-villages-of-solomon-islands",
+   "found_in_search": true
+  },
+  {
+   "title": "Support for deaf youth in Solomon Islands (The Southern Cross)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://thesoutherncross.org.au/news/2022/07/15/support-for-deaf-youth-in-solomon-islands/",
+   "found_in_search": true
+  }
+ ]
+}
