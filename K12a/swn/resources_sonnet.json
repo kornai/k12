@@ -1,0 +1,45 @@
+{
+ "iso": "swn",
+ "name": "Sawknah",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sokna language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sokna_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Awjila language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Awjila_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: Category Sokna language",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/Category:Sokna_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sawknah",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/294?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Sawknah numerals (MPI EVA channumerals)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Sawknah.htm",
+   "found_in_search": true
+  }
+ ]
+}
