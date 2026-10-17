@@ -1,0 +1,52 @@
+{
+ "iso": "wof",
+ "name": "Gambian Wolof",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:25:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wolof-English/English-Wolof Dictionary and Phrasebook (Kantorek, Hippocrene)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.hippocrenebooks.com/store/p356/Wolof-English%2FEnglish-Wolof_Dictionary_%26_Phrasebook.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolof-English, English-Wolof dictionary and phrasebook (Cambridge Language Centre)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langw/data/wo_107.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Janga Wolof dictionaries (Polyglot Books)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://payhip.com/PolyglotBooks/blog/articles/2-new-wolof-dictionaries-now-available",
+   "found_in_search": true
+  },
+  {
+   "title": "Wolof resources (LCTL resources)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wisc.pb.unizin.org/lctlresources/?p=4079",
+   "found_in_search": true
+  },
+  {
+   "title": "Learn Wollof pronunciation (My Gambia magazine)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.my-gambia.com/mymagazine/learn-wollof-pronunciation/",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages spoken in the Gambia (My Gambia magazine)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.my-gambia.com/mymagazine/languages-spoken-in-the-gambia/",
+   "found_in_search": true
+  }
+ ]
+}

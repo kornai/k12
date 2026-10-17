@@ -1,0 +1,45 @@
+{
+ "iso": "woi",
+ "name": "Kamang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:25:42Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kamang (Schapper) in The Papuan Languages of Timor, Alor and Pantar, Vol. 1 (catalogue record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9781614515241",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Kamang",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/berau-gulf/west-bomberai/timor-alor-pantar/alor-pantar/east-alor/central-east-alor/kamang",
+   "found_in_search": true
+  },
+  {
+   "title": "Temperature terms in Kamang and Abui, two Papuan languages of Alor (Schapper)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.benjamins.com/catalog/tsl.107.29sch",
+   "found_in_search": true
+  },
+  {
+   "title": "Books by Antoinette Schapper",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cnrs.academia.edu/AntoinetteSchapper",
+   "found_in_search": true
+  },
+  {
+   "title": "Woisika language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Woisika_language",
+   "found_in_search": true
+  }
+ ]
+}
