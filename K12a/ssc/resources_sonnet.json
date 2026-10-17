@@ -1,0 +1,52 @@
+{
+ "iso": "ssc",
+ "name": "Suba-Simbiti",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Suba-Simbiti language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suba-Simbiti_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Suba people (Tanzania) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suba_people_(Tanzania)",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Suba split into Suba and Suba-Simbiti",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/suba1254",
+   "found_in_search": true
+  },
+  {
+   "title": "Suba-Simbiti in Tanzania (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18960",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Suba-Simbiti",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/ssc",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Suba-Simbiti, Iryege",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/25474",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "sse",
+ "name": "Balangingih Sama",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:12:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "WALS: Balangingi (Sama Balangingi)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_sbg",
+   "found_in_search": true
+  },
+  {
+   "title": "Balangingih Sama (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/sse/",
+   "found_in_search": true
+  },
+  {
+   "title": "Balangingih Sama language page (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/sse",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project prayer card for Balangingi Sama people",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/pray/cards/single/14031/RP",
+   "found_in_search": true
+  }
+ ]
+}
