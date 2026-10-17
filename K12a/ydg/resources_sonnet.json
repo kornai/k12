@@ -1,0 +1,52 @@
+{
+ "iso": "ydg",
+ "name": "Yadgha",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:30:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yidgha will live a long life (FLI)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://fli-online.org/yidgha-will-live-a-long-life/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yidgha: an endangered language in Chitral (FLI report)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.fli-online.org/documents/languages/yidgha/yidgha-report.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Yidgha language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yidgha_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yidgha (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/yidgha.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "FLI Yidgha page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://fli-online.org/yidgha/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Yidgha",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3210",
+   "found_in_search": true
+  }
+ ]
+}

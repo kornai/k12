@@ -1,0 +1,59 @@
+{
+ "iso": "ydd",
+ "name": "Eastern Yiddish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:30:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yiddish: An Introduction to the Language, Literature and Culture, Vol 1 (Sheva Zucker)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://shop.yiddishbookcenter.org/products/yiddish-an-introduction-to-the-language-literature-and-culture-vol-1-book-by-zucker-sheva",
+   "found_in_search": true
+  },
+  {
+   "title": "Yiddish II: An Intermediate and Advanced Textbook (Schaechter)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://leagueforyidev.leagueforyiddish.org/en/bikher/yidish2",
+   "found_in_search": true
+  },
+  {
+   "title": "Chabad curriculum database: lower elementary Yiddish",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://mymef.org/chabad-curriculum-database/lower-elementary/yiddish/",
+   "found_in_search": true
+  },
+  {
+   "title": "Chabad curriculum database: upper elementary Yiddish",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://mymef.org/chabad-curriculum-database/upper-elementary/yiddish/",
+   "found_in_search": true
+  },
+  {
+   "title": "YIVO Intensive Beginner I&amp;II Yiddish",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://yivo.org/FALL2022-Intensive-Beginner1and2",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Antwerp: Yiddish level 1",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.uantwerpen.be/en/rg/ijs/courses/yiddish/level-1/",
+   "found_in_search": true
+  },
+  {
+   "title": "Beginner Yiddish Textbook Audio Lessons (freelanguage.org)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://freelanguage.org/node/88005",
+   "found_in_search": true
+  }
+ ]
+}
