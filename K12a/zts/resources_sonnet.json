@@ -1,0 +1,52 @@
+{
+ "iso": "zts",
+ "name": "Tilquiapan Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tilquiapan Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tilquiapan_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Tilquiapan Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/zts",
+   "found_in_search": true
+  },
+  {
+   "title": "Beth Merrill (Academia.edu profile)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://independent.academia.edu/BethMerrill2",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Zapotec, Tilquiapan",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zts",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Tilquiapan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zts",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tilquiapam Zapoteco",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14711",
+   "found_in_search": true
+  }
+ ]
+}

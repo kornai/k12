@@ -1,0 +1,59 @@
+{
+ "iso": "ztq",
+ "name": "Quioquitani-Quierí Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:22Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Scripture Earth: Zapotec, Quioquitani-Quieri",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=ztq",
+   "found_in_search": true
+  },
+  {
+   "title": "eBible: Zapotec, Quioquitani-Quieri New Testament",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/Bible/details.php?id=ztqNT",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Quioquitani",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/ztq",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Quioquitani-Quieri Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/ztq/",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Quioquitani Quieri Zapotec",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/QUIOQUITANI_QUIERI_ZAPOTEC",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals in Quioquitani-Quieri Zapotec (channumerals)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Zapotec-Quioquitani-Quieri.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Zapoteco, Quioquitani y Quieri",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/print/14736/MX",
+   "found_in_search": true
+  }
+ ]
+}
