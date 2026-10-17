@@ -1,0 +1,38 @@
+{
+ "iso": "zau",
+ "name": "Zangskari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zangskari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zangskari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Zangskari sample text with glossary",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/3144/samples/9553",
+   "found_in_search": true
+  },
+  {
+   "title": "Seminar on documentation of Zanskari language held at GMDC Zanskar",
+   "type": "policy",
+   "language": "English",
+   "url": "https://indusdispatch.in/seminar-on-documentation-of-zanskari-language-held-at-gmdc-zanskar/",
+   "found_in_search": true
+  },
+  {
+   "title": "CoRSAL Zangskari collection, UNT Digital Library",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://digital.library.unt.edu/explore/collections/ZSLR/",
+   "found_in_search": true
+  }
+ ]
+}
