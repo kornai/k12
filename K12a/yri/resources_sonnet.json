@@ -1,0 +1,24 @@
+{
+ "iso": "yri",
+ "name": "Yarí",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:12:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Yari (yari1235)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yari1235.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yari in Colombia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/22379",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "yrk",
+ "name": "Nenets",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:12:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yamal education department: Nenets/Khanty/Selkup textbooks grades 1-9 (news)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://sever-press.ru/news/sever-press/yamal-created-everyone-uses-the-regional-department-of-education-is-summing-up-the-results-of-the-year",
+   "found_in_search": true
+  },
+  {
+   "title": "New projects in Yamal for preservation of indigenous languages (Forest Nenets teaching materials)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://sever-press.ru/news/sever-press/from-a-year-to-a-decade-new-projects-in-yamal-for-preservation-of-indigenous-languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Robots, textbooks, online consultations: Yamal rural school in the Arctic",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://sever-press.ru/news/sever-press/robots-textbooks-online-consultations-in-moscow-representatives-of-yamal-will-tell-about-the-rural-school-in-the-arctic",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Tundra Nenets (Nikolaeva, 2014)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.ebay.com/p/205624430",
+   "found_in_search": true
+  },
+  {
+   "title": "Nenets Corpus (UHLCS), Language Bank of Finland",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://kitwiki.csc.fi/twiki/bin/view/FinCLARIN/KielipankkiAineistotNenetsUHLCS",
+   "found_in_search": true
+  },
+  {
+   "title": "INEL Nenets Corpus",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://inel.corpora.uni-hamburg.de/NenetsCorpus/",
+   "found_in_search": true
+  },
+  {
+   "title": "User's Guide to INEL Nenets Corpus",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ebook.ek.szte.hu/index.php/btk-magyarnyelviirodalmi-intezet/catalog/book/357",
+   "found_in_search": true
+  },
+  {
+   "title": "INEL Nenets Corpus documentation (PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://s3-uhh.lzs.uni-hamburg.de/gwiss-inel-corpora/remote/nenets-1.0/documentation/INEL_Nenets_Corpus.pdf",
+   "found_in_search": true
+  }
+ ]
+}
