@@ -1,0 +1,59 @@
+{
+ "iso": "ymk",
+ "name": "Makwe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:57:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Makwe language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Makwe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Devos, Maud 2004 (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/87970",
+   "found_in_search": true
+  },
+  {
+   "title": "dwc.knaw.nl publication PDF (content not verified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dwc.knaw.nl/DL/publications/PU00010055.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Makwe people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Makwe_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Makwe language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/ymk",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Makwe in Tanzania",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/13429/TZ",
+   "found_in_search": true
+  },
+  {
+   "title": "People group: the Makwe of Tanzania and Mozambique (Afrigo)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://afrigo.org/articles/people-group-the-makwe-of-tanzania-and-mozambique/",
+   "found_in_search": true
+  }
+ ]
+}
