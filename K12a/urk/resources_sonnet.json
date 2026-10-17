@@ -1,0 +1,59 @@
+{
+ "iso": "urk",
+ "name": "Urak Lawoi’",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:15:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ethnic Identity, Language Revitalization, and Intercultural Education among the Urak Lawoi in Thailand",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.li.mahidol.ac.th/handle/123456789/115863",
+   "found_in_search": true
+  },
+  {
+   "title": "Urak Lawoi': basic structures and a dictionary (Hogan and Pattemore 1988)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/146628/1/PL-C109.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Urak Lawoi' language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urak_Lawoi%CA%BC_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wacana article on Urak Lawoi'",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarhub.ui.ac.id/wacana/vol10/iss1/7",
+   "found_in_search": true
+  },
+  {
+   "title": "Goodreads listing for Hogan's Urak Lawoi' (Lincom)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.goodreads.com/book/show/5854440",
+   "found_in_search": true
+  },
+  {
+   "title": "Urak Lawoi Language on Bulon Island: Documenting and Characterizing a Near-Vanishing Language",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://so05.tci-thaijo.org/index.php/pimjournal/article/view/12028",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Urak Lawoi'",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/1988?hl=pt-br",
+   "found_in_search": true
+  }
+ ]
+}

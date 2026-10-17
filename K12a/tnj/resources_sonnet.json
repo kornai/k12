@@ -1,0 +1,17 @@
+{
+ "iso": "tnj",
+ "name": "Tanjong",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:11:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog Bookkeeping: Tanjong (retired tnj, merged into Kanowit kxn)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tanj1248",
+   "found_in_search": true
+  }
+ ]
+}

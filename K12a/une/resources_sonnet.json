@@ -1,0 +1,38 @@
+{
+ "iso": "une",
+ "name": "Uneme",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:07:41Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uneme language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uneme_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Edo Orthography: The Compelling Need for Harmonization and Standardization (Edo, neighbouring language)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.centreforedostudies.be/Papers/Omozuwa,%20Victor%20Edosa%3B%20Evbuomwa,%20Osaigbovo%20Obed%20-%20Edo%20Orthography_%20The%20Compelling%20Need%20for%20Harmonization%20and%20Standardization.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Munro English-Edo wordlist (Edo, neighbouring language)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://centreforedostudies.be/Munro/Munro%20-%20archive_org.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Uneme in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15713/NI",
+   "found_in_search": true
+  }
+ ]
+}

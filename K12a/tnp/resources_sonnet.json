@@ -1,0 +1,45 @@
+{
+ "iso": "tnp",
+ "name": "Whitesands",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:15:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Whitesands language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Whitesands_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC: Documentation of Whitesands Language (Hammond, 2008)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/JHWS1/20080503",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC: Capell East Tanna recordings",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/AC1/LT9",
+   "found_in_search": true
+  },
+  {
+   "title": "Whitesands numerals (Max Planck EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Whitesands.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Cambridge Language Centre: Tanna languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langt/tanna.html",
+   "found_in_search": true
+  }
+ ]
+}

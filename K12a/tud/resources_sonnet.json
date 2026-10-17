@@ -1,0 +1,45 @@
+{
+ "iso": "tud",
+ "name": "Tuxá",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:20:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tuxá language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tux%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A garantia do seguimento indígena: ciência ritual, rede Prokár e revitalização linguística no Submédio São Francisco (Policromias)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.ufrj.br/index.php/policromias/article/view/46720",
+   "found_in_search": true
+  },
+  {
+   "title": "Pixo article on Tuxá, the flooding of Rodelas and the encantados",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.ufpel.edu.br/index.php/pixo/article/download/2867/2270",
+   "found_in_search": true
+  },
+  {
+   "title": "IDIL 2022-2032 Dzubukuá language revitalization project workshop (Capitão Francisco Rodelas Indigenous School)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://idil2022-2032.org/events-activities/dzubukua-language-revitalization-project-community-based-workshop/",
+   "found_in_search": true
+  },
+  {
+   "title": "SciELO preprint (content not verified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://preprints.scielo.org/index.php/scielo/preprint/view/6508",
+   "found_in_search": true
+  }
+ ]
+}

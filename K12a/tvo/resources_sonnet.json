@@ -1,0 +1,45 @@
+{
+ "iso": "tvo",
+ "name": "Tidore",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:31:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Tidore bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10935/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Tidore (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tidore.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU repository document found in search (Tidore)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/5e57480c-3473-448c-9cca-5f1c6f98b7b7/content",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU repository document found in search (Tidore), second",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/18aac33f-6ec8-437e-b4ac-830884e1a686/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: Tidore (tvo)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tvo",
+   "found_in_search": true
+  }
+ ]
+}

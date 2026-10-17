@@ -1,0 +1,73 @@
+{
+ "iso": "tzz",
+ "name": "Tzotzil, Zinacantán",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T11:03:47Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tzotzil lessons and texts (AILLA record 126555)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A126555",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzotzil lessons and texts (AILLA record 126565)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A126565",
+   "found_in_search": true
+  },
+  {
+   "title": "ILV Tzotzil primer (cartilla), San Cristóbal de las Casas, El Colegio de México",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/xg94hr58x?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Sna Jtz'ibajom Tzotzil literacy program (Cultural Survival)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.culturalsurvival.org/node/3833",
+   "found_in_search": true
+  },
+  {
+   "title": "Great Tzotzil Dictionary of San Lorenzo Zinacantán (Laughlin, 1975)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://repository.si.edu/handle/10088/1360",
+   "found_in_search": true
+  },
+  {
+   "title": "Great Tzotzil Dictionary of Santo Domingo Zinacantán (Laughlin and Haviland, 1988), Smithsonian repository record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://repository.si.edu/handle/10088/1367",
+   "found_in_search": true
+  },
+  {
+   "title": "Great Tzotzil Dictionary of Santo Domingo Zinacantán (Laughlin and Haviland, 1988), Smithsonian repository record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://repository.si.edu/handle/10088/1368",
+   "found_in_search": true
+  },
+  {
+   "title": "WOLD Vocabulary: Zinacantán Tzotzil",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://wold.clld.org/vocabulary/33",
+   "found_in_search": true
+  },
+  {
+   "title": "El Universal report on Tzotzil residents burning SEP textbooks in Zinacantán",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.eluniversal.com.mx/estados/por-segunda-ocasion-tsotziles-queman-libros-de-texto-de-la-sep-en-chiapas-buscan-ensenar-a-los-ninos-el-comunismo-dicen/",
+   "found_in_search": true
+  }
+ ]
+}

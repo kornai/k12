@@ -1,0 +1,38 @@
+{
+ "iso": "trh",
+ "name": "Turaka",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:46:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Turaka language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Turaka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Turaka",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TURAKA",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Turaka in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15651",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Turaka",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2695",
+   "found_in_search": true
+  }
+ ]
+}

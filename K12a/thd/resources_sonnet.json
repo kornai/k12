@@ -1,0 +1,45 @@
+{
+ "iso": "thd",
+ "name": "Kuuk Thayorre",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:07:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kuuk Thaayorre: an endangered language moving in the right direction (BYU Stowaway)",
+   "type": "other",
+   "language": "English",
+   "url": "https://stowawaymag.byu.edu/blog/kuuk-thaayorre-an-endangered-language-moving-in-the-right-direction",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Kuuk Thaayorre (Gaby, 2019 paperback listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.sack.de/gaby-a-grammar-of-kuuk-thaayorre/9783110653304",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 30.33 review of Gaby's grammar",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/30/33/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kuuk Thaayorre language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kuuk_Thaayorre_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kuuk Thaayorre (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/kuukthaayorre.htm",
+   "found_in_search": true
+  }
+ ]
+}

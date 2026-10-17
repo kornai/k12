@@ -1,0 +1,45 @@
+{
+ "iso": "tld",
+ "name": "Talaud",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:45:23Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Talaud language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Talaud_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dialectal Study of Talaud: Dialectal Classification and a Comparative Word List (Utsumi)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://meisei.repo.nii.ac.jp/record/866/files/J-nbkNo024a05.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary: Talaud",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://acd.clld.org/languages/19277",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Talaud",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tld",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Talaud in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15213",
+   "found_in_search": true
+  }
+ ]
+}

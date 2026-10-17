@@ -1,0 +1,38 @@
+{
+ "iso": "tjw",
+ "name": "Djabwurrung",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:33:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Djab Wurrung (VACL)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://vacl.org.au/language/djab-wurrung/",
+   "found_in_search": true
+  },
+  {
+   "title": "Victorian Collections: items matching wurrung",
+   "type": "other",
+   "language": "English",
+   "url": "https://victoriancollections.net.au/collections?q=wurrung",
+   "found_in_search": true
+  },
+  {
+   "title": "Djabwurrung language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tjw",
+   "found_in_search": true
+  },
+  {
+   "title": "Finding the meaning of an Aboriginal word (State Library Victoria guide)",
+   "type": "other",
+   "language": "English",
+   "url": "https://guides.slv.vic.gov.au/aboriginalwords/steps",
+   "found_in_search": true
+  }
+ ]
+}

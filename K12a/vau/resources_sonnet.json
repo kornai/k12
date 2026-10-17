@@ -1,0 +1,45 @@
+{
+ "iso": "vau",
+ "name": "Vanuma",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:53:44Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Vanuma language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vanuma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Vanuma",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/VANUMA",
+   "found_in_search": true
+  },
+  {
+   "title": "Conference Presentations by Douglas W. Boone (SIL)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sil.academia.edu/DouglasWBoone",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Vanuma in Congo, Democratic Republic of",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15773",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Vanuma",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/vau/",
+   "found_in_search": true
+  }
+ ]
+}

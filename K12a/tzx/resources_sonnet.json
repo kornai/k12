@@ -1,0 +1,38 @@
+{
+ "iso": "tzx",
+ "name": "Karawari",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T11:02:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Saying, seeing, and knowing among the Karawari of Papua New Guinea (Telban), JCU",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchonline.jcu.edu.au/38488/",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tabriak (Karawari)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tabr1243",
+   "found_in_search": true
+  },
+  {
+   "title": "Tabriak language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tabriak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Living Tongues Institute East Sepik project (Yokoim/Karawari, Tabriak Talking Dictionary)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://livingtongues.org/east-sepik/",
+   "found_in_search": true
+  }
+ ]
+}

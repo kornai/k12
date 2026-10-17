@@ -1,0 +1,31 @@
+{
+ "iso": "uru",
+ "name": "Urumi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:18:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Urumi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urumi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ramarama languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ramarama_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Urumi numerals (Chan numerals database)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Urumi.htm",
+   "found_in_search": true
+  }
+ ]
+}

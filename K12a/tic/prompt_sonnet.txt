@@ -1,0 +1,35 @@
+You will research 4 languages (tic, tie, tif, tig), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE tic ===
+Please help me gather resources for the Tira language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tic; Glottocode: tira1254; family: Heibanic; macro-area: Africa; approx. speakers: about 40,000. Reference description: Tira is a stable indigenous language of Sudan. It belongs to the Niger-Congo language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tie ===
+Please help me gather resources for the Tingal language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tie; Glottocode: ting1253; family: Bookkeeping; macro-area: Africa
+
+=== LANGUAGE tif ===
+Please help me gather resources for the Tifal language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tif; Glottocode: tifa1245; family: Nuclear Trans New Guinea; macro-area: Papunesia; approx. speakers: about 3,600. Reference description: Tifal is a stable indigenous language of Papua New Guinea. It belongs to the Trans-New Guinea language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tig ===
+Please help me gather resources for the Tigré language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tig; Glottocode: tigr1270; family: Afro-Asiatic; macro-area: Africa; approx. speakers: about 1,000,000. Reference description: Tigré is a stable indigenous language of Eritrea and Sudan. It belongs to the Afro-Asiatic language family. The language is used as a first language by all in the ethnic community. It is used as a language of instruction in education.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

@@ -1,0 +1,45 @@
+{
+ "iso": "tnx",
+ "name": "Tanema",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:19:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tanema language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tanema_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Francois 2009, Vanikoro languages (preprint)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://halshs.archives-ouvertes.fr/halshs-00525557v1/file/AlexFrancois_2009_Vanikoro-languages_Festschrift-MDR_preprint.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Francois 2021, Teanu dictionary introduction (Dictionaria)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://marama.huma-num.fr/data/AlexFrancois_2021_Dictionaria_Teanu-dictionary_Introduction.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Teanu dictionary on Dictionaria",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://dictionaria.clld.org/contributions/teanu",
+   "found_in_search": true
+  },
+  {
+   "title": "Francois, Vanikoro notes",
+   "type": "academic",
+   "language": "English",
+   "url": "https://marama.huma-num.fr/AF-Vanikoro-notes_e.htm",
+   "found_in_search": true
+  }
+ ]
+}

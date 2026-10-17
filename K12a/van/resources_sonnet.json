@@ -1,0 +1,59 @@
+{
+ "iso": "van",
+ "name": "Walman",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:52:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Walman language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Walman_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Matthew S. Dryer: Work on Papuan Languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.acsu.buffalo.edu/~dryer/papuan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Culture in Crisis: Field research in Sandaun Province, Papua New Guinea",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/field-research-in-sandaun-province-papua-new-guinea",
+   "found_in_search": true
+  },
+  {
+   "title": "Walman numerals page (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Walman.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Valman, Koroko in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15766",
+   "found_in_search": true
+  },
+  {
+   "title": "Pictures from Lemieng, Papua New Guinea",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.acsu.buffalo.edu/~dryer/walmanPics.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Walman",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10550?hl=fr",
+   "found_in_search": true
+  }
+ ]
+}

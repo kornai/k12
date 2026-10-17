@@ -1,0 +1,59 @@
+{
+ "iso": "usa",
+ "name": "Usarufa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:22:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bee 1973 grammar and phonology of Usarufa (WALS reference record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wals.info/refdb/record/Bee-1973",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Usarufa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/eastern-highlands-kratke-range/eastern-highlands/kainantu/west-kainantu/central-kainantu/usarufa",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Usarufa wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/USARUFA",
+   "found_in_search": true
+  },
+  {
+   "title": "Usarufa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.org/wiki/Usarufa",
+   "found_in_search": true
+  },
+  {
+   "title": "Usarufa Bible on eBible.org",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/details.php?id=usa",
+   "found_in_search": true
+  },
+  {
+   "title": "Usarufa Bible on png.bible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.png.bible/details.php?id=usa",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU repository record, Usarufa New Testament",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://openresearch-repository.anu.edu.au/items/f089bfef-d61b-403d-bd2c-91daacdc7202",
+   "found_in_search": true
+  }
+ ]
+}

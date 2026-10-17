@@ -1,0 +1,38 @@
+{
+ "iso": "umg",
+ "name": "Morrobalama",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:02:47Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Morrobalama (Umbuygamu) language of Cape York Peninsula, Australia (Ogilvie 1994, ANU thesis)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/handle/1885/110346",
+   "found_in_search": true
+  },
+  {
+   "title": "Morrobolam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Morrobolam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Umbuygamu (Illustrations of the IPA, Journal of the International Phonetic Association)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/umbuygamu/47A9FF39BEF373DC768F0140FBDFCFD1",
+   "found_in_search": true
+  },
+  {
+   "title": "State Library of Queensland: Language week, Umbuygamu",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/language-week-week-thirty-umbuygamu",
+   "found_in_search": true
+  }
+ ]
+}

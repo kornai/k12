@@ -1,0 +1,31 @@
+{
+ "iso": "tmw",
+ "name": "Temuan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:05:48Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language Education for Orang Asli Children in Malaysia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://eprints.um.edu.my/35783",
+   "found_in_search": true
+  },
+  {
+   "title": "Temuan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Temuan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Temuan people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Temuan_people",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "tbg",
+ "name": "North Tairora",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:22:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "North Tairora (New Guinea World)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/eastern-highlands-kratke-range/eastern-highlands/kainantu/east-kainantu/tairora/north-tairora",
+   "found_in_search": true
+  },
+  {
+   "title": "Tairora language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tairora_language",
+   "found_in_search": true
+  },
+  {
+   "title": "North Tairora numerals (Max Planck channumerals)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tairora-North.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tairora (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/tairoa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Tairora in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15197",
+   "found_in_search": true
+  }
+ ]
+}

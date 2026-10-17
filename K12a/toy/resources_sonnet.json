@@ -1,0 +1,31 @@
+{
+ "iso": "toy",
+ "name": "Topoiyo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:29:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Topoiyo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Topoiyo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mamuju language (Endangered Languages Alliance)",
+   "type": "other",
+   "language": "English",
+   "url": "https://elalliance.org/languages/mamuju",
+   "found_in_search": true
+  },
+  {
+   "title": "Topoiyo in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15562",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "iso": "ush",
+ "name": "Ushojo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:22:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ushoji language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ushoji_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ushojo (cites Decker 1992)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/96632",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "wbe",
+ "name": "Waritai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:22:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waritai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waritai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Waritai",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2801",
+   "found_in_search": true
+  },
+  {
+   "title": "Clouse 1997 (Trans New Guinea Database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/clouse-1997?page=87",
+   "found_in_search": true
+  },
+  {
+   "title": "Lakes Plain languages (overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://static.hlt.bme.hu/semantics/external/pages/jokuc/en.wikipedia.org/wiki/Lakes_Plain_languages.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Weretai, Wari",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15911",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tdc",
+ "name": "Embera Tadó",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:38:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Embera (Ministerio de Cultura, App de lenguas nativas)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.mincultura.gov.co:443/areas/poblaciones/APP-de-lenguas-nativas/Documents/Embera.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Diccionario etnolinguistico (Gobernacion de Antioquia)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://antioquia.gov.co/images/PDF2/gerencia-indigena/Documentos_tecnicos_academicos/diccionario%20etnoling%C3%BC%C3%ADstico.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Embera dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/northernembera/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "The revitalization of Embera language in Colombia: from orality to literacy",
+   "type": "academic",
+   "language": "English",
+   "url": "https://onomazein.letras.uc.cl/index.php/onom/article/view/30325",
+   "found_in_search": true
+  },
+  {
+   "title": "Embera pedagogical tools study (Universidad de Cordoba)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.unicordoba.edu.co/index.php/avedhum/article/download/3848/6138",
+   "found_in_search": true
+  },
+  {
+   "title": "Illustrated Embera dictionary thesis (UNIR)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://reunir.unir.net/handle/123456789/14210",
+   "found_in_search": true
+  }
+ ]
+}

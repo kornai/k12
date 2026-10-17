@@ -1,0 +1,45 @@
+{
+ "iso": "tte",
+ "name": "Bwanabwana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:07:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bwanabwana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bwanabwana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bwanabwana (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/bwanabwana.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tubetube in Papua New Guinea (Joshua Project)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15611",
+   "found_in_search": true
+  },
+  {
+   "title": "Serving God in translation (The National)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.thenational.com.pg/?p=376750",
+   "found_in_search": true
+  },
+  {
+   "title": "Buki Tabu Beyabeyana (eBible)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/tteo/FRT01.htm",
+   "found_in_search": true
+  }
+ ]
+}

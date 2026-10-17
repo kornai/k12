@@ -1,0 +1,66 @@
+{
+ "iso": "tau",
+ "name": "Upper Tanana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:18:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary for Learners: Tetlin dialect of Upper Tanana Athabascan (UBC knowledgebase entry)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/dictionary-for-learners-tetlin-dialect-of-upper-tanana-athabascan",
+   "found_in_search": true
+  },
+  {
+   "title": "Neeaaneegn' Upper Tanana (Tetlin) Dictionary (UBC knowledgebase entry)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/neeaaneegn-upper-tanana-tetlin-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC knowledgebase entry on Upper Tanana dictionary edition (p=8431)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=8431",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC knowledgebase entry on Upper Tanana dictionary edition (p=6925)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=6925",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC knowledgebase entry on Upper Tanana dictionary edition (p=8434)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=8434",
+   "found_in_search": true
+  },
+  {
+   "title": "Upper Tanana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Upper_Tanana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Upper Tanana numerals (Max Planck EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tanana-Upper.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Upper Tanana",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/1165",
+   "found_in_search": true
+  }
+ ]
+}

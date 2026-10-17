@@ -1,0 +1,52 @@
+{
+ "iso": "tnc",
+ "name": "Tanimuca-Letuama",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:09:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tanimuca-Retuara language (ISO 639 tnc)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tnc",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Tanimuca-Letuama (tnc)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tnc/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tanimuca in Colombia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15257",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Letuama in Colombia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20306",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Scripture resources in Tanimuca-Letuama",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tnc",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista Forma y Funcion article listing languages of the Apaporis (not read)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.unal.edu.co/index.php/formayfuncion/article/download/17281/18122/54745",
+   "found_in_search": true
+  }
+ ]
+}

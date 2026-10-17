@@ -1,0 +1,45 @@
+{
+ "iso": "vml",
+ "name": "Malgana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:07:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Salvage Grammar of Malgana (Gargett 2011), ANU repository",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/146771/1/Gargett-2011-SalvageGrammarMalgana.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "A Salvage Grammar of Malgana - The Language of Shark Bay, Western Australia (Open University)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://oro.open.ac.uk/73150",
+   "found_in_search": true
+  },
+  {
+   "title": "Malgana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Malgana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Gutharraguda Cultural Heritage (Shark Bay Visit)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.sharkbayvisit.com.au/gutharraguda-cultural-heritage/",
+   "found_in_search": true
+  },
+  {
+   "title": "Aboriginal Languages (Shark Bay community site)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.sharkbay.org/?p=165",
+   "found_in_search": true
+  }
+ ]
+}

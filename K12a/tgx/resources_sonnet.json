@@ -1,0 +1,59 @@
+{
+ "iso": "tgx",
+ "name": "Tagish",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:06:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Recovering Yukon Languages (Carleton University)",
+   "type": "other",
+   "language": "English",
+   "url": "https://carleton.ca/news/story/recovering-yukon-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yukon FirstVoices Aboriginal Languages Project (CMEC)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://cmec.ca/docs/Aboriginal/YK-FirstVoicesAboriginalLanguagesProject.en.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagish resources (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/37821/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "New Technologies and Contested Ideologies: The Tagish FirstVoices Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://paperguide.ai/papers/0c1deff6-76db-4b30-9ef0-d8a3d49632d5/",
+   "found_in_search": true
+  },
+  {
+   "title": "Council of Yukon First Nations release",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://cyfn.ca/?p=3202",
+   "found_in_search": true
+  },
+  {
+   "title": "Yukon government release on Tagish FirstVoices site (archived)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://bac-lac.wayback.archive-it.org/web/20080206205124/http://www.gov.yk.ca/news/2005/files/05-288.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "NRC project: video recordings of Yukon Indigenous languages",
+   "type": "video",
+   "language": "English",
+   "url": "https://nrc.canada.ca/en/research-development/research-collaboration/programs/project-create-video-recordings-yukon-indigenous-languages",
+   "found_in_search": true
+  }
+ ]
+}

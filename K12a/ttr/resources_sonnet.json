@@ -1,0 +1,59 @@
+{
+ "iso": "ttr",
+ "name": "Tera",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:14:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tera (chapter, Equinox Publishing)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://api.equinoxpub.com/chapter/show/44120",
+   "found_in_search": true
+  },
+  {
+   "title": "Tench: Tera (Illustrations of the IPA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/EBA55DEC3AD50C945BC3DC58C78DE246/S0025100307002952a.pdf/tera.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 26.648 (Tera-English-Hausa Dictionary notice)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/26/648/",
+   "found_in_search": true
+  },
+  {
+   "title": "Transcription of Tera (Nigeria), LINGUIST List thread",
+   "type": "other",
+   "language": "English",
+   "url": "https://listserv.linguistlist.org/pipermail/ilat/2005-July/001649.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tera language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tera_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: ttr",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Ttr",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tera in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15440",
+   "found_in_search": true
+  }
+ ]
+}

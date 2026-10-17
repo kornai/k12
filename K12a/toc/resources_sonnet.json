@@ -1,0 +1,31 @@
+{
+ "iso": "toc",
+ "name": "Coyutla Totonac",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:20:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikitongues: Coyutla Totonac language page",
+   "type": "video",
+   "language": "native",
+   "url": "https://wikitongues.org/languages/toc/",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Coyutla Totonac-English dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/toc/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe English-Coyutla Totonac dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/en/toc",
+   "found_in_search": true
+  }
+ ]
+}

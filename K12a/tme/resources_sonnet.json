@@ -1,0 +1,45 @@
+{
+ "iso": "tme",
+ "name": "Tremembé",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:58:40Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Caderno de Projetos Indigena (school project listing Pesquisa da Linguagem Tremembé)",
+   "type": "school_or_programme",
+   "language": "other",
+   "url": "https://flacso.org.br/wp-content/blogs.dir/2184/files/2020/10/Caderno_de_Projetos_Indigena.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "REVASF article on language policies in Tremembé school education",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.univasf.edu.br/index.php/revasf/article/download/3481/2170/16722",
+   "found_in_search": true
+  },
+  {
+   "title": "Tremembé language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Trememb%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "UFC dissertation 2015 (Machado)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufc.br/ri/bitstream/riufc/20095/1/2015_dis_fpmachado.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Livro com histórias de lutas do povo indígena Tremembé é lançado no Ceará (Brasil de Fato)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.brasildefato.com.br/2020/10/29/livro-com-historias-de-lutas-do-povo-indigena-tremembe-e-lancado-no-ceara/",
+   "found_in_search": true
+  }
+ ]
+}

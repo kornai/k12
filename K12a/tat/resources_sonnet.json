@@ -1,0 +1,73 @@
+{
+ "iso": "tat",
+ "name": "Tatar",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:18:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Printing of new textbooks on the Tatar language will be approved by the Ministry of Education and Science of Tatarstan",
+   "type": "policy",
+   "language": "English",
+   "url": "https://tatar-congress.org/en/news/printing-of-new-textbooks-on-the-tatar-language-will-be-approved-by-the-ministry-of-education-and-science-of-tatarstan/",
+   "found_in_search": true
+  },
+  {
+   "title": "World Congress of Tatars page (related news)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://tatar-congress.org/en/?p=323542",
+   "found_in_search": true
+  },
+  {
+   "title": "KFU: teaching the Tatar language in Russian schools",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dspace.kpfu.ru/xmlui/handle/net/138774",
+   "found_in_search": true
+  },
+  {
+   "title": "KFU: linguistic analysis of Tatar language textbooks for non-Russian students",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dspace.kpfu.ru/xmlui/handle/net/140428",
+   "found_in_search": true
+  },
+  {
+   "title": "Safiullina: Tatar lexicography (EURALEX 2016 paper)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202016/euralex_2016_052_p475.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Bilingual lexicography in the Republic of Tatarstan in 1990-2010 (EURALEX)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://euralex.org/publications/bilingual-lexicography-in-the-republic-of-tatarstan-in-1990-2010/",
+   "found_in_search": true
+  },
+  {
+   "title": "EURALEX record: Tatar lexicography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://euralex.org/?p=7759",
+   "found_in_search": true
+  },
+  {
+   "title": "KFU repository record: Tatar corpora (Corpus of Written Tatar, Tugan Tel)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://dspace.kpfu.ru/xmlui/handle/net/142385",
+   "found_in_search": true
+  },
+  {
+   "title": "Tatar corpus-based grammar research paper (IATED)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://library.iated.org/view/GALIEVA2017DEV",
+   "found_in_search": true
+  }
+ ]
+}

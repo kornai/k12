@@ -1,0 +1,17 @@
+{
+ "iso": "uni",
+ "name": "Uni",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:07:41Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uni language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uni_language",
+   "found_in_search": true
+  }
+ ]
+}

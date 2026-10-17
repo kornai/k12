@@ -1,0 +1,38 @@
+{
+ "iso": "tra",
+ "name": "Tirahi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:44:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tirahi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tirahi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tirahi - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3509?hl=zh-cn",
+   "found_in_search": true
+  },
+  {
+   "title": "Tirahi - Verbix Endangered Languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Tirahi",
+   "found_in_search": true
+  },
+  {
+   "title": "Tirahi in Afghanistan - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15500/AF",
+   "found_in_search": true
+  }
+ ]
+}

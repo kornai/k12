@@ -1,0 +1,52 @@
+{
+ "iso": "toh",
+ "name": "Tonga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:22:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Friar Amaral Bernardo Amaral's translation of the Bible into Gitonga (Mozambique 1984-2014)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://unisapressjournals.co.za/index.php/OHJSA/article/view/13",
+   "found_in_search": true
+  },
+  {
+   "title": "Christian Greek Scriptures Released in Gitonga",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://pr418.com/en/news/region/mozambique/Christian-Greek-Scriptures-Released-in-Gitonga",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonga [Mozambique] language - Global Recordings Network",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/toh",
+   "found_in_search": true
+  },
+  {
+   "title": "Gitonga Tonga in Mozambique - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19123/MZ",
+   "found_in_search": true
+  },
+  {
+   "title": "Gitonga language (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://demo.azizisearch.com/lite/wikipedia/page/Gitonga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonga language (Mozambique) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:toh",
+   "found_in_search": true
+  }
+ ]
+}

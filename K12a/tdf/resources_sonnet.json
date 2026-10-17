@@ -1,0 +1,31 @@
+{
+ "iso": "tdf",
+ "name": "Talieng",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:40:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Numeral systems: Talieng (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Talieng.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tariang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tariang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tareng (tgr) bookkeeping note",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tgr",
+   "found_in_search": true
+  }
+ ]
+}

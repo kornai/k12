@@ -1,0 +1,52 @@
+{
+ "iso": "tsb",
+ "name": "Tsamai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:55:02Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsamai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsamai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsamai people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsamai_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsamay (Sprache) (German Wikipedia)",
+   "type": "other",
+   "language": "other",
+   "url": "https://de.wikipedia.org/wiki/Tsamay_(Sprache)",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Tsamai",
+   "type": "video",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tsb/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tsamai",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38443",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tsamay",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Tsamay",
+   "found_in_search": true
+  }
+ ]
+}

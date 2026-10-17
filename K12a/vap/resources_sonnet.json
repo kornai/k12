@@ -1,0 +1,52 @@
+{
+ "iso": "vap",
+ "name": "Vaiphei",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:52:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vaiphei language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vaiphei_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Vaiphei",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/vaiphei.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Trinitarian Bible Society: Vaiphei Bible Translation news",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.tbsbibles.org/news/651403/Vaiphei-Bible-Translation-.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "YouVersion: Vaiphei Bible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/versions/1062",
+   "found_in_search": true
+  },
+  {
+   "title": "BibliaTodo: Vaiphei Bible (vaipbsi)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bibliatodo.com/sq/bibla/version/vaipbsi",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Vaiphei in India",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/18291/IN",
+   "found_in_search": true
+  }
+ ]
+}

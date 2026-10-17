@@ -1,0 +1,45 @@
+{
+ "iso": "tta",
+ "name": "Tutelo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:06:04Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar and Dictionary of Tutelo (Oliverio 1997)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://kuscholarworks.ku.edu/entities/publication/46f6622c-4d2c-4647-a4a5-8781193a72ba",
+   "found_in_search": true
+  },
+  {
+   "title": "Oliverio, Giulia R. M. 1997 (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/40571",
+   "found_in_search": true
+  },
+  {
+   "title": "Sketch grammar of Tutelo-Saponi (Roberts 2020, University of Arizona)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://repository.arizona.edu/handle/10150/648661",
+   "found_in_search": true
+  },
+  {
+   "title": "Tutelo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tutelo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tutelo-Saponi (Monacan) Living Dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://livingdictionaries.app/tutelo-saponi",
+   "found_in_search": true
+  }
+ ]
+}

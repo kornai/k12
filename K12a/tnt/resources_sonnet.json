@@ -1,0 +1,59 @@
+{
+ "iso": "tnt",
+ "name": "Tontemboan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:17:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tontemboan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tontemboan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Reconstruction of the Tontemboan-Indonesian Dictionary: Makela'i and Matana'i",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ejournal.unibabwi.ac.id/index.php/santhet/article/view/3287",
+   "found_in_search": true
+  },
+  {
+   "title": "Reconstruction of the Tontemboan-Indonesian Dictionary (PDF download)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ejournal.unibabwi.ac.id/index.php/santhet/article/download/3287/2771",
+   "found_in_search": true
+  },
+  {
+   "title": "Prefixes In Tontemboan Language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journal.trunojoyo.ac.id/ijcst/article/view/8215",
+   "found_in_search": true
+  },
+  {
+   "title": "Related article from the unibabwi Santhet journal (contents unconfirmed)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.unibabwi.ac.id/index.php/santhet/article/download/4688/2781",
+   "found_in_search": true
+  },
+  {
+   "title": "Tontemboan (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tontemboan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tontemboan verbs (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Tontemboan",
+   "found_in_search": true
+  }
+ ]
+}

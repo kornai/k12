@@ -1,0 +1,38 @@
+{
+ "iso": "ugh",
+ "name": "Kubachi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:46:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yamling and Tchantouria 1991, Kubachi simple-sentence grammar (Lund Working Papers)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://journals.lub.lu.se/LWPL/article/download/2580/2155/5234",
+   "found_in_search": true
+  },
+  {
+   "title": "Comparative characteristics of the Kubachi and Itsari lects: phonetic data",
+   "type": "academic",
+   "language": "English",
+   "url": "https://gramota.net/eng/materials/2/2023/12/41.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Kubachi phonetics research article (Philology journal)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://philology-journal.ru/en/article/phil20230665/fulltext",
+   "found_in_search": true
+  },
+  {
+   "title": "BnF catalogue entry for Kubachi (Ughbug)",
+   "type": "other",
+   "language": "English",
+   "url": "https://catalogue.bnf.fr/ark:/12148/cb16505644b",
+   "found_in_search": true
+  }
+ ]
+}

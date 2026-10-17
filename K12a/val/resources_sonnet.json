@@ -1,0 +1,45 @@
+{
+ "iso": "val",
+ "name": "Vehes",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:51:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vehes language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vehes_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Vehes numerals (Max Planck channumerals)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Vehes.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Vehes in Papua New Guinea (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15779",
+   "found_in_search": true
+  },
+  {
+   "title": "Vehes language (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/val",
+   "found_in_search": true
+  },
+  {
+   "title": "Vehes (Verbix Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Vehes",
+   "found_in_search": true
+  }
+ ]
+}

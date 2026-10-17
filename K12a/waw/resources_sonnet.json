@@ -1,0 +1,52 @@
+{
+ "iso": "waw",
+ "name": "Waiwai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:21:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waiwai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waiwai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "SIL Brazil archive item 3517",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.silbrazil.org/resources/archives/3517",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Waiwai",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/waiwai.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Waiwai numerals (MPI EVA channumerals)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Waiwai.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wai-wai people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wai-wai_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Povos Indigenas no Brasil: Waiwai",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://indios.org.br/en/Povo:Waiwai",
+   "found_in_search": true
+  }
+ ]
+}

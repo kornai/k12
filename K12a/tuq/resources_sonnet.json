@@ -1,0 +1,45 @@
+{
+ "iso": "tuq",
+ "name": "Tedaga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:26:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Teda language (Wikipedia, with references to Le Coeur grammar and dictionary)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Teda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tudaga online dictionary (Mosko Hanadii-i project, Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/tudaga/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Mede tugi tudagaa (Tudaga dictionary app)",
+   "type": "software",
+   "language": "native",
+   "url": "https://apps.apple.com/us/app/id1536571686",
+   "found_in_search": true
+  },
+  {
+   "title": "Tedaga Worterbuch (dictionary project)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.fundraiso.ch/en/organisations/tedaga-worterbuch",
+   "found_in_search": true
+  },
+  {
+   "title": "Teda alphabet chart (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/charts/teda.pdf",
+   "found_in_search": true
+  }
+ ]
+}

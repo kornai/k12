@@ -1,0 +1,45 @@
+{
+ "iso": "tth",
+ "name": "Upper Ta’oih",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:09:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ta'Oi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ta%27Oi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Ta'Oi",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/taoi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: tth",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tth",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Upper Ta Oi in Laos",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15260/LA",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ta'oih in Vietnam",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15260/VM",
+   "found_in_search": true
+  }
+ ]
+}

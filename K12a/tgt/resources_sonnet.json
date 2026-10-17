@@ -1,0 +1,45 @@
+{
+ "iso": "tgt",
+ "name": "Tagbanwa, Central",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:04:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "UP Linguistics language capsule: Tagbanwa, Central",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.upd.edu.ph/the-katig-collective/language-capsules/tagbanwa-central/",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Tagbanwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Central_Tagbanwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Central Tagbanwa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/cent2090.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Central Tagbanwa",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/centraltagbanwa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Central Tagbanwa",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5087",
+   "found_in_search": true
+  }
+ ]
+}

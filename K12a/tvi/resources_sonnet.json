@@ -1,0 +1,31 @@
+{
+ "iso": "tvi",
+ "name": "Tulai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:29:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages catalogue entry for Tulai",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10453",
+   "found_in_search": true
+  },
+  {
+   "title": "ThoT Database: nucl1693 tonal status",
+   "type": "academic",
+   "language": "English",
+   "url": "https://thot.huma-num.fr/db/nucl1693/tonal_status",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tulai in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/22370",
+   "found_in_search": true
+  }
+ ]
+}

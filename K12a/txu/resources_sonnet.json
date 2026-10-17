@@ -1,0 +1,31 @@
+{
+ "iso": "txu",
+ "name": "Kayapó",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:48:22Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Illustrated bilingual Kayapo-Portuguese glossary of fauna (UFRJ dissertation)",
+   "type": "school_or_programme",
+   "url": "https://pantheon.ufrj.br/handle/11422/29106",
+   "language": "other",
+   "found_in_search": true
+  },
+  {
+   "title": "O campo lexical da cerimonia do bep: proposta de um dicionario bilingue mebengokre-portugues",
+   "type": "dictionary",
+   "url": "https://bdtd.ibict.br/vufind/Record/UFRJ_f0c31687ab54484d9d14d120f287bc73",
+   "language": "other",
+   "found_in_search": true
+  },
+  {
+   "title": "Abralin report on Mebengokre language rights and co-officiality",
+   "type": "policy",
+   "url": "https://cadernos.abralin.org/index.php/cadernos/article/download/687/845/12791",
+   "language": "other",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "tyy",
+ "name": "Tiyaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:55:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ASJP: Tiyaa word list",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/TIYAA",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tiyaa",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/bn/node/96036",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tiyaa language profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tyy",
+   "found_in_search": true
+  }
+ ]
+}

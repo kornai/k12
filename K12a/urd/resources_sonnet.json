@@ -1,0 +1,45 @@
+{
+ "iso": "urd",
+ "name": "Urdu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:14:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Urdu Primer (CIIL/NCERT)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://ciil.gov.in/primers/Urdu_Primer.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Urdu Lughat (Wikipedia)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urdu_Lughat",
+   "found_in_search": true
+  },
+  {
+   "title": "Rekhta Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.rekhtadictionary.com/about-us",
+   "found_in_search": true
+  },
+  {
+   "title": "Rekhta open-access collection (McGill Library blog)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://blogs.library.mcgill.ca/islamicstudieslibrary/?p=2121",
+   "found_in_search": true
+  },
+  {
+   "title": "Urdu 101 Syllabus (Ohio State University)",
+   "type": "other",
+   "language": "English",
+   "url": "https://ascnet.osu.edu/storage/request_documents/45/Urdu%20101%20Syllabus.pdf",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "ttt",
+ "name": "Tat, Muslim",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:14:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tat language (Caucasus) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tat_language_%28Caucasus%29",
+   "found_in_search": true
+  },
+  {
+   "title": "Tat alphabet (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tat_alphabet",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tat (zuhun tati)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tat.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Red Book of the Peoples of the Russian Empire: Tats",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.eki.ee/books/redbook/tats.shtml",
+   "found_in_search": true
+  }
+ ]
+}

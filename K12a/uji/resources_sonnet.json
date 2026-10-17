@@ -1,0 +1,38 @@
+{
+ "iso": "uji",
+ "name": "Rjili",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:50:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Jijili language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Jijili_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Jili language (Wikipedia; different language, mgi)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Jili_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Rjili",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/uji",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Koro, Jijili in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12798/NI",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "tiq",
+ "name": "Tiéfo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:24:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tiefo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tiefo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Tiefo",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Tiefo",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tiefo",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3818",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tcg",
+ "name": "Tamagario",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:32:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tamagario language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tamagario_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kayagar languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kayagar_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Tamagario",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/cook-river-kolopom/cook-river/gondu-river/central-gondu-river/tamagario",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Tamagario 2 word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TAMAGARIO_2",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tamagario, Buru in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15222",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kayagar in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12595",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "uga",
+ "name": "Ugaritic",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:46:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Manual of Ugaritic (catalogue record, OEAW)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9781575066523",
+   "found_in_search": true
+  },
+  {
+   "title": "A Manual of Ugaritic (catalogue record, TUM)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://search.ub.tum.de/vufind/Record/DE-604.BV047416306",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexicity wiki: Ugaritic",
+   "type": "other",
+   "language": "English",
+   "url": "https://oderalon.net/wiki/index.php/Lexicity/Ugaritic",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "tjl",
+ "name": "Tai Laing",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:29:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tai Laing language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Laing_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Laing script and language (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tailaing.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Laing numbers (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/language/numbers/tailaing.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: tjl",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tjl",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Laing in Myanmar (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/20584",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Myanmar Tai Laing",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://operation.asiaharvest.org/MYANMAR-Tai-Laing.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: tjl",
+   "type": "video",
+   "language": "other",
+   "url": "https://wikitongues.org/languages/tjl/",
+   "found_in_search": true
+  }
+ ]
+}

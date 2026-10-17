@@ -1,0 +1,38 @@
+{
+ "iso": "ubi",
+ "name": "Ubi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:39:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ubi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ubi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Chadic numerals: Ubi (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Ubi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Oubi - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2595?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Ubi in Chad (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15679",
+   "found_in_search": true
+  }
+ ]
+}

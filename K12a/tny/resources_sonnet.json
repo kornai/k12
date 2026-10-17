@@ -1,0 +1,45 @@
+{
+ "iso": "tny",
+ "name": "Tongwe",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:19:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tongwe language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tongwe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tongwe (Sitongwe) on Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tongwe.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tongwe language",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/tny",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tongwe in Tanzania",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15555",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tongwe",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tny",
+   "found_in_search": true
+  }
+ ]
+}

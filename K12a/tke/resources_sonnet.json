@@ -1,0 +1,52 @@
+{
+ "iso": "tke",
+ "name": "Takwane",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:34:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Takwane dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/takwane/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Takwane New Testament (eBible.org)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/bible/details.php?id=tke",
+   "found_in_search": true
+  },
+  {
+   "title": "Takwane Bible PDF (eBible.org)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/pdf/tke/tke_all.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Takwane scripture and audio (ScriptureEarth)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tke",
+   "found_in_search": true
+  },
+  {
+   "title": "Takwane Bible (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/TKEWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Takwane in Mozambique (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19016",
+   "found_in_search": true
+  }
+ ]
+}

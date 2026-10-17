@@ -1,0 +1,45 @@
+{
+ "iso": "tvu",
+ "name": "Tunen",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:32:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tunen (Nen) dictionary on Webonary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/nen/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Nen overview",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/nen/overview/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunen syntax and information structure (Kerr, LOT 2024)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A4054928/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Nen language (Cameroon) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nen_language_(Cameroon)",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Tunen",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tvu",
+   "found_in_search": true
+  }
+ ]
+}

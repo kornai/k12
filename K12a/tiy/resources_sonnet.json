@@ -1,0 +1,31 @@
+{
+ "iso": "tiy",
+ "name": "Teduray",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:27:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Teduray language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Teduray_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiruray (Teduray) writing and language (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tiruray.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Resources: Teduray (ScriptureEarth)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tiy",
+   "found_in_search": true
+  }
+ ]
+}

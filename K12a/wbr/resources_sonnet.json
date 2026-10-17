@@ -1,0 +1,31 @@
+{
+ "iso": "wbr",
+ "name": "Wagdi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:25:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wagdi (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wagdi",
+   "found_in_search": true
+  },
+  {
+   "title": "Dungarpur district (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dungarpur_district",
+   "found_in_search": true
+  },
+  {
+   "title": "Banswara district (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Banswara_district",
+   "found_in_search": true
+  }
+ ]
+}

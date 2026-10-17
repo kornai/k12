@@ -1,0 +1,45 @@
+{
+ "iso": "ukg",
+ "name": "Ukuriguma",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:50:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ukuriguma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukuriguma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Ukuriguma word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/UKURIGUMA",
+   "found_in_search": true
+  },
+  {
+   "title": "Z'graggen 1980 Northern Adelbert comparative word list (Trans New Guinea database)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/source/zgraggen-1980-nadelbert?page=79",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ukuriguma in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15698/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Ukuriguma",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3433",
+   "found_in_search": true
+  }
+ ]
+}

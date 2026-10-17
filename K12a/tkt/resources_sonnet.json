@@ -1,0 +1,31 @@
+{
+ "iso": "tkt",
+ "name": "Kathariya Tharu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:41:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ASJP: Tharu Kathariya language page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/THARU_KATHARIYA",
+   "found_in_search": true
+  },
+  {
+   "title": "Mid-Eastern Tharu--Nepali dictionary (Webonary), related variety",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/mp-tharu/overview/forward/",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Kathoriya Tharu translation pages (unverified)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/tkt/mxv",
+   "found_in_search": true
+  }
+ ]
+}

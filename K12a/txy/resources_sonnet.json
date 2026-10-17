@@ -1,0 +1,38 @@
+{
+ "iso": "txy",
+ "name": "Malagasy, Tanosy",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:50:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Malagasy online dictionary (malagasyword.org)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://malagasyword.org/bins/teny2/dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos Malagasy dictionaries",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/english/malagasy_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The Malagasy language in the digital age",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hal.archives-ouvertes.fr/hal-01237509",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Malagasy (Plateau) Bibles",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=plt",
+   "found_in_search": true
+  }
+ ]
+}

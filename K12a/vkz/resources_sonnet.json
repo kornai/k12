@@ -1,0 +1,38 @@
+{
+ "iso": "vkz",
+ "name": "Koro Zuba",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:03:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Koro Zuba language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Koro_Zuba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sociolinguistic profile of Koro Nulu and Koro Zuba (Decker et al. 2021), reference record",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/593564",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Koro Zuba in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20656",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Koro Zuba",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/vkz",
+   "found_in_search": true
+  }
+ ]
+}

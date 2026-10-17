@@ -1,0 +1,38 @@
+{
+ "iso": "urn",
+ "name": "Uruangnirin",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:17:22Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uruangnirin language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uruangnirin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Phonological Sketch of Uruangnirin (JSEALS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://evols.library.manoa.hawaii.edu/items/8818a0c2-240a-4550-9c48-adef0b11549b",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Documentation & Description article",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.lddjournal.org/article/id/993",
+   "found_in_search": true
+  },
+  {
+   "title": "Uruangnirin entry, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2798",
+   "found_in_search": true
+  }
+ ]
+}

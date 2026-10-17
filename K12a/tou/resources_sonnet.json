@@ -1,0 +1,52 @@
+{
+ "iso": "tou",
+ "name": "Tho",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:27:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ferlus: Some peculiarities of Cuoi Cham, a Vietic language of Nghe-An",
+   "type": "academic",
+   "language": "English",
+   "url": "https://halshs.archives-ouvertes.fr/halshs-01079521",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Cuoi language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Cu%E1%BB%91i_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Vietic languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vietic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ThoT database: Tho tonal status",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://thot.huma-num.fr/db/thoo1240/tonal_status",
+   "found_in_search": true
+  },
+  {
+   "title": "Max Planck: Tho numerals",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tho.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Huma-Num language listing for tou",
+   "type": "other",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=tou",
+   "found_in_search": true
+  }
+ ]
+}

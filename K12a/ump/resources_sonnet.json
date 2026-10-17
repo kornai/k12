@@ -1,0 +1,38 @@
+{
+ "iso": "ump",
+ "name": "Umpila",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:04:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Umpila language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Umpila_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Umpila (Pama Language Centre)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.pamacentre.org.au/umpila/",
+   "found_in_search": true
+  },
+  {
+   "title": "Language week fifteen: Umpila (State Library of Queensland)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/language-week-week-fifteen-umpila",
+   "found_in_search": true
+  },
+  {
+   "title": "Word week fifty-one, 2019 International Year of Indigenous Languages (State Library of Queensland)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-fifty-one",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "ttk",
+ "name": "Totoro",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:10:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Totoro language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Totoro_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Totoro",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3495",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Totoro bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3495/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Guambiano (related language, for comparison)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/guambiano.htm",
+   "found_in_search": true
+  }
+ ]
+}

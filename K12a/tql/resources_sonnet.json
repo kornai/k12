@@ -1,0 +1,45 @@
+{
+ "iso": "tql",
+ "name": "Lehali",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:39:41Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lehali language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lehali_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Torres-Banks languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Torres%E2%80%93Banks_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Lehali",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/leha1243.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Fieldwork and languages (Francois)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://marama.huma-num.fr/AF-field.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "TLOPO database: Lehali",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tlopo.clld.org/languages/lehali",
+   "found_in_search": true
+  }
+ ]
+}

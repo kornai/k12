@@ -1,0 +1,73 @@
+{
+ "iso": "tvk",
+ "name": "Southeast Ambrym",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:29:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pedagogical study of possessive constructions in Vatlongos (Surrey)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://openresearch.surrey.ac.uk/permalink/44SUR_INST/15d8lgh/alma99938165902346",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Ambrym (Thieberger), incl. Parker's Southeast Ambrym dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://nthieberger.net/vanlangs/AMBRYM.HTM",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Southeast Ambrym",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sout2859",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Ambrym, Southeast verb list",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/AmbrymSoutheast",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian typology database: Ambrym, Southeast (Toak)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lpan.eva.mpg.de/austronesian/language.php?id=1142",
+   "found_in_search": true
+  },
+  {
+   "title": "Leibniz-ZAS Ambrym research project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://leibniz-zas.de/en/research/research-areas/project-archive/projekt-archive/ambrym",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item VAMBRYM1A",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/AC2/VAMBRYM1A",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item SPCmf01",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/NLA1/SPCmf01",
+   "found_in_search": true
+  },
+  {
+   "title": "PAMBU catalogue: Ambrym, Vanuatu",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asiapacific.anu.edu.au/pambu/catalogue/index.php/ambrym-vanuatu",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "tbw",
+ "name": "Tagbanwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:28:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Aborlan Tagbanwa language (Wikipedia, ISO 639:tbw)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tbw",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagbanwa script (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tagbanwa_script",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Tagbanwa language (Wikipedia; different language, tgt)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Central_Tagbanwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagbanwa dictionary page (tagalognow.com, unverified)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.tagalognow.com/dictionary/Tagbanwa/",
+   "found_in_search": true
+  }
+ ]
+}

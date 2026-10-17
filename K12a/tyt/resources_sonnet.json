@@ -1,0 +1,38 @@
+{
+ "iso": "tyt",
+ "name": "Tày Tac",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:53:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tày Tac language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/T%C3%A0y_Tac_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ferlus: Tai Nghe An (mentions Tay Tac as White Tay)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://halshs.archives-ouvertes.fr/halshs-01617791v1/file/Ferlus2008TaiNgh%C3%AAAn_version2017.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tày language (Wikipedia), related but distinct",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/T%C3%A0y_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tay Tac in Vietnam",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15308",
+   "found_in_search": true
+  }
+ ]
+}

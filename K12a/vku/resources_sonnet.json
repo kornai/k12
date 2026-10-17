@@ -1,0 +1,45 @@
+{
+ "iso": "vku",
+ "name": "Kurrama",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:03:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Morphology and Sentence Construction in Kurrama (Hill 2011)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/320244",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangka Maya: Kurrama",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/kurrama",
+   "found_in_search": true
+  },
+  {
+   "title": "Wangka Maya: Resources and eBook Dictionaries",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/about-languages/resources-and-dictionaries",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Kurrama-English",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glosbe.com/vku/en",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurrama language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kurrama_language",
+   "found_in_search": true
+  }
+ ]
+}

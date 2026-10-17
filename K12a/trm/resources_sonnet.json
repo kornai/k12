@@ -1,0 +1,38 @@
+{
+ "iso": "trm",
+ "name": "Tregami",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:47:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Tregami (nuristan.info)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.nuristan.info/Nuristani/Tregami/tregami.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Nuristani languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nuristani_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Tregami (Rosetta Panglossia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Trm",
+   "found_in_search": true
+  },
+  {
+   "title": "Waigali / Kalasha-ala (related language, Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://Www.Wikipedia.org/wiki/Waigali",
+   "found_in_search": true
+  }
+ ]
+}

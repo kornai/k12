@@ -1,0 +1,38 @@
+{
+ "iso": "tcf",
+ "name": "Malinaltepec Me’phaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:31:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tlapanec language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.com/wiki/ISO_639:tpx",
+   "found_in_search": true
+  },
+  {
+   "title": "Alignment in Me'phaa of Malinaltepec, Guerrero (CIESAS thesis, Abad Navarro Solano 2012)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ciesas.repositorioinstitucional.mx/jspui/bitstream/1015/805/1/TE%20N.S.%202012%20Abad%20Navarro%20Solano.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tlapanec (Endangered Languages Alliance)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.elalliance.org/languages/tlapanec",
+   "found_in_search": true
+  },
+  {
+   "title": "The Tlapaneco (Me'phaa) of Guerrero: Eternal Defiance (Indigenous Mexico)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.indigenousmexico.org/articles/the-defiant-tlapaneca-mphaa-of-guerrero",
+   "found_in_search": true
+  }
+ ]
+}

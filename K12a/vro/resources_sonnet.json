@@ -1,0 +1,52 @@
+{
+ "iso": "vro",
+ "name": "Võro",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:13:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "New Võro textbook for children (ERR)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.err.ee/1609160458/vorokesed-soovivad-uue-opikuga-voru-keelt-lastele-lahemale-tuua",
+   "found_in_search": true
+  },
+  {
+   "title": "Võro keelepesa teachers' in-service training curriculum 2025",
+   "type": "policy",
+   "language": "native",
+   "url": "https://wi.ee/wp-content/uploads/2025/01/Voru-keelepesa-opetajate-taiendkoolituse-oppekava-2025-aastal.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Võro Institute (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/V%C3%B5ro_Institute",
+   "found_in_search": true
+  },
+  {
+   "title": "Koreinik and Iva on Võro language status",
+   "type": "academic",
+   "language": "other",
+   "url": "https://keel.ut.ee/sites/default/files/2023-09/09_kadri_koreinik_sulev_iva.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Võru pupils stage Võro-language children's musical (ERR)",
+   "type": "other",
+   "language": "native",
+   "url": "https://www.err.ee/1608245283/voru-koolinoored-toid-lavale-vorukeelse-lastemuusikali",
+   "found_in_search": true
+  },
+  {
+   "title": "Võro language week in Võru (ERR)",
+   "type": "other",
+   "language": "native",
+   "url": "https://www.err.ee/1608781483/vorus-on-nadala-valtel-tahelepanu-keskmes-kohalik-keel",
+   "found_in_search": true
+  }
+ ]
+}

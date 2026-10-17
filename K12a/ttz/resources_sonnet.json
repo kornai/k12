@@ -1,0 +1,45 @@
+{
+ "iso": "ttz",
+ "name": "Tsum",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:17:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsum language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsum_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist for Tsum",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/TSUM",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Tsum Data Collection item ttz0029",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/NL1/items/ttz0029",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Tsum Data Collection item ttz0069",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/NL1/items/ttz0069",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Tsum Data Collection item ttz0077",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/NL1/items/ttz0077",
+   "found_in_search": true
+  }
+ ]
+}

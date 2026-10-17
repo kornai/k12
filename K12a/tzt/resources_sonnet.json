@@ -1,0 +1,31 @@
+{
+ "iso": "tzt",
+ "name": "Tz'utujil, Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T11:02:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vocabulario Tzutujil, version final 2025 (ALMG)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://almg.org.gt/wp-content/uploads/2025/09/VOCABULARIO-TZUTUJIL-VERSION-FINAL-2025.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog Tz'utujil entry listing Dayley grammars, Diccionario Tz'utujil and Garcia Ixmata grammar",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tzj",
+   "found_in_search": true
+  },
+  {
+   "title": "Tz'utujil Talking Dictionary (Living Tongues Institute)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://talkingdictionaries.app/tzutujil",
+   "found_in_search": true
+  }
+ ]
+}

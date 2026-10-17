@@ -1,0 +1,24 @@
+{
+ "iso": "wci",
+ "name": "Gbe, Waci",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:27:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waci language (Wikipedia; cites survey, grammar and phonology works)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waci_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Waci (wci) scripture audio and Global Recordings",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=wci",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "uba",
+ "name": "Ubang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:37:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ubang language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ubang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of Ubang Gender Diglossia (ELDP)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk0492/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ugwu, Ifeanyi Aaron 2018 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/582092",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Ubang in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15678",
+   "found_in_search": true
+  }
+ ]
+}

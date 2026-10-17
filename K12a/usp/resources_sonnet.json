@@ -1,0 +1,52 @@
+{
+ "iso": "usp",
+ "name": "Uspanteko",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:23:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uspantek language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uspantek_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ALMG Uspanteko educational video on occupations and professions (AGN)",
+   "type": "video",
+   "language": "native",
+   "url": "https://agn.gt/conozca-las-ocupaciones-y-profesiones-en-idioma-uspanteko/",
+   "found_in_search": true
+  },
+  {
+   "title": "AGN news item on Uspanteko (ALMG)",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://agn.gt/?p=440461",
+   "found_in_search": true
+  },
+  {
+   "title": "Two Mayan Languages: Uspanteko and Sakapulteko (Endangered Languages Archive)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0028/",
+   "found_in_search": true
+  },
+  {
+   "title": "Uspanteko numerals (Max Planck EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Uspanteko.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Gottingen Maya project: Uspanteko",
+   "type": "academic",
+   "language": "other",
+   "url": "https://spw.uni-goettingen.de/projects/maya/lng-USP.php",
+   "found_in_search": true
+  }
+ ]
+}

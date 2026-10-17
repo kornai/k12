@@ -1,0 +1,38 @@
+{
+ "iso": "ukv",
+ "name": "Kuku",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:53:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kuku dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kuku_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Kuku people (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://Www.Wikipedia.org/wiki/Kuku_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Kuku (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/kuku.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page ukv",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ukv",
+   "found_in_search": true
+  }
+ ]
+}

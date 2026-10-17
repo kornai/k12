@@ -1,0 +1,31 @@
+{
+ "iso": "tja",
+ "name": "Tajuasohn",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:27:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tajuasohn language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tajuasohn_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tajuasohn numerals, Sinoe county, Liberia (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tajuasohn.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tajuasohn in Liberia (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15203/LI",
+   "found_in_search": true
+  }
+ ]
+}

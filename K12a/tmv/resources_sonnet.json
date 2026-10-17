@@ -1,0 +1,38 @@
+{
+ "iso": "tmv",
+ "name": "Tembo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:05:48Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Tembo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/temb1272.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Budza language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Budza_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language tmv",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tmv",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: tmv",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tmv",
+   "found_in_search": true
+  }
+ ]
+}

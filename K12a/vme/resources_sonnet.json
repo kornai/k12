@@ -1,0 +1,38 @@
+{
+ "iso": "vme",
+ "name": "Masela, East",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:06:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Masela language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Masela_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Masela, East",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/east2462.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Masela, East",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/MaselaEast",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: East Masela in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13567",
+   "found_in_search": true
+  }
+ ]
+}

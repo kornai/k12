@@ -1,0 +1,31 @@
+{
+ "iso": "tyj",
+ "name": "Tai Yo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:51:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tai Yo language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Yo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Pao language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Pao_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Papers by James R Chamberlain (Academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nuol.academia.edu/JamesChamberlain",
+   "found_in_search": true
+  }
+ ]
+}

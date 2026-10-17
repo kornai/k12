@@ -1,0 +1,52 @@
+{
+ "iso": "uum",
+ "name": "Urum",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:26:10Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Urum language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urum_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Urums (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urums",
+   "found_in_search": true
+  },
+  {
+   "title": "Azovian Urum (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/UrumAzovian",
+   "found_in_search": true
+  },
+  {
+   "title": "The Urums of the North Azov Sea Region (Cyberleninka)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cyberleninka.ru/article/n/the-urums-of-the-north-azov-sea-region",
+   "found_in_search": true
+  },
+  {
+   "title": "The status of Urum",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hellenisteukontos.opoudjis.net/the-status-of-urum/",
+   "found_in_search": true
+  },
+  {
+   "title": "The North Azovian Greeks and Their Languages (Mariupol Memory Park)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.mariupolmemorypark.space/?p=2188",
+   "found_in_search": true
+  }
+ ]
+}

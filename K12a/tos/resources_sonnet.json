@@ -1,0 +1,31 @@
+{
+ "iso": "tos",
+ "name": "Highland Totonac",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:27:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Sierra Totonac resources (lists Aprendamos totonaco, 2010)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/fil/node/38946/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Highland Totonac",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/high1243",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Highland Totonac-German dictionary (aggregated)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/tos/de",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "txi",
+ "name": "Ikpeng",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:45:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ikpeng language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ikpeng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ikpeng (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ikpeng",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Ikpeng writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/ikpeng.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Snapshot: Ikpeng (Language Documentation and Description)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.lddjournal.org/article/id/1007",
+   "found_in_search": true
+  },
+  {
+   "title": "Cadernos Abralin article 703 (Ikpeng)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://cadernos.abralin.org/index.php/cadernos/article/view/703",
+   "found_in_search": true
+  }
+ ]
+}

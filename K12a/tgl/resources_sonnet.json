@@ -1,0 +1,45 @@
+{
+ "iso": "tgl",
+ "name": "Tagalog",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:02:24Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mother tongue-based multilingual education: Kagamitan ng mag-aaral Tagalog (DepEd, 2013)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://elibrary.lu.edu.ph/students/catalog/2497/",
+   "found_in_search": true
+  },
+  {
+   "title": "Knowing about MTB-MLE (presentation)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.slideshare.net/slideshow/knowing-about-mtbmle/68071062",
+   "found_in_search": true
+  },
+  {
+   "title": "Basic Tagalog (Aspillera, Tuttle)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.tuttlepublishing.com/philippines/basic-tagalog",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagalog-English/English-Tagalog Standard Dictionary (Hippocrene)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://banksquarebooks.com/book/9780781809603",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Iowa Tagalog resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://clcl.uiowa.edu/node/266",
+   "found_in_search": true
+  }
+ ]
+}

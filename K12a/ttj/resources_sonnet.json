@@ -1,0 +1,45 @@
+{
+ "iso": "ttj",
+ "name": "Tooro",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:10:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Modern Runyoro-Rutooro Grammar (Rubongoya, 1999)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_a-modern-runyoro-rutooro-grammar-j-10",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog record: Rubongoya 1999",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/69051",
+   "found_in_search": true
+  },
+  {
+   "title": "A Runyoro-Rutooro Grammar (1975 typescript), SOAS",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.soas.ac.uk/Record/PP_MS_43.01.25",
+   "found_in_search": true
+  },
+  {
+   "title": "Tooro language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tooro_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nyoro-Tooro language (Wikipedia), orthography comparison",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nyoro-Tooro_language",
+   "found_in_search": true
+  }
+ ]
+}

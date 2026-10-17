@@ -1,0 +1,52 @@
+{
+ "iso": "tek",
+ "name": "Teke, Ibali",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:49:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ibali Teke (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tek/",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog entry for Teke (Ibali) languoid",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/bali1275.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "East Teke language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tek",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Teke in Congo, Democratic Republic of (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/11707/CG",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page: tek",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/tek",
+   "found_in_search": true
+  },
+  {
+   "title": "Kiteke language audio (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tek",
+   "found_in_search": true
+  }
+ ]
+}

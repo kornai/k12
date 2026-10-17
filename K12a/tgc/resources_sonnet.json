@@ -1,0 +1,45 @@
+{
+ "iso": "tgc",
+ "name": "Tigak",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:57:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Tigak Language of New Ireland (Beaumont, ANU PhD thesis 1974)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/130442/2/b1015637_Beaumont_1974_PhD.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tigak language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tigak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "New Ireland languages: a review (ANU)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://digitalcollections.anu.edu.au/items/0c80f500-3894-43b0-80e1-2201ff00e6bb/full",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU repository item titled Cultural advice (content unverified)",
+   "type": "other",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/3af0be78-62ba-4acf-9ba3-dffc4b0eeb30",
+   "found_in_search": true
+  },
+  {
+   "title": "Digital Pasifik item (content unverified)",
+   "type": "other",
+   "language": "other",
+   "url": "https://digitalpasifik.org/items/356599",
+   "found_in_search": true
+  }
+ ]
+}

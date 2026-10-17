@@ -1,0 +1,66 @@
+{
+ "iso": "txo",
+ "name": "Toto",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:46:48Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Toto language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Toto_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Toto writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/toto.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia Sinica linguistics paper on Toto",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ling.sinica.edu.tw/upload/researcher_manager_result/f822204da4a29c59b07f0a38aa990354.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Learning the ABC of Toto language",
+   "type": "other",
+   "language": "English",
+   "url": "https://villagesquare.in/learning-the-abc-of-toto-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Trilingual Toto-Bangla-English learning application (arXiv)",
+   "type": "software",
+   "language": "English",
+   "url": "https://arxiv.org/abs/2510.22629v1",
+   "found_in_search": true
+  },
+  {
+   "title": "One letter at a time: Toto community protects its language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://asianews.network/one-letter-at-a-time-toto-tribal-community-in-eastern-india-strives-to-protect-its-language",
+   "found_in_search": true
+  },
+  {
+   "title": "From a remote Himalayan hamlet to the Padma Shri (Border Lens)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.borderlens.com/2025/10/28/from-a-remote-himalayan-hamlet-to-the-padma-shri-the-man-who-gave-toto-a-script/",
+   "found_in_search": true
+  },
+  {
+   "title": "How a 10th pass government employee gave his language a script (Careers360)",
+   "type": "other",
+   "language": "English",
+   "url": "https://news.careers360.com/padma-shri-dhaniram-toto-award-west-bengal-10th-pass-madhyamik-wbbse-language-script-govt-job/amp",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "utp",
+ "name": "Amba",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:24:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Amba language (Solomon Islands) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Amba_language_(Solomon_Islands)",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Amba",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3871?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Amba",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Amba",
+   "found_in_search": true
+  }
+ ]
+}

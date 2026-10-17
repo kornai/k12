@@ -1,0 +1,31 @@
+{
+ "iso": "tss",
+ "name": "Taiwan Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:02:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Literacy and deaf students in Taiwan: Issues, practices and directions for future research, Part I",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholar.lib.ntnu.edu.tw/en/publications/literacy-and-deaf-students-in-taiwan-issues-practices-and-directi-4/",
+   "found_in_search": true
+  },
+  {
+   "title": "Literacy and deaf students in Taiwan: Issues, practices and directions for future research, Part II",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholar.lib.ntnu.edu.tw/en/publications/literacy-and-deaf-students-in-taiwan-issues-practices-and-directi-3/",
+   "found_in_search": true
+  },
+  {
+   "title": "Gallaudet VL2 center paper 233",
+   "type": "academic",
+   "language": "English",
+   "url": "https://vl2.gallaudet.edu/center-papers/233",
+   "found_in_search": true
+  }
+ ]
+}

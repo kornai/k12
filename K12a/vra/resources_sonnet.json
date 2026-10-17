@@ -1,0 +1,38 @@
+{
+ "iso": "vra",
+ "name": "Vera’a",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:13:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Vera'a (Schnell 2011), source record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://tlopo.clld.org/sources/Schnell2011",
+   "found_in_search": true
+  },
+  {
+   "title": "Vera'a language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vera%CA%BCa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Vera'a",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/vera1241",
+   "found_in_search": true
+  },
+  {
+   "title": "DOBES Oceania Vurës/Vera'a project poster",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/oceania-vures-print.pdf",
+   "found_in_search": true
+  }
+ ]
+}

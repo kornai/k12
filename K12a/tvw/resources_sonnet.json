@@ -1,0 +1,24 @@
+{
+ "iso": "tvw",
+ "name": "Sedoa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:32:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sedoa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sedoa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sedoa, Tawaelia in Indonesia",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14812/ID",
+   "found_in_search": true
+  }
+ ]
+}

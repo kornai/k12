@@ -1,0 +1,73 @@
+{
+ "iso": "udm",
+ "name": "Udmurt",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:44:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Comparison of electronic Udmurt and Swedish textbooks (Zech-a, bur-a, udmurt kyl! series), Polylinguality and Transcultural Practices",
+   "type": "academic",
+   "language": "English",
+   "url": "https://journals.rudn.ru/polylinguality/article/view/32868/en_US",
+   "found_in_search": true
+  },
+  {
+   "title": "Possibilities of teaching the native (Udmurt) language in the Udmurt Republic",
+   "type": "academic",
+   "language": "English",
+   "url": "https://gramota.net/eng/materials/4/2019/2/6.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Integrating Finno-Ugric Studies in Europe: Udmurt e-learning course",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.infuse.finnougristik.uni-muenchen.de/e-learning/udmurt/index.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Freelang Udmurt dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.freelang.net/dictionary/udmurt.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Corpus-oriented dictionary database for Beserman Udmurt",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://real.mtak.hu/65045/",
+   "found_in_search": true
+  },
+  {
+   "title": "Volga-Kama corpora (Udmurt)",
+   "type": "corpus",
+   "language": "native",
+   "url": "http://volgakama.web-corpora.net/",
+   "found_in_search": true
+  },
+  {
+   "title": "Extended Cyrillic: Udmurt",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://type.today/en/journal/udmurt",
+   "found_in_search": true
+  },
+  {
+   "title": "Corpus of dialectal Udmurt speech (IWCLUL 2018)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://preview.aclanthology.org/moar-dois/W18-0203.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Udmurt in Russia (Mercator regional dossier)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://wiki.mercator-research.eu/languages:udmurt_in_russia",
+   "found_in_search": true
+  }
+ ]
+}

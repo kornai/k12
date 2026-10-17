@@ -1,0 +1,52 @@
+{
+ "iso": "ute",
+ "name": "Ute-Southern Paiute",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:24:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ute Dictionary (Givon, revised ed.) preface",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1075/clu.15.preface/pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "New Ute dictionary available (Southern Ute Drum)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.sudrum.com/culture/2016/06/10/new-ute-dictionary-available/",
+   "found_in_search": true
+  },
+  {
+   "title": "SILDI program aims to preserve the Nuu-apaghapi (Southern Ute Drum)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.sudrum.com/top-stories/2023/05/19/sildi-program-aims-to-preserve-the-nuu-apaha-pi/",
+   "found_in_search": true
+  },
+  {
+   "title": "A Short Dictionary of the Southern Ute Language",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=3541",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC wiki: Ute Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Ute_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Ute Drum",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.sudrum.com/?p=11626",
+   "found_in_search": true
+  }
+ ]
+}

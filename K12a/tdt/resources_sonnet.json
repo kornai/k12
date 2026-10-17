@@ -1,0 +1,45 @@
+{
+ "iso": "tdt",
+ "name": "Tetun Dili",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:44:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mai Aprende Tetum ho Ha'u (listed in ANU TETM1002)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://programsandcourses.anu.edu.au/course/TETM1002/First%20Semester/2245",
+   "found_in_search": true
+  },
+  {
+   "title": "Tetun Dili: A Grammar of an East Timorese Language (review)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/12/3024/",
+   "found_in_search": true
+  },
+  {
+   "title": "ETAN Learn Tetum resources (Hull and Eccles grammar, Hull dictionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.etan.org/resource/learntetum.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tetun Word-Finder announcement",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://mailman.anu.edu.au/pipermail/easttimorstudies/2009-March/000614.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tetun Dili dictionary on Webonary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/tetun-dili/overview/introduction/",
+   "found_in_search": true
+  }
+ ]
+}

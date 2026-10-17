@@ -1,0 +1,52 @@
+{
+ "iso": "tbk",
+ "name": "Calamian Tagbanwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:24:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tagbanwa dictionary (Webonary) - Introduction",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/tagbanwa/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagbanwa Webonary entry page",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/tagbanwa/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Calamian Tagbanwa (Tinagbanwa) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/calamiantagbanwa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Calamian Tagbanwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Calamian_Tagbanwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagbanwa, Kalamian Baras (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12445",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagbanwa, Calamian verb list (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/TagbanwaCalamian",
+   "found_in_search": true
+  }
+ ]
+}

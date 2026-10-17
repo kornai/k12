@@ -1,0 +1,45 @@
+{
+ "iso": "vky",
+ "name": "Kayu Agung",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:03:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Kayu Agung (Bookkeeping)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kayu1244",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Komering",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Komering",
+   "found_in_search": true
+  },
+  {
+   "title": "Conference paper on South Sumatra languages (UNNES)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://proceeding.unnes.ac.id/snpasca/article/download/2260/1743/5944",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kayu Agung in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12597",
+   "found_in_search": true
+  },
+  {
+   "title": "Praying for Indonesia: Who are the Kayu Agung",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.prayingforindonesia.com/ethnic-groups/the-people-of-sumatra/who-are-the-kayu-agung/",
+   "found_in_search": true
+  }
+ ]
+}

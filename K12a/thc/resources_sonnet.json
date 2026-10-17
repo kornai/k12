@@ -1,0 +1,24 @@
+{
+ "iso": "thc",
+ "name": "Tai Pao (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:07:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: languoid for ISO thc (retired, merged into tpo)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/thc",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Pao language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Pao_language",
+   "found_in_search": true
+  }
+ ]
+}

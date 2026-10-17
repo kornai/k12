@@ -1,0 +1,45 @@
+{
+ "iso": "wdg",
+ "name": "Wadaginam",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:28:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wadaginam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wadaginam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Trans New Guinea database: Wadaginam wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/language/wadaginam?page=3",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wadaginam language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/wdg",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wadaginamb in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15814",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: wdg",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=wdg",
+   "found_in_search": true
+  }
+ ]
+}

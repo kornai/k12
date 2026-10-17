@@ -1,0 +1,52 @@
+{
+ "iso": "tcy",
+ "name": "Tulu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:37:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Unicode L2/22-075: Tulu response letter (cites Tulu handbook, dictionary, fonts, Kanatavu keyboard)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2022/22075-tulu-response-letter.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tulu language resources online (blog, includes tuluworld.org dictionary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.raveeshkumar.com/2012/02/tulu-language-resources-online.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Tulu language (Karnataka Tulu Sahitya Academy, Kerala Tulu Academy)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tulu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tulu writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tulu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tigalari script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com:443/writing/tigalari.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Alphabets: Tulu script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://endangeredalphabets.net/?p=438",
+   "found_in_search": true
+  }
+ ]
+}

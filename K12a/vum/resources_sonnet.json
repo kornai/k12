@@ -1,0 +1,38 @@
+{
+ "iso": "vum",
+ "name": "Vumbu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:15:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vumbu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vumbu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Vumbu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/vumb1238",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Vumbu in Gabon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15804",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Vumbu language",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/vum",
+   "found_in_search": true
+  }
+ ]
+}

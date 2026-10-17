@@ -1,0 +1,45 @@
+{
+ "iso": "waa",
+ "name": "Walla Walla",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:16:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Language of Nixyáawii (CTUIR language program)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://ctuir.org/about/language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Sahaptin language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sahaptin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Walla Walla",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/wall1238",
+   "found_in_search": true
+  },
+  {
+   "title": "Smithsonian MS 1001 comparative vocabulary including Walla Walla",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://sirismm.si.edu/EADpdfs/NAA.MS1001.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Sahaptin materials, Phillips Fund Collection (APS)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://indigenousguide.amphilsoc.org/entry/40100",
+   "found_in_search": true
+  }
+ ]
+}

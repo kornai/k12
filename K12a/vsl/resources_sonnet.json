@@ -1,0 +1,52 @@
+{
+ "iso": "vsl",
+ "name": "Venezuelan Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:14:40Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Morales: programas de estudio de LSV para primer a tercer grado (UPEL)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ve.scielo.org/pdf/edu/v12n41/art05.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Deditos Magicos (UCV thesis, audiovisual LSV shorts)",
+   "type": "video",
+   "language": "other",
+   "url": "https://saber.ucv.ve/jspui/handle/10872/1032",
+   "found_in_search": true
+  },
+  {
+   "title": "La norma en la lengua de senas venezolana (Sapiens)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://biblat.unam.mx/en/revista/sapiens/articulo/la-norma-en-la-lengua-de-senas-venezolana",
+   "found_in_search": true
+  },
+  {
+   "title": "Perez and Tovar: classroom interaction with an LSV interpreter",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dialnet.unirioja.es/descarga/articulo/2310278.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Dialnet article on deaf education in Venezuela",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dialnet.unirioja.es/descarga/articulo/7338762.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Venezuelan Sign Language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:vsl",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "vka",
+ "name": "Kariyarra",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:00:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kariyarra (Wangka Maya Pilbara Aboriginal Language Centre)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/kariyarra",
+   "found_in_search": true
+  },
+  {
+   "title": "Kariyarra: cultural introduction (Wangka Maya)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/kariyarra/01-cultural-introduction",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngarluma language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngarluma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Aboriginal Beginnings (Town of Port Hedland)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.porthedland.wa.gov.au/our-history.aspx",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngalikuru Kuma Marri Draft Plan 2024-2028 (Town of Port Hedland)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.porthedland.wa.gov.au/Profiles/porthedland/Assets/ClientData/Ngalikuru_Kuma_Marri_Draft_Plan_2024-2028.pdf",
+   "found_in_search": true
+  }
+ ]
+}

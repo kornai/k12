@@ -1,0 +1,38 @@
+{
+ "iso": "wan",
+ "name": "Wan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:19:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank entry for Wan",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/wann1242",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals of Wane (Channumerals)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Wane.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Mande languages",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.lexilogos.com/mande_langues.htm",
+   "found_in_search": true
+  }
+ ]
+}

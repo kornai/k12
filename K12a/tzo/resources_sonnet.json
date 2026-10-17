@@ -1,0 +1,59 @@
+{
+ "iso": "tzo",
+ "name": "Tzotzil",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T11:01:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bats'i k'op primer ciclo reader (catalog record, ITESO)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://opac.biblio.iteso.mx/vufind/Record/000499546/Channels",
+   "found_in_search": true
+  },
+  {
+   "title": "Bats'i k'op (catalog record, UPN)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://sibi.upn.mx/bib/201580",
+   "found_in_search": true
+  },
+  {
+   "title": "SEP historical collection: Bats'i k'op reader, grades 3-4",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://dgeiib.basica.sep.gob.mx/files/fondo-editorial/acervo-historico/ah_00141.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Great Tzotzil Dictionary of San Lorenzo Zinacantan (Smithsonian)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://repository.si.edu/items/34078bcc-1288-422c-9c1a-50b81954a440",
+   "found_in_search": true
+  },
+  {
+   "title": "Diccionario multilingue: Svunal bats'i k'opetik",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://baul.fahho.mx/Record/27562/Holdings",
+   "found_in_search": true
+  },
+  {
+   "title": "Living Dictionary: Bats'i k'op (Tsotsil)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/batsi-kop-tsotsil-tsot/synopsis",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzotzil language PDF (Bible project)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.iglesiacatolica.org.gt/bibliakiche/BKiche_Lenguas_LenguaTsotsil.pdf",
+   "found_in_search": true
+  }
+ ]
+}

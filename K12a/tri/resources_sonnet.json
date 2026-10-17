@@ -1,0 +1,45 @@
+{
+ "iso": "tri",
+ "name": "Trió",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:47:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Trio: A Cariban Language of Suriname (Carlin, 2004)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.peterlang.com/view/title/46332?print",
+   "found_in_search": true
+  },
+  {
+   "title": "Magaña, Edmundo 1999 (Glottolog reference entry; Meira 1999 grammar is cited in the search results)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/54666",
+   "found_in_search": true
+  },
+  {
+   "title": "SAPHON Trio phonological inventory",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Trio.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiriyó bibliography, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2137/bibliography?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Tiriyó language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tiriy%C3%B3_language",
+   "found_in_search": true
+  }
+ ]
+}

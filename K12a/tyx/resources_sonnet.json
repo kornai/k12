@@ -1,0 +1,52 @@
+{
+ "iso": "tyx",
+ "name": "Teke-Tyee",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:55:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Teke Tyee dictionary on Webonary (introduction)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/teke-tyee/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Teke Tyee dictionary: copyright and background",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/teke-tyee/overview/copyright/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "West Teke language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/West_Teke_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Teke-Tyee",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/teke1276.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Teke-Tyee",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tyx",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Teke-Tyee in Congo",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19589",
+   "found_in_search": true
+  }
+ ]
+}

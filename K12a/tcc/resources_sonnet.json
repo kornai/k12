@@ -1,0 +1,45 @@
+{
+ "iso": "tcc",
+ "name": "Datooga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:31:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "New Translation for Tanzania (American Bible Society)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://news.americanbible.org/article/new-translation-for-tanzania",
+   "found_in_search": true
+  },
+  {
+   "title": "Datooga language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/ja/language/tcc",
+   "found_in_search": true
+  },
+  {
+   "title": "Datooga in Tanzania (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18375/TZ",
+   "found_in_search": true
+  },
+  {
+   "title": "Datooga, Barabaig in Tanzania (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15286/TZ",
+   "found_in_search": true
+  },
+  {
+   "title": "Datooga language (Wikipedia, ISO 639:tcc)",
+   "type": "other",
+   "language": "English",
+   "url": "https://EN.wikipedia.com/wiki/ISO_639:tcc",
+   "found_in_search": true
+  }
+ ]
+}

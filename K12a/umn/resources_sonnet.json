@@ -1,0 +1,38 @@
+{
+ "iso": "umn",
+ "name": "Paungnyuan Naga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:04:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Makyam language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Makyam_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Paungnyuan Naga profile (Asia Harvest)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Paungnyuan-Naga.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Paungnyuan Naga in Myanmar (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/22666/BM",
+   "found_in_search": true
+  },
+  {
+   "title": "Language umn (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/umn",
+   "found_in_search": true
+  }
+ ]
+}

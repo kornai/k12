@@ -1,0 +1,52 @@
+{
+ "iso": "tqw",
+ "name": "Tonkawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:43:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cultural Engagement Center receives Tonkawa language, cultural books (Northern Oklahoma College)",
+   "type": "primer",
+   "language": "English",
+   "url": "https://www.noc.edu/noc-news/cultural-engagement-center-receives-tonkawa-language-cultural-books/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonkawa tribe donates language books to NOC (Blackwell Journal-Tribune)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.blackwelljournaltribune.net/articles/11713/view/tonkawa-tribe-donates-language-books-to-noc",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonkawa texts (Hoijer; ed. Wier), University of Oklahoma Press",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.oupress.com/9780806158990/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonkawa texts: a new linguistic edition (library record)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://search.ub.tum.de/vufind/Record/DE-604.BV044854005?lng=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonkawa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tonkawa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonkawa numerals (MPI EVA Channumerals)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tonkawa.htm",
+   "found_in_search": true
+  }
+ ]
+}

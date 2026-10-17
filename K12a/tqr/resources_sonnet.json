@@ -1,0 +1,52 @@
+{
+ "iso": "tqr",
+ "name": "Torona",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:43:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Torona language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Torona_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Norton and Alaki 2016, Torona: a disappearing Talodi language of Sudan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/546884",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Torona",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/toro1251",
+   "found_in_search": true
+  },
+  {
+   "title": "Norton and Alaki 2015 (ASJP source)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/sources/64",
+   "found_in_search": true
+  },
+  {
+   "title": "Parallel Grammar Documentation in Four Talodi Languages",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://journals.ub.uni-koeln.de/index.php/AAeo/en/article/view/3457",
+   "found_in_search": true
+  },
+  {
+   "title": "Talodi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Talodi_language",
+   "found_in_search": true
+  }
+ ]
+}

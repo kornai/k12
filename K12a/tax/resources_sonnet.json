@@ -1,0 +1,38 @@
+{
+ "iso": "tax",
+ "name": "Tamki",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:19:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tamki language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tamki_language",
+   "found_in_search": true
+  },
+  {
+   "title": "East Chadic languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/East_Chadic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Tamki",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_tmk",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tamki",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2594?hl=es",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "ten",
+ "name": "Tama",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:49:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tama language (Colombia) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tama_language_(Colombia)",
+   "found_in_search": true
+  },
+  {
+   "title": "Tucanoan languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tucanoan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Maguare article, Universidad Nacional de Colombia (discusses Tama affiliation)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.unal.edu.co/index.php/maguare/article/download/80-104/15048/42443",
+   "found_in_search": true
+  },
+  {
+   "title": "Tama in Colombia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21850/CO",
+   "found_in_search": true
+  }
+ ]
+}

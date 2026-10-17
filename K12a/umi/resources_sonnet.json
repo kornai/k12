@@ -1,0 +1,38 @@
+{
+ "iso": "umi",
+ "name": "Ukit",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:02:47Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ukit language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukit_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukit people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukit_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Bukitan language (Wikipedia; related but distinct)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bukitan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukit in Malaysia (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15694/MY",
+   "found_in_search": true
+  }
+ ]
+}

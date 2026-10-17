@@ -1,0 +1,52 @@
+{
+ "iso": "tug",
+ "name": "Tunia",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:20:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tunia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tunia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bua languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bua_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tunia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tuni1251.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tunia profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/90410",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tunia bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4586/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tunya in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15645",
+   "found_in_search": true
+  }
+ ]
+}

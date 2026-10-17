@@ -1,0 +1,38 @@
+{
+ "iso": "tvt",
+ "name": "Naga, Tutsa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:32:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tutsa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tutsa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tutsa Naga",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tuts1235.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Tutsa",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tvt",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tutsa",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tvt",
+   "found_in_search": true
+  }
+ ]
+}

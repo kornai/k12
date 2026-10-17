@@ -1,0 +1,66 @@
+{
+ "iso": "tnh",
+ "name": "Maiani",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:11:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Miani language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Miani_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Maiani",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/maia1253",
+   "found_in_search": true
+  },
+  {
+   "title": "CrossGram: Maiani",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/maia1253",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Maiani word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/MAIANA",
+   "found_in_search": true
+  },
+  {
+   "title": "Numerals of Maiani (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Maiani.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "TransNewGuinea.org word database",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://transnewguinea.org/word/my?page=5",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Maiani",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tnh",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Miani",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/pla",
+   "found_in_search": true
+  }
+ ]
+}

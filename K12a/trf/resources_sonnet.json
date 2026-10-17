@@ -1,0 +1,38 @@
+{
+ "iso": "trf",
+ "name": "Trinidadian English Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:46:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary of the English/Creole of Trinidad & Tobago: On Historical Principles (De Gruyter Brill)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9780773576070/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the English Creole of Trinidad & Tobago (49th Shelf)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://cdlc.49thshelf.com/Books/D/Dictionary-of-the-English-Creole-of-Trinidad-Tobago",
+   "found_in_search": true
+  },
+  {
+   "title": "A lexicographer's lifework (Caribbean Beat review)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.caribbean-beat.com/issue-108/book-reviews-marchapril-2011",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the English/Creole of Trinidad & Tobago (WorldCat record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://search.worldcat.org/oclc/759157066",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "tda",
+ "name": "Tagdal",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:38:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Tagdal: a Northern Songhay Language (Benitez-Torres, 2021)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3240587/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden repository item 3240581 (Tagdal grammar record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3240581/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagdal language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tagdal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 33.1683",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/33/1683/",
+   "found_in_search": true
+  }
+ ]
+}

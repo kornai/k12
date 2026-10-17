@@ -1,0 +1,52 @@
+{
+ "iso": "uda",
+ "name": "Uda",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:41:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Enwang-Uda language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Enwang-Uda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lower Cross River languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lower_Cross_River_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Yale linguistics paper on endangered Uda",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ling.yale.edu/media/330/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Uda in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15682",
+   "found_in_search": true
+  },
+  {
+   "title": "Ibibio language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ibibio_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ibibio (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/ibibio.htm",
+   "found_in_search": true
+  }
+ ]
+}

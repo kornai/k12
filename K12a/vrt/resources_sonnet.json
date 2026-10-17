@@ -1,0 +1,24 @@
+{
+ "iso": "vrt",
+ "name": "Banam Bay",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:13:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Banam Bay Language: Documentation and Endangered Language Maintenance (ELDP collection)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk0549/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Banam Bay",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/110139",
+   "found_in_search": true
+  }
+ ]
+}

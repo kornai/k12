@@ -1,0 +1,52 @@
+{
+ "iso": "tus",
+ "name": "Tuscarora",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:26:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Daughters, Sisters, Mothers & Wives: A Tuscarora Language Workbook",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://onlc.ca/bookstore/p/daughters-sisters-mothers-wives-a-tuscarora-language-workbook",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuscarora-English / English-Tuscarora Dictionary (Rudes), Goodminds listing",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.goodminds.com/collections/all-products/products/tuscarora-english-english-tuscarora-dictionary-pb",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuscarora-English/English-Tuscarora dictionary (Open Library record)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://openlibrary.org/books/OL117971M",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuscarora language and vocabulary (Native Languages of the Americas)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.native-languages.org/tuscarora.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuscarora (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/109764",
+   "found_in_search": true
+  },
+  {
+   "title": "Community driven Tuscarora talking dictionary (Global Voices microgrant)",
+   "type": "software",
+   "language": "native",
+   "url": "https://rising.globalvoices.org/microgrants2013/usa-community-driven-tuscarora-talking-dictionary/",
+   "found_in_search": true
+  }
+ ]
+}

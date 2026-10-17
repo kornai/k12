@@ -1,0 +1,31 @@
+{
+ "iso": "vae",
+ "name": "Vale",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:50:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vale language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vale_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Vale",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vae",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Vale in Central African Republic",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15764",
+   "found_in_search": true
+  }
+ ]
+}

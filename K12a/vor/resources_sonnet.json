@@ -1,0 +1,45 @@
+{
+ "iso": "vor",
+ "name": "Voro",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:11:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Voro language (Adamawa) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Voro_language_(Adamawa)",
+   "found_in_search": true
+  },
+  {
+   "title": "Bena-Mboi languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bena%E2%80%93Mboi_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Voro in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20771",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yungur, Binna in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16071",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Voro (Nigeria)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vor",
+   "found_in_search": true
+  }
+ ]
+}

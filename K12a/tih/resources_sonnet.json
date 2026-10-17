@@ -1,0 +1,45 @@
+{
+ "iso": "tih",
+ "name": "Timugon Murut",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:20:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Timugon Murut-Malay dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/timugon_murut/overview/",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Timugon Murut introduction",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.webonary.org/timugon_murut/en/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Timugon Murut phonology",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.webonary.org/timugon_murut/language/phonology/",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD Timugon (Murut) wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=22",
+   "found_in_search": true
+  },
+  {
+   "title": "Language activists put Timugon Murut dictionary online (Free Malaysia Today)",
+   "type": "other",
+   "language": "English",
+   "url": "https://fmtv5.freemalaysiatoday.com/category/nation/2026/01/02/language-activists-put-timugon-murut-dictionary-online",
+   "found_in_search": true
+  }
+ ]
+}

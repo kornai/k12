@@ -1,0 +1,17 @@
+{
+ "iso": "tqt",
+ "name": "Totonaco del cerro Xinolatépetl",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:43:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ozomatlán Totonac (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ozomatl%C3%A1n_Totonac",
+   "found_in_search": true
+  }
+ ]
+}

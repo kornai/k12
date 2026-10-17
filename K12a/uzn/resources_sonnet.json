@@ -1,0 +1,66 @@
+{
+ "iso": "uzn",
+ "name": "Northern Uzbek",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:28:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Desk Review of Uzbek Language Arts and Mathematics Student Textbooks and Teacher Guides (RTI)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://shared.rti.org/node/1252",
+   "found_in_search": true
+  },
+  {
+   "title": "Textbook and Teacher Guide Development: A Collaborative Approach (RTI)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://shared.rti.org/node/1246",
+   "found_in_search": true
+  },
+  {
+   "title": "USA to provide $10 million worth of textbooks to Uzbekistan (Kun.uz)",
+   "type": "other",
+   "language": "English",
+   "url": "https://kun.uz/en/news/2021/08/07/usa-to-provide-10-million-worth-of-textbooks-to-uzbekistan",
+   "found_in_search": true
+  },
+  {
+   "title": "Uzbekistan open data portal dataset 16487",
+   "type": "other",
+   "language": "other",
+   "url": "https://olddata.gov.uz/en/datasets/16487",
+   "found_in_search": true
+  },
+  {
+   "title": "Uzbek language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uzbek_language",
+   "found_in_search": true
+  },
+  {
+   "title": "CEERES Uzbek Language Resources (University of Chicago)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://ceeres.uchicago.edu/uzbek-language-resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Uzbek: An Elementary Textbook (Georgetown University Press front matter)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://press.georgetown.edu/files/materials/9781589017061_Frontmatter.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot Uzbek books",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/books/language/uzbek.htm",
+   "found_in_search": true
+  }
+ ]
+}

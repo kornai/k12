@@ -1,0 +1,59 @@
+{
+ "iso": "tkr",
+ "name": "Tsakhur",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:39:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsakhur - Azerbaijani - Russian - English Dictionary (SIL, Webonary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/tsakhur/?p=146817",
+   "found_in_search": true
+  },
+  {
+   "title": "Freelang Tsakhur dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.freelang.net/dictionary/tsakhur.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Schulze 1997, Tsakhur (Glottolog reference record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/119500",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tsakhur",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tsakhur.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsakhur language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsakhur_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Manfred Ostrowski academia.edu page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://independent.academia.edu/OstrowskiManfred",
+   "found_in_search": true
+  },
+  {
+   "title": "People and language (Shakasana)",
+   "type": "other",
+   "language": "English",
+   "url": "https://shakasana.com/en/node/51",
+   "found_in_search": true
+  }
+ ]
+}

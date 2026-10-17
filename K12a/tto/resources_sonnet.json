@@ -1,0 +1,45 @@
+{
+ "iso": "tto",
+ "name": "Ta’oih, Lower",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:12:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ta'Oi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ta%27Oi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ta'Oi writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/taoi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "van der Haak 1993, Ta'uaih phonology and orthography (Glottolog reference)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/154395",
+   "found_in_search": true
+  },
+  {
+   "title": "Ethnologue subgroup listing for Ta'oih languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://ethnologue.com/subgroup/1759/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lower Ta Oi in Laos (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19360",
+   "found_in_search": true
+  }
+ ]
+}

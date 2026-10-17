@@ -1,0 +1,38 @@
+{
+ "iso": "tmt",
+ "name": "Oa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:04:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tasmate language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tasmate_language",
+   "found_in_search": true
+  },
+  {
+   "title": "TLOPO database: Tasmate",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://tlopo.clld.org/languages/tasmate",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages: Tasmate bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3530/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tasmate in Vanuatu",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15280/NH",
+   "found_in_search": true
+  }
+ ]
+}

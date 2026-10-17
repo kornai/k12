@@ -1,0 +1,38 @@
+{
+ "iso": "tpg",
+ "name": "Kula",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:32:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kula language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kula",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kula1280",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Alor-Tip",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/trans-new-guinea/berau-gulf/west-bomberai/timor-alor-pantar/alor-pantar/east-alor/alor-tip/start",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kula sample",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.endangeredlanguages.com/lang/2086/samples/11490",
+   "found_in_search": true
+  }
+ ]
+}

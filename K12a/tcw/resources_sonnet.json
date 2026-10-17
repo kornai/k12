@@ -1,0 +1,52 @@
+{
+ "iso": "tcw",
+ "name": "Tecpatlán Totonac",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:37:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Tecpatlan Totonac",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tecpatl%C3%A1n_Totonac",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tecpatlan Totonac",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tcw",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Totonacan languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Totonacan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tecpatlan Totonac language (Bible portions, New Testament 1999)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://joshuaproject.net/index.php/languages/tcw",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tecpatalan Totonaca people group",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19673",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: tcw (no recordings listed)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tcw",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "udi",
+ "name": "Udi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:43:07Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Udi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Udi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Udi (udin muz) writing, Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/udi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ECLING",
+   "type": "academic",
+   "language": "English",
+   "url": "https://titus.fkidg1.uni-frankfurt.de/ecling/ecling03.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Udis: The Descendants of The Albanians (Chaikhana)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://chaikhana.media/en/stories/9/udis-the-descendants-of-the-albanians",
+   "found_in_search": true
+  },
+  {
+   "title": "Udis - Orientation (Everyculture)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.everyculture.com/Russia-Eurasia-China/Udis-Orientation.html",
+   "found_in_search": true
+  }
+ ]
+}

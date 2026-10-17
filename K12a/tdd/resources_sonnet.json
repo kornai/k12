@@ -1,0 +1,52 @@
+{
+ "iso": "tdd",
+ "name": "Tai Nüa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:40:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SEASite Tai Dehong introduction and lessons",
+   "type": "other",
+   "language": "English",
+   "url": "https://seasite.niu.edu/tai/TaiDehong/introduction.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "A dictionary of Dehong, Southwest China (Luo Yongxian)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://search.ub.tum.de/vufind/Record/DE-604.BV013134161",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Nuea language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Nuea_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tai Nuea script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tainua.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: tdd",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tdd",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal: Tai Le update",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2024/24098-tai-le-update.pdf",
+   "found_in_search": true
+  }
+ ]
+}

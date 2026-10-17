@@ -1,0 +1,31 @@
+{
+ "iso": "urp",
+ "name": "Uru-Pa-In",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:18:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uru-Pa-In language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uru-Pa-In_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lingua Viva article mentioning Uru Pa In, Amondawa and Uru Eu Wau Wau (UNIR)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.unir.br/index.php/linguaviva/article/download/1133/1229/4102",
+   "found_in_search": true
+  },
+  {
+   "title": "Uru-Pa-In in Brazil (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15740/BR",
+   "found_in_search": true
+  }
+ ]
+}

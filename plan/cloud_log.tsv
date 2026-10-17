@@ -1,0 +1,835 @@
+iso	name	when	status	resources	batch
+taa	Lower Tanana	2026-10-14T07:11:57Z	done	5	taa+tab+tac+tad
+tab	Tabasaran	2026-10-14T07:11:57Z	done	2	taa+tab+tac+tad
+tac	Western Tarahumara	2026-10-14T07:11:57Z	done	5	taa+tab+tac+tad
+tad	Tause	2026-10-14T07:11:57Z	done	4	taa+tab+tac+tad
+tae	Tariana	2026-10-14T07:13:34Z	done	6	tae+taf+tag+tah
+taf	Tapirapé	2026-10-14T07:13:34Z	done	7	tae+taf+tag+tah
+tag	Tagoi	2026-10-14T07:13:34Z	done	5	tae+taf+tag+tah
+tah	Tahitian	2026-10-14T07:13:34Z	done	8	tae+taf+tag+tah
+taj	Eastern Tamang	2026-10-14T07:15:06Z	done	5	taj+tak+tal+tam
+tak	Tala	2026-10-14T07:15:06Z	done	5	taj+tak+tal+tam
+tal	Tal	2026-10-14T07:15:06Z	done	3	taj+tak+tal+tam
+tam	Tamil	2026-10-14T07:15:06Z	done	10	taj+tak+tal+tam
+tan	Tangale	2026-10-14T07:16:20Z	done	3	tan+tao+tap+taq
+tao	Yami	2026-10-14T07:16:20Z	done	4	tan+tao+tap+taq
+tap	Taabwa	2026-10-14T07:16:20Z	done	6	tan+tao+tap+taq
+taq	Tamasheq	2026-10-14T07:16:20Z	done	4	tan+tao+tap+taq
+tar	Central Tarahumara	2026-10-14T07:18:37Z	done	6	tar+tas+tat+tau
+tas	Tay Boi	2026-10-14T07:18:37Z	done	6	tar+tas+tat+tau
+tat	Tatar	2026-10-14T07:18:37Z	done	9	tar+tas+tat+tau
+tau	Upper Tanana	2026-10-14T07:18:37Z	done	8	tar+tas+tat+tau
+tav	Tatuyo	2026-10-14T07:19:49Z	done	4	tav+taw+tax+tay
+taw	Tay	2026-10-14T07:19:49Z	done	4	tav+taw+tax+tay
+tax	Tamki	2026-10-14T07:19:49Z	done	4	tav+taw+tax+tay
+tay	Atayal	2026-10-14T07:19:49Z	done	5	tav+taw+tax+tay
+taz	Tocho	2026-10-14T07:21:19Z	done	5	taz+tba+tbb+tbc
+tba	Aikanã	2026-10-14T07:21:19Z	done	5	taz+tba+tbb+tbc
+tbb	Tapeba	2026-10-14T07:21:19Z	done	5	taz+tba+tbb+tbc
+tbc	Takia	2026-10-14T07:21:19Z	done	6	taz+tba+tbb+tbc
+tbd	Kaki Ae	2026-10-14T07:22:54Z	done	5	tbd+tbe+tbf+tbg
+tbe	Tanibili	2026-10-14T07:22:54Z	done	4	tbd+tbe+tbf+tbg
+tbf	Mandara	2026-10-14T07:22:54Z	done	4	tbd+tbe+tbf+tbg
+tbg	North Tairora	2026-10-14T07:22:54Z	done	5	tbd+tbe+tbf+tbg
+tbh	Dharawal	2026-10-14T07:24:19Z	done	6	tbh+tbi+tbj+tbk
+tbi	Gaam	2026-10-14T07:24:19Z	done	5	tbh+tbi+tbj+tbk
+tbj	Tiang	2026-10-14T07:24:19Z	done	5	tbh+tbi+tbj+tbk
+tbk	Calamian Tagbanwa	2026-10-14T07:24:19Z	done	6	tbh+tbi+tbj+tbk
+tbl	Tboli	2026-10-14T07:25:43Z	done	6	tbl+tbm+tbn+tbo
+tbm	Tagbu	2026-10-14T07:25:43Z	done	4	tbl+tbm+tbn+tbo
+tbn	Tunebo, Barro Negro	2026-10-14T07:25:43Z	done	7	tbl+tbm+tbn+tbo
+tbo	Tawala	2026-10-14T07:25:43Z	done	5	tbl+tbm+tbn+tbo
+tbp	Taburta	2026-10-14T07:27:11Z	done	5	tbp+tbr+tbs+tbt
+tbr	Tumtum	2026-10-14T07:27:11Z	done	5	tbp+tbr+tbs+tbt
+tbs	Tanguat	2026-10-14T07:27:11Z	done	3	tbp+tbr+tbs+tbt
+tbt	Tembo	2026-10-14T07:27:11Z	done	4	tbp+tbr+tbs+tbt
+tbu	Tubar	2026-10-14T07:28:19Z	done	3	tbu+tbv+tbw+tbx
+tbv	Tobo	2026-10-14T07:28:19Z	done	4	tbu+tbv+tbw+tbx
+tbw	Tagbanwa	2026-10-14T07:28:19Z	done	4	tbu+tbv+tbw+tbx
+tbx	Kapin	2026-10-14T07:28:19Z	done	5	tbu+tbv+tbw+tbx
+tby	Tabaru	2026-10-14T07:29:59Z	done	2	tby+tbz+tca+tcb
+tbz	Ditammari	2026-10-14T07:29:59Z	done	4	tby+tbz+tca+tcb
+tca	Ticuna	2026-10-14T07:29:59Z	done	6	tby+tbz+tca+tcb
+tcb	Tanacross	2026-10-14T07:29:59Z	done	5	tby+tbz+tca+tcb
+tcc	Datooga	2026-10-14T07:31:15Z	done	5	tcc+tcd+tce+tcf
+tcd	Tafi	2026-10-14T07:31:15Z	done	3	tcc+tcd+tce+tcf
+tce	Tutchone, Southern	2026-10-14T07:31:15Z	done	7	tcc+tcd+tce+tcf
+tcf	Malinaltepec Me’phaa	2026-10-14T07:31:15Z	done	4	tcc+tcd+tce+tcf
+tcg	Tamagario	2026-10-14T07:32:29Z	done	6	tcg+tch+tci+tck
+tch	Turks and Caicos English Creole	2026-10-14T07:32:29Z	done	3	tcg+tch+tci+tck
+tci	Wára	2026-10-14T07:32:29Z	done	6	tcg+tch+tci+tck
+tck	Tchitchege	2026-10-14T07:32:29Z	done	4	tcg+tch+tci+tck
+tcl	Taman	2026-10-14T07:34:18Z	done	5	tcl+tcm+tcn+tco
+tcm	Tanahmerah	2026-10-14T07:34:18Z	done	4	tcl+tcm+tcn+tco
+tcn	Tichurong	2026-10-14T07:34:18Z	done	9	tcl+tcm+tcn+tco
+tco	Taungyo	2026-10-14T07:34:18Z	done	6	tcl+tcm+tcn+tco
+tcp	Chin, Tawr	2026-10-14T07:35:33Z	done	4	tcp+tcq+tcs+tct
+tcq	Kaiy	2026-10-14T07:35:33Z	done	5	tcp+tcq+tcs+tct
+tcs	Torres Strait Creole	2026-10-14T07:35:33Z	done	6	tcp+tcq+tcs+tct
+tct	T’en	2026-10-14T07:35:33Z	done	4	tcp+tcq+tcs+tct
+tcu	Tarahumara, Southeastern	2026-10-14T07:37:21Z	done	7	tcu+tcw+tcx+tcy
+tcw	Tecpatlán Totonac	2026-10-14T07:37:21Z	done	6	tcu+tcw+tcx+tcy
+tcx	Toda	2026-10-14T07:37:21Z	done	4	tcu+tcw+tcx+tcy
+tcy	Tulu	2026-10-14T07:37:21Z	done	6	tcu+tcw+tcx+tcy
+tcz	Thado Chin	2026-10-14T07:38:42Z	done	6	tcz+tda+tdb+tdc
+tda	Tagdal	2026-10-14T07:38:42Z	done	4	tcz+tda+tdb+tdc
+tdb	Panchpargania	2026-10-14T07:38:42Z	done	3	tcz+tda+tdb+tdc
+tdc	Embera Tadó	2026-10-14T07:38:42Z	done	6	tcz+tda+tdb+tdc
+tdd	Tai Nüa	2026-10-14T07:40:01Z	done	6	tdd+tde+tdf+tdg
+tde	Dogon, Tiranige Diga	2026-10-14T07:40:01Z	done	6	tdd+tde+tdf+tdg
+tdf	Talieng	2026-10-14T07:40:01Z	done	3	tdd+tde+tdf+tdg
+tdg	Western Tamang	2026-10-14T07:40:01Z	done	5	tdd+tde+tdf+tdg
+tdh	Thulung	2026-10-14T07:41:33Z	done	5	tdh+tdi+tdj+tdk
+tdi	Tomadino	2026-10-14T07:41:33Z	done	5	tdh+tdi+tdj+tdk
+tdj	Tajio	2026-10-14T07:41:33Z	done	6	tdh+tdi+tdj+tdk
+tdk	Rom	2026-10-14T07:41:33Z	done	3	tdh+tdi+tdj+tdk
+tdl	Kusur-Myet	2026-10-14T07:42:53Z	done	7	tdl+tdm+tdn+tdo
+tdm	Taruma	2026-10-14T07:42:53Z	done	8	tdl+tdm+tdn+tdo
+tdn	Tondano	2026-10-14T07:42:53Z	done	6	tdl+tdm+tdn+tdo
+tdo	Teme	2026-10-14T07:42:53Z	done	7	tdl+tdm+tdn+tdo
+tdq	Tita	2026-10-14T07:44:05Z	done	3	tdq+tdr+tds+tdt
+tdr	Todrah	2026-10-14T07:44:05Z	done	3	tdq+tdr+tds+tdt
+tds	Doutai	2026-10-14T07:44:05Z	done	4	tdq+tdr+tds+tdt
+tdt	Tetun Dili	2026-10-14T07:44:05Z	done	5	tdq+tdr+tds+tdt
+tdv	Atoro	2026-10-14T07:45:25Z	done	4	tdv+tdx+tdy+tea
+tdx	Malagasy, Tandroy-Mahafaly	2026-10-14T07:45:25Z	done	8	tdv+tdx+tdy+tea
+tdy	Tadyawan	2026-10-14T07:45:25Z	done	6	tdv+tdx+tdy+tea
+tea	Temiar	2026-10-14T07:45:25Z	done	8	tdv+tdx+tdy+tea
+teb	Tetete	2026-10-14T07:46:35Z	done	4	teb+tec+ted+tee
+tec	Terik	2026-10-14T07:46:35Z	done	3	teb+tec+ted+tee
+ted	Tepo Krumen	2026-10-14T07:46:35Z	done	5	teb+tec+ted+tee
+tee	Huehuetla Tepehua	2026-10-14T07:46:35Z	done	8	teb+tec+ted+tee
+tef	Teressa	2026-10-14T07:48:18Z	done	7	tef+teg+teh+tei
+teg	Teke-Tege	2026-10-14T07:48:18Z	done	7	tef+teg+teh+tei
+teh	Tehuelche	2026-10-14T07:48:18Z	done	4	tef+teg+teh+tei
+tei	Aro	2026-10-14T07:48:18Z	done	3	tef+teg+teh+tei
+tek	Teke, Ibali	2026-10-14T07:49:46Z	done	6	tek+tel+tem+ten
+tel	Telugu	2026-10-14T07:49:46Z	done	4	tek+tel+tem+ten
+tem	Themne	2026-10-14T07:49:46Z	done	5	tek+tel+tem+ten
+ten	Tama	2026-10-14T07:49:46Z	done	4	tek+tel+tem+ten
+teo	Ateso	2026-10-14T07:51:09Z	done	4	teo+tep+teq+ter
+tep	Tepecano	2026-10-14T07:51:09Z	done	4	teo+tep+teq+ter
+teq	Temein	2026-10-14T07:51:09Z	done	4	teo+tep+teq+ter
+ter	Terêna	2026-10-14T07:51:09Z	done	5	teo+tep+teq+ter
+tes	Tengger	2026-10-14T07:52:52Z	done	5	tes+tet+teu+tev
+tet	Tetun	2026-10-14T07:52:52Z	done	7	tes+tet+teu+tev
+teu	Soo	2026-10-14T07:52:52Z	done	6	tes+tet+teu+tev
+tev	Teor	2026-10-14T07:52:52Z	done	4	tes+tet+teu+tev
+tew	Tewa	2026-10-14T07:54:11Z	done	5	tew+tex+tey+tez
+tex	Tennet	2026-10-14T07:54:11Z	done	5	tew+tex+tey+tez
+tey	Tulishi	2026-10-14T07:54:11Z	done	5	tew+tex+tey+tez
+tez	Tetserret	2026-10-14T07:54:11Z	done	4	tew+tex+tey+tez
+tfi	Gbe, Tofin	2026-10-14T07:55:55Z	done	6	tfi+tfn+tfo+tfr
+tfn	Tanaina	2026-10-14T07:55:55Z	done	7	tfi+tfn+tfo+tfr
+tfo	Tefaro	2026-10-14T07:55:55Z	done	3	tfi+tfn+tfo+tfr
+tfr	Teribe	2026-10-14T07:55:55Z	done	6	tfi+tfn+tfo+tfr
+tft	Ternate	2026-10-14T07:57:30Z	done	6	tft+tga+tgb+tgc
+tga	Sagalla	2026-10-14T07:57:30Z	done	7	tft+tga+tgb+tgc
+tgb	Tobilung	2026-10-14T07:57:30Z	done	7	tft+tga+tgb+tgc
+tgc	Tigak	2026-10-14T07:57:30Z	done	5	tft+tga+tgb+tgc
+tgd	Choogen	2026-10-14T07:58:46Z	done	5	tgd+tge+tgf+tgg
+tge	Tamang, Eastern Gorkha	2026-10-14T07:58:46Z	done	5	tgd+tge+tgf+tgg
+tgf	Chalikha	2026-10-14T07:58:46Z	done	6	tgd+tge+tgf+tgg
+tgg	Tangga	2026-10-14T07:58:46Z	done	5	tgd+tge+tgf+tgg
+tgh	Tobagonian English Creole	2026-10-14T08:00:37Z	done	4	tgh+tgi+tgj+tgk
+tgi	Lawunuia	2026-10-14T08:00:37Z	done	5	tgh+tgi+tgj+tgk
+tgj	Tagin	2026-10-14T08:00:37Z	done	6	tgh+tgi+tgj+tgk
+tgk	Tajik	2026-10-14T08:00:37Z	done	8	tgh+tgi+tgj+tgk
+tgl	Tagalog	2026-10-14T08:02:24Z	done	5	tgl+tgn+tgo+tgp
+tgn	Tandaganon	2026-10-14T08:02:24Z	done	4	tgl+tgn+tgo+tgp
+tgo	Sudest	2026-10-14T08:02:24Z	done	6	tgl+tgn+tgo+tgp
+tgp	Tangoa	2026-10-14T08:02:24Z	done	7	tgl+tgn+tgo+tgp
+tgq	Tring	2026-10-14T08:04:15Z	done	5	tgq+tgr+tgs+tgt
+tgr	Tareng	2026-10-14T08:04:15Z	done	3	tgq+tgr+tgs+tgt
+tgs	Nume	2026-10-14T08:04:15Z	done	5	tgq+tgr+tgs+tgt
+tgt	Tagbanwa, Central	2026-10-14T08:04:15Z	done	5	tgq+tgr+tgs+tgt
+tgu	Tanggu	2026-10-14T08:06:17Z	done	6	tgu+tgv+tgw+tgx
+tgv	Tingui-Boto	2026-10-14T08:06:17Z	done	5	tgu+tgv+tgw+tgx
+tgw	Sénoufo, Tagwana	2026-10-14T08:06:17Z	done	4	tgu+tgv+tgw+tgx
+tgx	Tagish	2026-10-14T08:06:17Z	done	7	tgu+tgv+tgw+tgx
+tgy	Togoyo	2026-10-14T08:07:43Z	done	4	tgy+tgz+thc+thd
+tgz	Tagalaka	2026-10-14T08:07:43Z	done	6	tgy+tgz+thc+thd
+thc	Tai Pao (Retired)	2026-10-14T08:07:43Z	done	2	tgy+tgz+thc+thd
+thd	Kuuk Thayorre	2026-10-14T08:07:43Z	done	5	tgy+tgz+thc+thd
+the	Central Tharu	2026-10-14T08:09:35Z	done	3	the+thf+thh+thi
+thf	Thangmi	2026-10-14T08:09:35Z	done	3	the+thf+thh+thi
+thh	Tarahumara, Northern	2026-10-14T08:09:35Z	done	2	the+thf+thh+thi
+thi	Tai Long	2026-10-14T08:09:35Z	done	2	the+thf+thh+thi
+thk	Kitharaka	2026-10-14T08:11:31Z	done	8	thk+thl+thm+thn
+thl	Dangaura Tharu	2026-10-14T08:11:31Z	done	5	thk+thl+thm+thn
+thm	Aheu	2026-10-14T08:11:31Z	done	6	thk+thl+thm+thn
+thn	Thachanadan	2026-10-14T08:11:31Z	done	6	thk+thl+thm+thn
+thp	Thompson	2026-10-14T08:13:39Z	done	6	thp+thq+thr+ths
+thq	Mid-Eastern Tharu	2026-10-14T08:13:39Z	done	3	thp+thq+thr+ths
+thr	Rana Tharu	2026-10-14T08:13:39Z	done	7	thp+thq+thr+ths
+ths	Thakali	2026-10-14T08:13:39Z	done	6	thp+thq+thr+ths
+tht	Tahltan	2026-10-14T08:15:38Z	done	6	tht+thu+thv+thw
+thu	Thuri	2026-10-14T08:15:38Z	done	3	tht+thu+thv+thw
+thv	Tahaggart Tamahaq	2026-10-14T08:15:38Z	done	5	tht+thu+thv+thw
+thw	Thudam	2026-10-14T08:15:38Z	done	2	tht+thu+thv+thw
+thx	The	2026-10-14T08:17:13Z	done	1	thx+thy+thz+tia
+thy	Tha	2026-10-14T08:17:13Z	done	1	thx+thy+thz+tia
+thz	Tayart Tamajeq	2026-10-14T08:17:13Z	done	5	thx+thy+thz+tia
+tia	Tamazight, Tidikelt	2026-10-14T08:17:13Z	done	4	thx+thy+thz+tia
+tic	Tira	2026-10-14T08:18:58Z	done	4	tic+tie+tif+tig
+tie	Tingal	2026-10-14T08:18:58Z	done	3	tic+tie+tif+tig
+tif	Tifal	2026-10-14T08:18:58Z	done	4	tic+tie+tif+tig
+tig	Tigré	2026-10-14T08:18:58Z	done	4	tic+tie+tif+tig
+tih	Timugon Murut	2026-10-14T08:20:13Z	done	5	tih+tii+tij+tik
+tii	Tiene	2026-10-14T08:20:13Z	done	3	tih+tii+tij+tik
+tij	Tilung	2026-10-14T08:20:13Z	done	5	tih+tii+tij+tik
+tik	Tikar	2026-10-14T08:20:13Z	done	6	tih+tii+tij+tik
+til	Tillamook	2026-10-14T08:22:13Z	done	7	til+tim+tin+tio
+tim	Timbe	2026-10-14T08:22:13Z	done	5	til+tim+tin+tio
+tin	Tindi	2026-10-14T08:22:13Z	done	6	til+tim+tin+tio
+tio	Teop	2026-10-14T08:22:13Z	done	7	til+tim+tin+tio
+tip	Trimuris	2026-10-14T08:24:16Z	done	6	tip+tiq+tir+tis
+tiq	Tiéfo	2026-10-14T08:24:16Z	done	3	tip+tiq+tir+tis
+tir	Tigrigna	2026-10-14T08:24:16Z	done	10	tip+tiq+tir+tis
+tis	Itneg, Masadiit	2026-10-14T08:24:16Z	done	4	tip+tiq+tir+tis
+tit	Tinigua	2026-10-14T08:25:36Z	done	7	tit+tiu+tiv+tiw
+tiu	Adasen	2026-10-14T08:25:36Z	done	4	tit+tiu+tiv+tiw
+tiv	Tiv	2026-10-14T08:25:36Z	done	6	tit+tiu+tiv+tiw
+tiw	Tiwi	2026-10-14T08:25:36Z	done	5	tit+tiu+tiv+tiw
+tix	Tiwa, Southern	2026-10-14T08:27:34Z	done	5	tix+tiy+tiz+tja
+tiy	Teduray	2026-10-14T08:27:34Z	done	3	tix+tiy+tiz+tja
+tiz	Tai Hongjin	2026-10-14T08:27:34Z	done	4	tix+tiy+tiz+tja
+tja	Tajuasohn	2026-10-14T08:27:34Z	done	3	tix+tiy+tiz+tja
+tjg	Tunjung	2026-10-14T08:29:26Z	done	6	tjg+tji+tjj+tjl
+tji	Tujia, Northern	2026-10-14T08:29:26Z	done	6	tjg+tji+tjj+tjl
+tjj	Tjungundji	2026-10-14T08:29:26Z	done	3	tjg+tji+tjj+tjl
+tjl	Tai Laing	2026-10-14T08:29:26Z	done	7	tjg+tji+tjj+tjl
+tjm	Timucua	2026-10-14T08:31:19Z	done	7	tjm+tjn+tjo+tjp
+tjn	Tonjon	2026-10-14T08:31:19Z	done	5	tjm+tjn+tjo+tjp
+tjo	Tamazight, Temacine	2026-10-14T08:31:19Z	done	3	tjm+tjn+tjo+tjp
+tjp	Tjupany	2026-10-14T08:31:19Z	done	4	tjm+tjn+tjo+tjp
+tjs	Tujia, Southern	2026-10-14T08:33:15Z	done	4	tjs+tju+tjw+tka
+tju	Tjurruru	2026-10-14T08:33:15Z	done	4	tjs+tju+tjw+tka
+tjw	Djabwurrung	2026-10-14T08:33:15Z	done	4	tjs+tju+tjw+tka
+tka	Truká	2026-10-14T08:33:15Z	done	4	tjs+tju+tjw+tka
+tkb	Buksa	2026-10-14T08:34:55Z	done	4	tkb+tkd+tke+tkf
+tkd	Tukudede	2026-10-14T08:34:55Z	done	3	tkb+tkd+tke+tkf
+tke	Takwane	2026-10-14T08:34:55Z	done	6	tkb+tkd+tke+tkf
+tkf	Tukumanféd	2026-10-14T08:34:55Z	done	1	tkb+tkd+tke+tkf
+tkg	Tesaka Malagasy	2026-10-14T08:36:54Z	done	3	tkg+tkk+tkl+tkm
+tkk	Takpa (Retired)	2026-10-14T08:36:54Z	done	3	tkg+tkk+tkl+tkm
+tkl	Tokelauan	2026-10-14T08:36:54Z	done	7	tkg+tkk+tkl+tkm
+tkm	Takelma	2026-10-14T08:36:54Z	done	4	tkg+tkk+tkl+tkm
+tkn	Toku-No-Shima	2026-10-14T08:39:36Z	done	6	tkn+tkp+tkq+tkr
+tkp	Tikopia	2026-10-14T08:39:36Z	done	5	tkn+tkp+tkq+tkr
+tkq	Tèẹ̀ ̣	2026-10-14T08:39:36Z	done	4	tkn+tkp+tkq+tkr
+tkr	Tsakhur	2026-10-14T08:39:36Z	done	7	tkn+tkp+tkq+tkr
+tks	Takestani	2026-10-14T08:41:59Z	done	4	tks+tkt+tku+tkv
+tkt	Kathariya Tharu	2026-10-14T08:41:59Z	done	3	tks+tkt+tku+tkv
+tku	Upper Necaxa Totonac	2026-10-14T08:41:59Z	done	5	tks+tkt+tku+tkv
+tkv	Mur Pano	2026-10-14T08:41:59Z	done	3	tks+tkt+tku+tkv
+tkw	Teanu	2026-10-14T08:43:39Z	done	7	tkw+tkx+tkz+tla
+tkx	Tangko	2026-10-14T08:43:39Z	done	3	tkw+tkx+tkz+tla
+tkz	Takua	2026-10-14T08:43:39Z	done	4	tkw+tkx+tkz+tla
+tla	Tepehuan, Southwestern	2026-10-14T08:43:39Z	done	4	tkw+tkx+tkz+tla
+tlb	Tobelo	2026-10-14T08:45:23Z	done	3	tlb+tlc+tld+tle
+tlc	Totonac, Yecuatla	2026-10-14T08:45:23Z	done	3	tlb+tlc+tld+tle
+tld	Talaud	2026-10-14T08:45:23Z	done	5	tlb+tlc+tld+tle
+tle	Southern Marakwet	2026-10-14T08:45:23Z	done	4	tlb+tlc+tld+tle
+tlf	Telefol	2026-10-14T08:47:13Z	done	5	tlf+tlg+tlh+tli
+tlg	Tofanma	2026-10-14T08:47:13Z	done	6	tlf+tlg+tlh+tli
+tlh	Klingon	2026-10-14T08:47:13Z	done	4	tlf+tlg+tlh+tli
+tli	Tlingit	2026-10-14T08:47:13Z	done	8	tlf+tlg+tlh+tli
+tlj	Talinga-Bwisi	2026-10-14T08:49:05Z	done	3	tlj+tlk+tll+tlm
+tlk	Taloki	2026-10-14T08:49:05Z	done	4	tlj+tlk+tll+tlm
+tll	Tetela	2026-10-14T08:49:05Z	done	5	tlj+tlk+tll+tlm
+tlm	Tolomako	2026-10-14T08:49:05Z	done	5	tlj+tlk+tll+tlm
+tln	Talondo’	2026-10-14T08:51:05Z	done	4	tln+tlo+tlp+tlq
+tlo	Talodi	2026-10-14T08:51:05Z	done	5	tln+tlo+tlp+tlq
+tlp	Totonac, Filomena Mata-Coahuitlán	2026-10-14T08:51:05Z	done	7	tln+tlo+tlp+tlq
+tlq	Tai Loi	2026-10-14T08:51:05Z	done	7	tln+tlo+tlp+tlq
+tlr	Talise	2026-10-14T08:52:50Z	done	7	tlr+tls+tlt+tlu
+tls	Tambotalo	2026-10-14T08:52:50Z	done	5	tlr+tls+tlt+tlu
+tlt	Sou Nama	2026-10-14T08:52:50Z	done	4	tlr+tls+tlt+tlu
+tlu	Tulehu	2026-10-14T08:52:50Z	done	6	tlr+tls+tlt+tlu
+tlv	Taliabu	2026-10-14T08:54:53Z	done	4	tlv+tlw+tlx+tly
+tlw	South Wemale	2026-10-14T08:54:53Z	done	4	tlv+tlw+tlx+tly
+tlx	Khehek	2026-10-14T08:54:53Z	done	4	tlv+tlw+tlx+tly
+tly	Talysh	2026-10-14T08:54:53Z	done	6	tlv+tlw+tlx+tly
+tlz	Toala'	2026-10-14T08:56:45Z	done	4	tlz+tma+tmb+tmc
+tma	Tama	2026-10-14T08:56:45Z	done	6	tlz+tma+tmb+tmc
+tmb	Avava	2026-10-14T08:56:45Z	done	6	tlz+tma+tmb+tmc
+tmc	Tumak	2026-10-14T08:56:45Z	done	5	tlz+tma+tmb+tmc
+tmd	Haruai	2026-10-14T08:58:40Z	done	8	tmd+tme+tmf+tmg
+tme	Tremembé	2026-10-14T08:58:40Z	done	5	tmd+tme+tmf+tmg
+tmf	Toba-Maskoy	2026-10-14T08:58:40Z	done	5	tmd+tme+tmf+tmg
+tmg	Ternateño	2026-10-14T08:58:40Z	done	4	tmd+tme+tmf+tmg
+tmh	tmh	2026-10-14T09:00:28Z	done	5	tmh+tmi+tmj+tmk
+tmi	Vinekula	2026-10-14T09:00:28Z	done	3	tmh+tmi+tmj+tmk
+tmj	Samarokena	2026-10-14T09:00:28Z	done	3	tmh+tmi+tmj+tmk
+tmk	Northwestern Tamang	2026-10-14T09:00:28Z	done	5	tmh+tmi+tmj+tmk
+tml	Tamnim Citak	2026-10-14T09:02:12Z	done	3	tml+tmm+tmn+tmo
+tmm	Tai Thanh	2026-10-14T09:02:12Z	done	4	tml+tmm+tmn+tmo
+tmn	Taman	2026-10-14T09:02:12Z	done	4	tml+tmm+tmn+tmo
+tmo	Temoq	2026-10-14T09:02:12Z	done	5	tml+tmm+tmn+tmo
+tmq	Tumleo	2026-10-14T09:04:05Z	done	4	tmq+tmr+tms+tmt
+tmr	Jewish Babylonian Aramaic	2026-10-14T09:04:05Z	done	4	tmq+tmr+tms+tmt
+tms	Tima	2026-10-14T09:04:05Z	done	4	tmq+tmr+tms+tmt
+tmt	Oa	2026-10-14T09:04:05Z	done	4	tmq+tmr+tms+tmt
+tmu	Iau	2026-10-14T09:05:48Z	done	2	tmu+tmv+tmw+tmx
+tmv	Tembo	2026-10-14T09:05:48Z	done	4	tmu+tmv+tmw+tmx
+tmw	Temuan	2026-10-14T09:05:48Z	done	3	tmu+tmv+tmw+tmx
+tmx	Tomyang	2026-10-14T09:05:48Z	done	2	tmu+tmv+tmw+tmx
+tmy	Tami	2026-10-14T09:07:38Z	done	5	tmy+tmz+tna+tnb
+tmz	Tamanaku	2026-10-14T09:07:38Z	done	3	tmy+tmz+tna+tnb
+tna	Tacana	2026-10-14T09:07:38Z	done	3	tmy+tmz+tna+tnb
+tnb	Tunebo, Western	2026-10-14T09:07:38Z	done	4	tmy+tmz+tna+tnb
+tnc	Tanimuca-Letuama	2026-10-14T09:09:29Z	done	6	tnc+tnd+tnf+tng
+tnd	Tunebo, Angosturas	2026-10-14T09:09:29Z	done	7	tnc+tnd+tnf+tng
+tnf	Tangshewi	2026-10-14T09:09:29Z	done	2	tnc+tnd+tnf+tng
+tng	Tobanga	2026-10-14T09:09:29Z	done	7	tnc+tnd+tnf+tng
+tnh	Maiani	2026-10-14T09:11:11Z	done	8	tnh+tni+tnj+tnk
+tni	Tandia	2026-10-14T09:11:11Z	done	5	tnh+tni+tnj+tnk
+tnj	Tanjong	2026-10-14T09:11:11Z	done	1	tnh+tni+tnj+tnk
+tnk	Kwamera	2026-10-14T09:11:11Z	done	7	tnh+tni+tnj+tnk
+tnl	Netvaar	2026-10-14T09:13:17Z	done	8	tnl+tnm+tnn+tno
+tnm	Tabla	2026-10-14T09:13:17Z	done	5	tnl+tnm+tnn+tno
+tnn	North Tanna	2026-10-14T09:13:17Z	done	5	tnl+tnm+tnn+tno
+tno	Toromono	2026-10-14T09:13:17Z	done	4	tnl+tnm+tnn+tno
+tnp	Whitesands	2026-10-14T09:15:19Z	done	5	tnp+tnq+tnr+tns
+tnq	Taíno	2026-10-14T09:15:19Z	done	6	tnp+tnq+tnr+tns
+tnr	Ménik	2026-10-14T09:15:19Z	done	2	tnp+tnq+tnr+tns
+tns	Tenis	2026-10-14T09:15:19Z	done	3	tnp+tnq+tnr+tns
+tnt	Tontemboan	2026-10-14T09:17:45Z	done	7	tnt+tnu+tnv+tnw
+tnu	Tai Khang	2026-10-14T09:17:45Z	done	7	tnt+tnu+tnv+tnw
+tnv	Tangchangya	2026-10-14T09:17:45Z	done	6	tnt+tnu+tnv+tnw
+tnw	Tonsawang	2026-10-14T09:17:45Z	done	6	tnt+tnu+tnv+tnw
+tnx	Tanema	2026-10-14T09:19:37Z	done	5	tnx+tny+tnz+tob
+tny	Tongwe	2026-10-14T09:19:37Z	done	5	tnx+tny+tnz+tob
+tnz	Ten’edn	2026-10-14T09:19:37Z	done	4	tnx+tny+tnz+tob
+tob	Toba	2026-10-14T09:19:37Z	done	7	tnx+tny+tnz+tob
+toc	Coyutla Totonac	2026-10-14T09:20:55Z	done	3	toc+tod+toe+tof
+tod	Toma	2026-10-14T09:20:55Z	done	6	toc+tod+toe+tof
+toe	Tomedes	2026-10-14T09:20:55Z	done	2	toc+tod+toe+tof
+tof	Gizrra	2026-10-14T09:20:55Z	done	4	toc+tod+toe+tof
+tog	Tonga	2026-10-14T09:22:36Z	done	3	tog+toh+toi+toj
+toh	Tonga	2026-10-14T09:22:36Z	done	6	tog+toh+toi+toj
+toi	Tonga	2026-10-14T09:22:36Z	done	5	tog+toh+toi+toj
+toj	Tojolabal	2026-10-14T09:22:36Z	done	4	tog+toh+toi+toj
+tok	Toki Pona	2026-10-14T09:24:15Z	done	4	tok+tol+tom+ton
+tol	Tolowa	2026-10-14T09:24:15Z	done	7	tok+tol+tom+ton
+tom	Tombulu	2026-10-14T09:24:15Z	done	4	tok+tol+tom+ton
+ton	Tongan	2026-10-14T09:24:15Z	done	3	tok+tol+tom+ton
+too	Xicotepec de Juárez Totonac	2026-10-14T09:25:59Z	done	8	too+top+toq+tor
+top	Papantla Totonac	2026-10-14T09:25:59Z	done	4	too+top+toq+tor
+toq	Toposa	2026-10-14T09:25:59Z	done	6	too+top+toq+tor
+tor	Banda, Togbo-Vara	2026-10-14T09:25:59Z	done	6	too+top+toq+tor
+tos	Highland Totonac	2026-10-14T09:27:32Z	done	3	tos+tot+tou+tov
+tot	Patla-Chicontla Totonac	2026-10-14T09:27:32Z	done	6	tos+tot+tou+tov
+tou	Tho	2026-10-14T09:27:32Z	done	6	tos+tot+tou+tov
+tov	Taromi, Upper	2026-10-14T09:27:32Z	done	4	tos+tot+tou+tov
+tow	Jemez	2026-10-14T09:29:18Z	done	6	tow+tox+toy+toz
+tox	Tobian	2026-10-14T09:29:18Z	done	7	tow+tox+toy+toz
+toy	Topoiyo	2026-10-14T09:29:18Z	done	3	tow+tox+toy+toz
+toz	To	2026-10-14T09:29:18Z	done	4	tow+tox+toy+toz
+tpa	Taupota	2026-10-14T09:30:56Z	done	4	tpa+tpc+tpe+tpf
+tpc	Azoyú Me’phaa	2026-10-14T09:30:56Z	done	6	tpa+tpc+tpe+tpf
+tpe	Tippera	2026-10-14T09:30:56Z	done	5	tpa+tpc+tpe+tpf
+tpf	Tarpia	2026-10-14T09:30:56Z	done	5	tpa+tpc+tpe+tpf
+tpg	Kula	2026-10-14T09:32:59Z	done	4	tpg+tpi+tpj+tpk
+tpi	Tok Pisin	2026-10-14T09:32:59Z	done	7	tpg+tpi+tpj+tpk
+tpj	Ñandeva	2026-10-14T09:32:59Z	done	5	tpg+tpi+tpj+tpk
+tpk	Tupinikin	2026-10-14T09:32:59Z	done	6	tpg+tpi+tpj+tpk
+tpl	Tlacoapa Me’phaa	2026-10-14T09:34:10Z	done	6	tpl+tpm+tpn+tpo
+tpm	Tampulma	2026-10-14T09:34:10Z	done	5	tpl+tpm+tpn+tpo
+tpn	Tupinambá	2026-10-14T09:34:10Z	done	4	tpl+tpm+tpn+tpo
+tpo	Tai Pao	2026-10-14T09:34:10Z	done	4	tpl+tpm+tpn+tpo
+tpp	Pisaflores Tepehua	2026-10-14T09:35:54Z	done	6	tpp+tpq+tpr+tpt
+tpq	Kinnauri, Chhoyul	2026-10-14T09:35:54Z	done	5	tpp+tpq+tpr+tpt
+tpr	Tuparí	2026-10-14T09:35:54Z	done	5	tpp+tpq+tpr+tpt
+tpt	Tlachichilco Tepehua	2026-10-14T09:35:54Z	done	8	tpp+tpq+tpr+tpt
+tpu	Tampuan	2026-10-14T09:38:02Z	done	9	tpu+tpv+tpx+tpy
+tpv	Tanapag	2026-10-14T09:38:02Z	done	6	tpu+tpv+tpx+tpy
+tpx	Acatepec Me’phaa	2026-10-14T09:38:02Z	done	9	tpu+tpv+tpx+tpy
+tpy	Trumai	2026-10-14T09:38:02Z	done	7	tpu+tpv+tpx+tpy
+tpz	Tinputz	2026-10-14T09:39:41Z	done	4	tpz+tqb+tql+tqm
+tqb	Tembé	2026-10-14T09:39:41Z	done	4	tpz+tqb+tql+tqm
+tql	Lehali	2026-10-14T09:39:41Z	done	5	tpz+tqb+tql+tqm
+tqm	Turumsa	2026-10-14T09:39:41Z	done	4	tpz+tqb+tql+tqm
+tqn	Tenino	2026-10-14T09:41:31Z	done	6	tqn+tqo+tqp+tqq
+tqo	Toaripi	2026-10-14T09:41:31Z	done	6	tqn+tqo+tqp+tqq
+tqp	Tomoip	2026-10-14T09:41:31Z	done	6	tqn+tqo+tqp+tqq
+tqq	Tunni	2026-10-14T09:41:31Z	done	5	tqn+tqo+tqp+tqq
+tqr	Torona	2026-10-14T09:43:06Z	done	6	tqr+tqt+tqu+tqw
+tqt	Totonaco del cerro Xinolatépetl	2026-10-14T09:43:06Z	done	1	tqr+tqt+tqu+tqw
+tqu	Touo	2026-10-14T09:43:06Z	done	5	tqr+tqt+tqu+tqw
+tqw	Tonkawa	2026-10-14T09:43:06Z	done	6	tqr+tqt+tqu+tqw
+tra	Tirahi	2026-10-14T09:44:36Z	done	4	tra+trb+trc+trd
+trb	Terebu	2026-10-14T09:44:36Z	done	5	tra+trb+trc+trd
+trc	Copala Triqui	2026-10-14T09:44:36Z	done	4	tra+trb+trc+trd
+trd	Turi	2026-10-14T09:44:36Z	done	4	tra+trb+trc+trd
+tre	Tarangan, East	2026-10-14T09:46:13Z	done	8	tre+trf+trg+trh
+trf	Trinidadian English Creole	2026-10-14T09:46:13Z	done	4	tre+trf+trg+trh
+trg	Lishán Noshan	2026-10-14T09:46:13Z	done	3	tre+trf+trg+trh
+trh	Turaka	2026-10-14T09:46:13Z	done	4	tre+trf+trg+trh
+tri	Trió	2026-10-14T09:47:57Z	done	5	tri+trj+trl+trm
+trj	Toram	2026-10-14T09:47:57Z	done	5	tri+trj+trl+trm
+trl	Traveller Scottish	2026-10-14T09:47:57Z	done	6	tri+trj+trl+trm
+trm	Tregami	2026-10-14T09:47:57Z	done	4	tri+trj+trl+trm
+trn	Trinitario	2026-10-14T09:50:00Z	done	4	trn+tro+trp+trq
+tro	Naga, Tarao	2026-10-14T09:50:00Z	done	4	trn+tro+trp+trq
+trp	Kok Borok	2026-10-14T09:50:00Z	done	7	trn+tro+trp+trq
+trq	San Martín Itunyoso Triqui	2026-10-14T09:50:00Z	done	7	trn+tro+trp+trq
+trr	Taushiro	2026-10-14T09:51:37Z	done	6	trr+trs+trt+tru
+trs	Chicahuaxtla Triqui	2026-10-14T09:51:37Z	done	3	trr+trs+trt+tru
+trt	Tunggare	2026-10-14T09:51:37Z	done	4	trr+trs+trt+tru
+tru	Turoyo	2026-10-14T09:51:37Z	done	7	trr+trs+trt+tru
+trv	Sediq	2026-10-14T09:53:21Z	done	4	trv+trw+trx+try
+trw	Torwali	2026-10-14T09:53:21Z	done	7	trv+trw+trx+try
+trx	Bidayuh, Tringgus-Sembaan	2026-10-14T09:53:21Z	done	5	trv+trw+trx+try
+try	Turung	2026-10-14T09:53:21Z	done	8	trv+trw+trx+try
+trz	Torá	2026-10-14T09:55:02Z	done	6	trz+tsa+tsb+tsc
+tsa	Tsaangi	2026-10-14T09:55:02Z	done	5	trz+tsa+tsb+tsc
+tsb	Tsamai	2026-10-14T09:55:02Z	done	6	trz+tsa+tsb+tsc
+tsc	Tswa	2026-10-14T09:55:02Z	done	6	trz+tsa+tsb+tsc
+tsd	Tsakonian	2026-10-14T09:57:03Z	done	6	tsd+tse+tsf+tsg
+tse	Tunisian Sign Language	2026-10-14T09:57:03Z	done	6	tsd+tse+tsf+tsg
+tsf	Southwestern Tamang	2026-10-14T09:57:03Z	done	4	tsd+tse+tsf+tsg
+tsg	Tausug	2026-10-14T09:57:03Z	done	7	tsd+tse+tsf+tsg
+tsh	Matsuva	2026-10-14T09:58:51Z	done	6	tsh+tsi+tsj+tsk
+tsi	Tsimshian	2026-10-14T09:58:51Z	done	7	tsh+tsi+tsj+tsk
+tsj	Tshangla	2026-10-14T09:58:51Z	done	4	tsh+tsi+tsj+tsk
+tsk	Tseku	2026-10-14T09:58:51Z	done	4	tsh+tsi+tsj+tsk
+tsl	Ts’ün-Lao	2026-10-14T10:00:46Z	done	3	tsl+tsm+tsn+tso
+tsm	Turkish Sign Language	2026-10-14T10:00:46Z	done	5	tsl+tsm+tsn+tso
+tsn	Setswana	2026-10-14T10:00:46Z	done	10	tsl+tsm+tsn+tso
+tso	Tsonga	2026-10-14T10:00:46Z	done	2	tsl+tsm+tsn+tso
+tsp	Toussian, Northern	2026-10-14T10:02:53Z	done	5	tsp+tsq+tsr+tss
+tsq	Thai Sign Language	2026-10-14T10:02:53Z	done	5	tsp+tsq+tsr+tss
+tsr	Akei	2026-10-14T10:02:53Z	done	6	tsp+tsq+tsr+tss
+tss	Taiwan Sign Language	2026-10-14T10:02:53Z	done	3	tsp+tsq+tsr+tss
+tst	Tondi Songway Kiini	2026-10-14T10:04:21Z	done	4	tst+tsu+tsv+tsw
+tsu	Tsou	2026-10-14T10:04:21Z	done	5	tst+tsu+tsv+tsw
+tsv	Tsogo	2026-10-14T10:04:21Z	done	3	tst+tsu+tsv+tsw
+tsw	Tsishingini	2026-10-14T10:04:21Z	done	6	tst+tsu+tsv+tsw
+tsx	Mubami	2026-10-14T10:06:04Z	done	4	tsx+tsy+tsz+tta
+tsy	Tebul Sign Language	2026-10-14T10:06:04Z	done	4	tsx+tsy+tsz+tta
+tsz	Purepecha	2026-10-14T10:06:04Z	done	6	tsx+tsy+tsz+tta
+tta	Tutelo	2026-10-14T10:06:04Z	done	5	tsx+tsy+tsz+tta
+ttb	Gaa	2026-10-14T10:07:37Z	done	0	ttb+ttc+ttd+tte
+ttc	Tektiteko	2026-10-14T10:07:37Z	done	5	ttb+ttc+ttd+tte
+ttd	Tauade	2026-10-14T10:07:37Z	done	3	ttb+ttc+ttd+tte
+tte	Bwanabwana	2026-10-14T10:07:37Z	done	5	ttb+ttc+ttd+tte
+ttf	Tuotomb	2026-10-14T10:09:13Z	done	5	ttf+ttg+tth+tti
+ttg	Tutong	2026-10-14T10:09:13Z	done	5	ttf+ttg+tth+tti
+tth	Upper Ta’oih	2026-10-14T10:09:13Z	done	5	ttf+ttg+tth+tti
+tti	Tobati	2026-10-14T10:09:13Z	done	7	ttf+ttg+tth+tti
+ttj	Tooro	2026-10-14T10:10:56Z	done	5	ttj+ttk+ttl+ttm
+ttk	Totoro	2026-10-14T10:10:56Z	done	4	ttj+ttk+ttl+ttm
+ttl	Totela	2026-10-14T10:10:56Z	done	5	ttj+ttk+ttl+ttm
+ttm	Tutchone, Northern	2026-10-14T10:10:56Z	done	7	ttj+ttk+ttl+ttm
+ttn	Towei	2026-10-14T10:12:53Z	done	5	ttn+tto+ttp+ttq
+tto	Ta’oih, Lower	2026-10-14T10:12:53Z	done	5	ttn+tto+ttp+ttq
+ttp	Tombelala	2026-10-14T10:12:53Z	done	7	ttn+tto+ttp+ttq
+ttq	Tawallammat Tamajaq	2026-10-14T10:12:53Z	done	7	ttn+tto+ttp+ttq
+ttr	Tera	2026-10-14T10:14:51Z	done	7	ttr+tts+ttt+ttu
+tts	Northeastern Thai	2026-10-14T10:14:51Z	done	5	ttr+tts+ttt+ttu
+ttt	Tat, Muslim	2026-10-14T10:14:51Z	done	4	ttr+tts+ttt+ttu
+ttu	Torau	2026-10-14T10:14:51Z	done	4	ttr+tts+ttt+ttu
+ttv	Titan	2026-10-14T10:16:25Z	done	5	ttv+ttw+ttx+tty
+ttw	Long Wat	2026-10-14T10:16:25Z	done	4	ttv+ttw+ttx+tty
+ttx	Tutong 1	2026-10-14T10:16:25Z	done	3	ttv+ttw+ttx+tty
+tty	Sikaritai	2026-10-14T10:16:25Z	done	4	ttv+ttw+ttx+tty
+ttz	Tsum	2026-10-14T10:17:37Z	done	5	ttz+tua+tub+tuc
+tua	Wiarumus	2026-10-14T10:17:37Z	done	3	ttz+tua+tub+tuc
+tub	Tübatulabal	2026-10-14T10:17:37Z	done	8	ttz+tua+tub+tuc
+tuc	Mutu	2026-10-14T10:17:37Z	done	6	ttz+tua+tub+tuc
+tud	Tuxá	2026-10-14T10:20:26Z	done	5	tud+tue+tuf+tug
+tue	Tuyuca	2026-10-14T10:20:26Z	done	5	tud+tue+tuf+tug
+tuf	Central Tunebo	2026-10-14T10:20:26Z	done	3	tud+tue+tuf+tug
+tug	Tunia	2026-10-14T10:20:26Z	done	6	tud+tue+tuf+tug
+tuh	Tulil	2026-10-14T10:22:07Z	done	5	tuh+tui+tuj+tuk
+tui	Tupuri	2026-10-14T10:22:07Z	done	5	tuh+tui+tuj+tuk
+tuj	Tugutil	2026-10-14T10:22:07Z	done	4	tuh+tui+tuj+tuk
+tuk	Turkmen	2026-10-14T10:22:07Z	done	9	tuh+tui+tuj+tuk
+tul	Tula	2026-10-14T10:24:19Z	done	7	tul+tum+tun+tuo
+tum	Tumbuka	2026-10-14T10:24:19Z	done	6	tul+tum+tun+tuo
+tun	Tunica	2026-10-14T10:24:19Z	done	8	tul+tum+tun+tuo
+tuo	Tucano	2026-10-14T10:24:19Z	done	8	tul+tum+tun+tuo
+tuq	Tedaga	2026-10-14T10:26:18Z	done	5	tuq+tus+tuu+tuv
+tus	Tuscarora	2026-10-14T10:26:18Z	done	6	tuq+tus+tuu+tuv
+tuu	Tututni	2026-10-14T10:26:18Z	done	3	tuq+tus+tuu+tuv
+tuv	Turkana	2026-10-14T10:26:18Z	done	7	tuq+tus+tuu+tuv
+tux	Tuxináwa	2026-10-14T10:27:59Z	done	4	tux+tuy+tuz+tva
+tuy	Tugen	2026-10-14T10:27:59Z	done	6	tux+tuy+tuz+tva
+tuz	Turka	2026-10-14T10:27:59Z	done	7	tux+tuy+tuz+tva
+tva	Vaghua	2026-10-14T10:27:59Z	done	4	tux+tuy+tuz+tva
+tvd	Tsuvadi	2026-10-14T10:29:39Z	done	6	tvd+tve+tvi+tvk
+tve	Te’un	2026-10-14T10:29:39Z	done	3	tvd+tve+tvi+tvk
+tvi	Tulai	2026-10-14T10:29:39Z	done	3	tvd+tve+tvi+tvk
+tvk	Southeast Ambrym	2026-10-14T10:29:39Z	done	9	tvd+tve+tvi+tvk
+tvl	Tuvaluan	2026-10-14T10:31:16Z	done	7	tvl+tvm+tvn+tvo
+tvm	Tela-Masbuar	2026-10-14T10:31:16Z	done	2	tvl+tvm+tvn+tvo
+tvn	Tavoyan	2026-10-14T10:31:16Z	done	4	tvl+tvm+tvn+tvo
+tvo	Tidore	2026-10-14T10:31:16Z	done	5	tvl+tvm+tvn+tvo
+tvs	Taveta	2026-10-14T10:32:43Z	done	3	tvs+tvt+tvu+tvw
+tvt	Naga, Tutsa	2026-10-14T10:32:43Z	done	4	tvs+tvt+tvu+tvw
+tvu	Tunen	2026-10-14T10:32:43Z	done	5	tvs+tvt+tvu+tvw
+tvw	Sedoa	2026-10-14T10:32:43Z	done	2	tvs+tvt+tvu+tvw
+tvx	Taivoan	2026-10-14T10:34:21Z	done	6	tvx+tvy+twa+twb
+tvy	Pidgin, Timor	2026-10-14T10:34:21Z	done	4	tvx+tvy+twa+twb
+twa	Twana	2026-10-14T10:34:21Z	done	4	tvx+tvy+twa+twb
+twb	Tawbuid	2026-10-14T10:34:21Z	done	3	tvx+tvy+twa+twb
+twc	Teshenawa	2026-10-14T10:36:14Z	done	4	twc+twd+twe+twf
+twd	Twents	2026-10-14T10:36:14Z	done	6	twc+twd+twe+twf
+twe	Teiwa	2026-10-14T10:36:14Z	done	6	twc+twd+twe+twf
+twf	Tiwa, Northern	2026-10-14T10:36:14Z	done	8	twc+twd+twe+twf
+twg	Tereweng	2026-10-14T10:37:33Z	done	4	twg+twh+twi+twl
+twh	Tai Dón	2026-10-14T10:37:33Z	done	6	twg+twh+twi+twl
+twi	Twi	2026-10-14T10:37:33Z	done	5	twg+twh+twi+twl
+twl	Tawara	2026-10-14T10:37:33Z	done	4	twg+twh+twi+twl
+twm	Monpa, Tawang	2026-10-14T10:39:25Z	done	8	twm+twn+two+twp
+twn	Twendi	2026-10-14T10:39:25Z	done	5	twm+twn+two+twp
+two	Tswapong	2026-10-14T10:39:25Z	done	5	twm+twn+two+twp
+twp	Ere	2026-10-14T10:39:25Z	done	5	twm+twn+two+twp
+twq	Tasawaq	2026-10-14T10:41:00Z	done	4	twq+twr+twt+twu
+twr	Tarahumara, Southwestern	2026-10-14T10:41:00Z	done	6	twq+twr+twt+twu
+twt	Turiwára	2026-10-14T10:41:00Z	done	5	twq+twr+twt+twu
+twu	Termanu	2026-10-14T10:41:00Z	done	6	twq+twr+twt+twu
+tww	Tuwari	2026-10-14T10:42:18Z	done	6	tww+twx+twy+txa
+twx	Tewe	2026-10-14T10:42:18Z	done	5	tww+twx+twy+txa
+twy	Tawoyan	2026-10-14T10:42:18Z	done	6	tww+twx+twy+txa
+txa	Tombonuo	2026-10-14T10:42:18Z	done	6	tww+twx+twy+txa
+txb	Tokharian B	2026-10-14T10:43:45Z	done	6	txb+txc+txe+txg
+txc	Tsetsaut	2026-10-14T10:43:45Z	done	5	txb+txc+txe+txg
+txe	Totoli	2026-10-14T10:43:45Z	done	6	txb+txc+txe+txg
+txg	Tangut	2026-10-14T10:43:45Z	done	7	txb+txc+txe+txg
+txh	Thracian	2026-10-14T10:45:30Z	done	7	txh+txi+txj+txm
+txi	Ikpeng	2026-10-14T10:45:30Z	done	5	txh+txi+txj+txm
+txj	Tarjumo	2026-10-14T10:45:30Z	done	1	txh+txi+txj+txm
+txm	Tomini	2026-10-14T10:45:30Z	done	5	txh+txi+txj+txm
+txn	West Tarangan	2026-10-14T10:46:48Z	done	7	txn+txo+txq+txr
+txo	Toto	2026-10-14T10:46:48Z	done	8	txn+txo+txq+txr
+txq	Tii	2026-10-14T10:46:48Z	done	4	txn+txo+txq+txr
+txr	Tartessian	2026-10-14T10:46:48Z	done	6	txn+txo+txq+txr
+txs	Tonsea	2026-10-14T10:48:22Z	done	5	txs+txt+txu+txx
+txt	Citak	2026-10-14T10:48:22Z	done	4	txs+txt+txu+txx
+txu	Kayapó	2026-10-14T10:48:22Z	done	3	txs+txt+txu+txx
+txx	Tatana	2026-10-14T10:48:22Z	done	3	txs+txt+txu+txx
+txy	Malagasy, Tanosy	2026-10-14T10:50:00Z	done	4	txy+tya+tye+tyh
+tya	Tauya	2026-10-14T10:50:00Z	done	5	txy+tya+tye+tyh
+tye	Kyanga	2026-10-14T10:50:00Z	done	8	txy+tya+tye+tyh
+tyh	O’du	2026-10-14T10:50:00Z	done	6	txy+tya+tye+tyh
+tyi	Teke-Tsaayi	2026-10-14T10:51:46Z	done	8	tyi+tyj+tyl+tyn
+tyj	Tai Yo	2026-10-14T10:51:46Z	done	3	tyi+tyj+tyl+tyn
+tyl	Thu Lao	2026-10-14T10:51:46Z	done	5	tyi+tyj+tyl+tyn
+tyn	Kombai	2026-10-14T10:51:46Z	done	4	tyi+tyj+tyl+tyn
+typ	Thaypan	2026-10-14T10:53:33Z	done	4	typ+tyr+tys+tyt
+tyr	Tai Daeng	2026-10-14T10:53:33Z	done	7	typ+tyr+tys+tyt
+tys	Tày Sa Pa	2026-10-14T10:53:33Z	done	5	typ+tyr+tys+tyt
+tyt	Tày Tac	2026-10-14T10:53:33Z	done	4	typ+tyr+tys+tyt
+tyu	Kua	2026-10-14T10:55:08Z	done	4	tyu+tyv+tyx+tyy
+tyv	Tuvan	2026-10-14T10:55:08Z	done	6	tyu+tyv+tyx+tyy
+tyx	Teke-Tyee	2026-10-14T10:55:08Z	done	6	tyu+tyv+tyx+tyy
+tyy	Tiyaa	2026-10-14T10:55:08Z	done	3	tyu+tyv+tyx+tyy
+tyz	Tày	2026-10-14T10:57:04Z	done	6	tyz+tza+tzb+tzc
+tza	Tanzanian Sign Language	2026-10-14T10:57:04Z	done	5	tyz+tza+tzb+tzc
+tzb	Tzeltal, Bachajón	2026-10-14T10:57:04Z	done	4	tyz+tza+tzb+tzc
+tzc	Tzotzil, Chamula	2026-10-14T10:57:04Z	done	5	tyz+tza+tzb+tzc
+tze	Tzotzil, Chenalhó	2026-10-14T10:59:03Z	done	6	tze+tzh+tzi+tzj
+tzh	Tzeltal	2026-10-14T10:59:03Z	done	9	tze+tzh+tzi+tzj
+tzi	Situ	2026-10-14T10:59:03Z	done	5	tze+tzh+tzi+tzj
+tzj	Tz’utujil	2026-10-14T10:59:03Z	done	5	tze+tzh+tzi+tzj
+tzl	Talossan	2026-10-14T11:01:08Z	done	5	tzl+tzm+tzn+tzo
+tzm	Central Atlas Tamazight	2026-10-14T11:01:08Z	done	5	tzl+tzm+tzn+tzo
+tzn	Tugun	2026-10-14T11:01:08Z	done	6	tzl+tzm+tzn+tzo
+tzo	Tzotzil	2026-10-14T11:01:08Z	done	7	tzl+tzm+tzn+tzo
+tzs	Tzotzil, San Andrés Larrainzar	2026-10-14T11:02:51Z	done	3	tzs+tzt+tzu+tzx
+tzt	Tz'utujil, Western	2026-10-14T11:02:51Z	done	3	tzs+tzt+tzu+tzx
+tzu	Tzotzil, Huixtán	2026-10-14T11:02:51Z	done	5	tzs+tzt+tzu+tzx
+tzx	Karawari	2026-10-14T11:02:51Z	done	4	tzs+tzt+tzu+tzx
+tzz	Tzotzil, Zinacantán	2026-10-14T11:03:47Z	done	9	tzz
+uam	Uamué	2026-10-14T17:37:39Z	done	3	uam+uan+uar+uba
+uan	Kuan	2026-10-14T17:37:39Z	done	3	uam+uan+uar+uba
+uar	Tairuma	2026-10-14T17:37:39Z	done	5	uam+uan+uar+uba
+uba	Ubang	2026-10-14T17:37:39Z	done	4	uam+uan+uar+uba
+ubi	Ubi	2026-10-14T17:39:21Z	done	4	ubi+ubl+ubm+ubr
+ubl	Buhi’non Bikol	2026-10-14T17:39:21Z	done	4	ubi+ubl+ubm+ubr
+ubm	Upper Baram Kenyah	2026-10-14T17:39:21Z	done	5	ubi+ubl+ubm+ubr
+ubr	Ubir	2026-10-14T17:39:21Z	done	5	ubi+ubl+ubm+ubr
+ubu	Umbu-Ungu	2026-10-14T17:41:26Z	done	9	ubu+uby+uda+ude
+uby	Ubykh	2026-10-14T17:41:26Z	done	5	ubu+uby+uda+ude
+uda	Uda	2026-10-14T17:41:26Z	done	6	ubu+uby+uda+ude
+ude	Udihe	2026-10-14T17:41:26Z	done	6	ubu+uby+uda+ude
+udg	Muduga	2026-10-14T17:43:07Z	done	4	udg+udi+udj+udl
+udi	Udi	2026-10-14T17:43:07Z	done	5	udg+udi+udj+udl
+udj	Ujir	2026-10-14T17:43:07Z	done	6	udg+udi+udj+udl
+udl	Wuzlam	2026-10-14T17:43:07Z	done	5	udg+udi+udj+udl
+udm	Udmurt	2026-10-14T17:44:57Z	done	9	udm+udu+ues+ufi
+udu	Uduk	2026-10-14T17:44:57Z	done	6	udm+udu+ues+ufi
+ues	Kioko	2026-10-14T17:44:57Z	done	5	udm+udu+ues+ufi
+ufi	Ufim	2026-10-14T17:44:57Z	done	3	udm+udu+ues+ufi
+uga	Ugaritic	2026-10-14T17:46:28Z	done	3	uga+ugb+uge+ugh
+ugb	Kuku-Ugbanh	2026-10-14T17:46:28Z	done	2	uga+ugb+uge+ugh
+uge	Ughele	2026-10-14T17:46:28Z	done	5	uga+ugb+uge+ugh
+ugh	Kubachi	2026-10-14T17:46:28Z	done	4	uga+ugb+uge+ugh
+ugn	Ugandan Sign Language	2026-10-14T17:47:45Z	done	4	ugn+ugo+ugy+uha
+ugo	Ugong	2026-10-14T17:47:45Z	done	4	ugn+ugo+ugy+uha
+ugy	Uruguayan Sign Language	2026-10-14T17:47:45Z	done	4	ugn+ugo+ugy+uha
+uha	Uhami	2026-10-14T17:47:45Z	done	3	ugn+ugo+ugy+uha
+uhn	Damal	2026-10-14T17:49:06Z	done	6	uhn+uig+uis+uiv
+uig	Uyghur	2026-10-14T17:49:06Z	done	6	uhn+uig+uis+uiv
+uis	Uisai	2026-10-14T17:49:06Z	done	4	uhn+uig+uis+uiv
+uiv	Iyive	2026-10-14T17:49:06Z	done	4	uhn+uig+uis+uiv
+uji	Rjili	2026-10-14T17:50:16Z	done	4	uji+uka+ukg+ukh
+uka	Kaburi	2026-10-14T17:50:16Z	done	5	uji+uka+ukg+ukh
+ukg	Ukuriguma	2026-10-14T17:50:16Z	done	5	uji+uka+ukg+ukh
+ukh	Ukhwejo	2026-10-14T17:50:16Z	done	5	uji+uka+ukg+ukh
+uki	Kui	2026-10-14T17:52:00Z	done	3	uki+ukk+ukl+ukp
+ukk	Muak Sa-aak	2026-10-14T17:52:00Z	done	7	uki+ukk+ukl+ukp
+ukl	Ukrainian Sign Language	2026-10-14T17:52:00Z	done	6	uki+ukk+ukl+ukp
+ukp	Bukpe	2026-10-14T17:52:00Z	done	5	uki+ukk+ukl+ukp
+ukq	Ukwa	2026-10-14T17:53:49Z	done	6	ukq+uks+uku+ukv
+uks	Kaapor Sign Language	2026-10-14T17:53:49Z	done	9	ukq+uks+uku+ukv
+uku	Ukue	2026-10-14T17:53:49Z	done	5	ukq+uks+uku+ukv
+ukv	Kuku	2026-10-14T17:53:49Z	done	4	ukq+uks+uku+ukv
+ukw	Ukwuani-Aboh-Ndoni	2026-10-14T17:55:36Z	done	4	ukw+uky+ula+ulb
+uky	Kuuk-Yak	2026-10-14T17:55:36Z	done	4	ukw+uky+ula+ulb
+ula	Fungwa	2026-10-14T17:55:36Z	done	9	ukw+uky+ula+ulb
+ulb	Olùkùmi	2026-10-14T17:55:36Z	done	4	ukw+uky+ula+ulb
+ulc	Ulch	2026-10-14T17:57:17Z	done	7	ulc+ule+ulf+uli
+ule	Lule	2026-10-14T17:57:17Z	done	4	ulc+ule+ulf+uli
+ulf	Usku	2026-10-14T17:57:17Z	done	4	ulc+ule+ulf+uli
+uli	Ulithian	2026-10-14T17:57:17Z	done	7	ulc+ule+ulf+uli
+ulk	Meriam Mir	2026-10-14T17:59:21Z	done	9	ulk+ull+ulm+uln
+ull	Ullatan	2026-10-14T17:59:21Z	done	5	ulk+ull+ulm+uln
+ulm	Ulumanda’	2026-10-14T17:59:21Z	done	6	ulk+ull+ulm+uln
+uln	Unserdeutsch	2026-10-14T17:59:21Z	done	9	ulk+ull+ulm+uln
+ulu	Uma’ Lung	2026-10-14T18:01:26Z	done	6	ulu+ulw+uly+uma
+ulw	Ulwa	2026-10-14T18:01:26Z	done	9	ulu+ulw+uly+uma
+uly	Buli	2026-10-14T18:01:26Z	done	4	ulu+ulw+uly+uma
+uma	Umatilla	2026-10-14T18:01:26Z	done	9	ulu+ulw+uly+uma
+umb	Umbundu	2026-10-14T18:02:47Z	done	8	umb+umd+umg+umi
+umd	Umbindhamu	2026-10-14T18:02:47Z	done	3	umb+umd+umg+umi
+umg	Morrobalama	2026-10-14T18:02:47Z	done	4	umb+umd+umg+umi
+umi	Ukit	2026-10-14T18:02:47Z	done	4	umb+umd+umg+umi
+umm	Amon	2026-10-14T18:04:18Z	done	2	umm+umn+umo+ump
+umn	Paungnyuan Naga	2026-10-14T18:04:18Z	done	4	umm+umn+umo+ump
+umo	Umotína	2026-10-14T18:04:18Z	done	4	umm+umn+umo+ump
+ump	Umpila	2026-10-14T18:04:18Z	done	4	umm+umn+umo+ump
+umr	Umbugarla	2026-10-14T18:06:07Z	done	6	umr+ums+umu+una
+ums	Pendau	2026-10-14T18:06:07Z	done	6	umr+ums+umu+una
+umu	Munsee	2026-10-14T18:06:07Z	done	3	umr+ums+umu+una
+una	Kodut, North	2026-10-14T18:06:07Z	done	4	umr+ums+umu+una
+une	Uneme	2026-10-14T18:07:41Z	done	4	une+ung+uni+unk
+ung	Ngarinyin	2026-10-14T18:07:41Z	done	5	une+ung+uni+unk
+uni	Uni	2026-10-14T18:07:41Z	done	1	une+ung+uni+unk
+unk	Enawené-Nawé	2026-10-14T18:07:41Z	done	6	une+ung+uni+unk
+unm	Unami	2026-10-14T18:09:11Z	done	5	unm+unn+unr+unu
+unn	Kurnai	2026-10-14T18:09:11Z	done	4	unm+unn+unr+unu
+unr	Mundari	2026-10-14T18:09:11Z	done	4	unm+unn+unr+unu
+unu	Unubahe	2026-10-14T18:09:11Z	done	4	unm+unn+unr+unu
+unx	Munda	2026-10-14T18:10:38Z	done	4	unx+unz+uok+uon
+unz	Kaili, Unde	2026-10-14T18:10:38Z	done	5	unx+unz+uok+uon
+uok	Uokha	2026-10-14T18:10:38Z	done	2	unx+unz+uok+uon
+uon	Kulon	2026-10-14T18:10:38Z	done	3	unx+unz+uok+uon
+upi	Umeda	2026-10-14T18:12:34Z	done	5	upi+upv+ura+urb
+upv	Uripiv-Wala-Rano-Atchin	2026-10-14T18:12:34Z	done	8	upi+upv+ura+urb
+ura	Urarina	2026-10-14T18:12:34Z	done	6	upi+upv+ura+urb
+urb	Kaapor	2026-10-14T18:12:34Z	done	7	upi+upv+ura+urb
+urc	Urningangg	2026-10-14T18:14:05Z	done	5	urc+urd+ure+urf
+urd	Urdu	2026-10-14T18:14:05Z	done	5	urc+urd+ure+urf
+ure	Uru	2026-10-14T18:14:05Z	done	5	urc+urd+ure+urf
+urf	Uradhi	2026-10-14T18:14:05Z	done	4	urc+urd+ure+urf
+urg	Kobuka	2026-10-14T18:15:43Z	done	2	urg+urh+uri+urk
+urh	Urhobo	2026-10-14T18:15:43Z	done	3	urg+urh+uri+urk
+uri	Urim	2026-10-14T18:15:43Z	done	5	urg+urh+uri+urk
+urk	Urak Lawoi’	2026-10-14T18:15:43Z	done	7	urg+urh+uri+urk
+url	Urali	2026-10-14T18:17:22Z	done	5	url+urm+urn+uro
+urm	Urapmin	2026-10-14T18:17:22Z	done	5	url+urm+urn+uro
+urn	Uruangnirin	2026-10-14T18:17:22Z	done	4	url+urm+urn+uro
+uro	Ura	2026-10-14T18:17:22Z	done	5	url+urm+urn+uro
+urp	Uru-Pa-In	2026-10-14T18:18:59Z	done	3	urp+urr+urt+uru
+urr	Löyöp	2026-10-14T18:18:59Z	done	5	urp+urr+urt+uru
+urt	Urat	2026-10-14T18:18:59Z	done	7	urp+urr+urt+uru
+uru	Urumi	2026-10-14T18:18:59Z	done	3	urp+urr+urt+uru
+urv	Uruava	2026-10-14T18:20:26Z	done	4	urv+urw+urx+ury
+urw	Sob	2026-10-14T18:20:26Z	done	3	urv+urw+urx+ury
+urx	Urimo	2026-10-14T18:20:26Z	done	3	urv+urw+urx+ury
+ury	Orya	2026-10-14T18:20:26Z	done	5	urv+urw+urx+ury
+urz	Uru-Eu-Wau-Wau	2026-10-14T18:22:04Z	done	5	urz+usa+ush+usi
+usa	Usarufa	2026-10-14T18:22:04Z	done	7	urz+usa+ush+usi
+ush	Ushojo	2026-10-14T18:22:04Z	done	2	urz+usa+ush+usi
+usi	Usoi	2026-10-14T18:22:04Z	done	5	urz+usa+ush+usi
+usk	Usaghade	2026-10-14T18:23:43Z	done	6	usk+usp+uss+usu
+usp	Uspanteko	2026-10-14T18:23:43Z	done	6	usk+usp+uss+usu
+uss	us-Saare	2026-10-14T18:23:43Z	done	5	usk+usp+uss+usu
+usu	Uya	2026-10-14T18:23:43Z	done	4	usk+usp+uss+usu
+uta	Itang	2026-10-14T18:24:56Z	done	4	uta+ute+uth+utp
+ute	Ute-Southern Paiute	2026-10-14T18:24:56Z	done	6	uta+ute+uth+utp
+uth	ut-Hun	2026-10-14T18:24:56Z	done	5	uta+ute+uth+utp
+utp	Amba	2026-10-14T18:24:56Z	done	3	uta+ute+uth+utp
+utr	Etulo	2026-10-14T18:26:10Z	done	3	utr+utu+uum+uur
+utu	Utu	2026-10-14T18:26:10Z	done	4	utr+utu+uum+uur
+uum	Urum	2026-10-14T18:26:10Z	done	6	utr+utu+uum+uur
+uur	Ura	2026-10-14T18:26:10Z	done	4	utr+utu+uum+uur
+uuu	U	2026-10-14T18:27:30Z	done	4	uuu+uve+uvh+uvl
+uve	Fagauvea	2026-10-14T18:27:30Z	done	5	uuu+uve+uvh+uvl
+uvh	Uri	2026-10-14T18:27:30Z	done	7	uuu+uve+uvh+uvl
+uvl	Lote	2026-10-14T18:27:30Z	done	5	uuu+uve+uvh+uvl
+uwa	Kuku-Uwanh	2026-10-14T18:28:42Z	done	6	uwa+uya+uzb+uzn
+uya	Deko-Dusanga	2026-10-14T18:28:42Z	done	6	uwa+uya+uzb+uzn
+uzb	uzb	2026-10-14T18:28:42Z	done	5	uwa+uya+uzb+uzn
+uzn	Northern Uzbek	2026-10-14T18:28:42Z	done	8	uwa+uya+uzb+uzn
+uzs	Southern Uzbek	2026-10-14T18:29:24Z	done	8	uzs
+vaa	Vaagri Booli	2026-10-14T18:50:53Z	done	3	vaa+vae+vaf+vag
+vae	Vale	2026-10-14T18:50:53Z	done	3	vaa+vae+vaf+vag
+vaf	Vafsi	2026-10-14T18:50:53Z	done	5	vaa+vae+vaf+vag
+vag	Vagla	2026-10-14T18:50:53Z	done	7	vaa+vae+vaf+vag
+vah	Varhadi-Nagpuri	2026-10-14T18:51:59Z	done	3	vah+vai+vaj+val
+vai	Vai	2026-10-14T18:51:59Z	done	4	vah+vai+vaj+val
+vaj	Northwestern !Kung	2026-10-14T18:51:59Z	done	3	vah+vai+vaj+val
+val	Vehes	2026-10-14T18:51:59Z	done	5	vah+vai+vaj+val
+vam	Dumo	2026-10-14T18:52:53Z	done	7	vam+van+vao+vap
+van	Walman	2026-10-14T18:52:53Z	done	7	vam+van+vao+vap
+vao	Vao	2026-10-14T18:52:53Z	done	6	vam+van+vao+vap
+vap	Vaiphei	2026-10-14T18:52:53Z	done	6	vam+van+vao+vap
+var	Huarijío	2026-10-14T18:53:44Z	done	7	var+vas+vau+vav
+vas	Vasavi	2026-10-14T18:53:44Z	done	6	var+vas+vau+vav
+vau	Vanuma	2026-10-14T18:53:44Z	done	5	var+vas+vau+vav
+vav	Varli	2026-10-14T18:53:44Z	done	5	var+vas+vau+vav
+vay	Wayu	2026-10-14T18:54:49Z	done	5	vay+vbb+vbk+vec
+vbb	Babar, Southeast	2026-10-14T18:54:49Z	done	7	vay+vbb+vbk+vec
+vbk	Bontok, Southwestern	2026-10-14T18:54:49Z	done	4	vay+vbb+vbk+vec
+vec	Venetian	2026-10-14T18:54:49Z	done	7	vay+vbb+vbk+vec
+ved	Veddah	2026-10-14T18:55:38Z	done	3	ved+vel+vem+ven
+vel	Veluws	2026-10-14T18:55:38Z	done	5	ved+vel+vem+ven
+vem	Vemgo-Mabas	2026-10-14T18:55:38Z	done	8	ved+vel+vem+ven
+ven	Venda	2026-10-14T18:55:38Z	done	4	ved+vel+vem+ven
+veo	Ventureño	2026-10-14T18:56:49Z	done	4	veo+vep+ver+vgr
+vep	Veps	2026-10-14T18:56:49Z	done	4	veo+vep+ver+vgr
+ver	Verre	2026-10-14T18:56:49Z	done	4	veo+vep+ver+vgr
+vgr	Vaghri	2026-10-14T18:56:49Z	done	4	veo+vep+ver+vgr
+vgt	Flemish Sign Language	2026-10-14T18:58:21Z	done	7	vgt+vic+vid+vif
+vic	Virgin Islands English Creole	2026-10-14T18:58:21Z	done	6	vgt+vic+vid+vif
+vid	Vidunda	2026-10-14T18:58:21Z	done	7	vgt+vic+vid+vif
+vif	Vili	2026-10-14T18:58:21Z	done	9	vgt+vic+vid+vif
+vig	Viemo	2026-10-14T18:59:06Z	done	5	vig+vil+vin+vis
+vil	Vilela	2026-10-14T18:59:06Z	done	4	vig+vil+vin+vis
+vin	Vinza	2026-10-14T18:59:06Z	done	6	vig+vil+vin+vis
+vis	Vishavan	2026-10-14T18:59:06Z	done	3	vig+vil+vin+vis
+vit	Viti	2026-10-14T19:00:28Z	done	6	vit+viv+vjk+vka
+viv	Iduna	2026-10-14T19:00:28Z	done	7	vit+viv+vjk+vka
+vjk	Bajjika	2026-10-14T19:00:28Z	done	5	vit+viv+vjk+vka
+vka	Kariyarra	2026-10-14T19:00:28Z	done	5	vit+viv+vjk+vka
+vki	Ija-Zuba	2026-10-14T19:01:54Z	done	5	vki+vkj+vkk+vkl
+vkj	Kujarge	2026-10-14T19:01:54Z	done	6	vki+vkj+vkk+vkl
+vkk	Kaur	2026-10-14T19:01:54Z	done	7	vki+vkj+vkk+vkl
+vkl	Kulisusu	2026-10-14T19:01:54Z	done	8	vki+vkj+vkk+vkl
+vkm	Kamakan	2026-10-14T19:02:48Z	done	7	vkm+vkn+vko+vkp
+vkn	Koro Nulu	2026-10-14T19:02:48Z	done	4	vkm+vkn+vko+vkp
+vko	Kodeoha	2026-10-14T19:02:48Z	done	4	vkm+vkn+vko+vkp
+vkp	Korlai Portuguese Creole	2026-10-14T19:02:48Z	done	5	vkm+vkn+vko+vkp
+vkt	Malay, Tenggarong Kutai	2026-10-14T19:03:36Z	done	4	vkt+vku+vky+vkz
+vku	Kurrama	2026-10-14T19:03:36Z	done	5	vkt+vku+vky+vkz
+vky	Kayu Agung	2026-10-14T19:03:36Z	done	5	vkt+vku+vky+vkz
+vkz	Koro Zuba	2026-10-14T19:03:36Z	done	4	vkt+vku+vky+vkz
+vlp	Tavanlav	2026-10-14T19:05:13Z	done	5	vlp+vlr+vls+vma
+vlr	Vatrata	2026-10-14T19:05:13Z	done	6	vlp+vlr+vls+vma
+vls	West Flemish	2026-10-14T19:05:13Z	done	6	vlp+vlr+vls+vma
+vma	Martuyhunira	2026-10-14T19:05:13Z	done	7	vlp+vlr+vls+vma
+vmb	Barbaram	2026-10-14T19:06:01Z	done	3	vmb+vmc+vmd+vme
+vmc	Mixtec, Juxtlahuaca	2026-10-14T19:06:01Z	done	5	vmb+vmc+vmd+vme
+vmd	Koraga, Mudu	2026-10-14T19:06:01Z	done	5	vmb+vmc+vmd+vme
+vme	Masela, East	2026-10-14T19:06:01Z	done	4	vmb+vmc+vmd+vme
+vmf	Eastern Franconian	2026-10-14T19:06:49Z	done	6	vmf+vmg+vmh+vmi
+vmg	Vinitiri	2026-10-14T19:06:49Z	done	2	vmf+vmg+vmh+vmi
+vmh	Maraghei	2026-10-14T19:06:49Z	done	3	vmf+vmg+vmh+vmi
+vmi	Miwa	2026-10-14T19:06:49Z	done	5	vmf+vmg+vmh+vmi
+vmj	Ixtayutla Mixtec	2026-10-14T19:07:36Z	done	4	vmj+vmk+vml+vmm
+vmk	Makhuwa-Shirima	2026-10-14T19:07:36Z	done	3	vmj+vmk+vml+vmm
+vml	Malgana	2026-10-14T19:07:36Z	done	5	vmj+vmk+vml+vmm
+vmm	Mitlatongo Mixtec	2026-10-14T19:07:36Z	done	2	vmj+vmk+vml+vmm
+vmp	Soyaltepec Mazatec	2026-10-14T19:08:57Z	done	8	vmp+vmq+vmr+vms
+vmq	Mixtec, Soyaltepec	2026-10-14T19:08:57Z	done	5	vmp+vmq+vmr+vms
+vmr	Marenje	2026-10-14T19:08:57Z	done	7	vmp+vmq+vmr+vms
+vms	Moksela	2026-10-14T19:08:57Z	done	5	vmp+vmq+vmr+vms
+vmu	Muluridyi	2026-10-14T19:10:08Z	done	5	vmu+vmv+vmw+vmx
+vmv	Maidu, Valley	2026-10-14T19:10:08Z	done	6	vmu+vmv+vmw+vmx
+vmw	Makhuwa	2026-10-14T19:10:08Z	done	4	vmu+vmv+vmw+vmx
+vmx	Mixtec, Tamazola	2026-10-14T19:10:08Z	done	5	vmu+vmv+vmw+vmx
+vmy	Ayautla Mazatec	2026-10-14T19:11:01Z	done	6	vmy+vmz+vnk+vnm
+vmz	Mazatlán Mazatec	2026-10-14T19:11:01Z	done	4	vmy+vmz+vnk+vnm
+vnk	Lovono	2026-10-14T19:11:01Z	done	7	vmy+vmz+vnk+vnm
+vnm	Neve’ei	2026-10-14T19:11:01Z	done	7	vmy+vmz+vnk+vnm
+vnp	Tapesena	2026-10-14T19:11:59Z	done	5	vnp+vol+vor+vot
+vol	Volapük	2026-10-14T19:11:59Z	done	5	vnp+vol+vor+vot
+vor	Voro	2026-10-14T19:11:59Z	done	5	vnp+vol+vor+vot
+vot	Vod	2026-10-14T19:11:59Z	done	5	vnp+vol+vor+vot
+vra	Vera’a	2026-10-14T19:13:12Z	done	4	vra+vro+vrs+vrt
+vro	Võro	2026-10-14T19:13:12Z	done	6	vra+vro+vrs+vrt
+vrs	Varisi	2026-10-14T19:13:12Z	done	5	vra+vro+vrs+vrt
+vrt	Banam Bay	2026-10-14T19:13:12Z	done	2	vra+vro+vrs+vrt
+vsi	Moldova Sign Language	2026-10-14T19:14:40Z	done	8	vsi+vsl+vsv+vto
+vsl	Venezuelan Sign Language	2026-10-14T19:14:40Z	done	6	vsi+vsl+vsv+vto
+vsv	Valencian Sign Language	2026-10-14T19:14:40Z	done	6	vsi+vsl+vsv+vto
+vto	Vitou	2026-10-14T19:14:40Z	done	4	vsi+vsl+vsv+vto
+vum	Vumbu	2026-10-14T19:15:28Z	done	4	vum+vun+vut+vwa
+vun	Vunjo	2026-10-14T19:15:28Z	done	4	vum+vun+vut+vwa
+vut	Vute	2026-10-14T19:15:28Z	done	6	vum+vun+vut+vwa
+vwa	Awa	2026-10-14T19:15:28Z	done	2	vum+vun+vut+vwa
+waa	Walla Walla	2026-10-14T19:16:20Z	done	5	waa+wab+wac+wad
+wab	Yote	2026-10-14T19:16:20Z	done	6	waa+wab+wac+wad
+wac	Wasco-Wishram	2026-10-14T19:16:20Z	done	2	waa+wab+wac+wad
+wad	Wamesa	2026-10-14T19:16:20Z	done	9	waa+wab+wac+wad
+wae	Walser	2026-10-14T19:17:29Z	done	4	wae+waf+wag+wah
+waf	Wakoná	2026-10-14T19:17:29Z	done	3	wae+waf+wag+wah
+wag	Wa’ema	2026-10-14T19:17:29Z	done	5	wae+waf+wag+wah
+wah	Watubela	2026-10-14T19:17:29Z	done	4	wae+waf+wag+wah
+wai	Wares	2026-10-14T19:18:20Z	done	0	wai+waj+wal+wam
+waj	Waffa	2026-10-14T19:18:20Z	done	5	wai+waj+wal+wam
+wal	Wolaytta	2026-10-14T19:18:20Z	done	4	wai+waj+wal+wam
+wam	Wampanoag	2026-10-14T19:18:20Z	done	3	wai+waj+wal+wam
+wan	Wan	2026-10-14T19:19:12Z	done	4	wan+wao+wap+waq
+wao	Wappo	2026-10-14T19:19:12Z	done	4	wan+wao+wap+waq
+wap	Wapichan	2026-10-14T19:19:12Z	done	6	wan+wao+wap+waq
+waq	Wagiman	2026-10-14T19:19:12Z	done	8	wan+wao+wap+waq
+war	Waray-Waray	2026-10-14T19:20:32Z	done	9	war+was+wat+wau
+was	Washo	2026-10-14T19:20:32Z	done	4	war+was+wat+wau
+wat	Kaninuwa	2026-10-14T19:20:32Z	done	4	war+was+wat+wau
+wau	Waurá	2026-10-14T19:20:32Z	done	5	war+was+wat+wau
+wav	Waka	2026-10-14T19:21:17Z	done	4	wav+waw+wax+way
+waw	Waiwai	2026-10-14T19:21:17Z	done	6	wav+waw+wax+way
+wax	Marangis	2026-10-14T19:21:17Z	done	3	wav+waw+wax+way
+way	Wayana	2026-10-14T19:21:17Z	done	5	wav+waw+wax+way
+waz	Wampur	2026-10-14T19:22:32Z	done	8	waz+wba+wbb+wbe
+wba	Warao	2026-10-14T19:22:32Z	done	5	waz+wba+wbb+wbe
+wbb	Wabo	2026-10-14T19:22:32Z	done	4	waz+wba+wbb+wbe
+wbe	Waritai	2026-10-14T19:22:32Z	done	5	waz+wba+wbb+wbe
+wbf	Wara	2026-10-14T19:23:42Z	done	5	wbf+wbh+wbi+wbj
+wbh	Wanda	2026-10-14T19:23:42Z	done	6	wbf+wbh+wbi+wbj
+wbi	Vwanji	2026-10-14T19:23:42Z	done	6	wbf+wbh+wbi+wbj
+wbj	Alagwa	2026-10-14T19:23:42Z	done	6	wbf+wbh+wbi+wbj
+wbk	Waigali	2026-10-14T19:24:38Z	done	3	wbk+wbl+wbm+wbp
+wbl	Wakhi	2026-10-14T19:24:38Z	done	5	wbk+wbl+wbm+wbp
+wbm	Vo Wa	2026-10-14T19:24:38Z	done	6	wbk+wbl+wbm+wbp
+wbp	Warlpiri	2026-10-14T19:24:38Z	done	6	wbk+wbl+wbm+wbp
+wbq	Waddar	2026-10-14T19:25:57Z	done	6	wbq+wbr+wbs+wbt
+wbr	Wagdi	2026-10-14T19:25:57Z	done	3	wbq+wbr+wbs+wbt
+wbs	West Bengal Sign Language	2026-10-14T19:25:57Z	done	9	wbq+wbr+wbs+wbt
+wbt	Warnman	2026-10-14T19:25:57Z	done	6	wbq+wbr+wbs+wbt
+wbv	Wajarri	2026-10-14T19:27:21Z	done	5	wbv+wbw+wca+wci
+wbw	Woi	2026-10-14T19:27:21Z	done	7	wbv+wbw+wca+wci
+wca	Yanomámi	2026-10-14T19:27:21Z	done	7	wbv+wbw+wca+wci
+wci	Gbe, Waci	2026-10-14T19:27:21Z	done	2	wbv+wbw+wca+wci
+wdd	Wandji	2026-10-14T19:28:26Z	done	4	wdd+wdg+wdj+wdk
+wdg	Wadaginam	2026-10-14T19:28:26Z	done	5	wdd+wdg+wdj+wdk
+wdj	Wadjiginy	2026-10-14T19:28:26Z	done	3	wdd+wdg+wdj+wdk
+wdk	Wadikali	2026-10-14T19:28:26Z	done	3	wdd+wdg+wdj+wdk
+wdt	Wendat	2026-10-14T19:29:42Z	done	7	wdt+wdu+wdy+wea
+wdu	Wadjigu	2026-10-14T19:29:42Z	done	5	wdt+wdu+wdy+wea
+wdy	Wadjabangayi	2026-10-14T19:29:42Z	done	3	wdt+wdu+wdy+wea
+wea	Wewaw	2026-10-14T19:29:42Z	done	0	wdt+wdu+wdy+wea
+wec	Wè Western	2026-10-14T19:30:50Z	done	3	wec+wed+weg+weh
+wed	Wedau	2026-10-14T19:30:50Z	done	5	wec+wed+weg+weh
+weg	Wergaia	2026-10-14T19:30:50Z	done	4	wec+wed+weg+weh
+weh	Weh	2026-10-14T19:30:50Z	done	5	wec+wed+weg+weh
+wei	Kiunum	2026-10-14T19:31:58Z	done	4	wei+wem+weo+wep
+wem	Gbe, Weme	2026-10-14T19:31:58Z	done	4	wei+wem+weo+wep
+weo	Wemale	2026-10-14T19:31:58Z	done	4	wei+wem+weo+wep
+wep	Westphalien	2026-10-14T19:31:58Z	done	6	wei+wem+weo+wep

@@ -1,0 +1,38 @@
+{
+ "iso": "vkn",
+ "name": "Koro Nulu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:02:48Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Koro Nulu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Koro_Nulu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Koro Nulu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/vkn",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Koro Nulu in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21981",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Koro Nulu",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/vkn",
+   "found_in_search": true
+  }
+ ]
+}

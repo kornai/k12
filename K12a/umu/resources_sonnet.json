@@ -1,0 +1,31 @@
+{
+ "iso": "umu",
+ "name": "Munsee",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:06:07Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Delaware-English / English-Delaware Dictionary (John O'Meara)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.hfsbooks.com/books/delaware-english-english-delaware-dictionary-omeara",
+   "found_in_search": true
+  },
+  {
+   "title": "Delaware-English / English-Delaware Dictionary (Language Museum listing)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://languagemuseum.ca/books/delaware-english-english-delaware-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Junior Sreeniketh Vogoti presents ongoing linguistics project at Munsee Language Symposium (digital Munsee dictionary)",
+   "type": "software",
+   "language": "English",
+   "url": "https://linguistics.princeton.edu/2023/12/08/junior-sreeniketh-vogoti-presents-ongoing-linguistics-project-at-munsee-language-symposium/",
+   "found_in_search": true
+  }
+ ]
+}

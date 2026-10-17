@@ -1,0 +1,38 @@
+{
+ "iso": "tkq",
+ "name": "Tèẹ̀ ̣",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:39:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tee language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tee_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Khana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Khana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ogoni languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ogoni_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP language entry: Tee",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TEE",
+   "found_in_search": true
+  }
+ ]
+}

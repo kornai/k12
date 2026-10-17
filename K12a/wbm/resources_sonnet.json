@@ -1,0 +1,52 @@
+{
+ "iso": "wbm",
+ "name": "Vo Wa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:24:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Wa language (mentions bilingual Chinese-Wa primary text Lai Loux, 2003)",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://en.wikipedia.org/wiki/Wa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Watkins (2013) Dictionary of Wa, Brill (SOAS eprint)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://eprints.soas.ac.uk/17317",
+   "found_in_search": true
+  },
+  {
+   "title": "SOAS Wa Dictionary Project",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://humancomp.org/wadict/index.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wa resources (SOAS Wa Dictionary Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://humancomp.org/wadict/wa_resources.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wa corpus (SOAS Wa Dictionary Project)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://humancomp.org/wadict/wa_corpus.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Wa writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/wa.htm",
+   "found_in_search": true
+  }
+ ]
+}

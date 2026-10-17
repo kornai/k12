@@ -1,0 +1,59 @@
+{
+ "iso": "tgp",
+ "name": "Tangoa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:02:24Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tangoa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tangoa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Espiritu Santo languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Espiritu_Santo_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "South Sea Languages vol. II (Tangoan, Santo, etc.) catalogue entry",
+   "type": "academic",
+   "language": "English",
+   "url": "https://quaibranly.fr/en/explore-collections/base/Bibliography/action/show/notice/000089237-south-sea-languages-a-series-of-studies-on-the-languages-of-the-new-hebrides-and-other-south-sea-islands-volume-ii-tangoan-santo-malo-malekula-epi-baki-and-bierian-tanna-and-futuna",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Tgp",
+   "type": "other",
+   "language": "other",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tgp",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Santo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nthieberger.net/vanlangs/SANTO.HTM",
+   "found_in_search": true
+  },
+  {
+   "title": "Tangoa in Vanuatu (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15251",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Series VES - Vanuatu Espiritu Santo",
+   "type": "audio",
+   "language": "other",
+   "url": "https://paradisec.org.au/fieldnotes/VES.htm",
+   "found_in_search": true
+  }
+ ]
+}

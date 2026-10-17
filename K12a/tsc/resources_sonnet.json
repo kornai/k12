@@ -1,0 +1,52 @@
+{
+ "iso": "tsc",
+ "name": "Tswa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:55:02Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tswa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tswa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tswa–Ronga languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tswa%E2%80%93Ronga_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tswa",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tswa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tswa",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/tsc",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings: Tswa Ndxhonge",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/17659",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings: Tswa Mandla",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/17658",
+   "found_in_search": true
+  }
+ ]
+}

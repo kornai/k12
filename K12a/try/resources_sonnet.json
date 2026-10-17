@@ -1,0 +1,66 @@
+{
+ "iso": "try",
+ "name": "Turung",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:53:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Turung language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Turung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A comprehensive documentation of the Turung and Singpho languages of Assam",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/a-comprehensive-documentation-of-the-turung-and-singpho-languages-of-assam",
+   "found_in_search": true
+  },
+  {
+   "title": "Singpho Language of North East India (including Turung) - ELAR",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk0006/",
+   "found_in_search": true
+  },
+  {
+   "title": "Stephen Morey drafts (Academia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://latrobe.academia.edu/StephenMorey/Drafts",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Turung people profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.people-groups.asiaharvest.org/India/Turung.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Migration history of the Turungs",
+   "type": "other",
+   "language": "English",
+   "url": "https://nezine.com/info/SGdDdXZPaGRITTRxazd5RlFlVEFVUT09/migration-history-of-the-turungs,-the-last-tai-group-to-enter-assam.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Cultivating a mother tongue in Assam (Rural India)",
+   "type": "other",
+   "language": "English",
+   "url": "https://ruralindiaonline.org/article/cultivating-a-mother-tongue-in-assam",
+   "found_in_search": true
+  },
+  {
+   "title": "AASU project - Endangered Languages Project",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/37647",
+   "found_in_search": true
+  }
+ ]
+}

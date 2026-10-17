@@ -1,0 +1,45 @@
+{
+ "iso": "tzj",
+ "name": "Tz’utujil",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:59:03Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vocabulario Tz'utujil (ALMG, 2025)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://almg.org.gt/wp-content/uploads/2025/09/VOCABULARIO-TZUTUJIL-VERSION-FINAL-2025.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tz'utujil (bibliography of grammars and dictionary)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/languoid/iso/tzj",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP word list, Santiago Atitlán Tzutujil",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/TZUTUJIL_SANTIAGO_ATITLAN",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Tz'utujil",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/97301",
+   "found_in_search": true
+  },
+  {
+   "title": "Tz'utujil language overview (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tzj",
+   "found_in_search": true
+  }
+ ]
+}

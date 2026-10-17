@@ -1,0 +1,52 @@
+{
+ "iso": "vin",
+ "name": "Vinza",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:59:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ethnologue: vin",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ethnologue.com/language/vin",
+   "found_in_search": true
+  },
+  {
+   "title": "Vinza language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vinza_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Vinza",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/VINZA",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Vinza",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5073",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: vin",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/vin",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: vin",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/vin",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "waq",
+ "name": "Wagiman",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:19:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The Wagiman online dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://aiatsis.gov.au/sites/default/files/e_access/digital/a339234/home.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wagiman online dictionary: About the dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/sites/default/files/e_access/digital/a339234/aboutdict.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wagiman online dictionary: The language and its speakers",
+   "type": "other",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/sites/default/files/e_access/digital/a339234/langspeakers.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wagiman online dictionary: Wagiman texts",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://aiatsis.gov.au/sites/default/files/e_access/digital/a339234/texts/texts.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Wagiman online dictionary: links and references",
+   "type": "other",
+   "language": "English",
+   "url": "https://aiatsis.gov.au/sites/default/files/e_access/digital/a339234/linksrefs.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Austlang N27: Wagiman",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/N27",
+   "found_in_search": true
+  },
+  {
+   "title": "Wagiman language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wagiman_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC blog: Wagiman dictionary delivered to community",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.paradisec.org.au/blog/?p=3840",
+   "found_in_search": true
+  }
+ ]
+}

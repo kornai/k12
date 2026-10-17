@@ -1,0 +1,38 @@
+{
+ "iso": "ugo",
+ "name": "Ugong",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:47:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gong language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gong_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ugong (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/ugo",
+   "found_in_search": true
+  },
+  {
+   "title": "Ugong (Verbix Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Ugong",
+   "found_in_search": true
+  },
+  {
+   "title": "Gong people group profile (Asia Harvest)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Thailand/Gong.pdf",
+   "found_in_search": true
+  }
+ ]
+}

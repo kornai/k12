@@ -1,0 +1,38 @@
+{
+ "iso": "txt",
+ "name": "Citak",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:48:22Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Citak language (Wikipedia)",
+   "type": "other",
+   "url": "https://en.wikipedia.org/wiki/Citak_language",
+   "language": "English",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Citak",
+   "type": "academic",
+   "url": "https://glottolog.org/resource/languoid/id/cita1245.bigmap.html",
+   "language": "English",
+   "found_in_search": true
+  },
+  {
+   "title": "Trans New Guinea database: Citak wordlist",
+   "type": "corpus",
+   "url": "https://transnewguinea.org/language/citak",
+   "language": "other",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Citak, Tamnim in Indonesia",
+   "type": "community_org",
+   "url": "https://joshuaproject.net/people_groups/11391",
+   "language": "English",
+   "found_in_search": true
+  }
+ ]
+}

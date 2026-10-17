@@ -1,0 +1,31 @@
+{
+ "iso": "thf",
+ "name": "Thangmi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:09:35Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of the Thangmi Language with an Ethnolinguistic Introduction to the Speakers and Their Culture (Leiden record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://universiteitleiden.nl/en/research/research-output/humanities/a-grammar-of-the-thangmi-language-with-an-ethnolinguistic-introduction-to-the-speakers-and-their-culture",
+   "found_in_search": true
+  },
+  {
+   "title": "Turin, Thangmi grammar dissertation, full text (Leiden repository)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3076307/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Turin, Mind Your Langs (mother-tongue instruction and endangered languages)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://markturin.sites.olt.ubc.ca/files/2018/07/Turin_Mind_Your_Langs.pdf",
+   "found_in_search": true
+  }
+ ]
+}

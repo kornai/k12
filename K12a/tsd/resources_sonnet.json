@@ -1,0 +1,52 @@
+{
+ "iso": "tsd",
+ "name": "Tsakonian",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:57:03Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "How a headmaster is trying to save an ancient language (Christian Science Monitor)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://proof.csmonitor.com/World/Making-a-difference/2016/0818/How-a-headmaster-is-trying-to-save-an-ancient-language",
+   "found_in_search": true
+  },
+  {
+   "title": "How a headmaster is trying to save an ancient language (myhero mirror)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://myhero.com/how-a-headmaster-is-trying-to-save-an-ancient-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scutt 1912/1913, 1913/1914, The Tsakonian Dialect (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/318490",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsakonian Greek (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsakonian_Greek",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tsakonian",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/106314/printable/print",
+   "found_in_search": true
+  },
+  {
+   "title": "SPbU publication on online Tsakonian-Greek dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://pureportal.spbu.ru/en/publications/---------%28a5e09c36-8aa8-4559-9b7f-79eeb475073c%29.html",
+   "found_in_search": true
+  }
+ ]
+}

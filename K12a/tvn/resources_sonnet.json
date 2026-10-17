@@ -1,0 +1,38 @@
+{
+ "iso": "tvn",
+ "name": "Tavoyan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:31:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tavoyan dialects (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tavoyan_dialects",
+   "found_in_search": true
+  },
+  {
+   "title": "Sumida (Kyoto University), paper found in search",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.asafas.kyoto-u.ac.jp/dl/publications/no_2002/02_sumida.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Dawei in Myanmar (Burma), Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/19250/BM",
+   "found_in_search": true
+  },
+  {
+   "title": "MYANMAR Dawei (Asia Harvest)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Dawei.pdf",
+   "found_in_search": true
+  }
+ ]
+}

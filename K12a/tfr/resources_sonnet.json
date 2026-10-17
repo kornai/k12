@@ -1,0 +1,52 @@
+{
+ "iso": "tfr",
+ "name": "Teribe",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:55:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Teribe (Quesada 2000), LINGUIST List review",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/14/1824/",
+   "found_in_search": true
+  },
+  {
+   "title": "Teribe language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Teribe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Naso language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Naso_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bermudez Naso Report",
+   "type": "academic",
+   "language": "English",
+   "url": "https://gbs.uni-koeln.de/sites/gbs/user_upload/Berichte_D/Bermudez_Naso_Report.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Naso Terraba (Universidad de Costa Rica)",
+   "type": "other",
+   "language": "other",
+   "url": "https://dipalicori.ucr.ac.cr/en/lengua-cultura/naso-terraba/",
+   "found_in_search": true
+  },
+  {
+   "title": "Naso (Endangered Languages Alliance)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://elalliance.org/languages/naso/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "tye",
+ "name": "Kyanga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:50:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kyenga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kyenga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Kyanga and Shanga project: geography",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/projects/kyanga_shanga/geography/",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Kyanga project page",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=3054",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Kyanga project page (2)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=3052",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Kyanga poster",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/africa-kyanga-print.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: tye",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tye",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kyanga language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/tye",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: tye",
+   "type": "audio",
+   "language": "other",
+   "url": "https://wikitongues.org/languages/tye/",
+   "found_in_search": true
+  }
+ ]
+}

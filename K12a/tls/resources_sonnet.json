@@ -1,0 +1,45 @@
+{
+ "iso": "tls",
+ "name": "Tambotalo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:52:50Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tambotalo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tambotalo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tambotalo wordlist (Austronesian Basic Vocabulary Database)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=1084",
+   "found_in_search": true
+  },
+  {
+   "title": "Tambotalo (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tamb1253.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tambotalo (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2509",
+   "found_in_search": true
+  },
+  {
+   "title": "Tambotalo in Vanuatu (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15231",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "ure",
+ "name": "Uru",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:14:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bolivia's 'People of the Water' try to survive loss of lake (news report)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.therepublic.com/?p=450325",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Uru-Chipaya project: people",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/projects/uru-chipaya/people/",
+   "found_in_search": true
+  },
+  {
+   "title": "Indiana journal article on Chipaya language vitality",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journals.iai.spk-berlin.de/index.php/indiana/article/view/2486/2090",
+   "found_in_search": true
+  },
+  {
+   "title": "CLACSO repository record on Uru/Chipaya",
+   "type": "academic",
+   "language": "other",
+   "url": "https://biblioteca-repositorio.clacso.edu.ar/xmlui/handle/CLACSO/151307",
+   "found_in_search": true
+  },
+  {
+   "title": "Public Anthropologist blog on the Uru",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://publicanthropologist.cmi.no/?p=1155",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "ver",
+ "name": "Verre",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:56:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Verre glossary (Vestiges journal)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://vestiges-journal.info/2021/Verre/HTML/15_app-3_verre-glossary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ulrich Kleinewillinghöfer 2015 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/550010",
+   "found_in_search": true
+  },
+  {
+   "title": "Vere language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vere_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Verre language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/ver",
+   "found_in_search": true
+  }
+ ]
+}

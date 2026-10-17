@@ -1,0 +1,38 @@
+{
+ "iso": "tbt",
+ "name": "Tembo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:27:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tembo (Kitembo) language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tembo_(Kitembo)_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tembo (Kitembo / Chitembo)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tembo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tembo (temb1270)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/temb1270.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kitembo",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tbt",
+   "found_in_search": true
+  }
+ ]
+}

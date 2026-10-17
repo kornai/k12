@@ -1,0 +1,45 @@
+{
+ "iso": "tku",
+ "name": "Upper Necaxa Totonac",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:41:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Upper Necaxa Totonac Dictionary (David Beck, De Gruyter Mouton 2011)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110238235/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Upper Necaxa Totonac Dictionary, catalogue record (OEAW)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://oeaw.ac.at/resources/Record/9783110238235",
+   "found_in_search": true
+  },
+  {
+   "title": "Totonac documentation project page (University of Alberta)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.artsrn.ualberta.ca/totonaco2/?p=112",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of the Upper Necaxa Totonac Dictionary, Estudios de Linguistica Aplicada",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ela.enallt.unam.mx/index.php/ela/article/download/443/430",
+   "found_in_search": true
+  },
+  {
+   "title": "David Beck handouts (University of Alberta)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sites.ualberta.ca/~dbeck/handouts.pdf",
+   "found_in_search": true
+  }
+ ]
+}

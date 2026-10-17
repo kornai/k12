@@ -1,0 +1,59 @@
+{
+ "iso": "tnd",
+ "name": "Tunebo, Angosturas",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:09:29Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunebo (Chibchan documentation PDF, University of Missouri)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dice.missouri.edu/assets/docs/chibchan/Tunebo.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Tunebo, Angosturas (ango1257)",
+   "type": "other",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/ango1257",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Tunebo (tnb)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_tnb",
+   "found_in_search": true
+  },
+  {
+   "title": "Encyclopedia.com: Tunebo",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tunebo",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Western Tunebo in Colombia (different variety)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15387",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tunebo/U'wa",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3527",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "wdj",
+ "name": "Wadjiginy",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:28:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AIATSIS Austlang N31: Batjamalh (Wadjiginy)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/N31",
+   "found_in_search": true
+  },
+  {
+   "title": "Wadjiginy language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wadjiginy_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wagaydyic languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wagaydyic_languages",
+   "found_in_search": true
+  }
+ ]
+}

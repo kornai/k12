@@ -1,0 +1,45 @@
+{
+ "iso": "vot",
+ "name": "Vod",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:11:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Electronic Morphological Dictionary of Votic",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ingrian.org/votic-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "IDIL 2022 teaching kit for Vod and Izhora",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://idil2022-2032.org/?p=51350",
+   "found_in_search": true
+  },
+  {
+   "title": "Votian orthography (Wikiversity)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikiversity.org/wiki/Votian_orthography",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: Votic entry guidelines",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/Wiktionary:AVOT",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Votic resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38612/resources",
+   "found_in_search": true
+  }
+ ]
+}

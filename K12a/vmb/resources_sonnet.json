@@ -1,0 +1,31 @@
+{
+ "iso": "vmb",
+ "name": "Barbaram",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:06:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mbabaram language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mbabaram_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mbabaram people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mbabaram_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia entry for vmb",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Vmb",
+   "found_in_search": true
+  }
+ ]
+}

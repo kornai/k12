@@ -1,0 +1,52 @@
+{
+ "iso": "tpc",
+ "name": "Azoyú Me’phaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:30:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Me'phaa language development congress document (UNAM)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.nacionmulticultural.unam.mx/edespig/catalogos/noticias/documentos/doc_320.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Azoyu Tlapanec (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/azoy1236",
+   "found_in_search": true
+  },
+  {
+   "title": "Tlapanec language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tlapanec_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tlapanec (Endangered Languages Alliance)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.elalliance.org/languages/tlapanec",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Tpc",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tpc",
+   "found_in_search": true
+  },
+  {
+   "title": "Azoyu Tlapaneco in Mexico (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10529",
+   "found_in_search": true
+  }
+ ]
+}

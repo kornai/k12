@@ -1,0 +1,73 @@
+{
+ "iso": "vif",
+ "name": "Vili",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:58:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vocabulaire et premiers exercices Vili-Francais pour les Catechistes",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.libreriagovi.com/19th-20th-century/vocabulaire-et-premiers-exercices-vili-francais-specialement-destines-aux-catechistes",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire vili francais (L'Harmattan 2008), catalogue entry",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://side-ecom-prod-export.cdi.ch/en/9782296049390-dictionnaire-vili-fran%C3%A7ais",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire vili francais (Internet Archive PDF)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://ia903209.us.archive.org/19/items/DictionnaireViliFrancais/Dictionnaire_vili_fran%C3%A7ais.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexikos article on Vili dictionary tradition",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lexikos.journals.ac.za/pub/article/view/454/143",
+   "found_in_search": true
+  },
+  {
+   "title": "Vili (Civili) on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/vili.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Vili language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vili_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Vili",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=vif",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Vili",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/vif",
+   "found_in_search": true
+  },
+  {
+   "title": "BnF Takam Tikou note on Vili",
+   "type": "other",
+   "language": "other",
+   "url": "https://takamtikou.bnf.fr/print/pdf/node/2997",
+   "found_in_search": true
+  }
+ ]
+}

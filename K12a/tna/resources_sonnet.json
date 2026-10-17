@@ -1,0 +1,31 @@
+{
+ "iso": "tna",
+ "name": "Tacana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:07:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tacana Living Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/tacana",
+   "found_in_search": true
+  },
+  {
+   "title": "About the Tacana Living Dictionary",
+   "type": "other",
+   "language": "English",
+   "url": "https://livingdictionaries.app/tacana/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Tacana phonological inventory (SAPHON, UC Berkeley)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.berkeley.edu/saphon/en/inv/Tacana.html",
+   "found_in_search": true
+  }
+ ]
+}

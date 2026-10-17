@@ -1,0 +1,45 @@
+{
+ "iso": "uve",
+ "name": "Fagauvea",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:27:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "West Uvean language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/West_Uvean_language",
+   "found_in_search": true
+  },
+  {
+   "title": "West Uvean lexicon and bibliography (CRDO, Huma-Num)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=uve",
+   "found_in_search": true
+  },
+  {
+   "title": "West Uvean (Fagauvea) writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/westuvean.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: West Uvean",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/west2516",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Fagauvea",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/11042",
+   "found_in_search": true
+  }
+ ]
+}

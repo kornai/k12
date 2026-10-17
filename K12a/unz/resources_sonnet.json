@@ -1,0 +1,45 @@
+{
+ "iso": "unz",
+ "name": "Kaili, Unde",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:10:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ASJP wordlist: Kaili Unde",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/KAILI_UNDE",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaili language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaili_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ledo Kaili language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ledo_Kaili_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaili-Pamona languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaili%E2%80%93Pamona_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Study of Kaili language use in Tawaeli, Palu (Stilistika, 2025)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journal.um-surabaya.ac.id/Stilistika/article/download/24381/8962/66505",
+   "found_in_search": true
+  }
+ ]
+}

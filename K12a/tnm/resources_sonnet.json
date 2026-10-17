@@ -1,0 +1,45 @@
+{
+ "iso": "tnm",
+ "name": "Tabla",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:13:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tabla language (overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tabla_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tabla people",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tabla_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tanahmerah (distinct language, for disambiguation)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Tanahmerah",
+   "found_in_search": true
+  },
+  {
+   "title": "SABDA language entry tnm",
+   "type": "other",
+   "language": "other",
+   "url": "https://bakat.sabda.org/604-tnm-001.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tepera, Tanahmerah (classification disputed)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15347",
+   "found_in_search": true
+  }
+ ]
+}

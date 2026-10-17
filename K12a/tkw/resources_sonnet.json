@@ -1,0 +1,59 @@
+{
+ "iso": "tkw",
+ "name": "Teanu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:43:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Teanu-English dictionary (Dictionaria)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://dictionaria.clld.org/contributions/teanu",
+   "found_in_search": true
+  },
+  {
+   "title": "Francois 2021 Dictionaria Teanu dictionary Introduction",
+   "type": "academic",
+   "language": "English",
+   "url": "https://marama.huma-num.fr/data/AlexFrancois_2021_Dictionaria_Teanu-dictionary_Introduction.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "The languages of Vanikoro: Three lexicons and one grammar (preprint)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://halshs.archives-ouvertes.fr/halshs-00525557v1/file/AlexFrancois_2009_Vanikoro-languages_Festschrift-MDR_preprint.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Francois 2009 Vanikoro languages (PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://marama.huma-num.fr/data/AlexFrancois_2009_Vanikoro-languages.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Vanikoro notes (A. Francois)",
+   "type": "other",
+   "language": "English",
+   "url": "https://marama.huma-num.fr/AF-Vanikoro-notes_e.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Teanu",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Teanu",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of the Solomon Islands",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Languages_of_the_Solomon_Islands",
+   "found_in_search": true
+  }
+ ]
+}

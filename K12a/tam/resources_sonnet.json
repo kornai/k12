@@ -1,0 +1,80 @@
+{
+ "iso": "tam",
+ "name": "Tamil",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:15:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tamil Nadu School Education Department e-books (SCERT) - cited by guides, page not itself seen in results",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://tnschools.gov.in/scert",
+   "found_in_search": false
+  },
+  {
+   "title": "Samacheer Kalvi (background page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://patrimoine.minesparis.psl.eu/Wiki/index.php/Samacheer_Kalvi_Wikipedia",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamil Lexicon (University of Madras) - DSAL online",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://dsal.uchicago.edu/dictionaries/tamil-lex",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamil Lexicon dictionary (Wikipedia)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tamil_Lexicon_dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamil Lexicon Vol 1 part 1 (Tamil Digital Library PDF)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://tamildigitallibrary.in/assets/docs/uploads/primary_files/book/TVA_BOK_0025899/TVA_BOK_0025899_Tamil_lexicon_Vol_1_part_1.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexicographic Practice in Tamil (Tamil Digital Library)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0006332_Lexicographic_Practice_in_Tamil.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos Tamil dictionary links",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://lexilogos.com/english/tamil_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Learn Tamil links (ibiblio)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.ibiblio.org/learntamil/links.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamil Virtual Academy (Wikipedia)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tamil_Virtual_Academy",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamil Wiktionary entry (sample)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://en.wiktionary.org/wiki/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF",
+   "found_in_search": true
+  }
+ ]
+}

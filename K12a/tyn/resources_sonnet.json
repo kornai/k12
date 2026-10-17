@@ -1,0 +1,38 @@
+{
+ "iso": "tyn",
+ "name": "Kombai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:51:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Forms and Functions in Kombai, an Awyu Language of Irian Jaya (de Vries 1993)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/96492",
+   "found_in_search": true
+  },
+  {
+   "title": "Kombai language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kombai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project - Kombai in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/12759",
+   "found_in_search": true
+  },
+  {
+   "title": "Kombai - Numerals in Papuan and other languages (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kombai.htm",
+   "found_in_search": true
+  }
+ ]
+}

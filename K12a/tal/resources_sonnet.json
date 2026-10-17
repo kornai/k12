@@ -1,0 +1,31 @@
+{
+ "iso": "tal",
+ "name": "Tal",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:15:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tal language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Michael Bulkaam (academia.edu author page; includes verbal plurality in Tal)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://independent.academia.edu/MichaelBulkaam",
+   "found_in_search": true
+  },
+  {
+   "title": "West Chadic A3 Language Map (academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/58550354/West_Chadic_A3_Language_Map",
+   "found_in_search": true
+  }
+ ]
+}

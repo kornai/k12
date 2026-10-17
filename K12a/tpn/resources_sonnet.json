@@ -1,0 +1,38 @@
+{
+ "iso": "tpn",
+ "name": "Tupinambá",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:34:10Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Article on missionary grammars of Brazilian languages (Periodicos UnB)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.unb.br/index.php/ling/article/download/16221/14509/32031",
+   "found_in_search": true
+  },
+  {
+   "title": "Confluencia article on Tupinamba grammatical tradition",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistaconfluencia.org.br/rc/article/download/1343/1126",
+   "found_in_search": true
+  },
+  {
+   "title": "Representacao gramatical das classes nominais em gramaticas missionarias brasileiras (seculos XVI e XVII)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://seer.ufu.br/index.php/letraseletras/article/view/78165",
+   "found_in_search": true
+  },
+  {
+   "title": "Soletras article on Anchieta and Tupinamba (UERJ)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.e-publicacoes.uerj.br/soletras/article/view/87651",
+   "found_in_search": true
+  }
+ ]
+}

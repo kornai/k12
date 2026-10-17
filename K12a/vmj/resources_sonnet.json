@@ -1,0 +1,38 @@
+{
+ "iso": "vmj",
+ "name": "Ixtayutla Mixtec",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:07:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ixtayutla Mixtec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ixtayutla_Mixtec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Ixtayutla Mixtec-English",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/vmj/en",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Ixtayutla Mixtec",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=vmj",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mixteco, Ixtayutla",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/vmj",
+   "found_in_search": true
+  }
+ ]
+}

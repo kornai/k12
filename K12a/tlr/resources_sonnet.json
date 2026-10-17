@@ -1,0 +1,59 @@
+{
+ "iso": "tlr",
+ "name": "Talise",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:52:50Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Talise language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Talise_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Talise writing and alphabet (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/talise.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Talise (Rosetta Project)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tlr",
+   "found_in_search": true
+  },
+  {
+   "title": "Crowley 1986, Tolo Dictionary (Glottolog reference)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/27644",
+   "found_in_search": true
+  },
+  {
+   "title": "Capell 1930, The language of Inakona, Guadalcanar (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/115284",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist, Moli Talise",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/MOLI_TALISE",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist, Koo Talise",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/KOO_TALISE",
+   "found_in_search": true
+  }
+ ]
+}

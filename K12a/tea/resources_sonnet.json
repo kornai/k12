@@ -1,0 +1,66 @@
+{
+ "iso": "tea",
+ "name": "Temiar",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:45:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "First dictionary of the Temiar language",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://temiar.com/dic.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Temiar.com",
+   "type": "other",
+   "language": "English",
+   "url": "https://temiar.com/temiar.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Temiar.com Orang Asli resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://temiar.com/oaresources.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Encyclopedia.com: Temiar",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/temiar",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Education for Orang Asli Children in Malaysia (eprints)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://eprints.um.edu.my/35783",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Education for Orang Asli Children in Malaysia (knova)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://knova.um.edu.my/research_publications_2021_2025/10427/",
+   "found_in_search": true
+  },
+  {
+   "title": "Bernama news item on Orang Asli",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.bernama.com/en/news.php?id=2253293",
+   "found_in_search": true
+  },
+  {
+   "title": "Borderless Journal: Temiar",
+   "type": "other",
+   "language": "English",
+   "url": "https://borderlessjournal.com/tag/temiar",
+   "found_in_search": true
+  }
+ ]
+}

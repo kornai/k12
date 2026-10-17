@@ -1,0 +1,31 @@
+{
+ "iso": "wam",
+ "name": "Wampanoag",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:18:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cultural Survival: Wôpanâak Language Reclamation Project",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.culturalsurvival.org/node/12450",
+   "found_in_search": true
+  },
+  {
+   "title": "Cultural Survival (related coverage)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.culturalsurvival.org/node/11598",
+   "found_in_search": true
+  },
+  {
+   "title": "PRI: Wampanoag language waking after nearly a century of sleep",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.pri.org/stories/2016/12/23/wampanoag-language-waking-after-nearly-century-sleep",
+   "found_in_search": true
+  }
+ ]
+}

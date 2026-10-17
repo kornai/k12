@@ -1,0 +1,52 @@
+{
+ "iso": "tdn",
+ "name": "Tondano",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:42:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tondano (Toundano): A Grammar Sketch of an Endangered Minahasan Language (Routledge)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://routledge.com/Tondano-Toundano-A-Grammar-Sketch-of-an-Endangered-Minahasan-Language/Brickell/p/book/9781032253022",
+   "found_in_search": true
+  },
+  {
+   "title": "Tondano (Toundano) grammar sketch (Taylor & Francis)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://taylorfrancis.com/books/9781138549975",
+   "found_in_search": true
+  },
+  {
+   "title": "WorldCat record: Tondano (Toundano)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://search.worldcat.org/zh-cn/title/1352972219",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Bamberg research record (Toulour dialect)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://fis.uni-bamberg.de/handle/uniba/97614",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Bamberg research data entry",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://fis.uni-bamberg.de/entities/researchdata/29644fd2-f225-4a54-af08-525fe011313d",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tondano",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tondano.htm",
+   "found_in_search": true
+  }
+ ]
+}

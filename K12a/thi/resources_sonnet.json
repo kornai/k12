@@ -1,0 +1,24 @@
+{
+ "iso": "thi",
+ "name": "Tai Long",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:09:35Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Joshua Project: Tai Long in Laos (people-group profile)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18690",
+   "found_in_search": true
+  },
+  {
+   "title": "Chulalongkorn SEAL: Tai languages (publication page listing Tai Long (Shan))",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.arts.chula.ac.th/chulaseal/publication/tai-languages/",
+   "found_in_search": true
+  }
+ ]
+}

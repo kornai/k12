@@ -1,0 +1,38 @@
+{
+ "iso": "tbe",
+ "name": "Tanibili",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:22:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tanimbili language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tanimbili_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanimbili (Austronesian Basic Vocabulary Database)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=354",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanibili (TLOPO)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://tlopo.clld.org/languages/tanibili",
+   "found_in_search": true
+  },
+  {
+   "title": "Recordings from Solomon Islands, French Polynesia, Papua New Guinea and Australia (ANU; relevance to Tanibili unconfirmed)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://openresearch-repository.anu.edu.au/items/4c417461-70d9-4f27-af77-78494a45ee80",
+   "found_in_search": true
+  }
+ ]
+}

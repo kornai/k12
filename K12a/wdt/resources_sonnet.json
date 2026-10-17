@@ -1,0 +1,59 @@
+{
+ "iso": "wdt",
+ "name": "Wendat",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:29:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wendat kwatatiahtah! (Let's speak Wendat!): The resurgence of a language (Our Languages, Government of Canada)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://our-languages.canada.ca/en/blogue-blog/wendat-kwatatiahtah-eng",
+   "found_in_search": true
+  },
+  {
+   "title": "Wendat kwatatiahtah! (Let's speak Wendat!) (nos-langues.canada.ca mirror)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://nos-langues.canada.ca/en/blogue-blog/wendat-kwatatiahtah-eng",
+   "found_in_search": true
+  },
+  {
+   "title": "Wendat dictionary project, About (University of Victoria HCMC)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://hcmc.uvic.ca/wendat/en/about.html",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Wendat (ACLS/Mellon-funded dissertation project)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.acls.org/?p=9553",
+   "found_in_search": true
+  },
+  {
+   "title": "About Wendat (languewendat.com)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://languewendat.com/en/?p=691",
+   "found_in_search": true
+  },
+  {
+   "title": "Wendat Language Revitalization (languewendat.com)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://dgfv6-shne4-32lls.languewendat.com/en/?p=847",
+   "found_in_search": true
+  },
+  {
+   "title": "Language revitalization talk, Megan Lukaniec (McGill)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://mcling.blogs.mcgill.ca/language-revitalization-talk-megan-lukaniec/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "txc",
+ "name": "Tsetsaut",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:43:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsetsaut language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsetsaut_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record for Boas and Goddard 1924",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/37437",
+   "found_in_search": true
+  },
+  {
+   "title": "Bibliography of Materials on the Tsetsaut language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ydli.org/biblios/tsetbib.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Tsetsaut",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Txc",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsetsaut (The Canadian Encyclopedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://thecanadianencyclopedia.ca/en/article/tsetsaut",
+   "found_in_search": true
+  }
+ ]
+}

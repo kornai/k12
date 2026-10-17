@@ -1,0 +1,31 @@
+{
+ "iso": "tlc",
+ "name": "Totonac, Yecuatla",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:45:23Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Yecuatla Totonac",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yecu1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: resources for Misantla/Yecuatla Totonac",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38959/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Totonac, Yecuatla (no recordings listed)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tlc",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tzn",
+ "name": "Tugun",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T11:01:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tugun Webonary: Introduction",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/tugun/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tugun Webonary entry page",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/tugun/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Wetarese language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wetarese_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Basic Vocabulary Database: Tugun",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=1639",
+   "found_in_search": true
+  },
+  {
+   "title": "MPI numeral database: Tugun",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tugun.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tugun",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Tugun",
+   "found_in_search": true
+  }
+ ]
+}

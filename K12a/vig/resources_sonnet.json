@@ -1,0 +1,45 @@
+{
+ "iso": "vig",
+ "name": "Viemo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:59:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Viemo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Viemo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Other Languages (dogonlanguages.info)",
+   "type": "other",
+   "language": "English",
+   "url": "https://dogonlanguages.info/other",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Viemo in Burkina Faso",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15790",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: vig",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=vig",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: vig",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/vig",
+   "found_in_search": true
+  }
+ ]
+}

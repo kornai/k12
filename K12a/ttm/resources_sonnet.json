@@ -1,0 +1,59 @@
+{
+ "iso": "ttm",
+ "name": "Tutchone, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:10:56Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Northern Tutchone Language Lessons: Carmacks Dialect",
+   "type": "primer",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Northern_Tutchone_Language_Lessons:_Carmacks_Dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "The Selkirk Indian Language Noun Dictionary (Northern Tutchone)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/The_Selkirk_Indian_Language_Noun_Dictionary_(Northern_Tutchone_Athapascan)",
+   "found_in_search": true
+  },
+  {
+   "title": "Mayo Indian Language: Noun Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Mayo_Indian_Language:_Noun_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "NNDFN Dictionary (YNLC)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://ynlc.ca/wp-content/uploads/NNDFN-Dictionary.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tutchone",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tutchone.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "FreeLang Northern Tutchone dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.freelang.net/dictionary/tutchone_northern.php",
+   "found_in_search": true
+  },
+  {
+   "title": "CBC: 10,000 pages of Yukon Indigenous language material published online",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.cbc.ca/1.4761056",
+   "found_in_search": true
+  }
+ ]
+}

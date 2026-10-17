@@ -1,0 +1,45 @@
+{
+ "iso": "weh",
+ "name": "Weh",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:30:50Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Weh orthography guide",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.silcam.org/resources/archives/47887",
+   "found_in_search": true
+  },
+  {
+   "title": "Weh phonology sketch",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.silcam.org/resources/archives/47888",
+   "found_in_search": true
+  },
+  {
+   "title": "Davison 2004 Weh orthography guide (Glottolog)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/84218",
+   "found_in_search": true
+  },
+  {
+   "title": "Weh (Kɨ́wí), Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/weh.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Weh language (Joshua Project)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/weh",
+   "found_in_search": true
+  }
+ ]
+}

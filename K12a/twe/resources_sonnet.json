@@ -1,0 +1,52 @@
+{
+ "iso": "twe",
+ "name": "Teiwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:36:14Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Teiwa (Klamer 2010), De Gruyter",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110226072/html",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Teiwa, library record (OEAW)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.oeaw.ac.at/resources/Record/9783110226072",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Teiwa (Perlego)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.perlego.com/book/403862/a-grammar-of-teiwa-pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 22.3994, review of A Grammar of Teiwa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/22/3994/",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University repository item (Teiwa)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3719511/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Teiwa",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2087?hl=pt-br",
+   "found_in_search": true
+  }
+ ]
+}

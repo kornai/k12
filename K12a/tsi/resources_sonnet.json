@@ -1,0 +1,59 @@
+{
+ "iso": "tsi",
+ "name": "Tsimshian",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:58:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sm'algyax Student Dictionary (UBC RelLex)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Sm%27algyax_Student_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Sm'algyax: A Reference Dictionary and Grammar for the Coast Tsimshian Language (UBC knowledge base)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=2593",
+   "found_in_search": true
+  },
+  {
+   "title": "Sm'algyax: A Reference Dictionary and Grammar of the Coast Tsimshian Language (UBC RelLex)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Sm%27algyax:_A_Reference_Dictionary_and_Grammar_of_the_Coast_Tsimshian_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "Native language dictionary added to Sealaska's free offerings (Dictionary of Shm'algyack)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://ictnews.org/archive/native-language-dictionary-added-sealaskas-free-offerings/",
+   "found_in_search": true
+  },
+  {
+   "title": "Sm'algyax Living Legacy Talking Dictionary",
+   "type": "software",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=2589",
+   "found_in_search": true
+  },
+  {
+   "title": "Sm'algyax Living Legacy Talking Dictionary (UBC RelLex)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Sm%E2%80%99algya%CC%B1x_Living_Legacy_Talking_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Sm'algyax FirstVoices (UBC RelLex)",
+   "type": "software",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Sm%27algya%CC%B1x_FirstVoices",
+   "found_in_search": true
+  }
+ ]
+}

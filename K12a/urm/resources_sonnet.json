@@ -1,0 +1,45 @@
+{
+ "iso": "urm",
+ "name": "Urapmin",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:17:22Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Urapmin people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urapmin_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Tifal language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tifal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Urapmin entry, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10694",
+   "found_in_search": true
+  },
+  {
+   "title": "Telefol dictionary (neighbouring language, ANU)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://openresearch-repository.anu.edu.au/items/e2c324d2-d8c7-455c-98de-1cc204051024",
+   "found_in_search": true
+  },
+  {
+   "title": "Urapmin in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15724",
+   "found_in_search": true
+  }
+ ]
+}

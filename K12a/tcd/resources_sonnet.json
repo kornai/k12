@@ -1,0 +1,31 @@
+{
+ "iso": "tcd",
+ "name": "Tafi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:31:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Tafi (Universiteit Leiden)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.universiteitleiden.nl/en/research/research-output/humanities/a-grammar-of-tafi",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Tafi (Leiden scholarly publications)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2922605/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Nyangbo-Tafi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nyangbo-Tafi_language",
+   "found_in_search": true
+  }
+ ]
+}

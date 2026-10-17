@@ -1,0 +1,45 @@
+{
+ "iso": "tpq",
+ "name": "Kinnauri, Chhoyul",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:35:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Global Recordings Network: Kinnauri, Chhoyul",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/tpq",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kanaura in India",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12487/IN",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kuno-Charang dialect of Kinnauri",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tukp1239",
+   "found_in_search": true
+  },
+  {
+   "title": "The Linguistic Landscape of the Indian Himalayas",
+   "type": "academic",
+   "language": "English",
+   "url": "https://library.oapen.org/handle/20.500.12657/76653",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project bibliography (Kinnauri-related entry)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/4373/bibliography",
+   "found_in_search": true
+  }
+ ]
+}

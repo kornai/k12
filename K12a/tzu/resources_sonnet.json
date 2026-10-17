@@ -1,0 +1,45 @@
+{
+ "iso": "tzu",
+ "name": "Tzotzil, Huixtán",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T11:02:51Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tzotzil tales, 1970 booklet in Huixtan variety (Colegio de Mexico repository)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/th83m1062?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Spanish-Huixtan bilingual sentence book, 1973 (Colegio de Mexico repository)",
+   "type": "primer",
+   "language": "other",
+   "url": "https://repositorio.colmex.mx/concern/books/dz010r91g?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzotzil Huixtan (ASJP), citing Cowan 1969 Tzotzil grammar",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/TZOTZIL_HUIXTAN",
+   "found_in_search": true
+  },
+  {
+   "title": "Tzotzil: Huixtan language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/1204",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project Tzotzil page (links to Scripture Earth resources)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tzo",
+   "found_in_search": true
+  }
+ ]
+}

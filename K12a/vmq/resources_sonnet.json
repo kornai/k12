@@ -1,0 +1,45 @@
+{
+ "iso": "vmq",
+ "name": "Mixtec, Soyaltepec",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:08:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Soyaltepec Mixtec (Wikipedia, ISO 639 vmq)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:vmq",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: San Bartolo Soyaltepec Mixtec",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SAN_BARTOLO_SOYALTEPEC_MIXTEC",
+   "found_in_search": true
+  },
+  {
+   "title": "List of 500: San Bartolo Soyaltepec (AILLA)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A129083",
+   "found_in_search": true
+  },
+  {
+   "title": "Soyaltepec Mixtec (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/vmq/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mixteco de Soyaltepec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/ja/language/vmq",
+   "found_in_search": true
+  }
+ ]
+}

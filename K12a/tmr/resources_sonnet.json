@@ -1,0 +1,38 @@
+{
+ "iso": "tmr",
+ "name": "Jewish Babylonian Aramaic",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:04:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sokoloff, A Dictionary of Jewish Babylonian Aramaic (bibliography record, Syri.ac)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://syri.ac/bibliography/789413724",
+   "found_in_search": true
+  },
+  {
+   "title": "Sokoloff dictionary, Heidelberg University Library record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://katalog.ub.uni-heidelberg.de/titel/65626176",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Targumim, Talmud Babli and Yerushalmi, and Midrashic Literature (bookseller listing)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.foxtalebookshoppe.com/book/9789562914741",
+   "found_in_search": true
+  },
+  {
+   "title": "FU Berlin Judaistik: online resources list",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.geschkult.fu-berlin.de/en/e/judaistik/Linkliste/Ressources/index.html",
+   "found_in_search": true
+  }
+ ]
+}

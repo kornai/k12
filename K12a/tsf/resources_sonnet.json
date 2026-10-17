@@ -1,0 +1,38 @@
+{
+ "iso": "tsf",
+ "name": "Southwestern Tamang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:57:03Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Asia Harvest people-group profile: Tamang, Southwestern",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.people-groups.asiaharvest.org/India/TamangSouthwestern.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang (tdg, different language) dictionary on Webonary, related only",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/wtamang/overview/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang (tdg, different language) Scripture Earth listing, related only",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tdg",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang (tdg, different language) Global Recordings Network, related only",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tdg",
+   "found_in_search": true
+  }
+ ]
+}

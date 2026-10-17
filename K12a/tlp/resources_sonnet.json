@@ -1,0 +1,59 @@
+{
+ "iso": "tlp",
+ "name": "Totonac, Filomena Mata-Coahuitlán",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:51:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Filomeno Mata Totonac (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Filomeno_Mata_Totonac",
+   "found_in_search": true
+  },
+  {
+   "title": "Totonac languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Totonac_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Filomena Mata-Coahuitlan Totonac",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tlp/",
+   "found_in_search": true
+  },
+  {
+   "title": "Totonac Filomena Mata Coahuitlan numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Totonac-Filomena-Mata-Coahuitlan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Coahuitlan Totonac Questionnaire (AILLA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A137003",
+   "found_in_search": true
+  },
+  {
+   "title": "Acta Antropologica 59(1): article on Filomeno Mata families",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.scielo.org.mx/pdf/aa/v59n1/2448-6221-aa-59-01-139.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Totonac, Filomena Mata-Coahuitlan",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tlp",
+   "found_in_search": true
+  }
+ ]
+}

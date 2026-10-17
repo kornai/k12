@@ -1,0 +1,45 @@
+{
+ "iso": "twt",
+ "name": "Turiwára",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:41:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Turiwara language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Turiw%C3%A1ra_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Turiwara (Wikipedia, people)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Turiw%C3%A1ra",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Turiwara word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TURIWARA",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog languoid para1312",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/para1312",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Turiwara in Brazil",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21568/BR",
+   "found_in_search": true
+  }
+ ]
+}

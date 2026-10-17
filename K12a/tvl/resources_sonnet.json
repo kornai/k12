@@ -1,0 +1,59 @@
+{
+ "iso": "tvl",
+ "name": "Tuvaluan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:31:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary of the Tuvaluan Language and Culture",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://tuvalu.aa-ken.jp/en/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Tuvaluan Language and Culture: reference list",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tuvalu.aa-ken.jp/en/reference",
+   "found_in_search": true
+  },
+  {
+   "title": "A Tuvaluan Lexicon of the Coconut Culture",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://irc.aa.tufs.ac.jp/en/announce/topics/2021-07-20-1115/",
+   "found_in_search": true
+  },
+  {
+   "title": "Entries from Jackson 2001 in Pollex-Online",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://pollex.eva.mpg.de/source/35/?page=5",
+   "found_in_search": true
+  },
+  {
+   "title": "ILCAA tools and archives (Tuvaluan dictionary)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingdy.aa-ken.jp/en/publications/200208-tools-and-archives/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuvaluan Language Learning and Education in Tuvalu",
+   "type": "policy",
+   "language": "English",
+   "url": "https://learner.net/u/tuvalu-grade-1-tuvaluan-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuvalu Primary School Curriculum - English",
+   "type": "policy",
+   "language": "English",
+   "url": "https://learner.net/u/tuvalu-year-three-primary-english",
+   "found_in_search": true
+  }
+ ]
+}

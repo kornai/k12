@@ -1,0 +1,45 @@
+{
+ "iso": "tbo",
+ "name": "Tawala",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:25:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Tawala (Ezard 1997, Pacific Linguistics C-137)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/145950/1/PL-C137.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Tawala (library record, PNG University of Technology)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://matdisc.unitech.ac.pg/Record/74211",
+   "found_in_search": true
+  },
+  {
+   "title": "Ezard 1997 (TLOPO source entry)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tlopo.clld.org/sources/Ezard1997",
+   "found_in_search": true
+  },
+  {
+   "title": "Tawala language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tawala_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tawala language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tbo",
+   "found_in_search": true
+  }
+ ]
+}

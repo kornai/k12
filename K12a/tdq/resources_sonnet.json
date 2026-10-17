@@ -1,0 +1,31 @@
+{
+ "iso": "tdq",
+ "name": "Tita",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:44:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tita language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tita_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tita in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15503/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page tdq",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tdq",
+   "found_in_search": true
+  }
+ ]
+}

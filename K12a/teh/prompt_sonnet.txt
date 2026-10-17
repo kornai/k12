@@ -1,0 +1,35 @@
+You will research 4 languages (tef, teg, teh, tei), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE tef ===
+Please help me gather resources for the Teressa language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tef; Glottocode: tere1272; family: Austroasiatic; macro-area: Eurasia. Reference description: Teressa is an endangered indigenous language of India. It belongs to the Austro-Asiatic language family. Direct evidence is lacking, but the language is thought to be used as a first language by a decreasing number of young people. It is not known to be taught in schools.
+
+=== LANGUAGE teg ===
+Please help me gather resources for the Teke-Tege language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: teg; Glottocode: teke1275; family: Atlantic-Congo; macro-area: Africa; approx. speakers: about 140,000. Reference description: Teke-Tege is a stable indigenous language of Gabon and Congo. It belongs to the Niger-Congo language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE teh ===
+Please help me gather resources for the Tehuelche language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: teh; Glottocode: tehu1242; family: Chonan; macro-area: South America. Reference description: Tehuelche is a dormant language of Argentina. It belongs to the Chon language family. The language is no longer used as a first language by any remaining members of the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE tei ===
+Please help me gather resources for the Aro language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tei; Glottocode: torr1259; family: Nuclear Torricelli; macro-area: Papunesia; approx. speakers: about 520. Reference description: Aro is an endangered indigenous language of Papua New Guinea. It belongs to the Torricelli language family. The language is used as a first language by adults only. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

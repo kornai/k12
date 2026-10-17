@@ -1,0 +1,73 @@
+{
+ "iso": "uma",
+ "name": "Umatilla",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:01:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Umatilla Language Online Dictionary (CTUIR)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://dictionary.ctuir.org/uma/ciskiin/",
+   "found_in_search": true
+  },
+  {
+   "title": "CTUIR launches Umatilla Language Online Dictionary",
+   "type": "other",
+   "language": "English",
+   "url": "https://cuj.ctuir.org/ctuir-launches-umatilla-language-online-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "CTUIR Language Program (dictionary site page)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://dictionary.ctuir.org/?p=42734",
+   "found_in_search": true
+  },
+  {
+   "title": "CTUIR Language Program (dictionary site page 2)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://dictionary.ctuir.org/?p=44495",
+   "found_in_search": true
+  },
+  {
+   "title": "The Language of Nixyaawii (CTUIR)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://ctuir.org/about/language/",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC RelLex: Umatilla Language Online Dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Umatilla_Language_Online_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC RelLex: Umatilla Dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Umatilla_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC Knowledgebase: Umatilla Dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=3375",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Umatilla language",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:uma",
+   "found_in_search": true
+  }
+ ]
+}

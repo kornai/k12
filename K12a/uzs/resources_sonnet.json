@@ -1,0 +1,66 @@
+{
+ "iso": "uzs",
+ "name": "Southern Uzbek",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:29:24Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The third most spoken language in Afghanistan: scattered efforts fall short in enriching Uzbek language (8AM Media)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://8am.media/eng/the-third-most-spoken-language-in-afghanistan-scattered-efforts-fall-short-in-enriching-uzbek-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "MFA denies rumors that Taliban excludes the study of Uzbek language from school curriculum (Kun.uz)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://m.kun.uz/en/news/2021/08/31/mfa-denies-rumors-that-taliban-excludes-the-study-of-uzbek-language-from-school-curriculum",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Uzbek language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Southern_Uzbek_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Southern Uzbek",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sout2699",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Southern Uzbek",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/uzs/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Southern Uzbek in Afghanistan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15756/af",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Uzbek, Southern",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/uzs",
+   "found_in_search": true
+  },
+  {
+   "title": "Institute for Bible Translation: Uzbek Scripture history",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://ibtrussia.org/node/871",
+   "found_in_search": true
+  }
+ ]
+}

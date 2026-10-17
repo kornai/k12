@@ -1,0 +1,38 @@
+{
+ "iso": "tkz",
+ "name": "Takua",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:43:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Takua language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Takua_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Takua people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Takua_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Takua in Vietnam (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15208",
+   "found_in_search": true
+  },
+  {
+   "title": "Takua language page (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/tkz",
+   "found_in_search": true
+  }
+ ]
+}

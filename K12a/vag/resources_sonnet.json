@@ -1,0 +1,59 @@
+{
+ "iso": "vag",
+ "name": "Vagla",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:50:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vagla-English, English-Vagla Dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/vagla/overview/copyright/",
+   "found_in_search": true
+  },
+  {
+   "title": "Vagla dictionary credits and acknowledgements (Webonary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.org/vagla/overview/credits-acknowledgements/",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Crouch and Herbert 1981",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/126353",
+   "found_in_search": true
+  },
+  {
+   "title": "Vagla language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vagla_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Vagla writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/vagla.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO language profile: Vagla in Ghana",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/index.php/en/countries/ghana/languages/vagla",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Vagla Bible sample text",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.omniglot.com/babel/vagla.htm",
+   "found_in_search": true
+  }
+ ]
+}

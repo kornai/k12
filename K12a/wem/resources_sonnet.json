@@ -1,0 +1,38 @@
+{
+ "iso": "wem",
+ "name": "Gbe, Weme",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:31:58Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gun language, Wikipedia (related language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gun_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Fon language, Wikipedia (related language)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fon_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Orthographe uniforme standard du gbe",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://fr.wikipedia.com/wiki/Orthographe_uniforme_standard_du_gbe",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire Fon-Français, Français-Fon (Fon, not Weme)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_dictionnaire-fon-francais-francais-fon",
+   "found_in_search": true
+  }
+ ]
+}

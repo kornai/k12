@@ -1,0 +1,38 @@
+{
+ "iso": "tbz",
+ "name": "Ditammari",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:29:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tammari (Ditammari) on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tammari.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tammari language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tammari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Romano and Mouti, Ditammari prosody (AISV)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.aisv.it/PubblicazioniAISV/II_AISV/presentations/Prosodia/Romano%20A.-Mouti%20O.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Langue, alphabétisation, cultures : bibliographie sélective sur les langues béninoises",
+   "type": "other",
+   "language": "other",
+   "url": "https://idl-bnc-idrc.dspacedirect.org/handle/10625/36911?show=full",
+   "found_in_search": true
+  }
+ ]
+}

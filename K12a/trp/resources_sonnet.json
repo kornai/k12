@@ -1,0 +1,59 @@
+{
+ "iso": "trp",
+ "name": "Kok Borok",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:50:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kokborok (Directorate of Kokborok & OML, Tripura): textbook and enrolment information",
+   "type": "policy",
+   "language": "English",
+   "url": "https://kokborokoml.tripura.gov.in/sites/default/files/2024-12/Kokborok.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "CBSE Kokborok Secondary syllabus 2025-26",
+   "type": "policy",
+   "language": "English",
+   "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/Sec/KOKBOROK_Sec_2025-26.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "CBSE Kokborok Senior Secondary syllabus 2025-26",
+   "type": "policy",
+   "language": "English",
+   "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KOKBOROK_SrSec_2025-26.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "CBSE Kokborok Secondary syllabus 2023-24",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.cbseacademic.nic.in/web_material/CurriculumMain24/Sec/KOKBOROK_Sec_2023-24.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "CBSE Kokborok Senior Secondary syllabus 2024-25",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KOKBOROK_SrSec_2024-25.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tripura University Kokborok syllabus",
+   "type": "policy",
+   "language": "English",
+   "url": "https://tripurauniv.ac.in/site/images/pdf/syllabus/Kokborok.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kokborok grammar (old and rare book listing)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://exoticindia.com/book/details/kokborok-grammar-old-and-rare-book-nav904",
+   "found_in_search": true
+  }
+ ]
+}

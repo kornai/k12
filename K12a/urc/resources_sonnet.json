@@ -1,0 +1,45 @@
+{
+ "iso": "urc",
+ "name": "Urningangg",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:14:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Giimbiyu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Giimbiyu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Urningangg",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/urni1239",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Urningangg",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/urni1239",
+   "found_in_search": true
+  },
+  {
+   "title": "Lauren Campbell 2006, sketch grammar of the Giimbiyu languages (reference record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/32813",
+   "found_in_search": true
+  },
+  {
+   "title": "Urningangga (Western Arnhem Land culture PDF)",
+   "type": "other",
+   "language": "English",
+   "url": "https://hgcosmos.org/assets/culture/AZ/U/Urningangga.pdf",
+   "found_in_search": true
+  }
+ ]
+}

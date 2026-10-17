@@ -1,0 +1,38 @@
+{
+ "iso": "tkb",
+ "name": "Buksa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:34:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Buksa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Buksa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bhoksa people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bhoksa_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Buksa Tribes (Uttarakhand Tribal Welfare Department)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://tribalwelfare.uk.gov.in/page/buksa-tribes",
+   "found_in_search": true
+  },
+  {
+   "title": "PVTG list (Uttarakhand Tribal Welfare Department)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://tribalwelfare.uk.gov.in/page/pvgt-list",
+   "found_in_search": true
+  }
+ ]
+}

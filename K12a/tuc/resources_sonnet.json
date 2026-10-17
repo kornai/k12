@@ -1,0 +1,52 @@
+{
+ "iso": "tuc",
+ "name": "Mutu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:17:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mutu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mutu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist for Mutu",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/MUTU",
+   "found_in_search": true
+  },
+  {
+   "title": "CrossGram entry for Mutu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/mutu1242",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems data for Mutu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Mutu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project profile for Tuam, Mutu",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15604/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues page for Mutu",
+   "type": "video",
+   "language": "native",
+   "url": "https://wikitongues.org/languages/tuc/",
+   "found_in_search": true
+  }
+ ]
+}

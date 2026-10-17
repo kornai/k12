@@ -1,0 +1,31 @@
+{
+ "iso": "twb",
+ "name": "Tawbuid",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:34:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tawbuid language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tawbuid_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tawbuid (Batangan / Bangon), Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tawbuid.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Mangyan (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mangyan",
+   "found_in_search": true
+  }
+ ]
+}

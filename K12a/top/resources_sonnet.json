@@ -1,0 +1,38 @@
+{
+ "iso": "top",
+ "name": "Papantla Totonac",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:25:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bibliografia totonaca: estudios lingüísticos (Sam Holley-Kline)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.bibliografiatotonaca.com/estudios-linguumliacutesticos.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Papantla Totonac writing system",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/papantlatotonac.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Upper Necaxa Totonac Dictionary (Beck 2011), related variety",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110238235/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Alliance: Totonac",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.elalliance.org/languages/totonac",
+   "found_in_search": true
+  }
+ ]
+}

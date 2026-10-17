@@ -1,0 +1,59 @@
+{
+ "iso": "ukk",
+ "name": "Muak Sa-aak",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:52:00Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Muak language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Muak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "An analysis of Muak Sa-aak tone",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dspace-prod.anu.edu.au/items/f8bd397f-f039-4cbe-8671-b14bbab35d3c",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal of the Southeast Asian Linguistics Society (Sep 2019)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://doaj.org/article/b4b90c8690604c6fb010f8b309f1e804",
+   "found_in_search": true
+  },
+  {
+   "title": "Muak Sa-aak numerals (MPI-EVA)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Muak-Sa-aak.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tai Loi language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Loi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Myanmar Muak Sa-aak profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.operation.asiaharvest.org/MYANMAR-Muak-Sa-aak.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Muak Sa-aak",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1245?hl=es",
+   "found_in_search": true
+  }
+ ]
+}

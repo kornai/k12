@@ -1,0 +1,35 @@
+You will research 4 languages (tht, thu, thv, thw), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE tht ===
+Please help me gather resources for the Tahltan language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: tht; Glottocode: tahl1239; family: Athabaskan-Eyak-Tlingit; macro-area: North America; approx. speakers: about 45. Reference description: Tahltan is an endangered indigenous language of Canada. It belongs to the Eyak-Athabaskan language family. The language is used as a first language by older adults only. It is not known to be taught in schools.
+
+=== LANGUAGE thu ===
+Please help me gather resources for the Thuri language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: thu; Glottocode: thur1255; family: Nilotic; macro-area: Africa. Reference description: Thuri is an endangered indigenous language of South Sudan. It belongs to the Nilo-Saharan language family. Direct evidence is lacking, but the language is thought to be used as a first language by adults only. It is not known to be taught in schools.
+
+=== LANGUAGE thv ===
+Please help me gather resources for the Tahaggart Tamahaq language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: thv; Glottocode: taha1241; family: Afro-Asiatic; macro-area: Africa; approx. speakers: about 40,000. Reference description: Tahaggart Tamahaq is an endangered indigenous language of Algeria, Libya, and Niger. It belongs to the Afro-Asiatic language family and is part of the Tamashek macrolanguage. Direct evidence is lacking, but the language is thought to be used as a first language by a decreasing number of young people
+
+=== LANGUAGE thw ===
+Please help me gather resources for the Thudam language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: thw; Glottocode: thud1238; family: Bookkeeping; macro-area: Eurasia
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

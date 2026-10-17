@@ -1,0 +1,52 @@
+{
+ "iso": "udu",
+ "name": "Uduk",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:44:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uduk (Twampa) on Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/uduk.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Uduk language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uduk_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Don Killian, University of Helsinki (academia.edu page)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://helsinki.academia.edu/DonKillian",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Uduk",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/udu",
+   "found_in_search": true
+  },
+  {
+   "title": "Uduk in Sudan (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/15687/SU",
+   "found_in_search": true
+  },
+  {
+   "title": "South Sudan Literacy Fact Sheet (Bible Society Australia)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.biblesociety.org.au/wp-content/uploads/2021/04/100525-Fact-Sheet-South-Sudan-Literacy.pdf",
+   "found_in_search": true
+  }
+ ]
+}

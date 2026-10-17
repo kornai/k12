@@ -1,0 +1,45 @@
+{
+ "iso": "wba",
+ "name": "Warao",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:22:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Warao language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Warao_language",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List review: A Reference Grammar of Warao (Romero-Figueroa, 2006)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/17/3721/",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University source on Warao (cites Barral and Edwards dictionaries)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3576115/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Warao",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/warao.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on Warao (Universidade Federal da Paraiba journal)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufpb.br/index.php/enid/article/download/74754/41774/233851",
+   "found_in_search": true
+  }
+ ]
+}

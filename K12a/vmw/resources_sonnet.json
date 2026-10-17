@@ -1,0 +1,38 @@
+{
+ "iso": "vmw",
+ "name": "Makhuwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:10:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Emakhuwa in bilingual education (USP doctoral thesis)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://teses.usp.br/teses/disponiveis/8/8142/tde-10112017-120739/es.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Makhuwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Makhuwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Collections for a handbook of the Makua language (Maples)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://digital.soas.ac.uk/LOAA000003/00001/citation",
+   "found_in_search": true
+  },
+  {
+   "title": "What Makhuwa can tell us about the structure of human language (Cambridge talk)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://talks.cam.ac.uk/talk/index/40041/",
+   "found_in_search": true
+  }
+ ]
+}

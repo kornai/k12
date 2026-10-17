@@ -1,0 +1,59 @@
+{
+ "iso": "vkm",
+ "name": "Kamakan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:02:48Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kamakã language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kamak%C3%A3_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kamakã languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kamak%C3%A3_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Menién language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Meni%C3%A9n_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Masakará language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Masakar%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kotoxó language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kotox%C3%B3_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Indian Languages Database, John Carter Brown Library (Kamakan vocabularies)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://www.brown.edu/Facilities/John_Carter_Brown_Library/exhibitions/ildb/details.php?id=555",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Kamakan",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KAMAKAN",
+   "found_in_search": true
+  }
+ ]
+}

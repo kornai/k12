@@ -1,0 +1,38 @@
+{
+ "iso": "tom",
+ "name": "Tombulu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:24:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tombulu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tombulu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tombulu (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tombulu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article on Tombulu (Jurnal Iqra')",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journal.iain-manado.ac.id/index.php/JII/article/download/561/465",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article on Tombulu (e-CLUE, UNIMA)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejurnal.unima.ac.id/index.php/e-clue/article/download/2971/1272/9625",
+   "found_in_search": true
+  }
+ ]
+}

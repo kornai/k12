@@ -1,0 +1,52 @@
+{
+ "iso": "tyv",
+ "name": "Tuvan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:55:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Review of Tuvan literature textbooks (New Research of Tuva)",
+   "type": "textbook",
+   "language": "other",
+   "url": "https://nit.tuva.asia/nit/article/download/754/1155",
+   "found_in_search": true
+  },
+  {
+   "title": "Language and folklore of ethnic Tuvans in Mongolia in Tuvan electronic databases",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://nit.tuva.asia/nit/en/article/view/617",
+   "found_in_search": true
+  },
+  {
+   "title": "Problems of teaching Tuvan as a foreign language to Turkish students",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nit.tuva.asia/nit/en/article/view/757",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuvan Talking Dictionary: About the Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://tuvan.swarthmore.edu/about/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuvan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tuvan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kherel and Bavuu-Syuryun article on Tuvan language development",
+   "type": "academic",
+   "language": "other",
+   "url": "https://philology.nsc.ru/journals/ykns_en/article.php?id=670",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tnw",
+ "name": "Tonsawang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:17:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tonsawang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.com/wiki/Tonsawang",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonsawang (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tonsawang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article on Tonsawang (journal.unj.ac.id, subject unconfirmed)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journal.unj.ac.id/unj/index.php/isllae/article/download/12023/7397/26190",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Documentation and Description article (subject unconfirmed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lddjournal.org/article/1203/galley/2447/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Tonsawang: a collaborative multimedia project documenting an endangered language of North Sulawesi (ELDP)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0434/",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tonsawang sample",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3524/samples/11427?hl=de",
+   "found_in_search": true
+  }
+ ]
+}

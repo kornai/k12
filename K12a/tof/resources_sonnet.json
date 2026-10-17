@@ -1,0 +1,38 @@
+{
+ "iso": "tof",
+ "name": "Gizrra",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:20:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Gizrra language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Gizrra_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Fleischmann and Turpeinen 1976 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/133002",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Gizrra",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/7369",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Gizra, Waidoro",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11906",
+   "found_in_search": true
+  }
+ ]
+}

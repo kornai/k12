@@ -1,0 +1,24 @@
+{
+ "iso": "tso",
+ "name": "Tsonga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:00:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Via Afrika Xitsonga Home Language Grade 5 Reader",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://viaafrika.com/?p=10703",
+   "found_in_search": true
+  },
+  {
+   "title": "UNISA Xitsonga subject and modules",
+   "type": "academic",
+   "language": "English",
+   "url": "https://unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-subjects/XITSONGA",
+   "found_in_search": true
+  }
+ ]
+}

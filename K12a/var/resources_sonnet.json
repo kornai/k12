@@ -1,0 +1,59 @@
+{
+ "iso": "var",
+ "name": "Huarijío",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:53:44Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Miller 1996, Guarijio: Gramatica, Textos y Vocabulario (Glottolog reference entry)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/665425",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Huarijio",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/huar1255",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Huarijio",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/huar1255",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Huarijio",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/huarijio.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Huarijio bibliography",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.endangeredlanguages.com/lang/6203/bibliography?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Huarijio language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Huarijio_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Guarijio people",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Guarijio_people",
+   "found_in_search": true
+  }
+ ]
+}

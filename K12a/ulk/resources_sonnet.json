@@ -1,0 +1,73 @@
+{
+ "iso": "ulk",
+ "name": "Meriam Mir",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:59:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Torres Strait Everyday Words (State Library of Queensland)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.slq.qld.gov.au/sites/default/files/Torres%20Strait%20Everyday%20Words.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of the Torres Straits (State Library of Queensland)",
+   "type": "other",
+   "language": "English",
+   "url": "https://content.slq.qld.gov.au/sites/default/files/Languages%20of%20the%20Torres%20Straits_0.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "SLQ blog: 2019 International Year of Indigenous Languages Word Week (week thirty-three)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.slq.qld.gov.au/blog/2019-international-year-indigenous-languages-word-week-week-thirty-three",
+   "found_in_search": true
+  },
+  {
+   "title": "Shnukal 1992, Meriam Mir lexicon in Torres Strait Creole (Glottolog record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/305459",
+   "found_in_search": true
+  },
+  {
+   "title": "Ray 2003, Dictionary of Torres Strait languages (Glottolog record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/6723",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Meriam Mir",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/meri1244",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Meriam Mir",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.org/wiki/Meriam_Mir",
+   "found_in_search": true
+  },
+  {
+   "title": "UQ Library: Torres Strait Islanders -- Languages (manuscripts)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://manuscripts.library.uq.edu.au/index.php/torres-strait-islanders-languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Meriam Mir",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/bn/node/95993",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "iso": "tkf",
+ "name": "Tukumanféd",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:34:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tupian languages (Wikipedia), general family background only",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tupian_languages",
+   "found_in_search": true
+  }
+ ]
+}

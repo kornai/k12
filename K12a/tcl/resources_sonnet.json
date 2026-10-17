@@ -1,0 +1,45 @@
+{
+ "iso": "tcl",
+ "name": "Taman",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:34:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Taman language (Myanmar) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taman_language_(Myanmar)",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Taman (tama1328)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tama1328.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Taman",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4274/guide?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Taman in Myanmar",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15224/BM",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language tcl",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/tcl",
+   "found_in_search": true
+  }
+ ]
+}

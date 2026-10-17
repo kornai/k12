@@ -1,0 +1,52 @@
+{
+ "iso": "tdy",
+ "name": "Tadyawan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:45:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tadyawan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tadyawan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "UP Linguistics Katig Collective: Tadyawan language capsule",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.upd.edu.ph/the-katig-collective/language-capsules/tadyawan",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Mindoro languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Northern_Mindoro_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tadyawan in Philippines",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15169",
+   "found_in_search": true
+  },
+  {
+   "title": "NCCA: Mangyan",
+   "type": "other",
+   "language": "English",
+   "url": "https://ncca.gov.ph/?p=7864",
+   "found_in_search": true
+  },
+  {
+   "title": "Mangyan (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mangyan",
+   "found_in_search": true
+  }
+ ]
+}

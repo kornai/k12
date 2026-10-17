@@ -1,0 +1,24 @@
+{
+ "iso": "tvm",
+ "name": "Tela-Masbuar",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:31:16Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tela'a language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tela%CA%BCa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Language: Tela-Masbuar (Austronesian Basic Vocabulary Database)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lpan.eva.mpg.de/austronesian/language.php?id=315",
+   "found_in_search": true
+  }
+ ]
+}

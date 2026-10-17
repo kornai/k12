@@ -1,0 +1,38 @@
+{
+ "iso": "tka",
+ "name": "Truká",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:33:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Truká language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Truk%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Terra Indigena Truka (Instituto Socioambiental)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://ti.socioambiental.org/en/terras-indigenas/6151",
+   "found_in_search": true
+  },
+  {
+   "title": "Foi a resposta necessaria para a preservacao de nossas tradicoes, diz cacique Truka (Brasil de Fato)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.brasildefato.com.br/2021/05/10/foi-a-resposta-necessaria-para-a-preservacao-de-nossas-tradicoes-diz-cacique-truka/",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on Truka teachers and language revitalization in schools (UFRGS Espaco Amerindio)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://seer.ufrgs.br/EspacoAmerindio/article/download/117413/84738/523545",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{hyperref}
+\title{Errata for the cloud Claude pass (ranges t--tzz and u--uzz)}
+\author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}
+\date{14 October 2026}
+\begin{document}
+\maketitle
+\noindent Dossiers were saved as the subagents returned them; the items below were noticed
+during the run or found by a post-hoc scan of \texttt{K12a/[tu]??}. Nothing here has been
+corrected in place unless stated. The generated LaTeX was never compiled (no TeX in the
+cloud container), so the compile warnings are suspicions, not test results.
+
+\section{Corrected before saving}
+\begin{itemize}
+\item \textbf{usp}: the subagent had written \texttt{glorrolog.invalid} as a URL; removed, citation (Can Pixabaj 2007, \emph{Gram\'atica Uspanteka}) kept as plain text.
+\item \textbf{tac}: accents altered in transit; restored.
+\item \textbf{tew, thk}: the JSON block was invalid; \texttt{resources\_sonnet.json} was built from the URLs in the LaTeX block instead.
+\end{itemize}
+
+\section{Likely wrong or mismatched source}
+\begin{itemize}
+\item \textbf{umb}: the dbs.org UBUAND page may describe Umbu-Ungu, a different language.
+\item \textbf{uuu}: the Glottolog (\texttt{mang1378}) and ELP (entry 1236) links may be another language; the dossier says so.
+\item \textbf{uwa}: the prompt calls Kuku-Uwanh extinct, the sources describe a dialect of Kugu-Nganhcara with a few elderly speakers; unresolved. Shares an ELP page (node/92026) with \textbf{ugb}.
+\item \textbf{usu, utu}: both cite ELP \texttt{lang/3409}; at least one is wrong. ``Uya'' is also a name of Sausi (ssj).
+\item \textbf{tvd, tyy}: same ELP page (node/96036). \textbf{udj, urn}: same ELP page (lang/2798). \textbf{tbn, tnd}: same ELP page (lang/3527) and Tunebo PDF.
+\item \textbf{uma}: a CTUIR language program contradicts the prompt's ``not known to be taught''.
+\item \textbf{unx} is a retired code (same language as Mundari, \texttt{unr}); \textbf{uok} is doubtful.
+\item \textbf{uzn}: one Dunyo.info URL is percent-garbled and probably truncated. \textbf{uvl}: a Zenodo DOI appears as plain text and was not seen in search results. \textbf{ute}: only Southern Ute was searched, not Southern Paiute.
+\item The family field is wrong or bookkeeping-only in several dossiers.
+\end{itemize}
+
+\section{LaTeX that may not compile}
+\textbf{tyt} (\verb|\uhorn|, \verb|\ohorn|), \textbf{tzl} (\verb|\th{}|), \textbf{urd} (a raw space inside a \verb|\url|), \textbf{uuu} (\verb|\h{a}|).
+
+\section{URLs shared between dossiers (scan, 14 Oct 2026)}
+Most are legitimate shared sources for related languages (family surveys, Webonary
+Tamang, Tanna bibliographies, Wikipedia). Pairs worth a check beyond those above:
+tac/twr, tlf/urm, tkw/tnx, tze/tzz, thz/ttq, urp/urz (Lingua Viva article), uzb/uzn
+(expected: macrolanguage and member). The Tanna pages are shared by tnk, tnl, tnn, tnp.
+
+\end{document}

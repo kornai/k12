@@ -1,0 +1,45 @@
+{
+ "iso": "tlm",
+ "name": "Tolomako",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:49:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tolomako language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tolomako_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tolomako (TLOPO database)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://tlopo.clld.org/languages/tolomako",
+   "found_in_search": true
+  },
+  {
+   "title": "Tolomako (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tolo1255.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tlm (Rosetta Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tlm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tolomako in Vanuatu (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15543",
+   "found_in_search": true
+  }
+ ]
+}

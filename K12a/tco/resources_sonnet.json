@@ -1,0 +1,52 @@
+{
+ "iso": "tco",
+ "name": "Taungyo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:34:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Taungyo (taun1248)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/taun1248.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Taungyo by ISO tco",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tco",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Taungyo",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/tco/",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Taungyo (tco)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tco",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Taungyo in Myanmar",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15290/BM",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Taungyo profile (PDF)",
+   "type": "other",
+   "language": "English",
+   "url": "https://operation.asiaharvest.org/MYANMAR-Taungyo.pdf",
+   "found_in_search": true
+  }
+ ]
+}

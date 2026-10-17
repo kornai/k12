@@ -1,0 +1,73 @@
+{
+ "iso": "ulw",
+ "name": "Ulwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:01:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Ulwa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ulwa1239",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF grant BCS-9308115 (Ulwa grammar/dictionary/texts)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-9308115",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF grant BCS-9615545",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-9615545",
+   "found_in_search": true
+  },
+  {
+   "title": "Ulwa (southern Sumo) - a distinct language?",
+   "type": "academic",
+   "language": "English",
+   "url": "https://camjol.info/index.php/WANI/article/view/19361",
+   "found_in_search": true
+  },
+  {
+   "title": "Wani article PDF on Ulwa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.camjol.info/index.php/WANI/article/download/20000/24464/73553",
+   "found_in_search": true
+  },
+  {
+   "title": "Hale: Ulwa research paper",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ling-phil.mit.edu/papers/hale/papers/hale001.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ulwa, Southern Sumu: the beginnings of a language research project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/books/abs/linguistic-fieldwork/ulwa-southern-sumu-the-beginnings-of-a-language-research-project/C62013CB3C6ADEC4F4A49FD7E03C39EF",
+   "found_in_search": true
+  },
+  {
+   "title": "Ulwa numerals, Karawala",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Ulwa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Cultural Survival article (regional context)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.culturalsurvival.org/index%2Ephp/node/13064",
+   "found_in_search": true
+  }
+ ]
+}

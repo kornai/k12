@@ -1,0 +1,38 @@
+{
+ "iso": "tpo",
+ "name": "Tai Pao",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:34:10Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tai Pao language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tai_Pao_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tai Pao",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tpo",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tai Pao language",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tpo",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Tai Pao in Laos",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Laos/TaiPao-PBW.pdf",
+   "found_in_search": true
+  }
+ ]
+}

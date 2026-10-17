@@ -1,0 +1,52 @@
+{
+ "iso": "tgz",
+ "name": "Tagalaka",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:07:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tagalaka language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tagalaka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagalag people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tagalag_people",
+   "found_in_search": true
+  },
+  {
+   "title": "The Mayi languages of the Queensland Gulf country (Breen 1981), catalogue record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://catalog.hathitrust.org/Record/000106521/Cite",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE source: Breen 1981 Mayi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/sources/breen_mayi_1981",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Sydney Archives: Tagalaka language record",
+   "type": "other",
+   "language": "English",
+   "url": "https://archives-search.sydney.edu.au/nodes/view/18684",
+   "found_in_search": true
+  },
+  {
+   "title": "About the North: Tagalaka page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://aboutthenorth.au/styled-59/styled-184/styled-238/styled-362/",
+   "found_in_search": true
+  }
+ ]
+}

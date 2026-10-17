@@ -1,0 +1,52 @@
+{
+ "iso": "txb",
+ "name": "Tokharian B",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:43:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tocharian Online (UT Austin LRC)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://lrc.la.utexas.edu/eieol/tokol/200",
+   "found_in_search": true
+  },
+  {
+   "title": "New book helps students learn ancient Tocharian language (Weiss, Kusinne Kantwo)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://linguistics.cornell.edu/news/new-book-helps-students-learn-ancient-tocharian-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Adams, A Dictionary of Tocharian B",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://journals.phil.muni.cz/linguistica-brunensia/article/view/30841",
+   "found_in_search": true
+  },
+  {
+   "title": "Etymological Dictionary of Tocharian B (Gothenburg)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://databaser.ub.gu.se/etymological-dictionary-of-tocharian-b/188896",
+   "found_in_search": true
+  },
+  {
+   "title": "CLTK Tocharian B",
+   "type": "software",
+   "language": "English",
+   "url": "https://cltk.readthedocs.io/en/latest/tocharian_b.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Starling Tocharian wordlist",
+   "type": "other",
+   "language": "English",
+   "url": "https://starlingdb.org/new100/txr.pdf",
+   "found_in_search": true
+  }
+ ]
+}

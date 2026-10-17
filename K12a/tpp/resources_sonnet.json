@@ -1,0 +1,52 @@
+{
+ "iso": "tpp",
+ "name": "Pisaflores Tepehua",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:35:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "NSF grant BCS-0132293: Pisaflores Tepehua grammar and trilingual lexicon",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-0132293",
+   "found_in_search": true
+  },
+  {
+   "title": "MacKay, FAMSI report on Pisaflores Tepehua documentation",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ancientamericas.org/sites/default/files/01062MacKay01.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Carolyn J. MacKay publications (Academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ballstate.academia.edu/CarolynMacKay",
+   "found_in_search": true
+  },
+  {
+   "title": "Tepehua basic word list (Native Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.native-languages.org/tepehua_words.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry for Pisaflores Tepehua",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/fr/node/40050",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Pisaflores Tepehua Bible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tpp",
+   "found_in_search": true
+  }
+ ]
+}

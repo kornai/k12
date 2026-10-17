@@ -1,0 +1,24 @@
+{
+ "iso": "vmg",
+ "name": "Vinitiri",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:06:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Van Der Mark 2007, A Grammar of Vinitiri (Grambank source)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/sources/gVandermarkVinitiri",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Vinitiri language entry (mini1251)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/mini1251",
+   "found_in_search": true
+  }
+ ]
+}

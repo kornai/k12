@@ -1,0 +1,52 @@
+{
+ "iso": "tbc",
+ "name": "Takia",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:21:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Takia language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Takia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Metatypy (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Metatypy",
+   "found_in_search": true
+  },
+  {
+   "title": "Waskia language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waskia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Takia numerals (Max Planck EVA, Channumerals)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Takia.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Loanwords in Takia, an Oceanic language of Papua New Guinea (ANU)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/loanwords-in-takia-an-oceanic-language-of-papua-new-guinea/",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 16.1811 (review page; subject not verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/16/1811/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "tgh",
+ "name": "Tobagonian English Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:00:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary of the English/Creole of Trinidad & Tobago: On Historical Principles (Winer, catalogue record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://unicat.nalis.bg/Record/AUBG.000460762/Description",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the English-Creole of Trinidad & Tobago (Kreol Magazine description)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://kreolmagazine.com/dictionary-of-the-english-creole-of-trinidad-tobago-on-historical-principles/amp/",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the English/Creole of Trinidad & Tobago (MTSU library record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://find.mtsu.edu/vufind/Record/mig00005378412",
+   "found_in_search": true
+  },
+  {
+   "title": "UWI archive subject listing (Winer research papers)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://archivespace.sta.uwi.edu/subjects/165",
+   "found_in_search": true
+  }
+ ]
+}

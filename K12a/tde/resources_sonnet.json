@@ -1,0 +1,52 @@
+{
+ "iso": "tde",
+ "name": "Dogon, Tiranige Diga",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:40:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Tiranige (Dogon, Mali) - Jeffrey Heath",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://deepblue.lib.umich.edu/items/d11bf892-b231-48c0-b264-0cd396acebcd",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems: Tiranige Diga Dogon (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Dogon-Tiranige-Diga.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Duleri Dogon (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Duleri_Dogon",
+   "found_in_search": true
+  },
+  {
+   "title": "Zenodo record 6350672 (content not verified)",
+   "type": "other",
+   "language": "English",
+   "url": "https://zenodo.org/record/6350672",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tiranige Diga Dogon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/20583",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/95590",
+   "found_in_search": true
+  }
+ ]
+}

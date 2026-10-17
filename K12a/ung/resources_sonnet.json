@@ -1,0 +1,45 @@
+{
+ "iso": "ung",
+ "name": "Ngarinyin",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:07:41Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ngarinyin language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngarinyin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation and description of Ngarinyin (ELDP archive)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0121/",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation and description of Ngarinyin, a language of the Kimberley region (ANU project record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchportalplus.anu.edu.au/en/projects/documentation-and-description-of-ngarinyin-a-language-of-the-kimb/",
+   "found_in_search": true
+  },
+  {
+   "title": "K18: Ngarinyin (AIATSIS collection)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1508631",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngarinyin (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/37772",
+   "found_in_search": true
+  }
+ ]
+}

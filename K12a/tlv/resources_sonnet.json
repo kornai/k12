@@ -1,0 +1,38 @@
+{
+ "iso": "tlv",
+ "name": "Taliabu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:54:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Taliabo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taliabo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Phonological Variation of Taliabu Language Dialects",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ojs.unm.ac.id/retorika/article/view/9266/0",
+   "found_in_search": true
+  },
+  {
+   "title": "Sula: Its language, land, and people (grammar sketch and lexicon of related Sula, ISO szn)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/daeb65e2-8b98-4002-93b2-ced62f91fe4d",
+   "found_in_search": true
+  },
+  {
+   "title": "Sula language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sula_language",
+   "found_in_search": true
+  }
+ ]
+}

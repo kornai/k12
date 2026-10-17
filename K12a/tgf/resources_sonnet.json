@@ -1,0 +1,52 @@
+{
+ "iso": "tgf",
+ "name": "Chalikha",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:58:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Chali language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chali_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bhutan Cultural Library text on Chali (Mandala)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://texts.mandala.library.virginia.edu/node/48906",
+   "found_in_search": true
+  },
+  {
+   "title": "Chalipaikha paper (Mandala PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://mandala-texts-dev.internal.lib.virginia.edu/sites/mandala-texts-dev.internal.lib.virginia.edu/files/Chalipaikha-ph.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Bhutan (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Languages_of_Bhutan",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Chali in Bhutan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/18909",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest: Chali profile",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Bhutan/Chali.pdf",
+   "found_in_search": true
+  }
+ ]
+}

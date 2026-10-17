@@ -1,0 +1,45 @@
+{
+ "iso": "tbr",
+ "name": "Tumtum",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:27:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tumtum language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tumtum_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kadu languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kadu_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University repository item 2729430 (content unverified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2729430/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University repository item 2728068 (content unverified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2728068/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tumtum in Sudan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15638",
+   "found_in_search": true
+  }
+ ]
+}

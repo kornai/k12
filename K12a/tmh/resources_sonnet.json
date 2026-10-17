@@ -1,0 +1,45 @@
+{
+ "iso": "tmh",
+ "name": "tmh",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:00:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary of the Tamasheq of North-East Burkina Faso (Sudlow)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_dictionary-of-the-tamasheq-of-north-east-burkina-faso",
+   "found_in_search": true
+  },
+  {
+   "title": "The Tamasheq of North-East Burkina Faso: A Learner's Grammar (Sudlow)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_the-tamasheq-of-north-east-burkina-faso-a-learner-s-grammar-2",
+   "found_in_search": true
+  },
+  {
+   "title": "Tuareg Elementary Course (Tahaggart) (Prasse)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_tuareg-elementary-course-tahaggart",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamahaq dictionary on Webonary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/tamahaq/overview/foreword/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Jeffrey Heath: Berber bibliography page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://websites.umich.edu/~jheath/Berber.html",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "tlj",
+ "name": "Talinga-Bwisi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:49:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Talinga language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Talinga_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Talinga (Kitalinga / Lubwisi) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/talinga.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Resources: Talinga-Bwisi (Scripture Earth)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tlj",
+   "found_in_search": true
+  }
+ ]
+}

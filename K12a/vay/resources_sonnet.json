@@ -1,0 +1,45 @@
+{
+ "iso": "vay",
+ "name": "Wayu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:54:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Hayu (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hayu",
+   "found_in_search": true
+  },
+  {
+   "title": "Vayu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vayu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wayu numerals note (Max Planck EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Wayu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Hayu 1972 Tape 2 Side A (elicitation), Pangloss Collection",
+   "type": "audio",
+   "language": "native",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-7833b117-00f3-3885-a7aa-23c32f6d250e",
+   "found_in_search": true
+  },
+  {
+   "title": "Hayu, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/3399",
+   "found_in_search": true
+  }
+ ]
+}

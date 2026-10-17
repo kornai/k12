@@ -1,0 +1,24 @@
+{
+ "iso": "wac",
+ "name": "Wasco-Wishram",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:16:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Endangered Languages Project: Wasco-Wishram",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1938",
+   "found_in_search": true
+  },
+  {
+   "title": "Upper Chinook language (Kiksht), Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://Www.wikipedia.org/wiki/Kiksht",
+   "found_in_search": true
+  }
+ ]
+}

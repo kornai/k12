@@ -1,0 +1,45 @@
+{
+ "iso": "tsa",
+ "name": "Tsaangi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:55:02Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tsaangi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tsaangi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist: Tsaangi",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/TSAANGI",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tsaangi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/tsaa1242.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Tsaangi",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tsa",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings: Teke-Tsaayi (a different language, tyi)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/tyi",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tot",
+ "name": "Patla-Chicontla Totonac",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:27:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "University of Alberta Totonaco site (page 105; content not verified)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.artsrn.ualberta.ca/totonaco2/?p=105",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Alberta Totonaco site (page 146; content not verified)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.artsrn.ualberta.ca/totonaco2/?p=146",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Alberta Totonaco site (page 123; content not verified)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.artsrn.ualberta.ca/totonaco2/?p=123",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Upper Necaxa Totonac",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/uppernecaxatotonac.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Patla-Chicontla Totonaca in Mexico",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/14339",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Upper Necaxa Totonac (tku)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://scriptureearth.org/00eng.php?iso=tku",
+   "found_in_search": true
+  }
+ ]
+}

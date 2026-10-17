@@ -1,0 +1,52 @@
+{
+ "iso": "wep",
+ "name": "Westphalien",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:31:58Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Westfälisch, Wiktionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://de.wiktionary.org/wiki/Westf%C3%A4lisch",
+   "found_in_search": true
+  },
+  {
+   "title": "Niederdeutsch-westphälisches Wörterbuch N-Z (Klöntrup), Plattmakers",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://plattmakers.de/en/book/Niederdeutsch-westph%C3%A4lisches-W%C3%B6rterbuch-N-Z",
+   "found_in_search": true
+  },
+  {
+   "title": "Westfalen, Plattmakers",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://plattmakers.de/en/6587/Westfalen",
+   "found_in_search": true
+  },
+  {
+   "title": "ABC-Book, Plattmakers (Hahlen village dictionary entry)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://plattmakers.de/en/21812/ABC-Book",
+   "found_in_search": true
+  },
+  {
+   "title": "Plattdeutsches Schimpfwörterbuch für Westfalen, catalogue record",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://deutsche-digitale-bibliothek.de/item/B4LFZMIPLSAODBBYI3KV4AO2WMVJ4UX4",
+   "found_in_search": true
+  },
+  {
+   "title": "LWL Mundart-Kommission",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.mundart-kommission.lwl.org/filer/canonical/1751279772/596071",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "txg",
+ "name": "Tangut",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:43:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Concise Online English-Tangut Dictionary (LMU Munich)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.worldphilology.gwi.uni-muenchen.de/?p=3780",
+   "found_in_search": true
+  },
+  {
+   "title": "Corpus Textuum Tangutorum",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://babelstone.co.uk/CTT/index.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Clauson's Skeleton Tangut Dictionary (Evertype)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://evertype.com/books/ctt1-clauson.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Li Fanwen (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.wikipedia.org/wiki/Li_Fanwen",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal for Tangut script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2007/07143-tangut.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tangut script (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tangut.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Buddhistdoor article on Tangut dictionaries",
+   "type": "other",
+   "language": "English",
+   "url": "https://teahouse.buddhistdoor.net/?p=17774",
+   "found_in_search": true
+  }
+ ]
+}

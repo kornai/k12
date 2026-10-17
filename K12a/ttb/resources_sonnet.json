@@ -1,0 +1,9 @@
+{
+ "iso": "ttb",
+ "name": "Gaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:07:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": []
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "ukq",
+ "name": "Ukwa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:53:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ukwa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ISO 639:ukq (Wikipedia mirror)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://troywiki.duckdns.org/content/wikipedia_en_all_maxi_2024-01/A/ISO_639%3Aukq",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukwa (disambiguation) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ukwa_(disambiguation)",
+   "found_in_search": true
+  },
+  {
+   "title": "Ukwa in Nigeria (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18868",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page ukq",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ukq",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth ukq",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=ukq",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "tuh",
+ "name": "Tulil",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:22:07Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Taulil language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taulil_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Taulil–Butam languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taulil%E2%80%93Butam_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Taulil",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/87565",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tulil language page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/tuh",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Taulil-Butam (no recordings listed)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tuh",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "weg",
+ "name": "Wergaia",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:30:50Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wergaia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wergaia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "The rebirth of Wergaia: a collaborative effort",
+   "type": "academic",
+   "language": "English",
+   "url": "https://open.sydneyuniversitypress.com.au/9781920899554/rl-the-rebirth-of-wergaia-a-collaborative-effort.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Increasing the accessibility of information on the Indigenous languages of Victoria",
+   "type": "academic",
+   "language": "English",
+   "url": "https://open.sydneyuniversitypress.com.au/9781920899554/rl-increasing-the-accessibility-of-information-on-the-indigenous-languages-of-victoria.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Victorian Collections: Wergaia items (grammar draft, recordings)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://victoriancollections.net.au/collections?q=wergaia",
+   "found_in_search": true
+  }
+ ]
+}

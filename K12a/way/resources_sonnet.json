@@ -1,0 +1,45 @@
+{
+ "iso": "way",
+ "name": "Wayana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:21:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wayana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wayana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Amerindia 40 (2018): Crevaux's Wayana notes and Wayana Pidgin",
+   "type": "academic",
+   "language": "English",
+   "url": "https://amerindia.cnrs.fr/?p=1568",
+   "found_in_search": true
+  },
+  {
+   "title": "DiCE Carib: Wayana",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dice.missouri.edu/assets/docs/carib/Wayana.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Wayana",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/wayana.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wayana people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wayana",
+   "found_in_search": true
+  }
+ ]
+}

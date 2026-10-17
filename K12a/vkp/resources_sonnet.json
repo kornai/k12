@@ -1,0 +1,45 @@
+{
+ "iso": "vkp",
+ "name": "Korlai Portuguese Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:02:48Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "The genesis of a language: the formation and development of Korlai Portuguese (library record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://libcat.mcphs.edu/Record/in00000317775",
+   "found_in_search": true
+  },
+  {
+   "title": "APiCS survey: Korlai",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://apics-online.info/surveys/40",
+   "found_in_search": true
+  },
+  {
+   "title": "Korlai Creole: History and Characteristics (Sahapedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.sahapedia.org/korlai-creole-history-and-characteristics-indo-portuguese-language-spoken-coastal-maharashtra",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 7.818",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/7/818/",
+   "found_in_search": true
+  },
+  {
+   "title": "Have you heard of the Portuguese speaking community in Maharashtra (Bridge Chronicle)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.thebridgechronicle.com/amp/story/lifestyle/art-culture/have-you-heard-of-the-portuguese-speaking-community-in-maharashtra",
+   "found_in_search": true
+  }
+ ]
+}

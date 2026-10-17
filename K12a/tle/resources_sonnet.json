@@ -1,0 +1,38 @@
+{
+ "iso": "tle",
+ "name": "Southern Marakwet",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:45:23Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Library of Congress authority record: Endo / Sambirir / Markweta",
+   "type": "other",
+   "language": "English",
+   "url": "https://id.loc.gov/authorities/subjects/sh2004014786.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Marakwet people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.org/wiki/Marakwet",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sambirir (Southern Markweeta)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/9569",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Marakwet Kalenjin in Kenya",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/11760",
+   "found_in_search": true
+  }
+ ]
+}

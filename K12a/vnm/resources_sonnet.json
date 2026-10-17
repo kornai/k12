@@ -1,0 +1,59 @@
+{
+ "iso": "vnm",
+ "name": "Neve’ei",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:11:01Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Neve'ei, Vanuatu (Musgrave, ANU repository record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/items/54461ea4-c24c-43d8-8d7d-094986566440/full",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Neve'ei, Vanuatu (PDF, Pacific Linguistics 587)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/146743/1/587_Musgrave.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Basic Vocabulary Database: Neve'ei",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=484",
+   "found_in_search": true
+  },
+  {
+   "title": "Neve'ei language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Neve%CA%BBei_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Neve'ei (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Neveei",
+   "found_in_search": true
+  },
+  {
+   "title": "Neve'ei (Endangered Languages Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/97182",
+   "found_in_search": true
+  },
+  {
+   "title": "Neve'ei writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/neveei.htm",
+   "found_in_search": true
+  }
+ ]
+}

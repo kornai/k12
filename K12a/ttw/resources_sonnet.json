@@ -1,0 +1,38 @@
+{
+ "iso": "ttw",
+ "name": "Long Wat",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:16:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tutoh language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tutoh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Nuclear Long Wat",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/nucl1560.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Comparative Dictionary: Kenyah (Long Wat) entry from Blust 1971",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://acd.clld.org/values/19298-157c868836217ecc164cd65c8c6a0d6d-1",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/9769?hl=de",
+   "found_in_search": true
+  }
+ ]
+}

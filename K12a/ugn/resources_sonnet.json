@@ -1,0 +1,38 @@
+{
+ "iso": "ugn",
+ "name": "Ugandan Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:47:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Isoto thesis on Ugandan Sign Language as an elective in lower secondary (Kyambogo University repository record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://kyuspace.kyu.ac.ug/items/b00791e8-f131-46b7-9233-4dd4ea40b24e",
+   "found_in_search": true
+  },
+  {
+   "title": "Govt urged to develop sign language syllabus (KFM)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.kfm.co.ug/govt-urged-to-develop-sign-language-syllabus",
+   "found_in_search": true
+  },
+  {
+   "title": "Uganda Sign Language Dictionary (library catalogue record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://catalogue.umu.ac.ug/bib/38718",
+   "found_in_search": true
+  },
+  {
+   "title": "Ugandan Sign Language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ugandan_Sign_Language",
+   "found_in_search": true
+  }
+ ]
+}

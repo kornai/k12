@@ -1,0 +1,45 @@
+{
+ "iso": "trx",
+ "name": "Bidayuh, Tringgus-Sembaan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:53:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tringgus (Glottolog)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/trin1272.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Rensch et al. 2012 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/318599",
+   "found_in_search": true
+  },
+  {
+   "title": "Land Dayak languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Land_Dayak_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Tringgus-Sembaan Bidayuh language (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/trx",
+   "found_in_search": true
+  },
+  {
+   "title": "Tringgus in Malaysia (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15577/MY",
+   "found_in_search": true
+  }
+ ]
+}

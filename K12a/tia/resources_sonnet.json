@@ -1,0 +1,38 @@
+{
+ "iso": "tia",
+ "name": "Tamazight, Tidikelt",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:17:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tidikelt language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tidikelt_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tidikelt-Tuat Tamazight language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tidikelt%E2%80%93Tuat_Tamazight_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation and description of Tidikelt-Tuat Tamazight, an endangered Berber language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/documentation-and-description-of-tidikelt-tuat-tamazight-an-endangered-berber-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tidikelt-Tuat Berber: documentation of language and culture (ELDP archive)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0671/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tbl",
+ "name": "Tboli",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:25:43Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tboli - English Dictionary (Webonary, SIL International)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/tboli/?p=146817",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Tboli dictionary page",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/tboli/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Tboli overview and copyright",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.webonary.org/tboli/overview/copyright/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tboli-English dictionary (SIL Manila, 2004), UP library record",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ds.mainlib.upd.edu.ph/Record/UP-99796217604438412",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian Basic Vocabulary Database: Tboli (Tagabili)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=133",
+   "found_in_search": true
+  },
+  {
+   "title": "Tboli language (Wikipedia, ISO 639:tbl)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tbl",
+   "found_in_search": true
+  }
+ ]
+}

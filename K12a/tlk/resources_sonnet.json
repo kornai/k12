@@ -1,0 +1,38 @@
+{
+ "iso": "tlk",
+ "name": "Taloki",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:49:05Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language: Taloki (Austronesian Basic Vocabulary Database)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=908",
+   "found_in_search": true
+  },
+  {
+   "title": "Language: Taloki (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Taloki",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexicostatistics study relating Taloki and Tolaki (Atlantis Press)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.atlantis-press.com/article/125967751.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Taloki in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15219",
+   "found_in_search": true
+  }
+ ]
+}

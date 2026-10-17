@@ -1,0 +1,45 @@
+{
+ "iso": "tgd",
+ "name": "Choogen",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:58:46Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ciwogai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ciwogai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Ciwogai (ciwo1236)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/ciwo1236.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Channumerals: Ciwogai numerals",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Ciwogai.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP source 2506",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/sources/2506",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language tgd",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/tgd",
+   "found_in_search": true
+  }
+ ]
+}

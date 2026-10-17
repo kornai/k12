@@ -1,0 +1,38 @@
+{
+ "iso": "taq",
+ "name": "Tamasheq",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:16:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tamasheq language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tamasheq_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tamasheq writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tamasheq.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of the Tamasheq of North-East Burkina Faso (Sudlow)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_dictionary-of-the-tamasheq-of-north-east-burkina-faso",
+   "found_in_search": true
+  },
+  {
+   "title": "Study on Tamasheq-French convergent pedagogy in Mali",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.ufcat.edu.br/index.php/lep/article/download/45813/22561/192380",
+   "found_in_search": true
+  }
+ ]
+}

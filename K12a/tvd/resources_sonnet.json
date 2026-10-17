@@ -1,0 +1,52 @@
+{
+ "iso": "tvd",
+ "name": "Tsuvadi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:29:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vadi (TsuVadi) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/vadi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Vadi language - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vadi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Blench 2007 - PHOIBLE source",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/sources/1653_tvd_blench",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages catalogue entry for Tsuvadi",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/bn/node/96036",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Avadi, Tsivadi in Nigeria",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15595/NI",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Tsuvadi (Shambo)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/2079",
+   "found_in_search": true
+  }
+ ]
+}

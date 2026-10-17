@@ -1,0 +1,9 @@
+{
+ "iso": "wea",
+ "name": "Wewaw",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:29:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": []
+}

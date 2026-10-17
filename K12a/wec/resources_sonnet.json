@@ -1,0 +1,31 @@
+{
+ "iso": "wec",
+ "name": "Wè Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:30:50Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Guere language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Guere_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Unité et diversité du W de Côte d'Ivoire",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journalofwestafricanlanguages.org/downloads/send/93-volume3302/458-unite-et-diversite-du-w-de-cote-d-ivoire",
+   "found_in_search": true
+  },
+  {
+   "title": "Guere (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com:443/writing/guere.htm",
+   "found_in_search": true
+  }
+ ]
+}

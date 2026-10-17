@@ -1,0 +1,38 @@
+{
+ "iso": "urv",
+ "name": "Uruava",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:20:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Uruava dictionary (Surrey Morphology Group)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/uruava/uruava-dictionary/v2",
+   "found_in_search": true
+  },
+  {
+   "title": "Uruava language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Uruava_language",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC series NSBURU, Bougainville field notes",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.paradisec.org.au/fieldnotes/NSBURU.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Uruava (endangered languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Uruava",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "tuv",
+ "name": "Turkana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:26:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sitting on the dry sand with children in Turkana: Dr John Ng'asike's experience (African Storybook)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.africanstorybook.org/use.php?id=25",
+   "found_in_search": true
+  },
+  {
+   "title": "Ng'asike, mother-tongue and family literacy research (Kenyatta University repository)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://kerd.ku.ac.ke/handle/123456789/803",
+   "found_in_search": true
+  },
+  {
+   "title": "Turkana language (Cambridge Language Centre)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langt/turkana.html",
+   "found_in_search": true
+  },
+  {
+   "title": "The Turkana language (Cambridge Language Centre data page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langt/data/tu_101.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Turkana language (Wikipedia; lists Barrett dictionaries and Dimmendaal grammar)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Turkana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Resources: Turkana (Scripture Earth)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tuv",
+   "found_in_search": true
+  },
+  {
+   "title": "Turkana language (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/745",
+   "found_in_search": true
+  }
+ ]
+}

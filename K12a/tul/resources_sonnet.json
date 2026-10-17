@@ -1,0 +1,59 @@
+{
+ "iso": "tul",
+ "name": "Tula",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:24:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Modern Tula-English-Hausa Dictionary (Mu'azu and Polo), announced on LINGUIST List",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://linguistlist.org/issues/26/2013",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank entry for Tula (cites Blench and Tula 2012 dictionary)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/tula1252",
+   "found_in_search": true
+  },
+  {
+   "title": "Lukas 1954/56 Grammar of the Tula language (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/89075",
+   "found_in_search": true
+  },
+  {
+   "title": "Tula language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tula-Waja languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tula%E2%80%93Waja_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Tula-Waja Group (Adamawa Languages Project, Mainz)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.blogs.uni-mainz.de/fb07-adamawa/tula-waja-group/",
+   "found_in_search": true
+  },
+  {
+   "title": "AdaGram (LLACAN-CNRS) Adamawa grammar page",
+   "type": "academic",
+   "language": "English",
+   "url": "https://llacan.cnrs.fr/AdaGram/dijim.html",
+   "found_in_search": true
+  }
+ ]
+}

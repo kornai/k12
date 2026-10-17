@@ -1,0 +1,52 @@
+{
+ "iso": "tsr",
+ "name": "Akei",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:02:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Akei language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Akei_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Akei (Tlopo CLLD database)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://tlopo.clld.org/languages/akei",
+   "found_in_search": true
+  },
+  {
+   "title": "Espiritu Santo languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Espiritu_Santo_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Akei, Tasiriki in Vanuatu (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10222",
+   "found_in_search": true
+  },
+  {
+   "title": "Vernacular language use in schools: Teachers' perspectives on implementing the Vanuatu national language policy (Franjieh et al. 2025)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://nzlingsoc.org/wp-content/uploads/2025/12/3-5-Franjieh-et-al-2025-Vernacular-language-use-in-schools.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Vernacular literacy development in Vanuatu: Comparative case studies",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/0e64353d-05e0-4cd1-8a5a-5acb252d9dc7",
+   "found_in_search": true
+  }
+ ]
+}

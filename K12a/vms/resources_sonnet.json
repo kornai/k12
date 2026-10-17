@@ -1,0 +1,45 @@
+{
+ "iso": "vms",
+ "name": "Moksela",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:08:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Moksela language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Moksela_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Moksela language (Wikipedia, ISO 639 vms)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:vms",
+   "found_in_search": true
+  },
+  {
+   "title": "Sula language (Wikipedia), related living language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sula_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sula: Its language, land, and people (ScholarSpace dissertation)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/daeb65e2-8b98-4002-93b2-ced62f91fe4d",
+   "found_in_search": true
+  },
+  {
+   "title": "25 Local Languages in Indonesia Almost Extinct, Expert says (Tempo)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.tempo.co/amp/714877/25-local-languages-in-indonesia-almost-extinct-expert-says",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "iso": "tuk",
+ "name": "Turkmen",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:22:07Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Turkmen Language Manual (Tyson and Clark, Peace Corps 1993)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://altaica.ru/LIBRARY/Tyson,%20Clark_Turkmen%20Language%20Manual%201993_OCR.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Beginning Turkmen (Five College course guides)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://langmedia.fivecolleges.edu/book/export/html/190292",
+   "found_in_search": true
+  },
+  {
+   "title": "Learn Turkmen, beginner to advanced (Udemy)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.udemy.com/course/learn-turkmen-beginner-to-advanced/",
+   "found_in_search": true
+  },
+  {
+   "title": "Turkmenisch Kurzgrammatik (distributor page)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://isdistribution.com/?p=1410124",
+   "found_in_search": true
+  },
+  {
+   "title": "UCLA: Turkmen language resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.international.ucla.edu/ccs/article/123625",
+   "found_in_search": true
+  },
+  {
+   "title": "UCLA Institute: Turkmen resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://international.ucla.edu/institute/article/123710",
+   "found_in_search": true
+  },
+  {
+   "title": "Harvard Caspiana: Turkmenistan academic resources",
+   "type": "academic",
+   "language": "English",
+   "url": "https://caspiana.omeka.fas.harvard.edu/exhibits/show/turkmenistan/academic-resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Turkmen language resources (Universe of Memory)",
+   "type": "other",
+   "language": "English",
+   "url": "https://universeofmemory.com/turkmen-language-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Iowa CLCL: Turkmen",
+   "type": "other",
+   "language": "English",
+   "url": "https://clcl.uiowa.edu/node/241",
+   "found_in_search": true
+  }
+ ]
+}

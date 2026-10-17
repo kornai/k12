@@ -1,0 +1,45 @@
+{
+ "iso": "tsu",
+ "name": "Tsou",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:04:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Omniglot: Tsou (Cou)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tsou.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tung, A Descriptive Study of the Tsou Language (Academia Sinica catalogue)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://ir.sinica.edu.tw/handle/201000000A/6224",
+   "found_in_search": true
+  },
+  {
+   "title": "Austronesian typology database: Tsou",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lpan.eva.mpg.de/austronesian/language.php?id=824",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Taiwan: Tsou (The Language Closet)",
+   "type": "other",
+   "language": "English",
+   "url": "https://thelanguagecloset.com/2021/03/06/languages-of-taiwan-tsou/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tsou word list 1993 (Endangered Languages Project)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/hi/node/96659",
+   "found_in_search": true
+  }
+ ]
+}

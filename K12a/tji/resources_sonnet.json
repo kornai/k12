@@ -1,0 +1,52 @@
+{
+ "iso": "tji",
+ "name": "Tujia, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:29:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "LINGUIST List 18.311 (review of Brassett grammar of Northern Tujia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/18/311/",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 17.288",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/17/288",
+   "found_in_search": true
+  },
+  {
+   "title": "Tujia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tujia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tujia language and culture page",
+   "type": "other",
+   "language": "other",
+   "url": "https://tujiayu.hu60.cn/elng/elintro.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Northern Tujia (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/4225?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation of the Southern Tujia Language of China (ELDP)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk0260/",
+   "found_in_search": true
+  }
+ ]
+}

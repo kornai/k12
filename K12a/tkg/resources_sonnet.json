@@ -1,0 +1,31 @@
+{
+ "iso": "tkg",
+ "name": "Tesaka Malagasy",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:36:54Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Antesaka dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Antesaka_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Malagasy dialect classification and dictionary coverage (Academia.edu paper)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/8193206",
+   "found_in_search": true
+  },
+  {
+   "title": "Antaisaka (langue)",
+   "type": "other",
+   "language": "other",
+   "url": "https://franco.wiki/fr/Antaisaka_%28langue%29.html",
+   "found_in_search": true
+  }
+ ]
+}

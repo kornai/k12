@@ -1,0 +1,38 @@
+{
+ "iso": "tez",
+ "name": "Tetserret",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:54:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tetserret language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tetserret_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Review of Le tetserret, langue berbere du Niger (Sarvasy)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/review-of-le-tetserret-langue-berb%C3%A3re-du-niger/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tetserret in ASJP (word list)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TETSERRET_2",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Berber languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Western_Berber_languages",
+   "found_in_search": true
+  }
+ ]
+}

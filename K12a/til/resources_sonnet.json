@@ -1,0 +1,59 @@
+{
+ "iso": "til",
+ "name": "Tillamook",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:22:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tillamook - English Online Talking Dictionary (UBC RelLex)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Tillamook_-_English_Online_Talking_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "A Comparison of Five Salish Languages (Volumes I - VI)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/A_Comparison_of_Five_Salish_Languages_(Volumes_I_-_VI)",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record for Tillamook",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/31549",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Tillamook word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TILLAMOOK",
+   "found_in_search": true
+  },
+  {
+   "title": "Tillamook people (background)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tillamook_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project Tillamook sample",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.endangeredlanguages.com/lang/5396/samples/11149?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Library catalogue record (Tillamook-related)",
+   "type": "other",
+   "language": "English",
+   "url": "https://opac.nwic.edu/eg/opac/record/36971?locg=1",
+   "found_in_search": true
+  }
+ ]
+}

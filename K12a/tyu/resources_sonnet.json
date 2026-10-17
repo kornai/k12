@@ -1,0 +1,38 @@
+{
+ "iso": "tyu",
+ "name": "Kua",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:55:08Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Evolex Khoe-Kwadi dictionary: introduction",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://evolex.huma-num.fr/home_Khoe-Kwadi.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Tshwa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tshwa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project listing",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node?page=904",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kua language profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/tyu",
+   "found_in_search": true
+  }
+ ]
+}

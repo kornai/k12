@@ -1,0 +1,31 @@
+{
+ "iso": "ved",
+ "name": "Veddah",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:55:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vedda language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vedda_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Veddah - Verbix Endangered Languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Veddah",
+   "found_in_search": true
+  },
+  {
+   "title": "K. N. O. Dharmadasa 1990 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/313723",
+   "found_in_search": true
+  }
+ ]
+}

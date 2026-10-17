@@ -1,0 +1,45 @@
+{
+ "iso": "twi",
+ "name": "Twi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:37:33Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Twi (Akan, Asante) resource list, Cambridge Language Centre",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langt/twi.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Akan language resources (includes FSI Akan course)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://universeofmemory.com/akan-language-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Christaller 1881 dictionary of the Asante and Fante language (University of Ghana repository)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ugspace.ug.edu.gh/items/4fbc144d-4bbf-43be-9097-308cb7e7d3d6/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Asante Twi-English/English-Asante Twi Dictionary and Phrasebook (Hippocrene)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.hippocrenebooks.com/store/p44/AsanteTwiDictionaryandPhrasebook.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Trilingual Twi-French-English learning app page",
+   "type": "software",
+   "language": "other",
+   "url": "https://resulam.com/?p=1282",
+   "found_in_search": true
+  }
+ ]
+}

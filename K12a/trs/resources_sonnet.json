@@ -1,0 +1,31 @@
+{
+ "iso": "trs",
+ "name": "Chicahuaxtla Triqui",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:51:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Chicahuaxtla Triqui writing and alphabet (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/chicahuaxtlatriqui.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Trique languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Trique_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Copala Triqui Webonary (different variety, for comparison)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/copalatriqui/help/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tly",
+ "name": "Talysh",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:54:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Manual of Talishi (Avchyan and Voskanyan, 2022), review",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://journals.ysu.am/j-orient-stud/article/view/11020",
+   "found_in_search": true
+  },
+  {
+   "title": "Learn Talysh (Rauf Khalilov)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.betterread.com.au/book/learn-talysh.do",
+   "found_in_search": true
+  },
+  {
+   "title": "Talyshi-Russian-Azerbaijani Dictionary (Mamedov, 2006), review",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://muse.jhu.edu/article/462410",
+   "found_in_search": true
+  },
+  {
+   "title": "Talysh language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Talysh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Talysh",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/talysh.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Yerevan State University news item on Talysh",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ysu.am/en/news/74871",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "trw",
+ "name": "Torwali",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:53:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Torwali language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Torwali_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Torwali - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/112285",
+   "found_in_search": true
+  },
+  {
+   "title": "Torwali language sample - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3501/samples/11346?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "ZASPiL 64: Torwali (Zubair Torwali)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://publikationen.ub.uni-frankfurt.de/opus4/files/55890/ZASPiL_64_30_Torwali.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Torwali exhibit: community response (IBT)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://torwali.omeka.net/exhibits/show/torwaliexhibit/community-response",
+   "found_in_search": true
+  },
+  {
+   "title": "Article by Zubair Torwali, Criterion Quarterly",
+   "type": "academic",
+   "language": "English",
+   "url": "https://criterion-quarterly.com/?p=6811",
+   "found_in_search": true
+  },
+  {
+   "title": "Article by Zubair Torwali, Criterion Quarterly (2)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://criterion-quarterly.com/?p=6529",
+   "found_in_search": true
+  }
+ ]
+}

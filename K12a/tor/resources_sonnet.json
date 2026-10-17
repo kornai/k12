@@ -1,0 +1,52 @@
+{
+ "iso": "tor",
+ "name": "Banda, Togbo-Vara",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:25:59Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ASJP: Togbo Vara Banda wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TOGBO_VARA_BANDA",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Togbo-Vara Banda language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/tor",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Togbo-Vara Banda in the DRC",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15529/CG",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Banda, Togbo-Vara",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/tor",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Banda, Togbo-Vara: Togbo",
+   "type": "audio",
+   "language": "English",
+   "url": "https://www.globalrecordings.net/en/language/7667",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Banda, Togbo-Vara: Vara",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/7668",
+   "found_in_search": true
+  }
+ ]
+}

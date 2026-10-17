@@ -1,0 +1,38 @@
+{
+ "iso": "tiu",
+ "name": "Adasen",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:25:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Adasen language capsule (UP Diliman Linguistics)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistics.upd.edu.ph/the-katig-collective/language-capsules/adasen/",
+   "found_in_search": true
+  },
+  {
+   "title": "Adasen scripture resources (ScriptureEarth)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=tiu",
+   "found_in_search": true
+  },
+  {
+   "title": "Adasen Tinguian Itneg in Philippines (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10155",
+   "found_in_search": true
+  },
+  {
+   "title": "Adasen (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/87905",
+   "found_in_search": true
+  }
+ ]
+}

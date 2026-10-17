@@ -1,0 +1,52 @@
+{
+ "iso": "teu",
+ "name": "Soo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:52:52Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Soo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Soo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "So (Tepeth) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/So_(Tepeth)",
+   "found_in_search": true
+  },
+  {
+   "title": "Soo numerals, Mount Kadam, Uganda (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Soo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Soo bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5081/bibliography?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Tepeth in Uganda (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/15348/UG",
+   "found_in_search": true
+  },
+  {
+   "title": "Soo language page (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/teu",
+   "found_in_search": true
+  }
+ ]
+}

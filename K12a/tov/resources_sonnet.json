@@ -1,0 +1,38 @@
+{
+ "iso": "tov",
+ "name": "Taromi, Upper",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:27:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Verbix: Upper Taromi",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/UpperTaromi",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Upper Taromi word list",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/UPPER_TAROMI",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Tati language (Iran)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.org/wiki/Kabatei",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Upper Taromi in Iran",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18866",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "ury",
+ "name": "Orya",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:20:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Orya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Orya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Orya-Tor languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Orya%E2%80%93Tor_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Orya",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/northwest-new-guinea/foja-range/orya-tor-river/orya",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: Category Orya language",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/Category:Orya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sabda language profile 502 ury 001",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://bakat.sabda.org/502-ury-001.html",
+   "found_in_search": true
+  }
+ ]
+}

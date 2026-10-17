@@ -1,0 +1,52 @@
+{
+ "iso": "tar",
+ "name": "Central Tarahumara",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:18:37Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A grammar of Choguita Rarámuri (Language Science Press)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://langsci-press.org/catalog/book/324",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Choguita Rarámuri (Refubium, FU Berlin)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://refubium.fu-berlin.de/handle/fub188/37751?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Choguita Rarámuri (OAPEN)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://0-library-oapen-org.catalogue.libraries.london.ac.uk/handle/20.500.12657/60563?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Caballero: Choguita Rarámuri documentation guide (Language Documentation & Conservation 11)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/cfa6f5ec-6c4d-4717-9abe-cb9af05cc50b",
+   "found_in_search": true
+  },
+  {
+   "title": "Rarámuri materials, ACLS collection (American Philosophical Society)",
+   "type": "other",
+   "language": "other",
+   "url": "https://indigenousguide.amphilsoc.org/entry/39960",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarahumara materials, Jane M. Rosenthal Papers (American Philosophical Society)",
+   "type": "other",
+   "language": "other",
+   "url": "https://indigenousguide.amphilsoc.org/entry/39272",
+   "found_in_search": true
+  }
+ ]
+}

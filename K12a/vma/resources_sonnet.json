@@ -1,0 +1,59 @@
+{
+ "iso": "vma",
+ "name": "Martuyhunira",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:05:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wangka Maya: Martuthunira",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wangkamaya.org.au/pilbara-languages/martuthunira",
+   "found_in_search": true
+  },
+  {
+   "title": "Language centre as language revitalisation strategy: a case study from the Pilbara",
+   "type": "academic",
+   "language": "English",
+   "url": "https://open.sydneyuniversitypress.com.au/9781920899554/rl-language-centre-as-language-revitalisation-strategy-a-case-study-from-the-pilbara.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Martuthunira: a language of the Pilbara region of Western Australia (Dench grammar)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/handle/1885/10733",
+   "found_in_search": true
+  },
+  {
+   "title": "Martuthunira language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Martuthunira_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang W35 Martuthunira",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/w35",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Description Heritage: vma",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ldh.clld.org/languages/vma",
+   "found_in_search": true
+  },
+  {
+   "title": "Mardudunera people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mardudunera_people",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "tty",
+ "name": "Sikaritai",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:16:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sikaritai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sikaritai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Clouse 1997 (Lakes Plain source, Trans New Guinea database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/clouse-1997?page=109",
+   "found_in_search": true
+  },
+  {
+   "title": "Lakes Plain languages (Wikipedia mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://static.hlt.bme.hu/semantics/external/pages/jokuc/en.wikipedia.org/wiki/Lakes_Plain_languages.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Aikwakai, Sikaritai in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10197",
+   "found_in_search": true
+  }
+ ]
+}

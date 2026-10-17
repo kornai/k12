@@ -1,0 +1,66 @@
+{
+ "iso": "thk",
+ "name": "Kitharaka",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:11:31Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tûthoome Kîîtharaka: Let's read Kitharaka (Self-teaching Transition Primer, 2000)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.syncog.ppls.ed.ac.uk/KiitharakaProject/site/K%C3%AE%C3%AEtharaka_Digital_Materials/Tharaka%20Self-teaching%20Transition%20Primer%20(2000)/Self-teaching%20Transition%20Primer%20(2000).pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tharaka Std 3 Students book (2003, reprint 2009)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.syncog.ppls.ed.ac.uk/KiitharakaProject/site/K%C3%AE%C3%AEtharaka_Digital_Materials/Tharaka%20Std%203%20Students%20book%20(2003,%20reprint%209)/Tharaka%20Std%203%20final%20B5.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference: Tûthoomeni Kîtharaka 1 (BTL)",
+   "type": "academic",
+   "language": "native",
+   "url": "https://glottolog.org/resource/reference/id/45874",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kitharaka language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/thk",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tharaka in Kenya",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15463",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Kitharaka",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=thk",
+   "found_in_search": true
+  },
+  {
+   "title": "Digital Bible Society: Kitharaka Bible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/THKBTL",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Kitharaka",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/thk",
+   "found_in_search": true
+  }
+ ]
+}

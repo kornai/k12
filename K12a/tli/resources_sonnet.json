@@ -1,0 +1,66 @@
+{
+ "iso": "tli",
+ "name": "Tlingit",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:47:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SHI Tlingit Language Proficiency Scope and Sequence and Learning Tlingit app",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://sealaskaheritage.org/?p=10159",
+   "found_in_search": true
+  },
+  {
+   "title": "SHI Southeast Alaskan Native language learning and teaching resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://sealaskaheritage.org/alaskan-native-language-learners/shi-southeast-alaskan-native-language-learning-teaching-resources/",
+   "found_in_search": true
+  },
+  {
+   "title": "Unique Tlingit Curriculum Series Produced (2007)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://listserv.linguistlist.org/pipermail/ilat/2007-July/003257.html",
+   "found_in_search": true
+  },
+  {
+   "title": "District sets Tlingit curriculum (2007)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://listserv.linguistlist.org/pipermail/ilat/2007-July/003290.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Alaska State Library: Sealaska Heritage Institute Language Resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://lam.alaska.gov/sled/languages/aknative",
+   "found_in_search": true
+  },
+  {
+   "title": "SHI Language Department",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://sealaskaheritage.org/shi-language-department/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tlingit Culture, Language and Literacy programme (Juneau)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://sealaskaheritage.org/?p=5383",
+   "found_in_search": true
+  },
+  {
+   "title": "SFTHCC: Learn Tlingit, Haida or Tsimshian",
+   "type": "other",
+   "language": "English",
+   "url": "https://sfthcc.org/learn-tlingit-haida-or-tsimshian",
+   "found_in_search": true
+  }
+ ]
+}

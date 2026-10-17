@@ -1,0 +1,17 @@
+{
+ "iso": "txj",
+ "name": "Tarjumo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:45:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tarjumo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tarjumo_language",
+   "found_in_search": true
+  }
+ ]
+}

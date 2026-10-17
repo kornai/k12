@@ -1,0 +1,45 @@
+{
+ "iso": "uvl",
+ "name": "Lote",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:27:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lote language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lote_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ABVD: Lote",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://abvd.eva.mpg.de/austronesian/language.php?id=1709",
+   "found_in_search": true
+  },
+  {
+   "title": "Lote numerals (MPI channumerals)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Lote.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Lote writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/lote.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Lote in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15754",
+   "found_in_search": true
+  }
+ ]
+}

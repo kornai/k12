@@ -1,0 +1,52 @@
+{
+ "iso": "tht",
+ "name": "Tahltan",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:15:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tahltan Children's Illustrated Dictionary (FirstVoices, via UBC RelLex)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Tahltan_Children%27s_Illustrated_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar and Dictionary of the Language Spoken by the Tahltans on the Stikine River",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/A_Grammar_and_Dictionary_of_the_Language_Spoken_by_the_Tahltans_on_the_Stikine_River,_British_Columbia",
+   "found_in_search": true
+  },
+  {
+   "title": "Tahltan FirstVoices",
+   "type": "software",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/T%C4%81%C5%82t%C4%81n_FirstVoices",
+   "found_in_search": true
+  },
+  {
+   "title": "A dictionary project is underway to revive and make language more accessible for Tahltans",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://languageconservancy.org/a-dictionary-project-is-underway-to-revive-and-make-language-more-accessible-for-tahltans-terrace-standard/",
+   "found_in_search": true
+  },
+  {
+   "title": "Taltan Dictionary Project aims to preserve endangered Indigenous language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://languageconservancy.org/taltan-dictionary-project-aims-to-preserve-endangered-indigenous-language-cftk-tv/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tahltan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tahltan_language",
+   "found_in_search": true
+  }
+ ]
+}

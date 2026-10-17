@@ -1,0 +1,45 @@
+{
+ "iso": "trb",
+ "name": "Terebu",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:44:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Terebu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Terebu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Terebu numerals - Max Planck EVA",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Terebu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Terebu - ASJP",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/TEREBU",
+   "found_in_search": true
+  },
+  {
+   "title": "Terebu - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1811?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "Terepu in Papua New Guinea - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15442",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "iso": "tkx",
+ "name": "Tangko",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:43:39Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tangko language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tangko_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tangko, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3539",
+   "found_in_search": true
+  },
+  {
+   "title": "Tangko numerals (Chan numerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tangko.htm",
+   "found_in_search": true
+  }
+ ]
+}

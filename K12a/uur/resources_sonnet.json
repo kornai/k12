@@ -1,0 +1,38 @@
+{
+ "iso": "uur",
+ "name": "Ura",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:26:10Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Review of Crowley, Ura: A disappearing language of southern Vanuatu (Project MUSE)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://muse.jhu.edu/article/25417",
+   "found_in_search": true
+  },
+  {
+   "title": "Ura language (Vanuatu) (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ura_language_%28Vanuatu%29",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Erromango (bibliography)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nthieberger.net/vanlangs/ERRO.HTM",
+   "found_in_search": true
+  },
+  {
+   "title": "Ura (Vanuatu) (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2446",
+   "found_in_search": true
+  }
+ ]
+}

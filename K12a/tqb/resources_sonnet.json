@@ -1,0 +1,38 @@
+{
+ "iso": "tqb",
+ "name": "Tembé",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:39:41Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tenetehara language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tenetehara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Povos Indigenas no Brasil: Tembe",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.indios.org.br/en/Povo:Temb%C3%A9",
+   "found_in_search": true
+  },
+  {
+   "title": "Duarte thesis on Tembe (UFMG repository)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.ufmg.br//bitstreams/34f8e8b6-3909-47df-b3c7-6b78ea82a6d3/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Tabita Fernandes da Silva, UnB 2010 dissertation on Tenetehara",
+   "type": "academic",
+   "language": "other",
+   "url": "https://repositorio.unb.br/bitstream/10482/8947/3/2010_TabitaFernandesdaSilva.pdf",
+   "found_in_search": true
+  }
+ ]
+}

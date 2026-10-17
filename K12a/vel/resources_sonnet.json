@@ -1,0 +1,45 @@
+{
+ "iso": "vel",
+ "name": "Veluws",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:55:38Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Veluws dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Veluws_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "West-Veluws dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/West-Veluws_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Oost-Veluws dialect (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Oost-Veluws_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Veluws spellingslijstje",
+   "type": "orthography",
+   "language": "native",
+   "url": "https://www.ecal.nu/assets/dd6cd6d8b5/Veluws-spellingslijstje.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Noord Veluws word list (mijnwoordenboek.nl)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.mijnwoordenboek.nl/dialect/Noord-Veluws",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "tsg",
+ "name": "Tausug",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:57:03Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "English-Bahasa Sug Dictionary (Bangahan, Vibal 2015), publisher listing",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://artbooks.ph/products/english-bahasa-sug-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Hassan, Ashley and Ashley 1994, Tausug-English Dictionary (Glottolog)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/158613",
+   "found_in_search": true
+  },
+  {
+   "title": "Copet 1957, Tausug Dictionary (Glottolog)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/318675",
+   "found_in_search": true
+  },
+  {
+   "title": "Tausug dictionary on Webonary, preface to the 1975 edition",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/tausug/overview/preface-1975-edition/",
+   "found_in_search": true
+  },
+  {
+   "title": "DLI Tausug Language Course",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.fsi-language-courses.org/tausug/courses/dli-tausug-language-course",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article on MTB-MLE (DepEd Order 16 s. 2012 context)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://journals.upd.edu.ph/index.php/archive/article/download/9334/8248",
+   "found_in_search": true
+  },
+  {
+   "title": "Knowing about MTB-MLE (slides)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.slideshare.net/slideshow/knowing-about-mtbmle/68071062",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "txh",
+ "name": "Thracian",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:45:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Thracian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Thracian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Corpus of Inscriptions in the Local Language(s) of Thrace (Santamaria, Selvi abstract)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://epigraphy.info/documents/workshop_10/abstracts/Santamaria-Selvi.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Corpus of Inscriptions in the Local Language(s) of Thrace (Santamaria abstract)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://epigraphy.info/documents/workshop_10/abstracts/Santamaria.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Report EKG Santamaria (Kiel Thracian corpus project)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.ku.de/fileadmin/140201/Ernst-Kirsten-Gesellschaft/Report_EKG_Santamaria.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Dana, inscriptions of the Thracian area (HAL)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://halshs.archives-ouvertes.fr/halshs-01405153",
+   "found_in_search": true
+  },
+  {
+   "title": "Cambridge Scholars Publishing sample chapter 978-1-4438-1325-9",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridgescholars.com/resources/pdfs/978-1-4438-1325-9-sample.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Papers by Albena Mircheva-Zhechkova (Thracian glosses)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://uni-sofia.academia.edu/AlbenaMirchevaZhechkova",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "tep",
+ "name": "Tepecano",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:51:09Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mason 1917, Tepecano, a Piman Language of Western Mexico (Grambank source record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/sources/sMasonTepecano",
+   "found_in_search": true
+  },
+  {
+   "title": "Tepecano materials, John Alden Mason Papers (American Philosophical Society)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://indigenousguide.amphilsoc.org/entry/39510",
+   "found_in_search": true
+  },
+  {
+   "title": "Penn Museum finding aid: Mason Tepecano materials",
+   "type": "academic",
+   "language": "English",
+   "url": "https://findingaids.library.upenn.edu/records/UPENN_MUSEUM_PU-MU.1139",
+   "found_in_search": true
+  },
+  {
+   "title": "Tepecano language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tepecano_language",
+   "found_in_search": true
+  }
+ ]
+}

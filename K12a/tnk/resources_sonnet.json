@@ -1,0 +1,59 @@
+{
+ "iso": "tnk",
+ "name": "Kwamera",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:11:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kwamera (Nafe) writing system - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/kwamera.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwamera Dictionary (Lindstrom, 1986) library record",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://find.library.upenn.edu/catalog/995510553503681",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwamera language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwamera_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Tanna",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nthieberger.net/vanlangs/TANNA.HTM",
+   "found_in_search": true
+  },
+  {
+   "title": "Cambridge Language Centre: Tanna languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langt/tanna.html",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC Series VTAN: Vanuatu, Tanna Island",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://www.paradisec.org.au/fieldnotes/VTAN.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Kwamera verbs",
+   "type": "other",
+   "language": "native",
+   "url": "https://docs.verbix.com/Languages/Kwamera",
+   "found_in_search": true
+  }
+ ]
+}

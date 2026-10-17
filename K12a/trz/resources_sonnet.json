@@ -1,0 +1,52 @@
+{
+ "iso": "trz",
+ "name": "Torá",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:55:02Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Torá language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tor%C3%A1_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Torá (DICE, University of Missouri)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dice.missouri.edu/assets/docs/south-america-other/Tora.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Torá numerals (MPI-EVA)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tora.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Chapacuran languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Chapacuran",
+   "found_in_search": true
+  },
+  {
+   "title": "Torá (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2140",
+   "found_in_search": true
+  },
+  {
+   "title": "Torá (Verbix endangered languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Tora",
+   "found_in_search": true
+  }
+ ]
+}

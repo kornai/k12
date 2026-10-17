@@ -1,0 +1,38 @@
+{
+ "iso": "trv",
+ "name": "Sediq",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:53:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Seediq language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Seediq_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Seediq (Sediq Taroko) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/seediq.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "NTHU course syllabus citing Chang's Reference Grammar of Seediq",
+   "type": "academic",
+   "language": "English",
+   "url": "https://khub.nthu.edu.tw/document/courses/09820GPTS530100.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Taiwan - Seediq (The Language Closet)",
+   "type": "other",
+   "language": "English",
+   "url": "https://thelanguagecloset.com/2020/12/12/languages-of-taiwan-seediq-kari-sediq-kari-seediq-kari-seejiq/",
+   "found_in_search": true
+  }
+ ]
+}

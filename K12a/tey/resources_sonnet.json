@@ -1,0 +1,45 @@
+{
+ "iso": "tey",
+ "name": "Tulishi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:54:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tulishi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tulishi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tulishi in Sudan (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15626",
+   "found_in_search": true
+  },
+  {
+   "title": "Kadu languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kadu_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden scholarly publication (possibly on Kadu; content not verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2729430/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Tulishi (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/tulishi.htm",
+   "found_in_search": true
+  }
+ ]
+}

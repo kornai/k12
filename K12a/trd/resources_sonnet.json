@@ -1,0 +1,38 @@
+{
+ "iso": "trd",
+ "name": "Turi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:44:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Brief Introduction to the Turi Language of Eastern India (Bhasha 2024)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://edizionicafoscari.it/it/edizioni4/riviste/bhasha/2024/2/a-brief-introduction-to-the-turi-language-of-easte/",
+   "found_in_search": true
+  },
+  {
+   "title": "A Brief Introduction to the Turi Language of Eastern India (PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://edizionicafoscari.it/media/pdf/article/bhasha/2024/2/art-10.30687-bhasha-2785-5953-2024-02-005.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Turi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Turi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Turi - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3507",
+   "found_in_search": true
+  }
+ ]
+}

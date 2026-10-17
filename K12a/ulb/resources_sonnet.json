@@ -1,0 +1,38 @@
+{
+ "iso": "ulb",
+ "name": "Olùkùmi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:55:36Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Olùkùmi Living Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/olukumi",
+   "found_in_search": true
+  },
+  {
+   "title": "Olùkùmi Living Dictionary: About",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://livingdictionaries.app/olukumi/about",
+   "found_in_search": true
+  },
+  {
+   "title": "A Lexicostatistics Comparison of Yoruba, Igbo and Olukumi Dialects",
+   "type": "academic",
+   "language": "English",
+   "url": "https://uilspace.unilorin.edu.ng/items/a7890ff3-de86-4cf9-b5ad-f0ee2f504d52",
+   "found_in_search": true
+  },
+  {
+   "title": "Olukumi: a dialect of Yoruba in diaspora",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.ui.edu.ng/items/66b432f8-6419-4583-8e2e-7dc3952817cb",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "tew",
+ "name": "Tewa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:54:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nambe Pueblo Tewa Language Program",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://sharenm.org/organization/print/nambe-pueblo/nambe-pueblo-tewa-language-program",
+   "found_in_search": true
+  },
+  {
+   "title": "Developing and Assessing a Cultural-Education Platform for Tewa Speakers (WPI)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://digitalcommons.wpi.edu/iqp-all/3299",
+   "found_in_search": true
+  },
+  {
+   "title": "San Juan Pueblo Tewa Dictionary (UBC RelLex entry)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/San_Juan_Pueblo_T%C3%A9wa_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Esther Martinez (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Esther_Martinez",
+   "found_in_search": true
+  },
+  {
+   "title": "Pueblo de San Ildefonso Law Library, council code 6.5.2.010",
+   "type": "policy",
+   "language": "English",
+   "url": "https://law.sanipueblo.org/us/nsn/san-ildefonso/council/code/6.5.2.010",
+   "found_in_search": true
+  }
+ ]
+}

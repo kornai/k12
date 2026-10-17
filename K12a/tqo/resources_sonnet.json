@@ -1,0 +1,52 @@
+{
+ "iso": "tqo",
+ "name": "Toaripi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:41:31Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "H.A. Brown on the Eleman language family (Pacific Linguistics, 1977)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/a028f429-a324-40e8-a7bd-96ff5690977f/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Toaripi language (Wikipedia overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tqo",
+   "found_in_search": true
+  },
+  {
+   "title": "Toaripi Bible (Safu Buka) on YouVersion",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/versions/3653",
+   "found_in_search": true
+  },
+  {
+   "title": "Toaripi in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15516",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page for tqo",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/tqo",
+   "found_in_search": true
+  },
+  {
+   "title": "News report on the digitised Toaripi New Testament",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.mnnonline.org/?p=78895",
+   "found_in_search": true
+  }
+ ]
+}

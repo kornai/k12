@@ -1,0 +1,45 @@
+{
+ "iso": "wed",
+ "name": "Wedau",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:30:50Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wedau Scripture (Mark and Acts), png.bible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://png.bible/pdf/wed/wed_all.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wedau front matter",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://png.bible/pdf/wed/wed_FRT.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wedau on eBible",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/wed/INT01.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Taupota language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taupota_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wedau in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15900",
+   "found_in_search": true
+  }
+ ]
+}

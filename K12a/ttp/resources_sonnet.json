@@ -1,0 +1,59 @@
+{
+ "iso": "ttp",
+ "name": "Tombelala",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:12:53Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mbelala language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mbelala_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tombelala",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2797",
+   "found_in_search": true
+  },
+  {
+   "title": "Mead and Mead 1991 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/96623",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Tombelala endangered language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Tombelala",
+   "found_in_search": true
+  },
+  {
+   "title": "Tombelala in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15548",
+   "found_in_search": true
+  },
+  {
+   "title": "Tombelala people-group profile (Asia Harvest)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Indonesia/Tombelala.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: ttp",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/ttp",
+   "found_in_search": true
+  }
+ ]
+}

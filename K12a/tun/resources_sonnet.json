@@ -1,0 +1,66 @@
+{
+ "iso": "tun",
+ "name": "Tunica",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:24:19Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language & Culture Revitalization Program, Tunica-Biloxi Tribe",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://tunicabiloxi.org/tribal-info/departments/language-culture-revitalization-program",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunica-Biloxi Tribe welcomes new linguist to Language and Culture Revitalization Program",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.tunicabiloxi.org/the-tunica-biloxi-tribe-of-louisiana-welcomes-new-linguist-to-language-and-culture-revitalization-program-staff/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunica-Biloxi tribe receives grant for language preservation",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.tunicabiloxi.org/tunica-biloxi-tribe-receives-grant-for-language-preservation/",
+   "found_in_search": true
+  },
+  {
+   "title": "About the Tunica Language Project (Tulane University)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tunica.wp.tulane.edu/about/about-the-tunica-language-project/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunica Language Project (Tulane University)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tunica.wp.tulane.edu/?p=37",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunica Language Project (Tulane University), page 53",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tunica.wp.tulane.edu/?p=53",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunica language (EBSCO Research Starters)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.ebsco.com/research-starters/language-and-linguistics/tunica-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tunica-Biloxi Tribe of Louisiana website",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.tunicabiloxi.org/?p=779",
+   "found_in_search": true
+  }
+ ]
+}

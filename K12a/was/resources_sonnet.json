@@ -1,0 +1,38 @@
+{
+ "iso": "was",
+ "name": "Washo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:20:32Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Where Wasiw is Spoken: The Washoe Tribe is Passing Its Unique Language On and Up",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.americanindianmagazine.org/story/where-wasiw-spoken",
+   "found_in_search": true
+  },
+  {
+   "title": "Washo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Washo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "eScholarship item on Washo (contents not reviewed)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.escholarship.org/uc/item/4zd060kz",
+   "found_in_search": true
+  },
+  {
+   "title": "Washo elders help compile online dictionary (2007 news report)",
+   "type": "other",
+   "language": "English",
+   "url": "https://indianz.com/News/2007/005030.asp",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "iso": "tee",
+ "name": "Huehuetla Tepehua",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:46:35Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario tepehua: Huehuetla, Hidalgo (2012)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://openlibrary.org/works/OL43830607W",
+   "found_in_search": true
+  },
+  {
+   "title": "Tepehua de Huehuetla Living Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://livingdictionaries.app/tepehua-de-huehuetla",
+   "found_in_search": true
+  },
+  {
+   "title": "Huehuetla Tepehua Language Documentation Collection (AILLA)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A124437",
+   "found_in_search": true
+  },
+  {
+   "title": "Historical ILV Tepehua book (Colmex repository)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/gt54kp98n?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Historical ILV Tepehua book (Colmex repository)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/xd07gv79g?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Historical ILV Tepehua book (Colmex repository)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/4q77ft07d?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Huehuetla Tepehua",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/huehuetlatepehua.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Numbers in Huehuetla Tepehua",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/language/numbers/huehuetlatepehua.htm",
+   "found_in_search": true
+  }
+ ]
+}

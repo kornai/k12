@@ -1,0 +1,73 @@
+{
+ "iso": "wad",
+ "name": "Wamesa",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:16:20Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wamesa language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wamesa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "NSF BCS-1153795: Wamesa documentation project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grantome.com/grant/NSF/BCS-1153795",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC collection EAG1 (Wamesa)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/EAG1",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC EAG1 Wamesa dictionary item",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/collections/EAG1/items/Dict",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Wamesa",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/wamesa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Wandamen",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/wandamen.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wandamen, Bentoeni",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://joshuaproject.net/index.php/people_groups/15853",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wandamen & Windesi",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/1273",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wamesa",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wad",
+   "found_in_search": true
+  }
+ ]
+}

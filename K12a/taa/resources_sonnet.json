@@ -1,0 +1,45 @@
+{
+ "iso": "taa",
+ "name": "Lower Tanana",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:11:57Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Benhti Kokht'ana Kenaga': Minto Lower Tanana Athabascan Pocket Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/benhti-kokhtana-kenaga-minto-lower-tanana-athabascan-pocket-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Lower Tanana Athabaskan Dictionary (Kari, 1994 draft), UBC knowledgebase",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/lower-tanana-athabaskan-dictionary/",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation:RelLex/Lower Tanana Athabaskan Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Lower_Tanana_Athabaskan_Dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Minto-Nenana Athabaskan Noun Dictionary (Krauss, 1974)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://knowledgebase.arts.ubc.ca/minto-nenana-athabaskan-noun-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Lower Tanana Dene Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.ubcpress.ca/lower-tanana-dene-dictionary",
+   "found_in_search": true
+  }
+ ]
+}

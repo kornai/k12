@@ -1,0 +1,45 @@
+{
+ "iso": "tnn",
+ "name": "North Tanna",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:13:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "North Tanna language (overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/North_Tanna_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Languages of Tanna",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nthieberger.net/vanlangs/TANNA.HTM",
+   "found_in_search": true
+  },
+  {
+   "title": "Tanna languages resources, Cambridge Language Centre",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.langcen.cam.ac.uk/resources/langt/tanna.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Whitesands language (related)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Whitesands_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Hammond 2009: Grammar of Nouns and Verbs in Whitesands (related language)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://ses.library.usyd.edu.au/handle/2123/5796?show=full",
+   "found_in_search": true
+  }
+ ]
+}

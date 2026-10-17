@@ -1,0 +1,59 @@
+{
+ "iso": "tnu",
+ "name": "Tai Khang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:17:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tay Khang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tay_Khang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: language entry for ISO tnu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tnu",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kang (kyp), probably a duplicate entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/kyp",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kang (kang1282)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kang1282",
+   "found_in_search": true
+  },
+  {
+   "title": "Huma-Num CRDO language entry for tnu",
+   "type": "other",
+   "language": "English",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=tnu",
+   "found_in_search": true
+  },
+  {
+   "title": "Tay Khang in Laos (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19592",
+   "found_in_search": true
+  },
+  {
+   "title": "Tay Khang (Verbix endangered languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/TayKhang",
+   "found_in_search": true
+  }
+ ]
+}

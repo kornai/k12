@@ -1,0 +1,59 @@
+{
+ "iso": "tcu",
+ "name": "Tarahumara, Southeastern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:37:21Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tarahumarisches Woerterbuch (1791), University of Arizona Special Collections",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://lib.arizona.edu/special-collections/collections/tarahumarisches-worterbuch-nebst-einigen-nachrichten-von-den-sitten",
+   "found_in_search": true
+  },
+  {
+   "title": "Princeton catalogue: grammatical description of Choguita Raramuri (different variety)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://catalog.princeton.edu/catalog/99126844766406421",
+   "found_in_search": true
+  },
+  {
+   "title": "Tarahumara materials, Jane M. Rosenthal Papers (APS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://indigenousguide.amphilsoc.org/entry/39272",
+   "found_in_search": true
+  },
+  {
+   "title": "Thord-Gray, Tarahumara-English and English-Tarahumara dictionary (1955), bookseller listing",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.abaa.org/book/867166792",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record (Tarahumara)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/96676",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record (Tarahumara)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38913",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Tarahumara language (ISO 639:tcu)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:tcu",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "vgr",
+ "name": "Vaghri",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:56:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Vaghri language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vaghri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Vaghri people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Vaghri_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Vaghri",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://scriptureearth.org/00eng.php?iso=vgr",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Vaghri",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/vgr",
+   "found_in_search": true
+  }
+ ]
+}

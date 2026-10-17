@@ -1,0 +1,59 @@
+{
+ "iso": "tox",
+ "name": "Tobian",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:29:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tobian Language Project (Friends of Tobi)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://friendsoftobi.org/wordweek/tobianlanguageproject.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Word of the Week research report, 2015",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tobi.gmu.edu/wordweek/researchreport03012015.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Toward a Tobian-English Dictionary (Barbara Webster Black)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.friendsoftobi.org/TobianLexicon/Dictionary.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tobian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: Tox",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Tox",
+   "found_in_search": true
+  },
+  {
+   "title": "Documenting Ramari Hatohobei, the Tobian language (ELAR deposit)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk0295/",
+   "found_in_search": true
+  },
+  {
+   "title": "Language in Use: Peter and Isauro working on Tobi language",
+   "type": "video",
+   "language": "other",
+   "url": "https://tobi.gmu.edu/wordweek/languageinuse.htm",
+   "found_in_search": true
+  }
+ ]
+}

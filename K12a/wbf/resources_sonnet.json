@@ -1,0 +1,45 @@
+{
+ "iso": "wbf",
+ "name": "Wara",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:23:42Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wara language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wara_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wara language wbf",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/wbf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Wara in Burkina Faso",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15862",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wara language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wbf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Wara (Soulani)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/18193",
+   "found_in_search": true
+  }
+ ]
+}

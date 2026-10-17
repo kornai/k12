@@ -1,0 +1,38 @@
+{
+ "iso": "teq",
+ "name": "Temein",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:51:09Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Temein language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Temein_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Temein languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Temein_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Temein family (teme1251)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/teme1251",
+   "found_in_search": true
+  },
+  {
+   "title": "Humboldt University Berlin document returned for Temein query (content not examined)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://edoc.hu-berlin.de/bitstreams/79bb94f0-02ac-4e19-b845-f8bf5f2c1bf8/download",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "tok",
+ "name": "Toki Pona",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:24:15Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Recommended learning resources (kama sona wiki)",
+   "type": "other",
+   "language": "English",
+   "url": "https://sona.pona.la/wiki/learn",
+   "found_in_search": true
+  },
+  {
+   "title": "Learning resources (kama sona wiki)",
+   "type": "other",
+   "language": "English",
+   "url": "https://sona.pona.la/wiki/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Toki Pona: The Language of Good (wiki page)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://sona.pona.la/wiki/Toki_Pona:_The_Language_of_Good?oldid=2394",
+   "found_in_search": true
+  },
+  {
+   "title": "Toki Pona: The Charm of a Minimalist Language (overview article)",
+   "type": "other",
+   "language": "English",
+   "url": "https://blog.openl.io/toki-pona/",
+   "found_in_search": true
+  }
+ ]
+}

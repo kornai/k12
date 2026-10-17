@@ -1,0 +1,31 @@
+{
+ "iso": "tjj",
+ "name": "Tjungundji",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:29:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tjungundji (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tjungundji",
+   "found_in_search": true
+  },
+  {
+   "title": "Anguthimri language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Anguthimri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pama Language Centre: Tjungundji",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.pamacentre.org.au/tjungundji-2/",
+   "found_in_search": true
+  }
+ ]
+}

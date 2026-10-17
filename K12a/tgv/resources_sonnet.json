@@ -1,0 +1,45 @@
+{
+ "iso": "tgv",
+ "name": "Tingui-Boto",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:06:17Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Tingui-Boto (ISO tgv)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tgv",
+   "found_in_search": true
+  },
+  {
+   "title": "Tingui-Boto people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tingui-Bot%C3%B3_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Povos Indigenas no Brasil: Tingui Boto",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://pib.socioambiental.org/en/Povo:Tingui_Bot%C3%B3",
+   "found_in_search": true
+  },
+  {
+   "title": "FUNAI: Terra Indigena Tingui-Boto",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.gov.br/funai/pt-br/arquivos/conteudo/cggam/pdf/2019/ti-tingui-boto-versao-final.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "UFS repository e-book (content unverified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ri.ufs.br/bitstream/riufs/13958/2/FERNANDA_ANDRADE_SILVA_ebook.pdf",
+   "found_in_search": true
+  }
+ ]
+}

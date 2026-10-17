@@ -1,0 +1,17 @@
+{
+ "iso": "thx",
+ "name": "The",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:17:13Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog bookkeeping entry for thx (The), retired as duplicate of Oy",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/thee1240",
+   "found_in_search": true
+  }
+ ]
+}

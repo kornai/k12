@@ -1,0 +1,38 @@
+{
+ "iso": "wao",
+ "name": "Wappo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:19:12Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wappo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wappo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "UC Berkeley Survey of California and Other Indian Languages: Wappo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cla.berkeley.edu/languages/wappo.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wappo bibliography",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1150/bibliography?hl=es",
+   "found_in_search": true
+  },
+  {
+   "title": "Language revitalization in Northern California: Awakening the Wappo language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/13c4e2d1-ed84-4b02-8672-a4bc9557464a",
+   "found_in_search": true
+  }
+ ]
+}

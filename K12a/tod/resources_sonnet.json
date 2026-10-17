@@ -1,0 +1,52 @@
+{
+ "iso": "tod",
+ "name": "Toma",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T09:20:55Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Omniglot: Loma writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/loma.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Loma language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Loma_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal: encoding of Loma script",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2017/17059-n4786-loma.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings: Toma",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/tod",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Alphabets: Loma",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.endangeredalphabets.net/loma",
+   "found_in_search": true
+  },
+  {
+   "title": "Advancing on the encoding of Loma (Digital Orientalist)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://digitalorientalist.com/2021/03/19/advancing-on-the-encoding-of-loma/",
+   "found_in_search": true
+  }
+ ]
+}

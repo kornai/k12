@@ -1,0 +1,66 @@
+{
+ "iso": "twf",
+ "name": "Tiwa, Northern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:36:14Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Northern Tiwa",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/nort1550",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Taos",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_twn",
+   "found_in_search": true
+  },
+  {
+   "title": "Picuris language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Picuris_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Taos audio recordings",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/3788",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Northern Tiwa",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6510",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Taos",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Taos",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Picuris",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Picuris",
+   "found_in_search": true
+  },
+  {
+   "title": "Native-languages.org: Tiwa",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.native-languages.org/tiwa.htm",
+   "found_in_search": true
+  }
+ ]
+}

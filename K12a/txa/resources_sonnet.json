@@ -1,0 +1,52 @@
+{
+ "iso": "txa",
+ "name": "Tombonuo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T10:42:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tombonuwo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tombonuwo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tombonuwo (Tambonuo)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tombonuwo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Tombonuo 2002 Edition (New Testament, Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/TXATBL",
+   "found_in_search": true
+  },
+  {
+   "title": "Tombonuo numerals (Channumerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Tombonuo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Library of Congress subject record: Tombonuo language",
+   "type": "other",
+   "language": "English",
+   "url": "https://id.loc.gov/authorities/subjects/sh93006465.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages / Ethnologue entry for Tombonuo",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/89736",
+   "found_in_search": true
+  }
+ ]
+}

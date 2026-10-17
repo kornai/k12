@@ -1,0 +1,38 @@
+{
+ "iso": "vun",
+ "name": "Vunjo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T19:15:28Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Joshua Project: Vunjo in Tanzania",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15806/TZ",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Vunjo language",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/vun",
+   "found_in_search": true
+  },
+  {
+   "title": "African Proverbs, Sayings and Stories: Chagga (Tanzania) sayings",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://afriprov.tangaza.ac.ke/endangered-african-proverbs-collections-chagga-tanzania-sayings/",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: Vunjo (vun)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Vun",
+   "found_in_search": true
+  }
+ ]
+}

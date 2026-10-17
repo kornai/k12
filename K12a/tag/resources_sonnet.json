@@ -1,0 +1,45 @@
+{
+ "iso": "tag",
+ "name": "Tagoi",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:13:34Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A preliminary linguistic survey of the Tagoi language, Nuba Mountains, Sudan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/a-preliminary-linguistic-survey-of-the-tagoi-language-nuba-mountains-sudan",
+   "found_in_search": true
+  },
+  {
+   "title": "Nuba Mountain Language Studies: Contemporary Perspectives",
+   "type": "academic",
+   "language": "English",
+   "url": "https://monographs.ub.uni-koeln.de/usbk/catalog/book/38",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Tagoi (tag)",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/tag",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tagoi",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/84960",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tagoy in Sudan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15178",
+   "found_in_search": true
+  }
+ ]
+}

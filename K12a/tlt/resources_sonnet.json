@@ -1,0 +1,38 @@
+{
+ "iso": "tlt",
+ "name": "Sou Nama",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:52:50Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sepa-Teluti language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sepa%E2%80%93Teluti_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sou Nama numerals (Max Planck EVA)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Sou-Nama.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Stokhof 1981, Holle wordlists (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/148049",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP wordlist, Taluti",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/TALUTI",
+   "found_in_search": true
+  }
+ ]
+}

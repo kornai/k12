@@ -1,0 +1,38 @@
+{
+ "iso": "vbk",
+ "name": "Bontok, Southwestern",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:54:49Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Southwestern Bontoc (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Southwestern_Bontoc",
+   "found_in_search": true
+  },
+  {
+   "title": "Bontoc language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bontoc_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Southwestern Bontoc in Philippines (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/20531",
+   "found_in_search": true
+  },
+  {
+   "title": "Bontok, Southwestern (Global Recordings Network)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/vbk",
+   "found_in_search": true
+  }
+ ]
+}

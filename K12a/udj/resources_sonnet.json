@@ -1,0 +1,52 @@
+{
+ "iso": "udj",
+ "name": "Ujir",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T17:43:07Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ujir language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ujir_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ujir, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2798",
+   "found_in_search": true
+  },
+  {
+   "title": "Roos & ruins: A project to document the Ujir language of the Aru Islands",
+   "type": "academic",
+   "language": "English",
+   "url": "https://projektdatenbank.volkswagenstiftung.de/projekt/0055817",
+   "found_in_search": true
+  },
+  {
+   "title": "Ujir numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Ujir.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ujir (Verbix)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Ujir",
+   "found_in_search": true
+  },
+  {
+   "title": "Ujir in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15685",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "uuu",
+ "name": "U",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:27:30Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "U language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/U_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog languoid page (mang1378; identity to be verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mang1378",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project bibliography, entry 1236 (identity to be verified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/1236/bibliography?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project sample, entry 1236 (identity to be verified)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/1236/samples/10372?hl=fr",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "umo",
+ "name": "Umotína",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:04:18Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Umotína language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Umot%C3%ADna_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ecos journal article on Umutina language revival through school",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.unemat.br/index.php/ecos/article/download/692/668/2290",
+   "found_in_search": true
+  },
+  {
+   "title": "Umotina numerals (Chan numerals database)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Umotina.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Umutina in Brazil (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15712",
+   "found_in_search": true
+  }
+ ]
+}

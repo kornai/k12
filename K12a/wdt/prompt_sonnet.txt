@@ -1,0 +1,35 @@
+You will research 4 languages (wdt, wdu, wdy, wea), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE wdt ===
+Please help me gather resources for the Wendat language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: wdt. Reference description: Wendat is a dormant language of Canada. It belongs to the Iroquoian language family. The language is no longer used as a first language by any remaining members of the ethnic community. It is not known to be taught in schools.
+
+=== LANGUAGE wdu ===
+Please help me gather resources for the Wadjigu language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: wdu; Glottocode: wadj1255; family: Pama-Nyungan; macro-area: Australia. Reference description: Wadjigu is an extinct language of Australia. It belongs to the Australian language family.
+
+=== LANGUAGE wdy ===
+Please help me gather resources for the Wadjabangayi language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: wdy. Reference description: Wadjabangayi is an extinct language of Australia. It belongs to the Australian language family.
+
+=== LANGUAGE wea ===
+Please help me gather resources for the Wewaw language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: wea; Glottocode: wewa1238; family: Sino-Tibetan; macro-area: Eurasia. Reference description: Wewaw is an extinct language of Myanmar. It belongs to the Sino-Tibetan language family.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5 (claude-sonnet-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

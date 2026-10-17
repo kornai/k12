@@ -1,0 +1,45 @@
+{
+ "iso": "unm",
+ "name": "Unami",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:09:11Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lenape Talking Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://talk-lenape.org/",
+   "found_in_search": true
+  },
+  {
+   "title": "Lenape Talking Dictionary sample entry",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://talk-lenape.org/detail?id=15664",
+   "found_in_search": true
+  },
+  {
+   "title": "Delaware Tribe: Lenape Language Preservation Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://delawaretribe.org/cultural-education/culture-and-language/lenape-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "Delaware Tribe: Lenape Language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://delawaretribe.org/?p=6159",
+   "found_in_search": true
+  },
+  {
+   "title": "Native Languages of the Americas: Lenape",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.native-languages.org/lenape.htm",
+   "found_in_search": true
+  }
+ ]
+}

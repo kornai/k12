@@ -1,0 +1,66 @@
+{
+ "iso": "tdx",
+ "name": "Malagasy, Tandroy-Mahafaly",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:45:25Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tandroy dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tandroy_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Tandroy",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/babel/tandroy.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionnaire malgache dialectal-francais (Tandroy section)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://asiatheque.com/en/book/dictionnaire-malgache-dialectal-francais",
+   "found_in_search": true
+  },
+  {
+   "title": "eBible: Tandroy Bible (Saontsin' Añahare)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/details.php?id=tdx",
+   "found_in_search": true
+  },
+  {
+   "title": "Translation of the Complete Bible into the Tandroy Language",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.cgmmag.com/?p=4690",
+   "found_in_search": true
+  },
+  {
+   "title": "Word und Tat: Madagascar",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.wortundtat.de/en/madagascar/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Antandroy in Madagascar",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10345/MA",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language tdx",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/tdx",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "tma",
+ "name": "Tama",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T08:56:45Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tama dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/tama/g11eb0dac-e026-4674-81e8-8c022105d023/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tama Webonary page",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/tama/g8b5b5c56-84f1-43d7-a3a6-dca0dea3b8a0/",
+   "found_in_search": true
+  },
+  {
+   "title": "Tama language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tama_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Taman languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Taman_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Thesis on noun-formation morphology in Tama (SUST repository)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://repository.sustech.edu/handle/123456789/16109",
+   "found_in_search": true
+  },
+  {
+   "title": "CNRS Reflex bibliography for Tama",
+   "type": "academic",
+   "language": "other",
+   "url": "https://reflex.cnrs.fr/Lexiques/webball/biblio.php?LGNOM=Tama",
+   "found_in_search": true
+  }
+ ]
+}

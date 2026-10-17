@@ -1,0 +1,31 @@
+{
+ "iso": "urx",
+ "name": "Urimo",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T18:20:26Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Urimo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Urimo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Urimo (Yaugiba)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/10575?hl=ru",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Urimo in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15733",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "taj",
+ "name": "Eastern Tamang",
+ "engine": "claude",
+ "model": "claude-sonnet-5",
+ "compiled": "2026-10-14T07:15:06Z",
+ "credit": "Compiled by Claude Sonnet 5 (claude-sonnet-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Western Tamang Dictionary (SIL / Mother Tongue Center Nepal, 2017) - web edition (related language, not Eastern Tamang)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/wtamang/overview/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang Dictionary - download page (related language)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.org/wtamang/download/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Tamang Dictionary - alphabet overview (related language)",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://www.webonary.org/wtamang/overview/alphabet/",
+   "found_in_search": true
+  },
+  {
+   "title": "Everitt, Taylor, Tamang 1972 vocabulary (Glottolog reference; filed under Western Tamang)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/26744",
+   "found_in_search": true
+  },
+  {
+   "title": "Tribhuvan University sociolinguistic survey of Tamang in Gorkha (cover page)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://elibrary.tucl.edu.np/bitstream/123456789/16320/1/Cover.pdf",
+   "found_in_search": true
+  }
+ ]
+}
