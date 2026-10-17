@@ -1,0 +1,59 @@
+{
+ "iso": "wgu",
+ "name": "Wirangu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wirangu Language Project (ATSIDA dataset)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.atsida.edu.au/archive/datasets/wlp",
+   "found_in_search": true
+  },
+  {
+   "title": "Wirangu Language Project (ATSIDA archive record)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://www.atsida.edu.au/node/645",
+   "found_in_search": true
+  },
+  {
+   "title": "Adelaidean news: Wirangu talking picture dictionary and children's book",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.adelaide.edu.au/adelaidean/issues/12741/news12757.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Far West Languages Centre (Ceduna Aboriginal Corporation)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://fwlc.org.au/about-1",
+   "found_in_search": true
+  },
+  {
+   "title": "Mobile Language Team: Wirangu place names trainee project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://mobilelanguageteam.com.au/new-aboriginal-language-trainee-at-the-mlt/",
+   "found_in_search": true
+  },
+  {
+   "title": "NFSA: Wirrangul women always have always will (Wirangu language)",
+   "type": "video",
+   "language": "English",
+   "url": "https://www.nfsa.gov.au/collection/curated/wirrangul-women-always-have-always-will-wirangu-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wirangu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wirangu_language",
+   "found_in_search": true
+  }
+ ]
+}

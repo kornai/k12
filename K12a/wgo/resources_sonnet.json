@@ -1,0 +1,52 @@
+{
+ "iso": "wgo",
+ "name": "Ambel",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Ambel, an Austronesian language of Raja Ampat (Laura Arnold, PhD thesis, Edinburgh)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://era.ed.ac.uk/handle/1842/31120",
+   "found_in_search": true
+  },
+  {
+   "title": "A Grammar of Ambel (Edinburgh Research Archive full record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://era.ed.ac.uk/items/d26ecd9e-b540-478f-a90b-242300ec8558/full",
+   "found_in_search": true
+  },
+  {
+   "title": "A grammar of Ambel (ANU Research Portal record)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/a-grammar-of-ambel-an-austronesian-language-of-raja-ampat-west-ne/",
+   "found_in_search": true
+  },
+  {
+   "title": "Ambel illustration, Journal of the International Phonetic Association (Cambridge)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/product/D9E2B1D9B3479E646D53D60112712FFD/core-reader",
+   "found_in_search": true
+  },
+  {
+   "title": "Ambel language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ambel_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ambel (gali Ambel), Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/ambel.htm",
+   "found_in_search": true
+  }
+ ]
+}

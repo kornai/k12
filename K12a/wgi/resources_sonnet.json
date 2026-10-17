@@ -1,0 +1,52 @@
+{
+ "iso": "wgi",
+ "name": "Wahgi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Middle Wahgi Dictionary (Evelyn Ramsey, 1975), PARADISEC",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://catalog.paradisec.org.au/collections/ER1/items/dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC collection ER1 (Ramsey Wahgi materials)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://catalog.paradisec.org.au/repository/ER1",
+   "found_in_search": true
+  },
+  {
+   "title": "Ramsey 1975 (Glottolog reference record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/13029",
+   "found_in_search": true
+  },
+  {
+   "title": "Luzbetak 1954: The Middle Wahgi Dialects, Vol. 1, Banz Grammar (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/56275",
+   "found_in_search": true
+  },
+  {
+   "title": "Aufenanger 1953 (Glottolog reference record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/41156",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Wahgi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_wah",
+   "found_in_search": true
+  }
+ ]
+}
