@@ -1,0 +1,45 @@
+{
+ "iso": "puo",
+ "name": "Puoc",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ksingmul language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ksingmul_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Ksingmul people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ksingmul_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Khmuic languages (Wikipedia mirror)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Khmuic.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ANU Open Research repository item (Khmuic bibliography, unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/a0cc836c-0a78-4a2b-b8e3-ac119c2f4bae/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Puoc",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/puo/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "pui",
+ "name": "Puinave",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:07Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Puinave language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Puinave_language",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 20.814: review of a grammatical description of Puinave",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://dev.linguistlist.org/issues/20/814/",
+   "found_in_search": true
+  },
+  {
+   "title": "MPI-EVA numeral systems: Puinave",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Puinave.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO Atlas of World Languages: Puinave in Colombia",
+   "type": "other",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/en/countries/colombia/languages/puinave",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Puinave",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2767?hl=ru",
+   "found_in_search": true
+  }
+ ]
+}

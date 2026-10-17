@@ -1,0 +1,52 @@
+{
+ "iso": "puy",
+ "name": "Purisimeño",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammar and Lexicon of Purisimeño Chumash (ScholarSpace collection)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/collections/e14cc0dd-2be8-4264-962d-01652abd75e9",
+   "found_in_search": true
+  },
+  {
+   "title": "ScholarSpace file (Purisimeño documentation, content not opened)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/e821a88f-71a7-4040-8f73-9c9802f2babb/content",
+   "found_in_search": true
+  },
+  {
+   "title": "Purisimeño language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Purisime%C3%B1o_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Survey of California and Other Indian Languages: Purisimeño",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cla.berkeley.edu/languages/purisimeno.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Mission Indian Vocabularies of Alphonse Pinart",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/California_Indian_Linguistic_Records:_The_Mission_Indian_Vocabularies_of_Alphonse_Pinart",
+   "found_in_search": true
+  },
+  {
+   "title": "The family of Chumash languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.internationalphoneticalphabet.org/ineseno-chumash/the-family-of-chumash-languages/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "iso": "pup",
+ "name": "Pulabu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pulabu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pulabu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Pulabu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/pula1267.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Pulabu entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/30428",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Pulabu in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14470",
+   "found_in_search": true
+  }
+ ]
+}

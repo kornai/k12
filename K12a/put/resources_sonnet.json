@@ -1,0 +1,45 @@
+{
+ "iso": "put",
+ "name": "Putoh",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lun Bawang language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lun_Bawang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Apo Duat languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Apo_Duat_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Putoh language",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/put",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Putoh in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14488",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Putoh language",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/put",
+   "found_in_search": true
+  }
+ ]
+}

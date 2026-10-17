@@ -1,0 +1,52 @@
+{
+ "iso": "puq",
+ "name": "Puquina",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:44:54Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Puquina language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Puquina_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Puquina languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Puquina_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Leiden University scholarly publication on Puquina",
+   "type": "academic",
+   "language": "other",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3221120/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Redalyc article on Puquina (PDF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.redalyc.org/pdf/3713/371345325004.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Historica (PUCP) article (PDF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://revistas.pucp.edu.pe/index.php/historica/article/download/31096/27475/125096",
+   "found_in_search": true
+  },
+  {
+   "title": "Alfredo Torero (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/Alfredo_Torero",
+   "found_in_search": true
+  }
+ ]
+}

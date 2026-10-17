@@ -1,0 +1,45 @@
+{
+ "iso": "pux",
+ "name": "Puare",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:46:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Puari language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Puari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Skou languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Skou_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP word list: Puare",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/PUARE",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Puari in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14464",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Puare",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2647?hl=en",
+   "found_in_search": true
+  }
+ ]
+}

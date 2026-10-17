@@ -1,0 +1,52 @@
+{
+ "iso": "puw",
+ "name": "Puluwatese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:45:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Puluwat Dictionary (Elbert, Pacific Linguistics C-24)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/146583/1/PL-C24.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Puluwat Dictionary, UPenn library catalogue record",
+   "type": "other",
+   "language": "English",
+   "url": "https://find.library.upenn.edu/catalog/994760593503681",
+   "found_in_search": true
+  },
+  {
+   "title": "Puluwat language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Puluwat_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Puluwatese (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/puluwatese.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ACD source entry: Elbert 1972",
+   "type": "other",
+   "language": "English",
+   "url": "https://acd.clld.org/sources/elbert1972",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Puluwatese",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Puluwatese",
+   "found_in_search": true
+  }
+ ]
+}
