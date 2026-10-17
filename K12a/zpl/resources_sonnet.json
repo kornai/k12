@@ -1,0 +1,45 @@
+{
+ "iso": "zpl",
+ "name": "Lachixío Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zapotec and Chatino project (Lachixío Zapotec community dictionary project)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://zapotec-chatino.iath.virginia.edu/",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Lachixío Zapotec (zpl)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/zpl",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe: Lachixío Zapotec",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/lib/zpl",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Lachixio",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zpl",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Elicitation of words from the dictionary (Santa María Lachixío)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A136477",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "zpo",
+ "name": "Amatlán Zapotec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Amatlán Zapotec (Wikipedia, ISO 639:zpo)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:zpo",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Amatlán Zapotec (amat1238)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/amat1238",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary: Category Amatlán Zapotec language",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/Category:Amatl%C3%A1n_Zapotec_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Amatlán Zapotec scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=zpo",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Amatlan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/zpo",
+   "found_in_search": true
+  }
+ ]
+}

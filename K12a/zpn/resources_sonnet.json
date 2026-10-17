@@ -1,0 +1,52 @@
+{
+ "iso": "zpn",
+ "name": "Zapotec, Santa Inés Yatzechi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:13:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Cómo leer y escribir el zapoteco (Olson and Olson, SIL 1986), El Colegio de México repository",
+   "type": "primer",
+   "language": "native",
+   "url": "https://repositorio.colmex.mx/concern/books/9306t3908?locale=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Yatzeche Zapotec (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yatzeche_Zapotec",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Santa Inés Yatzechi Zapotec (sant1447)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sant1447.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Santa Ines Yatzechi Zapotec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/SANTA_INES_YATZECHI_ZAPOTEC",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Santa Inés Yatzechi Zapotec",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zpn/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zapotec, Santa Ines Yatzechi",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/zpn",
+   "found_in_search": true
+  }
+ ]
+}
