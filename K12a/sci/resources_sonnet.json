@@ -1,0 +1,45 @@
+{
+ "iso": "sci",
+ "name": "Sri Lankan Malay Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sri Lanka Malay (Smith and Paauw, Creole Language Library 29)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1075/cll.29.09smi/html",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS: Sri Lanka Malay documentation",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://dobes.mpi.nl/?p=1300",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sri Lanka Malay resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/38970/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Sri Lanka Malay language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:sci",
+   "found_in_search": true
+  },
+  {
+   "title": "Video: Zeena and Meluri on the future of Sri Lanka Malay",
+   "type": "video",
+   "language": "other",
+   "url": "https://www.youtube.com/watch?v=3KGABYk7mg0",
+   "found_in_search": true
+  }
+ ]
+}

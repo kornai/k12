@@ -1,0 +1,101 @@
+{
+ "iso": "sce",
+ "name": "Dongxiang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dongxiang short stories bilingual textbook series (Naleisi Primary School experiment), discussed by Lefort",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.jbe-platform.com/content/journals/10.1075/lali.00071.lef",
+   "found_in_search": true
+  },
+  {
+   "title": "Report on Ford Foundation bilingual pilot (pinyin.info)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://pinyin.info/news/wp-json/wp/v2/posts/324",
+   "found_in_search": true
+  },
+  {
+   "title": "Santa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Santa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Liu 1981, Dongxiangyu jianzhi (CrossGram source entry)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://crossgram.clld.org/sources/siniticbetween-Liu1981",
+   "found_in_search": true
+  },
+  {
+   "title": "Dongxiang bibliography, Endangered Languages Project",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/1209/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Lefort, Rethinking Dongxiang literacy (Benjamins)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://benjamins.com/catalog/lali.00071.lef",
+   "found_in_search": true
+  },
+  {
+   "title": "Lefort, Rethinking Dongxiang literacy (Altaist)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.altaist.org/home/confessions/lefort-julie/rethinking-dongxiang-literacy-the-tuhua-orou-writing-system-and-its-sociolinguistic-practices/",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot chart: Santa",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/charts/santa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Project: Dongxiang (sce)",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Sce",
+   "found_in_search": true
+  },
+  {
+   "title": "Dongxiang Short Stories with gloss, Vol. 1 (HAL-INALCO)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://hal-inalco.archives-ouvertes.fr/hal-04015834v2",
+   "found_in_search": true
+  },
+  {
+   "title": "Freelang Dongxiang-English dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.freelang.net/dictionary/dongxiang.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Chinese-Dongxiang translation demo",
+   "type": "software",
+   "language": "other",
+   "url": "https://dxlanguage-chinesedongxiangtranslation.hf.space",
+   "found_in_search": true
+  },
+  {
+   "title": "Dongxiang numerals (MPI-EVA)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Dongxiang.htm",
+   "found_in_search": true
+  }
+ ]
+}

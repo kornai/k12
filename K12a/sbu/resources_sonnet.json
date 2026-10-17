@@ -1,0 +1,52 @@
+{
+ "iso": "sbu",
+ "name": "Stod Bhoti",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Stod Bhoti (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Stod_Bhoti",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobdan 2020: Stodpa language of Lahul in the Himalaya (Glottolog record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/589790",
+   "found_in_search": true
+  },
+  {
+   "title": "Tobdan 1990: Bhoti Parichaya - Vayakaran aur Anuvad (Glottolog record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/577955",
+   "found_in_search": true
+  },
+  {
+   "title": "Crossgram: Stod Bhoti",
+   "type": "academic",
+   "language": "English",
+   "url": "https://crossgram.clld.org/languages/stod1241",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Stod Bhoti",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/stod1241",
+   "found_in_search": true
+  },
+  {
+   "title": "Stod Bhoti numerals (Max Planck EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Stod-Bhotii.htm",
+   "found_in_search": true
+  }
+ ]
+}

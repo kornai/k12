@@ -1,0 +1,38 @@
+{
+ "iso": "scf",
+ "name": "San Miguel French Creole",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:39:18Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "San Miguel Creole (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/San_Miguel_Creole",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: San Miguel Creole French (scf)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/scf",
+   "found_in_search": true
+  },
+  {
+   "title": "San Miguel Creole French (Verbix Endangered Languages)",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/SanMiguelCreoleFrench",
+   "found_in_search": true
+  },
+  {
+   "title": "Antillean Creole (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Antillean_Creole",
+   "found_in_search": true
+  }
+ ]
+}

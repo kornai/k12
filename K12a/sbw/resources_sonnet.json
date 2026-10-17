@@ -1,0 +1,45 @@
+{
+ "iso": "sbw",
+ "name": "Simba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Rekanga 2000: Essai de grammaire himba (Glottolog record)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/92848",
+   "found_in_search": true
+  },
+  {
+   "title": "Himba language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Himba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Simba wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/SIMBA",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Simba",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4616",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Simba (sbw)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/sbw/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "iso": "sbq",
+ "name": "Sirva",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sirva grammar sketch (Daniels 2015, in A Reconstruction of Proto-Sogeram) - Grambank source record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/sources/sDanielsSirva",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record: Daniels, Sirva grammar sketch",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/37278",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record: Daniels 2010 phonological history of Sogeram languages",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/pt-br/node/37277",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Sirva",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/madang-upper-yuat-river/madang/west-madang/sogeram-and-tomui-rivers/sogeram-river/mum-sirva/sirva",
+   "found_in_search": true
+  },
+  {
+   "title": "Sirva language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sirva_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sileibi in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14176",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item DD1/579",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/collections/DD1/items/579",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC repository DD1/343",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/DD1/343",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Hawai`i ScholarSpace item (Sirva material)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/2157d1a3-f2bb-44e8-a3e8-08e0411031a4",
+   "found_in_search": true
+  }
+ ]
+}

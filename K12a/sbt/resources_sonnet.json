@@ -1,0 +1,52 @@
+{
+ "iso": "sbt",
+ "name": "Kimki",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:11Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kimki language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kimki_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Rumaropen 2004: Draft Survei Sosiolinguistik Bahasa Kimki (Glottolog record)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/45210",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Kimki wordlist",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/KIMKI",
+   "found_in_search": true
+  },
+  {
+   "title": "Kimki numerals (Max Planck EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kimki.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Kimki",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5147",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sukubatong, Kimki in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15111",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "iso": "scl",
+ "name": "Shina",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:01Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Shina language (Wikipedia), including note on 2017 primer",
+   "type": "primer",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shina_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Gilgit-Baltistan's 5 languages to be taught at schools (Pamir Times)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://pamirtimes.net/2017/09/14/gilgit-baltistans-5-languages-to-be-taught-at-schools-research-academy-to-be-set-up/",
+   "found_in_search": true
+  },
+  {
+   "title": "JKBOSE move rekindles Shina's voice in Gurez (Kashmir Despatch)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://kashmirdespatch.com/jkbose-move-rekindles-shinas-voice-in-gurez/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kohistani Shina (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kohistani_Shina",
+   "found_in_search": true
+  },
+  {
+   "title": "Bailey 1924, Grammar of the Shina language (ASJP source record)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://asjp.clld.org/sources/8277",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of Kohistani Shina-Urdu published (Pamir Times)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://pamirtimes.net/2021/10/22/dictionary-of-kohistani-shina-urdu-published/",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Shina writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/shina.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Dying Shina language finds a saviour, after all (FLI)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.fli-online.org/documents/languages/shina/dying-shina.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Gilgit-Baltistan: preserve the linguistic diversity (Business Recorder)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.brecorder.com/news/40272925/gilgit-baltistan-preserve-the-linguistic-diversity",
+   "found_in_search": true
+  }
+ ]
+}

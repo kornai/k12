@@ -1,0 +1,59 @@
+{
+ "iso": "sbo",
+ "name": "Sabüm",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sabüm language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sab%C3%BCm_language",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Sabum",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/SABUM",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Sabüm",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5358?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Senoic languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Senoic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Lanoh language (Wikipedia)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lanoh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Lanoh people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lanoh_people",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Tongues of the Semang (Lanoh/Semnam documentation)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=1273",
+   "found_in_search": true
+  }
+ ]
+}
