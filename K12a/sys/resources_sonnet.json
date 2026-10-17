@@ -1,0 +1,59 @@
+{
+ "iso": "sys",
+ "name": "Sinyar",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sinyar language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sinyar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Proper names and case markers in Sinyar (Chad/Sudan), Language Typology and Universals 2019",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1515/stuf-2019-0019/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Proper names and case markers in Sinyar (Chad/Sudan) - HAL record",
+   "type": "academic",
+   "language": "English",
+   "url": "https://hal-supelec.archives-ouvertes.fr/LLACAN/halshs-03096955v1",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Sudanic languages (chapter draft, HAL)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://halshs.archives-ouvertes.fr/halshs-03097024v1/file/CSD_OUP%20TEXT%20%28Central%20Sudanic%29.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Sudanic languages - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Central_Sudanic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Sinyar numerals, Ouaddai region, Chad",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Sinyar.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Sinyar in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14941",
+   "found_in_search": true
+  }
+ ]
+}

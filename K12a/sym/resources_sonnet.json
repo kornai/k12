@@ -1,0 +1,52 @@
+{
+ "iso": "sym",
+ "name": "Maya Samo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Samo language (Burkina) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Samo_language_(Burkina)",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Maya Samo (sym)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=sym",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Maya Samo in Burkina Faso",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14716",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Samo, Maya: Gomboro language",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/16269",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Samo, Maya: Bangassogo language",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/16267",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Samo, Maya: Bounou language",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/16268",
+   "found_in_search": true
+  }
+ ]
+}

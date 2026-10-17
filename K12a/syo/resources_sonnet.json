@@ -1,0 +1,45 @@
+{
+ "iso": "syo",
+ "name": "Su’ung",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:43Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Suoy language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Suoy_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pearic languages - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pearic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Suoy",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1220",
+   "found_in_search": true
+  },
+  {
+   "title": "Headley 1978, A English-Pearic Vocabulary (Glottolog reference record)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/103655",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Suoy in Cambodia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15126",
+   "found_in_search": true
+  }
+ ]
+}
