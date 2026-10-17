@@ -1,0 +1,38 @@
+{
+ "iso": "can",
+ "name": "Chambri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Chambri language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Chambri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Chambri numerals (MPI-EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Chambri.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Foley 2005 Lower Sepik lexical data (TransNewGuinea.org)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/foley2005?page=5",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Chambri",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/98275",
+   "found_in_search": true
+  }
+ ]
+}

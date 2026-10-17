@@ -1,0 +1,45 @@
+{
+ "iso": "bkc",
+ "name": "Baka",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Baka language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Baka_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kilian-Hatz 1995, Das Baka (Glottolog reference)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/63144",
+   "found_in_search": true
+  },
+  {
+   "title": "Baka (East Region, Cameroon) bibliography, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/5989/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Baka",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/baka1272",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Baka (Cameroon) dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/sdb/bkc",
+   "found_in_search": true
+  }
+ ]
+}

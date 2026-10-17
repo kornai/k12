@@ -1,0 +1,66 @@
+{
+ "iso": "baf",
+ "name": "Nubaca",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Baca language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Baca_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Nubaca language (Global Recordings Network)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/baf",
+   "found_in_search": true
+  },
+  {
+   "title": "Nubaca (Wikitongues)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/baf/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language baf",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/baf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Bango in Cameroon",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/people_groups/10652/CM",
+   "found_in_search": true
+  },
+  {
+   "title": "Sebineni 2008, noun class system thesis (Glottolog reference)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/552065",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Nubaca word list",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/NUBACA",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Nubaca languoid",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/nuba1241.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}

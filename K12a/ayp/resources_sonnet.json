@@ -1,0 +1,45 @@
+{
+ "iso": "ayp",
+ "name": "North Mesopotamian Arabic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "L'arabe parlé à Mardin (Grigore)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://gorgiaspress.com/larabe-parle-a-mardin-monographie-dun-parler-arabe-peripherique",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on Mardin Arabic, Romanian Review of Arabic studies",
+   "type": "academic",
+   "language": "other",
+   "url": "https://journals.unibuc.ro/index.php/roar/en/article/view/1894/2011",
+   "found_in_search": true
+  },
+  {
+   "title": "North Mesopotamian Arabic (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/North_Mesopotamian_Arabic",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: North Mesopotamian Arabic",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/NORTH_MESOPOTAMIAN_ARABIC",
+   "found_in_search": true
+  },
+  {
+   "title": "Article on the Mardin Arabic dialect (Diwan al-Arab)",
+   "type": "other",
+   "language": "other",
+   "url": "https://diwanalarab.com/%D9%86%D8%B8%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%AF%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.html",
+   "found_in_search": true
+  }
+ ]
+}

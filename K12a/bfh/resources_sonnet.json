@@ -1,0 +1,52 @@
+{
+ "iso": "bfh",
+ "name": "Blafe",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Joshua Project: Blafe language profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/bfh",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikipedia: Blafe language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Blafe_language",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Blafe",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/morehead-river/west-morehead-river/bensbach-river/upper-bensbach-river/blafe-ranmo/blafe",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems: Blafe",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Blafe.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Blafe word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/BLAFE",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Blafe",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/bfh",
+   "found_in_search": true
+  }
+ ]
+}

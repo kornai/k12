@@ -1,0 +1,45 @@
+{
+ "iso": "bcm",
+ "name": "Bannoni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bannoni language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bannoni_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Banoni in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/10659",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC field notes series NSBBAN (Capell, Banoni)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://paradisec.org.au/fieldnotes/NSBBAN.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalog BP3/006",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://catalog.paradisec.org.au/repository/BP3/006",
+   "found_in_search": true
+  },
+  {
+   "title": "Northwest Solomonic bibliography: Piva/Banoni (Surrey Morphology Group)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.smg.surrey.ac.uk/languages/northwest-solomonic/bibliography/pivabanoni/",
+   "found_in_search": true
+  }
+ ]
+}

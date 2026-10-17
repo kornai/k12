@@ -1,0 +1,31 @@
+{
+ "iso": "bhl",
+ "name": "Bimin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:17:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia mirror: Bimin language",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.riteme.site/wiki/Bimin",
+   "found_in_search": true
+  },
+  {
+   "title": "Numeral systems: Bimin",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Bimin.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Bimin",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10692",
+   "found_in_search": true
+  }
+ ]
+}

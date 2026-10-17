@@ -1,0 +1,59 @@
+{
+ "iso": "bae",
+ "name": "Baré",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:16:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Baré language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bar%C3%A9_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Guinau language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Guinau_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Baré (DICE, University of Missouri)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://dice.missouri.edu/assets/docs/awarak/Bare.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "WALS: Baré",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_bae",
+   "found_in_search": true
+  },
+  {
+   "title": "Baré people (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bar%C3%A9_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Orinoco.org: Baré",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://orinoco.org/?tribe=bare",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Baré",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1864",
+   "found_in_search": true
+  }
+ ]
+}

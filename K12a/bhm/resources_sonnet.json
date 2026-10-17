@@ -1,0 +1,31 @@
+{
+ "iso": "bhm",
+ "name": "Bathari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:18:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bathari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ba%E1%B9%AD%E1%B8%A5ari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "DICE Afro-Asiatic questionnaire: Bathari",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dice.missouri.edu/assets/docs/afro-asiatic/Bathari.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Bathari",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1595",
+   "found_in_search": true
+  }
+ ]
+}
