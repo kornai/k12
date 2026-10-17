@@ -1,0 +1,45 @@
+{
+ "iso": "fnb",
+ "name": "Fanbak",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:52Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fanbak language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fanbak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "A Documentation of Orkon/Fanbak, a language of Vanuatu (Culture in Crisis)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/a-documentation-of-orkon-fanbak-a-language-of-vanuatu",
+   "found_in_search": true
+  },
+  {
+   "title": "TLOPO: Orkon",
+   "type": "other",
+   "language": "English",
+   "url": "https://tlopo.clld.org/languages/orkon",
+   "found_in_search": true
+  },
+  {
+   "title": "The languages of Northern Ambrym, Vanuatu (ELDP collection)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://eldp.access.preservica.com/dk01310387/",
+   "found_in_search": true
+  },
+  {
+   "title": "Data for The languages of northern Ambrym (University of Surrey)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://openresearch.surrey.ac.uk/esploro/outputs/dataset/Data-for-The-languages-of-northern/99862365502346",
+   "found_in_search": true
+  }
+ ]
+}

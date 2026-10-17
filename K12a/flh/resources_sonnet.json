@@ -1,0 +1,38 @@
+{
+ "iso": "flh",
+ "name": "Foau",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Foau",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/foau1240",
+   "found_in_search": true
+  },
+  {
+   "title": "Abawiri (Foau) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Abawiri",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Foau sample",
+   "type": "audio",
+   "language": "other",
+   "url": "https://endangeredlanguages.com/lang/4149/samples/11579",
+   "found_in_search": true
+  },
+  {
+   "title": "Fuau in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11218",
+   "found_in_search": true
+  }
+ ]
+}

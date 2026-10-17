@@ -1,0 +1,38 @@
+{
+ "iso": "fll",
+ "name": "Fali, North",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Die Sprache der Fali in Nordkamerun (Kramer 2014)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_die-sprache-der-fali-in-nordkamerun",
+   "found_in_search": true
+  },
+  {
+   "title": "Outline of the grammar of Fali (Ennulat 1971), SIL Cameroon archive listing",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.silcam.org/resources/archives/64940",
+   "found_in_search": true
+  },
+  {
+   "title": "Fali languages (Cameroon) - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fali_languages_(Cameroon)",
+   "found_in_search": true
+  },
+  {
+   "title": "North Fali in Cameroon - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/13981",
+   "found_in_search": true
+  }
+ ]
+}

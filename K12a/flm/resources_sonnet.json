@@ -1,0 +1,31 @@
+{
+ "iso": "flm",
+ "name": "Falam Chin (Retired)",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:41:00Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Falam Chin dictionary on Webonary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/chinfalam/language/map/",
+   "found_in_search": true
+  },
+  {
+   "title": "Falam Chin - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/39902",
+   "found_in_search": true
+  },
+  {
+   "title": "Falam Chin 2009 Edition Bible (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/FLMBIV",
+   "found_in_search": true
+  }
+ ]
+}

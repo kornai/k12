@@ -1,0 +1,52 @@
+{
+ "iso": "fij",
+ "name": "Fijian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:38:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Education Minister clarifies vernaculars taught at school",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.fiji.gov.fj/Media-Centre/News/Education-Minister-clarifies-vernaculars-taught-at-school",
+   "found_in_search": true
+  },
+  {
+   "title": "Minister Kumar meets with senior education specialists for languages",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.fiji.gov.fj/Media-Centre/News/MINISTER-KUMAR-MEETS-WITH-SENIOR-EDUCATION-SPECIAL",
+   "found_in_search": true
+  },
+  {
+   "title": "Spoken Fijian (Schütz, 1971)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/10b85dda-09ab-45e4-8be8-d1707f1433cb",
+   "found_in_search": true
+  },
+  {
+   "title": "A Fijian and English and an English and Fijian dictionary (1872)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://catalogue.nli.ie/Record/vtls000416860",
+   "found_in_search": true
+  },
+  {
+   "title": "Macawa ni Vosa Vakaviti – Fijian Language Week",
+   "type": "other",
+   "language": "English",
+   "url": "https://newzealandcurriculum.tahurangi.education.govt.nz/macawa-ni-vosa-vakaviti-fijian-language-week/5637167842.p",
+   "found_in_search": true
+  },
+  {
+   "title": "Culture and heritage to be reflected in curriculum",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.ifacca.org/news/2026/03/11/culture-and-heritage-be-reflected-curriculum/",
+   "found_in_search": true
+  }
+ ]
+}

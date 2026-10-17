@@ -1,0 +1,52 @@
+{
+ "iso": "fkv",
+ "name": "Kven Finnish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:40:14Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Norwegian Bokmål-Kven dictionary (Giellatekno/Kainun institutti)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://b2find.eudat.eu/dataset/595deefa-81cf-530c-b5dc-ace54148f680",
+   "found_in_search": true
+  },
+  {
+   "title": "Kvensk revitalisering, normering og leksikografi",
+   "type": "academic",
+   "language": "other",
+   "url": "https://munin.uit.no/handle/10037/36648",
+   "found_in_search": true
+  },
+  {
+   "title": "LexicoNordica article on the online Kven dictionary",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tidsskrift.dk/lexn/article/download/151290/193992/333797",
+   "found_in_search": true
+  },
+  {
+   "title": "Kven language and culture (En)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://kvener.no/?p=5939",
+   "found_in_search": true
+  },
+  {
+   "title": "Språkbanken resource catalogue entry (CLARINO 11509/92)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.nb.no/sprakbanken/ressurskatalog/oai-repo-clarino-uib-no-11509-92/",
+   "found_in_search": true
+  },
+  {
+   "title": "Språkbanken resource catalogue entry (CLARINO 11509/89)",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.nb.no/sprakbanken/ressurskatalog/oai-repo-clarino-uib-no-11509-89/",
+   "found_in_search": true
+  }
+ ]
+}
