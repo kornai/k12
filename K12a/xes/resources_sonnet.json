@@ -1,0 +1,45 @@
+{
+ "iso": "xes",
+ "name": "Koromu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:57:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Koromu (Kesawai): Grammar and Information Structure of a New Guinea Language (Priestley), ANU research record",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/koromu-kesawai-grammar-and-information-structure-of-a-new-guinea-/",
+   "found_in_search": true
+  },
+  {
+   "title": "Carol Priestley 2020 (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/581512",
+   "found_in_search": true
+  },
+  {
+   "title": "Carol Priestley 2008 (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/309219",
+   "found_in_search": true
+  },
+  {
+   "title": "Kesawai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kesawai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kesawai, Namuya in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/12641",
+   "found_in_search": true
+  }
+ ]
+}

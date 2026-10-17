@@ -1,0 +1,59 @@
+{
+ "iso": "xem",
+ "name": "Mateq",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:57:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Connell 2013, Mateq sketch grammar (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/442917",
+   "found_in_search": true
+  },
+  {
+   "title": "Connell 2013 Mateq (CrossGram source)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://crossgram.clld.org/sources/bonmannsymmetrical-connell2013mateq",
+   "found_in_search": true
+  },
+  {
+   "title": "Kembayan language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kembayan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Kembayan (kemb1249)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/kemb1249",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Kembayan (Matéq)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/kembayan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Kembayan numbers",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/language/numbers/kembayan.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network language page 5061",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/5061",
+   "found_in_search": true
+  }
+ ]
+}
