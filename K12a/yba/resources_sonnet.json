@@ -1,0 +1,45 @@
+{
+ "iso": "yba",
+ "name": "Yala",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yala language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yala_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yala Bible Translation (Lutheran Bible Translators)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://lbt.org/program/yala-bible-translation/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yala Language Development and Bible Translation (LBT)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://lbt.org/?p=5329",
+   "found_in_search": true
+  },
+  {
+   "title": "Yala Language Development and BT (LBT PDF)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lbt.org/wp-content/uploads/2020/09/Yala-Language-Development-and-BT.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yala in Nigeria (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15961",
+   "found_in_search": true
+  }
+ ]
+}

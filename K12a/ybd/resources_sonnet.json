@@ -1,0 +1,45 @@
+{
+ "iso": "ybd",
+ "name": "Yangbye",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ramree dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ramree_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "IANA subtag record for ybd (retired, merged into rki)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iana.org/assignments/lang-subtags-templates/ybd.txt",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yangbye",
+   "type": "other",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yang1301",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Rakhine (rki)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=rki",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Rakhine language",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/rki",
+   "found_in_search": true
+  }
+ ]
+}

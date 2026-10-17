@@ -1,0 +1,31 @@
+{
+ "iso": "yaz",
+ "name": "Lokaa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:24:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Phonology and grammar of Lokee: a preliminary study (A. U. Iwara, SOAS MPhil 1982)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://eprints.soas.ac.uk/28582/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yako language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yak%C3%B6_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bendor-Samuel 1969, Yakurr syllable patterns (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/40951",
+   "found_in_search": true
+  }
+ ]
+}
