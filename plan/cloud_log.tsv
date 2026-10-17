@@ -933,3 +933,15 @@ sdg	Savi	2026-10-17T03:49:52Z	done	4	sdg+sdh+sdi+sdj
 sdh	Southern Kurdish	2026-10-17T03:49:52Z	done	5	sdg+sdh+sdi+sdj
 sdi	Sindang Kelingi	2026-10-17T03:49:52Z	done	8	sdg+sdh+sdi+sdj
 sdj	Suundi	2026-10-17T03:49:52Z	done	5	sdg+sdh+sdi+sdj
+sdk	Sos Kundi	2026-10-17T03:51:36Z	done	7	sdk+sdl+sdm+sdn
+sdl	Saudi Arabian Sign Language	2026-10-17T03:51:36Z	done	8	sdk+sdl+sdm+sdn
+sdm	Onya Darat	2026-10-17T03:51:36Z	done	4	sdk+sdl+sdm+sdn
+sdn	Sardinian, Gallurese	2026-10-17T03:51:36Z	done	8	sdk+sdl+sdm+sdn
+sdo	Bidayuh Serian	2026-10-17T03:53:28Z	done	11	sdo+sdp+sdq+sdr
+sdp	Sherdukpen	2026-10-17T03:53:28Z	done	10	sdo+sdp+sdq+sdr
+sdq	Semandang	2026-10-17T03:53:28Z	done	8	sdo+sdp+sdq+sdr
+sdr	Sadri, Oraon	2026-10-17T03:53:28Z	done	10	sdo+sdp+sdq+sdr
+sds	Sened	2026-10-17T03:54:05Z	done	5	sds+sdt+sdu+sdx
+sdt	Shuadit	2026-10-17T03:54:05Z	failed	0	sds+sdt+sdu+sdx
+sdu	Sarudu	2026-10-17T03:54:05Z	failed	0	sds+sdt+sdu+sdx
+sdx	Melanau, Sibu	2026-10-17T03:54:05Z	failed	0	sds+sdt+sdu+sdx

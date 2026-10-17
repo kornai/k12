@@ -1,0 +1,80 @@
+{
+ "iso": "sdr",
+ "name": "Sadri, Oraon",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:53:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammar of Chotanagpuri Sadri (Peterson and Baraik), catalogue listing",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.exoticindiaart.com/book/details/grammar-of-chotanagpuri-sadri-indo-aryan-lingua-franca-of-eastern-central-india-hbh466",
+   "found_in_search": true
+  },
+  {
+   "title": "Sadri Webonary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/sadri/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Nagpuri language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nagpuri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sadri language (Simple English Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://simple.wikipedia.com/wiki/Sadri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Nagpuri/Sadri (sck)",
+   "type": "scripture",
+   "language": "other",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=sck",
+   "found_in_search": true
+  },
+  {
+   "title": "Oraon, The (Banglapedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.banglapedia.org/index.php/Oraon,_The",
+   "found_in_search": true
+  },
+  {
+   "title": "The Oraons of Bangladesh: An Anthropological study (University of Dhaka)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://sanskrit.du.ac.bd/wp-content/uploads/2025/07/5.-The-Oraons-of-Bangladesh-An-Anthropological-converted.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Journal article record on the Oraon (bea-bd.org)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://bea-bd.org/site/article-details/180",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurux Oraon in Bangladesh (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/14210/BG",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurukh people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kurukh_people",
+   "found_in_search": true
+  }
+ ]
+}
