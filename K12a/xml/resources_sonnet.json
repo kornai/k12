@@ -1,0 +1,38 @@
+{
+ "iso": "xml",
+ "name": "Malaysian Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kepentingan Bahasa Isyarat Malaysia (BIM) dalam pengajaran Perkara Asas Fardhu Ain (PAFA) terhadap komuniti pekak",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.um.edu.my/index.php/JUKU/article/view/8136",
+   "found_in_search": true
+  },
+  {
+   "title": "Reka bentuk isi kandungan kurikulum Bahasa Isyarat Malaysia (BIM) untuk PAFA",
+   "type": "academic",
+   "language": "other",
+   "url": "https://ejournal.um.edu.my/index.php/JUKU/article/view/8165",
+   "found_in_search": true
+  },
+  {
+   "title": "BIM: Breaking (the Silence) in Malaysia (Taylor's College)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://college.taylors.edu.my/en/student-life/news/2025/bim-breaking-the-silence-in-malaysia.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Malaysian Sign Language (overview)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:xml",
+   "found_in_search": true
+  }
+ ]
+}

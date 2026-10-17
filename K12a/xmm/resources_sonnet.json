@@ -1,0 +1,38 @@
+{
+ "iso": "xmm",
+ "name": "Manado Malay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Manado dictionary (Webonary) - introduction",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/manado/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "The history of the Manado language (Webonary)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.webonary.org/manado/?p=146806",
+   "found_in_search": true
+  },
+  {
+   "title": "Stoel, Ruben 2005. Focus in Manado Malay: grammar, particles and intonation (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/122282",
+   "found_in_search": true
+  },
+  {
+   "title": "Manado Malay (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Manado_Malay",
+   "found_in_search": true
+  }
+ ]
+}
