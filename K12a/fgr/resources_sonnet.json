@@ -1,0 +1,45 @@
+{
+ "iso": "fgr",
+ "name": "Fongoro",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:37:16Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fongoro language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fongoro_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Dialect Gele (Dar Fongoro), ISO fgr",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/fgr",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Fongoro",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/570",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Fongoro in Chad",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/11219/CD",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Fongoro (fgr)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/fgr",
+   "found_in_search": true
+  }
+ ]
+}

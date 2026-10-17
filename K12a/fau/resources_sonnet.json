@@ -1,0 +1,31 @@
+{
+ "iso": "fau",
+ "name": "Fayu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fayu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Fayu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Maitland 2020, A grammatical description of Fayu (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/580998",
+   "found_in_search": true
+  },
+  {
+   "title": "Clouse 1997, Lakes Plain comparative wordlists (TransNewGuinea.org)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/clouse-1997?page=47",
+   "found_in_search": true
+  }
+ ]
+}

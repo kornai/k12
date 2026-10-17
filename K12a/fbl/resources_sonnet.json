@@ -1,0 +1,66 @@
+{
+ "iso": "fbl",
+ "name": "Bikol, West Albay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:35:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grammatical sketch of West Albay Bikol (Borja, CUNY thesis, 2024)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://academicworks.cuny.edu/gc_etds/5781",
+   "found_in_search": true
+  },
+  {
+   "title": "Bikol Dictionary (University of Hawai'i Press)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://manifold.uhpress.hawaii.edu/projects/bikol-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "McFarland 1974, The Dialects of the Bikol Area (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/61602",
+   "found_in_search": true
+  },
+  {
+   "title": "Bikol phrasebook (Wikivoyage)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikivoyage.org/wiki/Bikol_phrasebook",
+   "found_in_search": true
+  },
+  {
+   "title": "MTB-MLE Grade 1: Bikol Week 30 Teacher's Guide (DepEd LRMDS)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://lrmds.deped.gov.ph/detail/3961",
+   "found_in_search": true
+  },
+  {
+   "title": "DepEd Albay training memorandum on contextualizing Grade 1 Bikol materials (Scribd)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.scribd.com/doc/160685911/Training-Matrix",
+   "found_in_search": true
+  },
+  {
+   "title": "Bicol University R&D Journal article on Central Bikol and MTB-MLE (de la Torre)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://systems.bicol-u.edu.ph/journal/assets/journal_pdf/1_de%20la%20Torre_1-12.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Bicol University R&D Journal article on Bikol MTB-MLE (Lorenzana)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://systems.bicol-u.edu.ph/journal/assets/journal_pdf/4%20Lorenzana_49-61.pdf",
+   "found_in_search": true
+  }
+ ]
+}

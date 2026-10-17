@@ -1,0 +1,45 @@
+{
+ "iso": "fcs",
+ "name": "Quebec Sign Language",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "OPHQ Rapport LSQ (La langue des signes québécoise : des moyens pour améliorer les services)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://www.ophq.gouv.qc.ca/fileadmin/centre_documentaire/Etudes__analyses_et_rapports/OPHQ_Rapport_LSQ.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Luna 2015, syntactic variation in LSQ",
+   "type": "academic",
+   "language": "other",
+   "url": "https://cla-acl.artsci.utoronto.ca/pdfs/actes-2015/Luna-2015.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Globe 2013 article on LSQ as first language of learning",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.erudit.org/en/journals/globe/2013-v16-n1-globe0796/1018177ar.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "BAnQ document on LSQ as language of instruction (2003 request)",
+   "type": "policy",
+   "language": "other",
+   "url": "https://collections.banq.qc.ca/document/s/t/y7Sv2_eNFeswIiaNrRPzlA",
+   "found_in_search": true
+  },
+  {
+   "title": "La communauté sourde de Montréal et ses institutions",
+   "type": "community_org",
+   "language": "other",
+   "url": "https://ville.montreal.qc.ca/memoiresdesmontrealais/la-communaute-sourde-de-montreal-et-ses-institutions?page=8",
+   "found_in_search": true
+  }
+ ]
+}

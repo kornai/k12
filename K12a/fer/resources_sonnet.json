@@ -1,0 +1,52 @@
+{
+ "iso": "fer",
+ "name": "Feroge",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Feroge (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Feroge",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaligi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kaligi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Feroge numerals, Max Planck channumerals database",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Feroge.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Feroge",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/fer/",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kaligi, Feroge in South Sudan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/12451",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Feroge (no recordings)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/fer",
+   "found_in_search": true
+  }
+ ]
+}
