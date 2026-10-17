@@ -1,0 +1,38 @@
+{
+ "iso": "zmj",
+ "name": "Maridjabin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Maridjabin (Marri Tjevin) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.Wikipedia.org/wiki/Maridjabin",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Maridjabin bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1908/bibliography",
+   "found_in_search": true
+  },
+  {
+   "title": "TLCMap layer 972",
+   "type": "other",
+   "language": "English",
+   "url": "https://tlcmap.org/layers/972",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: zmj",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zmj/",
+   "found_in_search": true
+  }
+ ]
+}

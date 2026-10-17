@@ -1,0 +1,59 @@
+{
+ "iso": "zml",
+ "name": "Matngala",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Matngala language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Matngala_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Madngela - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Madngela",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Daly languages - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Eastern_Daly_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Matngala bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1911/bibliography?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC IG9/017 elicitation recording",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.paradisec.org.au/repository/IG9/017",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Matngala",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1911",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: zml",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/zml/",
+   "found_in_search": true
+  }
+ ]
+}

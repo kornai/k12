@@ -1,0 +1,52 @@
+{
+ "iso": "zmm",
+ "name": "Marimanindji",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:00:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Marimanindji language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Marimanindji_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Maramanindji - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Maramanindji",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Daly languages - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Western_Daly_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Daly Languages: language page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://dalylanguages.org/view_language.php?id=16",
+   "found_in_search": true
+  },
+  {
+   "title": "South Australian Museum archives: Marimanindji",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.samuseum.sa.gov.au/collection/archives/language_groups/marimanindji",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Marimanindji",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/1909?hl=en",
+   "found_in_search": true
+  }
+ ]
+}
