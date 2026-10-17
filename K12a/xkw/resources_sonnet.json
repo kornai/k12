@@ -1,0 +1,38 @@
+{
+ "iso": "xkw",
+ "name": "Kembra",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:19:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kembra language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kembra_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kembra (ASJP word list entry)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KEMBRA",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe xkw language page",
+   "type": "other",
+   "language": "other",
+   "url": "https://glosbe.com/lib/xkw",
+   "found_in_search": true
+  },
+  {
+   "title": "Kembra, Endangered Languages Project",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1897?hl=en",
+   "found_in_search": true
+  }
+ ]
+}
