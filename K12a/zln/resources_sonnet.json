@@ -1,0 +1,52 @@
+{
+ "iso": "zln",
+ "name": "Zhuang, Lianshan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:56:27Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Lianshan Zhuang (lian1252)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/lian1252.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Zhuang languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zhuang_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ISO 639:z (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/ISO_639:z",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Lianshan Zhuang in China",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/19800",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang, Lianshan language",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/zln",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Zhuang: Liansan language",
+   "type": "audio",
+   "language": "other",
+   "url": "https://www.globalrecordings.net/en/language/6136",
+   "found_in_search": true
+  }
+ ]
+}
