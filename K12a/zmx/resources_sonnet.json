@@ -1,0 +1,52 @@
+{
+ "iso": "zmx",
+ "name": "Bomitaba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:04:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bomitaba language, Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bomitaba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sociolinguistic survey of the Bomitaba (Gardner, UND thesis 1990)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://commons.und.edu/theses/5067",
+   "found_in_search": true
+  },
+  {
+   "title": "Language use in the Epena District of northern Congo",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.tyndale.ca/publications/language-use-in-the-epena-district-northern-congo",
+   "found_in_search": true
+  },
+  {
+   "title": "Bomitaba works record (CORE)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://core.ac.uk/works/153732631",
+   "found_in_search": true
+  },
+  {
+   "title": "Bomitaba, Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/people_groups/10927/CF",
+   "found_in_search": true
+  },
+  {
+   "title": "Bomitaba, Global Recordings Network",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/zmx",
+   "found_in_search": true
+  }
+ ]
+}
