@@ -1,0 +1,38 @@
+{
+ "iso": "wnn",
+ "name": "Wunumara",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AIATSIS Austlang G16.1: Wunumara",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/g16.1",
+   "found_in_search": true
+  },
+  {
+   "title": "Wanamara (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wanamara",
+   "found_in_search": true
+  },
+  {
+   "title": "Ngawun language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ngawun_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: wnn",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/wnn/",
+   "found_in_search": true
+  }
+ ]
+}

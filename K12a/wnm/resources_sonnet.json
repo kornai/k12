@@ -1,0 +1,38 @@
+{
+ "iso": "wnm",
+ "name": "Wanggamala",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wanggamala language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wanggamala_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Wanggamala",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/wang1289",
+   "found_in_search": true
+  },
+  {
+   "title": "PHOIBLE: Wanggamala",
+   "type": "academic",
+   "language": "English",
+   "url": "https://phoible.org/languages/wang1289",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wanggamala",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3330",
+   "found_in_search": true
+  }
+ ]
+}

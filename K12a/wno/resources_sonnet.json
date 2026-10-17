@@ -1,0 +1,52 @@
+{
+ "iso": "wno",
+ "name": "Wano",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wano language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wano_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Burung: abstract on Wano (Max Planck Institute for Evolutionary Anthropology)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/archive/wlp/3/abstracts/Burung.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List 29.2656",
+   "type": "academic",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/29/2656",
+   "found_in_search": true
+  },
+  {
+   "title": "Wano in Indonesia (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15857",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wano",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2800",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS archive page (MPI Nijmegen)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://dobes.mpi.nl/?p=1034",
+   "found_in_search": true
+  }
+ ]
+}
