@@ -1,0 +1,38 @@
+{
+ "iso": "ydk",
+ "name": "Yoidik",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:32:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yoidik language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yoidik_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yoidik in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16048",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page: ydk",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/ydk",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Yoidik (ydk)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=ydk",
+   "found_in_search": true
+  }
+ ]
+}
