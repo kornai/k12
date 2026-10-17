@@ -1,0 +1,31 @@
+{
+ "iso": "wsu",
+ "name": "Wasu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:34:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wasu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wasu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Fabre 2005, dictionary entry: Wassu (PDF)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.ling.fi/Entradas%20diccionario/Dic=Wassu.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Wassu in Brazil (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15885",
+   "found_in_search": true
+  }
+ ]
+}

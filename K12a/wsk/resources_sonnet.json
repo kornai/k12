@@ -1,0 +1,52 @@
+{
+ "iso": "wsk",
+ "name": "Waskia",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:34:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waskia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waskia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Waskia",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/waskia.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Waskia New Testament, with Genesis, Proverbs, and portions of Psalms (1985), Digital Bible Society",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/WSKPNG",
+   "found_in_search": true
+  },
+  {
+   "title": "Kaem ko den (Waskia text, eBible.org)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/study/content/texts/wsk/FR0.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Gildipasi language project: tumbuna stories and tumbuna knowledge (ELDP)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0559/",
+   "found_in_search": true
+  },
+  {
+   "title": "Waskia in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15883",
+   "found_in_search": true
+  }
+ ]
+}

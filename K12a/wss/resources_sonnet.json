@@ -1,0 +1,45 @@
+{
+ "iso": "wss",
+ "name": "Wasa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:34:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wasa language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wasa_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wasa people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wasa_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Wasa (Sprache) (German Wikipedia)",
+   "type": "other",
+   "language": "other",
+   "url": "https://de.Wikipedia.Org/wiki/Wasa_(Sprache)",
+   "found_in_search": true
+  },
+  {
+   "title": "Wasa in Ghana (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/15878",
+   "found_in_search": true
+  },
+  {
+   "title": "Wassa language audio materials (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/wss",
+   "found_in_search": true
+  }
+ ]
+}
