@@ -1,0 +1,31 @@
+{
+ "iso": "ywn",
+ "name": "Yawanawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yawanawahãu Tãnãti: Nukẽ Matematica (cited in numerals database entry)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yawanawa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Yawanawa (cites de Paula 2007, de Souza 2013)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/yawa1260",
+   "found_in_search": true
+  },
+  {
+   "title": "Costumes e Tradições do Povo Yawanawá (OPIAC / CPI-Acre)",
+   "type": "other",
+   "language": "other",
+   "url": "https://cpiacre.org.br/wp-content/uploads/2020/03/Costumes-e-Tradicoes-do-Povo-Yawanawa.pdf",
+   "found_in_search": true
+  }
+ ]
+}

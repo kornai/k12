@@ -1,0 +1,52 @@
+{
+ "iso": "ywl",
+ "name": "Lalu, Western",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lalo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lalo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Language name and location: Western Lalu, Yunnan, China (Channumerals)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Lalu-Western.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Yangliu Lalu in China (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/18536",
+   "found_in_search": true
+  },
+  {
+   "title": "Lalu Yangliu people group profile (Asia Harvest)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/lalu-yangliu.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lalu Xinping people group profile (Asia Harvest)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/lalu-xinping.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lalu Xuzhang people group profile (Asia Harvest)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/China/chinaPeoples/L/LaluXuzhang.pdf",
+   "found_in_search": true
+  }
+ ]
+}
