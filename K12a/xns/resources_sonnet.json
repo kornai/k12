@@ -1,0 +1,38 @@
+{
+ "iso": "xns",
+ "name": "Kanashi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Synchronic and Diachronic Aspects of Kanashi (open access PDF)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://library.oapen.org/bitstream/20.500.12657/53703/1/9783110703245.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Synchronic and Diachronic Aspects of Kanashi (De Gruyter)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.degruyterbrill.com/isbn/9783110703245",
+   "found_in_search": true
+  },
+  {
+   "title": "Kanashi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kanashi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Malana, Himachal Pradesh (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Malana,_Himachal_Pradesh",
+   "found_in_search": true
+  }
+ ]
+}

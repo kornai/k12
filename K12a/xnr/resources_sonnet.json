@@ -1,0 +1,52 @@
+{
+ "iso": "xnr",
+ "name": "Kangri",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kangri language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kangri_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kangri In Context: An Areal Perspective",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tdl-ir.tdl.org/handle/10106/945",
+   "found_in_search": true
+  },
+  {
+   "title": "LINGUIST List review of A Grammar of Kangri",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/36/3246",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Survey of India: Himachal Pradesh",
+   "type": "academic",
+   "language": "English",
+   "url": "https://beta-old.ruralindiaonline.org/v1/uploads/Language_Survey_of_India_Himachal_Pradesh_9a8d9d3690.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Kangri numerals (MPI lingweb)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Kangri.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Kangri (xnr) library",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/lib/xnr",
+   "found_in_search": true
+  }
+ ]
+}

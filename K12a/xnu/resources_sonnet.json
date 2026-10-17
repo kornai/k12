@@ -1,0 +1,45 @@
+{
+ "iso": "xnu",
+ "name": "Nunukul",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:34:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Nunukul (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Nunukul",
+   "found_in_search": true
+  },
+  {
+   "title": "Quandamooka people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Quandamooka_people",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang E21: Moondjan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/e21",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS collection record 1508184",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1508184",
+   "found_in_search": true
+  },
+  {
+   "title": "Janday language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://Www.Wikipedia.org/wiki/Jandai",
+   "found_in_search": true
+  }
+ ]
+}
