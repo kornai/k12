@@ -1,0 +1,45 @@
+{
+ "iso": "xwd",
+ "name": "Wadi Wadi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:08:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AIATSIS Austlang D4: Wadi Wadi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/d4",
+   "found_in_search": true
+  },
+  {
+   "title": "Wadi Wadi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wadi_Wadi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wadi Wadi",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/97773",
+   "found_in_search": true
+  },
+  {
+   "title": "Museums Victoria: Victorian Aboriginal languages",
+   "type": "other",
+   "language": "English",
+   "url": "https://museumsvictoria.com.au/bunjilaka/about-us/first-peoples/victorian-aboriginal-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "Victorian Collections: wadiwadi search",
+   "type": "other",
+   "language": "English",
+   "url": "https://victoriancollections.net.au/collections?q=wadiwadi",
+   "found_in_search": true
+  }
+ ]
+}

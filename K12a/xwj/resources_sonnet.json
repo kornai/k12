@@ -1,0 +1,52 @@
+{
+ "iso": "xwj",
+ "name": "Wajuk",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:08:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sharon Gregory: Noongar Language Dictionary (library catalogue record)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://cockburnlibrary.spydus.com/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/114780686/15510566,545",
+   "found_in_search": true
+  },
+  {
+   "title": "Reconciliation Action Plan Resources: language (All Saints College library guide)",
+   "type": "other",
+   "language": "English",
+   "url": "https://libguides.allsaints.wa.edu.au/RAPresources/language",
+   "found_in_search": true
+  },
+  {
+   "title": "Noongar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Noongar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS W41: Noongar / Nyoongar",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1510236",
+   "found_in_search": true
+  },
+  {
+   "title": "Nyoongar Legacy: the naming of the land and the language of its people (bookshop listing)",
+   "type": "other",
+   "language": "English",
+   "url": "https://elizabethsbookshop.com.au/shop/australiana/west-australiana/nyoongar-legacy-the-the-naming-of-the-land-and-the-language-of-its-people",
+   "found_in_search": true
+  },
+  {
+   "title": "Cities Insider: Perth Indigenous languages (mentions Noongar Boodjar Language Cultural Aboriginal Corporation)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://citiesinsider.com/country/australia/perth/indigenous-languages/en",
+   "found_in_search": true
+  }
+ ]
+}
