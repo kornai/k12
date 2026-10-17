@@ -1,0 +1,45 @@
+{
+ "iso": "zea",
+ "name": "Zeeuws",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:43:24Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Zeelandic (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zeelandic",
+   "found_in_search": true
+  },
+  {
+   "title": "Zeelandic (Zeeuws) - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/zeelandic.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Zeeuws woordenboek wordt voortgezet (review of the Woordenboek der Zeeuwse dialecten supplement)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://dbnl.org/tekst/_bie001200301_01/_bie001200301_01_0013.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Taal en Tongval, Jaargang 31 (Zeeland dialect notation and the Ghijsen dictionary)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.dbnl.org/tekst/_taa007197901_01/_taa007197901_01_0024.php",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexvo entry for zea",
+   "type": "other",
+   "language": "English",
+   "url": "https://finto.fi/lexvo/en/page/zea",
+   "found_in_search": true
+  }
+ ]
+}
