@@ -1,0 +1,59 @@
+{
+ "iso": "sav",
+ "name": "Saafi-Saafi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "ADLAS - Association pour le Developpement de la Langue Saafi (Hewlett Foundation)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://hewlett.org/?p=28984763",
+   "found_in_search": true
+  },
+  {
+   "title": "A Saafi-Saafi (Sebikotane Variety) and English // French Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.koeppe.de/titel_a-saafi-saafi-sebikotane-variety-and-english-french-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "Safen language (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Safen_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Safen (Saafi-Saafi) - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/safen.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Safen alphabet chart (Omniglot)",
+   "type": "orthography",
+   "language": "other",
+   "url": "https://www.omniglot.com/charts/safen.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Saafi people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saafi_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: sav",
+   "type": "audio",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/sav/",
+   "found_in_search": true
+  }
+ ]
+}

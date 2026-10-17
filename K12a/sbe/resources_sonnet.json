@@ -1,0 +1,73 @@
+{
+ "iso": "sbe",
+ "name": "Saliba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Saliba online dictionary (Webonary)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.org/saliba/overview/introduction/",
+   "found_in_search": true
+  },
+  {
+   "title": "Saliba-Logea DoBeS documentation project",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/projects/saliba/language/",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS poster: Saliba",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/oceania-saliba-print.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Saliba language (Papua New Guinea) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saliba_language_(Papua_New_Guinea)",
+   "found_in_search": true
+  },
+  {
+   "title": "Saliba - Omniglot",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/saliba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Saliba Bible (eBible PDF)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://ebible.org/pdf/sbe/sbe_all.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Saliba Bible (eBible EPUB)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.ebible.org/epub/sbe.epub",
+   "found_in_search": true
+  },
+  {
+   "title": "IPS annual report 2017 (Saliba Half New Testament)",
+   "type": "other",
+   "language": "English",
+   "url": "https://brianc.ipsapps.org/Newsletters/png_annual-report_2017_sm.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Vernacular education in Papua New Guinea (UNESCO)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://unesdoc.unesco.org/ark:/48223/pf0000146660",
+   "found_in_search": true
+  }
+ ]
+}

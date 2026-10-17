@@ -1,0 +1,66 @@
+{
+ "iso": "sbd",
+ "name": "Southern Samo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "San Sud Webonary - Introduction",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/san-sud/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "San Sud Webonary dictionary entries",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.work/san-sud/?p=9444",
+   "found_in_search": true
+  },
+  {
+   "title": "Samo-English dictionary (Webonary, SIL 2018)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.webonary.work/samo/?p=146817",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Samo - Glottolog",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sout2844",
+   "found_in_search": true
+  },
+  {
+   "title": "Samo language (Burkina) - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Samo_language_(Burkina)",
+   "found_in_search": true
+  },
+  {
+   "title": "REFLEX Samo bibliography",
+   "type": "academic",
+   "language": "other",
+   "url": "https://reflex.cnrs.fr//Lexiques/webball/biblio.php?LGNOM=Sam",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Samo in Burkina Faso - Joshua Project",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14717",
+   "found_in_search": true
+  },
+  {
+   "title": "Southern Samo - Wikitongues",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/sbd/",
+   "found_in_search": true
+  }
+ ]
+}

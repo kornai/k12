@@ -1,0 +1,59 @@
+{
+ "iso": "saz",
+ "name": "Sourashtra",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:30Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Saurashtra script (Wikipedia)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saurashtra_script",
+   "found_in_search": true
+  },
+  {
+   "title": "Custodians safeguard Saurashtra language (Deccan Chronicle)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.deccanchronicle.com/nation/in-other-news/090616/custodians-safeguard-saurashtra-language.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode comments on Saurashtra (mentions Saurashtra Primer)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2003/03147-saurashtra-comments.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Semantically Classified Vocabulary of Saurashtri (CIIL)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://exoticindiaart.com/book/details/semantically-classified-vocabulary-of-saurashtri-hac485",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal: Saurashtra (2006)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2006/06122-saurashtra.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Unicode proposal: Saurashtra (2005)",
+   "type": "software",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2005/05222r2-n2969r2-saurashtra.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Alphabets: Saurashtra",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.endangeredalphabets.net/?p=384",
+   "found_in_search": true
+  }
+ ]
+}

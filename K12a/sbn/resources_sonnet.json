@@ -1,0 +1,73 @@
+{
+ "iso": "sbn",
+ "name": "Sindhi Bhil",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:33:13Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sindhi Bhili - Wikipedia",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sindhi_Bhili",
+   "found_in_search": true
+  },
+  {
+   "title": "Sindhi Bhils - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sindhi_Bhils",
+   "found_in_search": true
+  },
+  {
+   "title": "Bhil - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bhil",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Bhil in Pakistan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/16414/PK",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Megh (Muslim traditions) in Pakistan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/17619/PK",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sindhi Bhil",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/sbn",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sindhi Meghwar",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/16736",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Words of Life with Sindhi, Hindu and Hindi",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/program/10230",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sindhi Shikari Bhil",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/26102",
+   "found_in_search": true
+  }
+ ]
+}

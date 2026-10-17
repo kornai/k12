@@ -1,0 +1,59 @@
+{
+ "iso": "sbf",
+ "name": "Shabo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:30:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Documentation and grammatical description of Shabo (ELDP collection 0074)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://eldp.access.preservica.com/dk0074/",
+   "found_in_search": true
+  },
+  {
+   "title": "Documentation and grammatical description of the Shabo language (Culture in Crisis)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cultureincrisis.org/projects/documentation-and-grammatical-description-of-the-shabo-language-a-very-endangered-isolate-language-of-southwestern-ethiopia",
+   "found_in_search": true
+  },
+  {
+   "title": "Shabo language - Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shabo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Shabo - WALS",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wals.info/languoid/lect/wals_code_shb",
+   "found_in_search": true
+  },
+  {
+   "title": "Shabo isolate paper (Academia.edu)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.academia.edu/39266165",
+   "found_in_search": true
+  },
+  {
+   "title": "Shabo - Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1379?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Shabo (sbf) - Rosetta Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Sbf",
+   "found_in_search": true
+  }
+ ]
+}

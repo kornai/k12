@@ -1,0 +1,108 @@
+{
+ "iso": "sat",
+ "name": "Santhali",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Santali Odia Primer (CIIL)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://ciil.org/primers/Santali-Odia_Primer.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Santali Hindi Primer (CIIL/NCERT, 2025)",
+   "type": "primer",
+   "language": "native",
+   "url": "https://www.ciil.gov.in/primers/Santali-Hindi_Primer.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Santal children yet to get textbooks in mother tongue (Daily Star)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.thedailystar.net/backpage/santal-children-yet-get-textbooks-mother-tongue-1342030",
+   "found_in_search": true
+  },
+  {
+   "title": "Digitized Bodding Santal Dictionary (GICAS)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.aa.tufs.ac.jp/~mmine/GICAS/SantaliDatj-e.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Santali Language Resources on the Web (TIFR)",
+   "type": "other",
+   "language": "English",
+   "url": "https://theory.tifr.res.in/bombay/history/people/language/santhali.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Ol Chiki (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/olchiki.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Ol Chiki Unicode comment",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.unicode.org/L2/L2002/02456-ol-chiki-comment.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Ol Chiki (Unicode block)",
+   "type": "software",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Ol_Chiki_(Unicode_block)",
+   "found_in_search": true
+  },
+  {
+   "title": "The script war nobody is talking about",
+   "type": "other",
+   "language": "English",
+   "url": "https://countercurrents.org/2026/09/the-script-war-nobody-is-talking-about/",
+   "found_in_search": true
+  },
+  {
+   "title": "On learning and language - a photoessay",
+   "type": "other",
+   "language": "English",
+   "url": "https://raiot.in/on-learning-and-language-a-photoessay/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Santali",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/618",
+   "found_in_search": true
+  },
+  {
+   "title": "Words of Life 3 - Santali (GRN)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/program/63116",
+   "found_in_search": true
+  },
+  {
+   "title": "Santhali: Bangladesh (GRN)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/5030",
+   "found_in_search": true
+  },
+  {
+   "title": "CIS-A2K Santali Wikipedia work plan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://meta.wikimedia.org/wiki/CIS-A2K/Work_plan_July_2015_-_June_2016/Santali_Wikipedia",
+   "found_in_search": true
+  }
+ ]
+}

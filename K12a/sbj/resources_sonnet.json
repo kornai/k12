@@ -1,0 +1,59 @@
+{
+ "iso": "sbj",
+ "name": "Surbakhal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Surbakhal language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Surbakhal_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Maban languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Maban_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Maass, Grant and Prinz 1995, Sourbakhal sociolinguistic survey (Glottolog reference)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/111611",
+   "found_in_search": true
+  },
+  {
+   "title": "Surbakhal in Chad (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15129",
+   "found_in_search": true
+  },
+  {
+   "title": "Surbakhal language page (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/sbj",
+   "found_in_search": true
+  },
+  {
+   "title": "Surbakhal (Global Recordings Network)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/sbj",
+   "found_in_search": true
+  },
+  {
+   "title": "Masalit (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://omniglot.com/writing/masalit.htm",
+   "found_in_search": true
+  }
+ ]
+}
