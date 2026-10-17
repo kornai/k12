@@ -1,0 +1,45 @@
+{
+ "iso": "sug",
+ "name": "Suganga",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Suganga (suga1249)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/suga1249.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Suganga bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/10676/bibliography?hl=fr",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Suganga in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15107/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Suganga language page",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/sug",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC catalogue entry (recording from Sugan, labelled as a dialect of Yau; identity uncertain)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://catalog.paradisec.org.au/repository/VG3/140421",
+   "found_in_search": true
+  }
+ ]
+}

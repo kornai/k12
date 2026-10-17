@@ -1,0 +1,45 @@
+{
+ "iso": "suf",
+ "name": "Sufrai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tarpia language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tarpia_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tarpia",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2790",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Tarpia bibliography",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2790/bibliography?hl=de",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Endangered Languages: Tarpia",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/EndangeredLanguages/Tarpia",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Tarpia in Indonesia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15275",
+   "found_in_search": true
+  }
+ ]
+}
