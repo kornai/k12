@@ -1,0 +1,45 @@
+{
+ "iso": "xud",
+ "name": "Umiida",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:03:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AIATSIS AUSTLANG entry K49 (Umiida)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/K49",
+   "found_in_search": true
+  },
+  {
+   "title": "Umiida (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Umiida",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Umiida (umii1235)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/umii1235",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Sydney archives record (contents unverified)",
+   "type": "other",
+   "language": "English",
+   "url": "https://archives-search.sydney.edu.au/nodes/view/18773",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Umiida",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/6725?hl=es",
+   "found_in_search": true
+  }
+ ]
+}

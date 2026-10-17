@@ -1,0 +1,66 @@
+{
+ "iso": "xuj",
+ "name": "Kurumba, Jennu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:03:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Jenu Kurumba language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Jenu_Kurumba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Jenu Kuruba (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Jenu_Kuruba",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO WAL: Jennu Kurumba in India",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ar.wal.unesco.org/index.php/countries/india/languages/jennu-kurumba",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Jennu Kurumba (jenn1240)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/jenn1240",
+   "found_in_search": true
+  },
+  {
+   "title": "CIIL Sanchika repository item (contents unverified)",
+   "type": "other",
+   "language": "English",
+   "url": "https://sanchika.ciil.org/handle/1/11916",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS documentation project page",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=1168",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Kurumba poster",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/eurasia-kurumba-print.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Towards Another Reason: Identity Politics and Ethical Worlds in South India (OUP chapter)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://academic.oup.com/book/27193/chapter/196635937",
+   "found_in_search": true
+  }
+ ]
+}
