@@ -1,0 +1,45 @@
+{
+ "iso": "zro",
+ "name": "Záparo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:18:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Viatori, Zapara (AILLA document)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ailla-legacy.lib.utexas.edu/sites/default/files/documents/Viatori_Zapara.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Zaparo",
+   "type": "other",
+   "language": "English",
+   "url": "https://mail.omniglot.com/writing/zaparo.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Zaparo language (Wikipedia, ISO 639:zro)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:zro",
+   "found_in_search": true
+  },
+  {
+   "title": "UNESCO: Bi-national action plan for the safeguarding and revitalization of the oral and intangible heritage of the Zapara community",
+   "type": "policy",
+   "language": "English",
+   "url": "https://ich.unesco.org/en/projects/bi-national-action-plan-for-the-safeguarding-and-revitalization-of-the-oral-and-intangible-heritage-of-the-zapara-community-00012",
+   "found_in_search": true
+  },
+  {
+   "title": "One State, Many Nations (UBC Press)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ubcpress.ca/one-state-many-nations",
+   "found_in_search": true
+  }
+ ]
+}

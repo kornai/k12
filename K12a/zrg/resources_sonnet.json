@@ -1,0 +1,38 @@
+{
+ "iso": "zrg",
+ "name": "Mirgan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:18:06Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mirgan language (Global Recordings Network)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://globalrecordings.net/en/language/zrg",
+   "found_in_search": true
+  },
+  {
+   "title": "Mirgan: Batasuna language (Global Recordings Network)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/25839",
+   "found_in_search": true
+  },
+  {
+   "title": "Mirgan: Jagdal Pur language (Global Recordings Network)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://glorecnet-website.k.globalrecordings.net/en/language/25840",
+   "found_in_search": true
+  },
+  {
+   "title": "Mirgan in India (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21770",
+   "found_in_search": true
+  }
+ ]
+}
