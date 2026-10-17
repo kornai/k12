@@ -1,0 +1,59 @@
+{
+ "iso": "wmh",
+ "name": "Waima’a",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:18:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waimoa (Waima'a) - Omniglot",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/waimoa.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Waima'a poster (oceania-waimaa-print)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/posters/print/oceania-waimaa-print.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "DoBeS Waima'a project page",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://dobes.mpi.nl/?p=1381",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Waima'a",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/lang/2485",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC collection KC2 (Waima'a and Midiki texts)",
+   "type": "audio",
+   "language": "other",
+   "url": "https://admin-catalog.nabu-prod.paradisec.org.au/collections/KC2",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC item wmh20191025",
+   "type": "audio",
+   "language": "other",
+   "url": "https://admin-catalog.paradisec.org.au/collections/KC2/items/wmh20191025",
+   "found_in_search": true
+  },
+  {
+   "title": "Waima'a Midiki recordings (Research Data Australia)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://researchdata.edu.au/waimaa-midiki-recordings/3976499",
+   "found_in_search": true
+  }
+ ]
+}

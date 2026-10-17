@@ -1,0 +1,31 @@
+{
+ "iso": "wmi",
+ "name": "Wamin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:18:57Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wamin language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wamin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang Y132: Agwamin",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/Y132?code=Y132",
+   "found_in_search": true
+  },
+  {
+   "title": "Wakaman (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wakaman",
+   "found_in_search": true
+  }
+ ]
+}
