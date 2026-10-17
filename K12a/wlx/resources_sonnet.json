@@ -1,0 +1,17 @@
+{
+ "iso": "wlx",
+ "name": "Wali",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wali language (Gur) (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wali_language_(Gur)",
+   "found_in_search": true
+  }
+ ]
+}

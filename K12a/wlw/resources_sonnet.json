@@ -1,0 +1,45 @@
+{
+ "iso": "wlw",
+ "name": "Walak",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Walak language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Walak_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Walak people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Walak_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Walak",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/wlw",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Walak",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=wlw",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Walak in Indonesia",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15834",
+   "found_in_search": true
+  }
+ ]
+}

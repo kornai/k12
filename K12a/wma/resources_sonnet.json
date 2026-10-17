@@ -1,0 +1,24 @@
+{
+ "iso": "wma",
+ "name": "Mawa",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:16:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Mawa (Nigeria), unattested",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/mawa1236.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Localizely: ISO 639 code wma technical information",
+   "type": "other",
+   "language": "English",
+   "url": "https://localizely.com/language-code/wma",
+   "found_in_search": true
+  }
+ ]
+}
