@@ -1,0 +1,31 @@
+{
+ "iso": "xis",
+ "name": "Kisan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikitongues: Kisan (xis)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/xis/",
+   "found_in_search": true
+  },
+  {
+   "title": "Kurukh language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kurukh_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tribes of Odisha: Kisan",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://ostm.in/tribes_of_odisha/kisan/",
+   "found_in_search": true
+  }
+ ]
+}

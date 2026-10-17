@@ -1,0 +1,38 @@
+{
+ "iso": "xiv",
+ "name": "Harappan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:03:56Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Harappan language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Harappan_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Why has the language of Harappa not been deciphered (Harappa.com)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.harappa.com/answers/why-has-language-harappa-not-been-deciphered",
+   "found_in_search": true
+  },
+  {
+   "title": "Why have scholars struggled to decipher Harappan Script? (Compass)",
+   "type": "other",
+   "language": "English",
+   "url": "https://compass.rauias.com/current-affairs/scholars-struggled-decipher-harappan-script/",
+   "found_in_search": true
+  },
+  {
+   "title": "Deciphering Harappan Script (IAS Gyan)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.iasgyan.in/daily-current-affairs/deciphering-harappan-script",
+   "found_in_search": true
+  }
+ ]
+}
