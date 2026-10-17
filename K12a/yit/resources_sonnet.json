@@ -1,0 +1,45 @@
+{
+ "iso": "yit",
+ "name": "Lalu, Eastern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:45:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lalo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Lalo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Lalo (Endangered Languages Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/5129",
+   "found_in_search": true
+  },
+  {
+   "title": "Western Lalu numerals (MPI EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Lalu-Western.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Lalu, Xinping (Asia Harvest profile)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/lalu-xinping.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: yit",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.joshuaproject.net/index.php/languages/yit",
+   "found_in_search": true
+  }
+ ]
+}
