@@ -1,0 +1,52 @@
+{
+ "iso": "wnw",
+ "name": "Wintu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:59Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wintu Dictionary (Pitkin 1985), digital edition",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Wintu_Dictionary_(1985)",
+   "found_in_search": true
+  },
+  {
+   "title": "Wintu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wintu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Wintu",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/wintu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "UC Berkeley Survey of California and Other Indian Languages: Wintu",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cla.berkeley.edu/languages/wintu.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Wintu resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/37667/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "UC Berkeley Language Revitalization people listing",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lx.berkeley.edu/person-type/language-revitalization",
+   "found_in_search": true
+  }
+ ]
+}

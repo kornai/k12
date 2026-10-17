@@ -1,0 +1,31 @@
+{
+ "iso": "wny",
+ "name": "Waanyi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:59Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Waanyi language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Waanyi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS AUSTLANG: Waanyi (C23)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/c23",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Waanyi",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4190",
+   "found_in_search": true
+  }
+ ]
+}
