@@ -1,0 +1,59 @@
+{
+ "iso": "xrb",
+ "name": "Eastern Karaboro",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wichser and Bühler 1994, Dictionnaire Karaboro-Français et Français-Karaboro (Glottolog record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/59899",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Karaboro (Wikitongues)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/xrb/",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Karaboro 1993 Edition (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/XRBWBT",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Eastern Karaboro",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=xrb",
+   "found_in_search": true
+  },
+  {
+   "title": "Eastern Karaboro in Burkina Faso (Joshua Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/11696/UV",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Eastern Karaboro",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/xrb",
+   "found_in_search": true
+  }
+ ]
+}

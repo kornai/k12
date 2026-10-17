@@ -1,0 +1,45 @@
+{
+ "iso": "xrg",
+ "name": "Minang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:47:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Noongar language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Noongar_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mineng (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Mineng",
+   "found_in_search": true
+  },
+  {
+   "title": "King of Kinjarling (Historical Albany)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://historicalbany.com.au/king-of-kinjarling",
+   "found_in_search": true
+  },
+  {
+   "title": "Tommy King (Historical Albany)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://www.historicalbany.com.au/tommy-king",
+   "found_in_search": true
+  },
+  {
+   "title": "2021 Promoting Indigenous Recognition Award Honourable Mention (Albany dual naming)",
+   "type": "policy",
+   "language": "English",
+   "url": "https://www.infrastructure.gov.au/territories-regions-cities/local-government/awards/2021/promoting-indigenous-recognition-award-honourable-mention",
+   "found_in_search": true
+  }
+ ]
+}
