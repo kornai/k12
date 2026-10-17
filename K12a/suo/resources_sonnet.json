@@ -1,0 +1,52 @@
+{
+ "iso": "suo",
+ "name": "Bouni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Bouni language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Bouni_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Skou languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Skou_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Bouni",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/BOUNI",
+   "found_in_search": true
+  },
+  {
+   "title": "Bouni numerals (Max Planck EVA)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Bouni.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Skou/Bouni entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/98105",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Bouni in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/21994",
+   "found_in_search": true
+  }
+ ]
+}

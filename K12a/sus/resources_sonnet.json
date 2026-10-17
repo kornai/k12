@@ -1,0 +1,59 @@
+{
+ "iso": "sus",
+ "name": "Susu",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:31:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Susu language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Susu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Susu (Sosoxui)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/susu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "CoCoon archive: Susu (sus)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://cocoon.huma-num.fr/exist/crdo/lexvo.xql?code=sus",
+   "found_in_search": true
+  },
+  {
+   "title": "Sierra Leone Heritage: Soso glossary entry",
+   "type": "other",
+   "language": "English",
+   "url": "https://sierraleoneheritage.org/glossary/soso",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Susu (sus)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=sus",
+   "found_in_search": true
+  },
+  {
+   "title": "YouVersion: Susu Bible text (SUS1816)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.bible.com/yo/versions/2066",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Sousou",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/sus",
+   "found_in_search": true
+  }
+ ]
+}
