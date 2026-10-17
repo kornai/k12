@@ -1,0 +1,59 @@
+{
+ "iso": "xed",
+ "name": "Hdi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:56:32Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dictionary of Hdi (Frajzyngier et al., 2015)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_dictionary-of-hdi",
+   "found_in_search": true
+  },
+  {
+   "title": "Dictionary of Hdi, print edition",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.koeppe.de/titel_print_dictionary-of-hdi",
+   "found_in_search": true
+  },
+  {
+   "title": "Hdi dictionary (Dictionaria)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://dictionaria.clld.org/contributions/hdi",
+   "found_in_search": true
+  },
+  {
+   "title": "Zygmunt Frajzyngier publishes new dictionary of a Chadic language (CU Boulder)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.colorado.edu/linguistics/2016/01/25/zygmunt-frajzyngier-publishes-new-dictionary-chadic-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Hdi language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Hdi_language",
+   "found_in_search": true
+  },
+  {
+   "title": "The Hide or Tur",
+   "type": "other",
+   "language": "English",
+   "url": "https://mandaras.info/HideTur.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Hdi writing (Omniglot)",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/hdi.htm",
+   "found_in_search": true
+  }
+ ]
+}
