@@ -1,0 +1,66 @@
+{
+ "iso": "xri",
+ "name": "Krikati-Timbira",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Formacao especifica dos professores indigenas Krikati e a pratica pedagogica bilingue",
+   "type": "academic",
+   "language": "other",
+   "url": "https://univates.br/bdu/handle/10737/1053",
+   "found_in_search": true
+  },
+  {
+   "title": "Territorio etnoeducacional Timbira: o protagonismo etnico do povo Krikati da educacao escolar indigena",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.univates.br/bdu/handle/10737/2620",
+   "found_in_search": true
+  },
+  {
+   "title": "Revista Cocar article on Krikati and the Timbira ethno-educational territory",
+   "type": "academic",
+   "language": "other",
+   "url": "https://periodicos.uepa.br/index.php/cocar/article/download/4343/1947/14489",
+   "found_in_search": true
+  },
+  {
+   "title": "Krikati dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kr%C4%A9kat%C3%AD_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Pykobje dialect (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pykobj%C3%AA_dialect",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project bibliography for Krikati",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/2671/bibliography?hl=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Krikati-Timbira numerals (MPI EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Krikati-Timbira.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Krikati-Timbira pages",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/xri/lib",
+   "found_in_search": true
+  }
+ ]
+}

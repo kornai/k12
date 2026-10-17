@@ -1,0 +1,66 @@
+{
+ "iso": "xrr",
+ "name": "Raetic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Thesaurus Inscriptionum Raeticarum (TIR)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://tir.univie.ac.at/",
+   "found_in_search": true
+  },
+  {
+   "title": "TIR wiki: Raetica",
+   "type": "academic",
+   "language": "English",
+   "url": "https://tir.univie.ac.at/wiki/Raetica",
+   "found_in_search": true
+  },
+  {
+   "title": "TIR inscription category",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://tir.univie.ac.at/wiki/Category:Inscription",
+   "found_in_search": true
+  },
+  {
+   "title": "FWF project P 25495 (TIR)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.fwf.ac.at/en/research-radar/10.55776/P25495",
+   "found_in_search": true
+  },
+  {
+   "title": "Thesaurus Inscriptionum Raeticarum (Digital Classicist wiki)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wiki.digitalclassicist.org/Thesaurus_Inscriptionum_Raeticarum",
+   "found_in_search": true
+  },
+  {
+   "title": "Raetic (TLLM wiki)",
+   "type": "other",
+   "language": "English",
+   "url": "https://episteme.tllm.fr/wiki/Raetic",
+   "found_in_search": true
+  },
+  {
+   "title": "PRIN Italia Antica project page",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.prin-italia-antica.unifi.it/p155.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Thesaurus Inscriptionum Raeticarum (Semantic MediaWiki site description)",
+   "type": "other",
+   "language": "English",
+   "url": "https://semantic-mediawiki.org/wiki/Thesaurus_Inscriptionum_Raeticarum_(TIR)",
+   "found_in_search": true
+  }
+ ]
+}

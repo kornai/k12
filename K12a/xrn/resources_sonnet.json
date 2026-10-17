@@ -1,0 +1,59 @@
+{
+ "iso": "xrn",
+ "name": "Arin",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:49:15Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Arin language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Arin_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yeniseian languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yeniseian_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Arin people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Arin_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Pumpokolic languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pumpokolic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Arin language (Britannica)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.britannica.com/topic/Arin-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Arin - The language that has been extinct for over a century (FreeLang blog)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.freelang.net/blog/?p=802",
+   "found_in_search": true
+  },
+  {
+   "title": "Reichert Verlag sample pages (volume 9783752003215)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://medialibrary.reichert-verlag.de/media/pdf/9783752003215_sample.pdf",
+   "found_in_search": true
+  }
+ ]
+}
