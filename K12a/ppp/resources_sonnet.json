@@ -1,0 +1,45 @@
+{
+ "iso": "ppp",
+ "name": "Pelende",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pelende (Glottolog)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/pele1244.bigmap.html",
+   "found_in_search": true
+  },
+  {
+   "title": "de Beir 1975 (Glottolog reference)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/77157",
+   "found_in_search": true
+  },
+  {
+   "title": "Yaka language (Congo-Angola), Wikipedia",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.wikipedia.com/wiki/ISO_639:ppp",
+   "found_in_search": true
+  },
+  {
+   "title": "Pelende in Congo, Democratic Republic of (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14353/CG",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project language page ppp",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/ppp",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "iso": "pou",
+ "name": "Poqomam, Southern",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Diccionario Bilingue Poqomam-Espanol (ALMG), news report",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://agn.gt/?p=402251",
+   "found_in_search": true
+  },
+  {
+   "title": "Diez frases en pocomam (AGN)",
+   "type": "other",
+   "language": "native",
+   "url": "https://agn.gt/diez-frases-en-pocomam-que-puede-usar-en-las-fiestas-de-fin-de-ano",
+   "found_in_search": true
+  },
+  {
+   "title": "Guatemalan Mayan Dialect Survey - Poqomam of San Luis Jilotepeque (AILLA)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A137807",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Poqomam",
+   "type": "academic",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/4986",
+   "found_in_search": true
+  },
+  {
+   "title": "Biblia Kiche: Lenguas - Poqom (Iglesia Catolica de Guatemala)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.iglesiacatolica.org.gt/bibliakiche/BKiche_Lenguas_LenguasPoqom.pdf",
+   "found_in_search": true
+  }
+ ]
+}

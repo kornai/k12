@@ -1,0 +1,31 @@
+{
+ "iso": "ppi",
+ "name": "Paipai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Language Snapshot: Paipai (González 2020, Language Documentation and Description 17)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.lddjournal.org/article/1210/galley/2454/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Paipai",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/1538",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Paipai (alternate record)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/112156",
+   "found_in_search": true
+  }
+ ]
+}

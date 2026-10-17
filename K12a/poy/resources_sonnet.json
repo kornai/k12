@@ -1,0 +1,31 @@
+{
+ "iso": "poy",
+ "name": "Pogolo",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Pogolo language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pogolo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pogolo New Testament (Digital Bible Society)",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://dbs.org/bibles/POYNTP",
+   "found_in_search": true
+  },
+  {
+   "title": "Pogoro in Tanzania (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14425",
+   "found_in_search": true
+  }
+ ]
+}

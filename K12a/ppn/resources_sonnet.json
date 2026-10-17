@@ -1,0 +1,52 @@
+{
+ "iso": "ppn",
+ "name": "Papapana",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Papapana: An Oceanic Language of Bougainville, Papua New Guinea",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://www.harvard.com/book/9781501520730",
+   "found_in_search": true
+  },
+  {
+   "title": "Papapana language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Papapana_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Describing Papapana (University of Warwick)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://warwick.ac.uk/fac/soc/al/research/describingpapapana",
+   "found_in_search": true
+  },
+  {
+   "title": "Papapana in Papua New Guinea (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/14304/PP",
+   "found_in_search": true
+  },
+  {
+   "title": "PARADISEC collection BP4 (Papapana recordings)",
+   "type": "audio",
+   "language": "native",
+   "url": "https://catalog.nabu-prod.paradisec.org.au/collections/BP4",
+   "found_in_search": true
+  },
+  {
+   "title": "ELDP archive record for Papapana",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://eldp.access.preservica.com/dk0313/",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "iso": "ppa",
+ "name": "Pao",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Pao (retired ISO code)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/paoo1245",
+   "found_in_search": true
+  },
+  {
+   "title": "ISO 639:p code listing (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/ISO_639:p",
+   "found_in_search": true
+  }
+ ]
+}

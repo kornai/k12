@@ -1,0 +1,45 @@
+{
+ "iso": "pox",
+ "name": "Polabian",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:50Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Polabian language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Polabian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Wiktionary Polabian entry (cü)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://en.wiktionary.org/wiki/c%C3%BC",
+   "found_in_search": true
+  },
+  {
+   "title": "Polabisches Wörterbuch sources (German Wikipedia user page)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://de.wikipedia.org/wiki/Benutzer:Phillipm0703/Polabisches_W%C3%B6rterbuch/Quellen",
+   "found_in_search": true
+  },
+  {
+   "title": "Düsseldorf repository PDF 5989133",
+   "type": "academic",
+   "language": "other",
+   "url": "https://lessing.ub.uni-duesseldorf.de/download/pdf/5989133.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Düsseldorf repository PDF 7296464",
+   "type": "academic",
+   "language": "other",
+   "url": "https://lessing.ub.uni-duesseldorf.de/download/pdf/7296464.pdf",
+   "found_in_search": true
+  }
+ ]
+}

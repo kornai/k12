@@ -1,0 +1,66 @@
+{
+ "iso": "pow",
+ "name": "San Felipe Otlaltepec Popoloca",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: San Felipe Otlaltepec Popoloca",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sanf1264",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: San Felipe Otlaltepec Popoloca",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://asjp.clld.org/languages/SAN_FELIPE_OTLALTEPEC_POPOLOCA",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: San Felipe Otlaltepec Popoloca",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikitongues.org/languages/pow/",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Popoloca, San Felipe Otlaltepec",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/pow",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Vocabulary - Otlaltepec Popoloca",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A134810",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Narratives - Otlaltepec Popoloca (1)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A134805",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Narratives - Otlaltepec Popoloca (2)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A134806",
+   "found_in_search": true
+  },
+  {
+   "title": "AILLA: Narratives - Otlaltepec Popoloca (3)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://islandora-ailla.lib.utexas.edu/islandora/object/ailla%3A134809",
+   "found_in_search": true
+  }
+ ]
+}

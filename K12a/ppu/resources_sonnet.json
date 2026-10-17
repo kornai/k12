@@ -1,0 +1,45 @@
+{
+ "iso": "ppu",
+ "name": "Papora-Hoanya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:29:05Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Papora-Hoanya language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Papora-Hoanya_language",
+   "found_in_search": true
+  },
+  {
+   "title": "UEA eprint: ijts article (relevance unverified)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://ueaeprints.uea.ac.uk/99055/1/ijts-article-10.1163-24688800-20251427.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Taiwan's unrecognized indigenous tribes are reviving dead languages (The China Project)",
+   "type": "other",
+   "language": "English",
+   "url": "https://thechinaproject.com/2023/06/05/taiwans-unrecognized-indigenous-tribes-are-reviving-dead-languages-to-achieve-recognition/",
+   "found_in_search": true
+  },
+  {
+   "title": "Language Revitalisation Using Historical Texts: The Case of Siraya",
+   "type": "academic",
+   "language": "English",
+   "url": "https://taiwaninsight.org/2026/03/27/language-revitalisation-using-historical-texts-the-case-of-siraya/",
+   "found_in_search": true
+  },
+  {
+   "title": "Revitalization of indigenous languages in Taiwan: 1995-2014",
+   "type": "policy",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/847ac3de-a2cd-44a0-afdf-d83506ffc3b8/full",
+   "found_in_search": true
+  }
+ ]
+}
