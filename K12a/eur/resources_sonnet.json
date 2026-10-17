@@ -1,0 +1,38 @@
+{
+ "iso": "eur",
+ "name": "Europanto",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Europanto (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Europanto",
+   "found_in_search": true
+  },
+  {
+   "title": "World Wide Words: Europanto",
+   "type": "other",
+   "language": "English",
+   "url": "https://worldwidewords.org/tp-eur2.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Rosetta Panglossia: eur",
+   "type": "other",
+   "language": "English",
+   "url": "https://rosettapanglossia.longnow.org/index.php?title=Eur",
+   "found_in_search": true
+  },
+  {
+   "title": "Mediamatic: Diego Marani, Europanto",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.mediamatic.net/en/page/8718/europanto",
+   "found_in_search": true
+  }
+ ]
+}

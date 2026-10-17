@@ -1,0 +1,38 @@
+{
+ "iso": "dro",
+ "name": "Melanau, Matu Daro",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:55Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Daro-Matu language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Daro-Matu_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Melanau language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Melanau_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bernama report on Melanau-Malay dictionary project (Matu, Daro, Pulau Bruit)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.bernama.com/en/news.php?id=1774706",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Daro-Matu in Malaysia",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/11509",
+   "found_in_search": true
+  }
+ ]
+}

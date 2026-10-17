@@ -1,0 +1,31 @@
+{
+ "iso": "enm",
+ "name": "Middle English",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:27:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Middle English Compendium (Middle English Dictionary, corpus, bibliography)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://quod.lib.umich.edu/m/med",
+   "found_in_search": true
+  },
+  {
+   "title": "About the Middle English Compendium",
+   "type": "academic",
+   "language": "English",
+   "url": "https://quod.lib.umich.edu/m/middle-english-dictionary/about",
+   "found_in_search": true
+  },
+  {
+   "title": "Say what? U-M Library puts English language history online",
+   "type": "other",
+   "language": "English",
+   "url": "https://news.umich.edu/?p=3125",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "iso": "dwu",
+ "name": "Dhuwal",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Grace Tongatua (illustrated Djambarrpuyngu children's dictionary, author page)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://leanpub.com/u/balandamiyalk",
+   "found_in_search": true
+  },
+  {
+   "title": "Dhuwal (Arnhem Land) texts on kinship and other subjects, with grammatical sketch and dictionary",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://deepblue.lib.umich.edu/items/a6721d13-a93d-471c-b05d-bf641a92f3bc",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog reference record for Yolngu Matha dictionary",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glottolog.org/resource/reference/id/5691",
+   "found_in_search": true
+  },
+  {
+   "title": "CDU launches first online Yolngu dictionary",
+   "type": "software",
+   "language": "other",
+   "url": "https://www.cdu.edu.au/news/news-archive/cdu-launches-first-online-yolngu-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "CDU Yolngu resources page",
+   "type": "other",
+   "language": "other",
+   "url": "https://www.cdu.edu.au/centres/macp/resources_maratja.html",
+   "found_in_search": true
+  },
+  {
+   "title": "English Yolngu Matha Legal Dictionary (ARDS)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://ards.com.au/s/English-Yolngu-Matha-Legal-Dictionary.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Yolnu Matha health resources app (NT Health)",
+   "type": "software",
+   "language": "other",
+   "url": "https://library.health.nt.gov.au/mobileresources/YolnuMatha",
+   "found_in_search": true
+  }
+ ]
+}

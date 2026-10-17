@@ -1,0 +1,45 @@
+{
+ "iso": "dor",
+ "name": "Dori’o",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:25:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dori'o language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dori%CA%BCo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Dori'o numerals (MPI)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Dori'o.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Dori'o verbs",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Dorio",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe Dori'o entry",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/nmx/dor",
+   "found_in_search": true
+  },
+  {
+   "title": "Ivens: Dictionary and Grammar of the Language of Sa'a and Ulawa (related language, comparative only)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://bookserver.archive.org/acquire/dictionarygramma00ivenuoft.pdf",
+   "found_in_search": true
+  }
+ ]
+}

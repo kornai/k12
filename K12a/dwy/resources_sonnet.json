@@ -1,0 +1,45 @@
+{
+ "iso": "dwy",
+ "name": "Dhuwaya",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:26:51Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yirrkala LPC team recognised for contribution to ATSI education (AEU NT)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://aeunt.org.au/yirrkala-lpc-team-recognised-for-contribution-to-atsi-education",
+   "found_in_search": true
+  },
+  {
+   "title": "Yirrkala language centre recognised (NT Department of Education)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://education.nt.gov.au/statistics-research-and-strategies/indigenous-education-strategy/indigenous-education-strategy-issue-17/yirrkala-language-centre-recognised",
+   "found_in_search": true
+  },
+  {
+   "title": "Bilingual education in Australian Aboriginal communities: The forty years of the Yirrkala step model",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarspace.manoa.hawaii.edu/items/5543ce9a-c96b-4eb4-ae4d-03204e0156ef/full",
+   "found_in_search": true
+  },
+  {
+   "title": "Launch of Wanhaka yothu yingai in Yirrkala (ILF)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.ilf.org.au/news/launch-of-wanhaka-yothu-yingai-in-yirrkala",
+   "found_in_search": true
+  },
+  {
+   "title": "50 years strong: bilingual teaching is celebrated in Yirrkala (SBS)",
+   "type": "audio",
+   "language": "English",
+   "url": "https://phoenix.mkoga-1.edsqa01.aws.sbs.com.au/news/podcast-episode/50-years-strong-bilingual-teaching-is-celebrated-in-yirrkala/y5342zpfh",
+   "found_in_search": true
+  }
+ ]
+}

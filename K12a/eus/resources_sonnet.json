@@ -1,0 +1,59 @@
+{
+ "iso": "eus",
+ "name": "Basque",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:28:44Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Basque acquisition planning",
+   "type": "policy",
+   "language": "English",
+   "url": "https://euskadi.eus/contenidos/informacion/dia6/en_2027/adjuntos/publications_in_english/basque_acquisition_planning_en.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Tokian tokiko hizkuntzak eskolan: Derioko euskara ikasteko proposamena",
+   "type": "academic",
+   "language": "native",
+   "url": "https://addi.ehu.es/handle/10810/55067",
+   "found_in_search": true
+  },
+  {
+   "title": "Elhuyar Hiztegia help page",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.euskadi.eus/ab34aElhuyarHiztegiaWar/ab34ahiztegia",
+   "found_in_search": true
+  },
+  {
+   "title": "Updated and complete publication of the Elhuyar Dictionary",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://zientzia.eus/artikuluak/elhuyar-hiztegiaren-argitalpen-eguneratua-eta-osat/en/",
+   "found_in_search": true
+  },
+  {
+   "title": "10+ Basque Learning Books for Free",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.infobooks.org/free-pdf-books/language-learning/basque-learning",
+   "found_in_search": true
+  },
+  {
+   "title": "Etxepare Basque Institute: Learn Basque",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.etxepare.eus/en/learn-basque",
+   "found_in_search": true
+  },
+  {
+   "title": "Euskal Kultura: guide to links to learn Basque free online",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.euskalkultura.eus/english/news/guide-to-links-to-learn-basque-free-online-in-spanish-english-and-french",
+   "found_in_search": true
+  }
+ ]
+}
