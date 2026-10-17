@@ -1,0 +1,38 @@
+{
+ "iso": "ypw",
+ "name": "Puwa Yi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:11:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Puwa Yi (bookkeeping)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/puwa1234",
+   "found_in_search": true
+  },
+  {
+   "title": "Phowa languages (Wikipedia, ISO 639 yhl)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:yhl",
+   "found_in_search": true
+  },
+  {
+   "title": "Asia Harvest Puwa people-group profile",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/people-group-profiles/yunnan/puwa.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings: Yi, Puwa in Kaiyuan",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/6073",
+   "found_in_search": true
+  }
+ ]
+}

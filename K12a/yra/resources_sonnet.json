@@ -1,0 +1,45 @@
+{
+ "iso": "yra",
+ "name": "Yerakai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:11:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yerakai language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yerakai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Yerakai",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/yera1243",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Sepik family",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sepi1257",
+   "found_in_search": true
+  },
+  {
+   "title": "Middle Sepik languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Middle_Sepik_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yerakai in Papua New Guinea",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/16026",
+   "found_in_search": true
+  }
+ ]
+}

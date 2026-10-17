@@ -1,0 +1,66 @@
+{
+ "iso": "yrb",
+ "name": "Yareba",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:11:12Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Weimer and Weimer, Yareba dictionary (Glottolog reference)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://glottolog.org/resource/reference/id/302898",
+   "found_in_search": true
+  },
+  {
+   "title": "Yareba language (UNITECH library record)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://matdisc.unitech.ac.pg/Record/9344",
+   "found_in_search": true
+  },
+  {
+   "title": "Yareba language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yareba_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yareban languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yareban_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Yareba word list",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://asjp.clld.org/languages/YAREBA",
+   "found_in_search": true
+  },
+  {
+   "title": "Yareba numerals, Max Planck channumerals",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yareba.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yareba, Middle Musa",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15994",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: language yrb",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/languages/yrb",
+   "found_in_search": true
+  }
+ ]
+}
