@@ -1,0 +1,45 @@
+{
+ "iso": "wkr",
+ "name": "Keerray-Woorroong",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:10:35Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "AUSTLANG S25: Keerray Woorroong (AIATSIS)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/S25",
+   "found_in_search": true
+  },
+  {
+   "title": "Dhauwurd Wurrung language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dhauwurd_Wurrung_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Victorian Aboriginal languages (Museums Victoria)",
+   "type": "other",
+   "language": "English",
+   "url": "https://museumsvictoria.com.au/bunjilaka/about-us/first-peoples/victorian-aboriginal-languages/",
+   "found_in_search": true
+  },
+  {
+   "title": "Gunditjmara language (Warrnambool)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.moyjil.com.au/gunditjmara-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Indigenous Songs of Victoria, foreword (ANU Press)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://press-files.anu.edu.au/downloads/press/n14364/pdf/foreword.pdf",
+   "found_in_search": true
+  }
+ ]
+}
