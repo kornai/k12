@@ -1,0 +1,24 @@
+{
+ "iso": "xti",
+ "name": "Sinicahua Mixtec",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:57:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Sinicahua Mixtec",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/sini1243",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Mixtec, Sinicahua",
+   "type": "audio",
+   "language": "native",
+   "url": "https://www.globalrecordings.net/en/language/xti",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "iso": "xtg",
+ "name": "Transalpine Gaulish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:57:48Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Lexicon Leponticum (LexLep)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lexlep.univie.ac.at/",
+   "found_in_search": true
+  },
+  {
+   "title": "LexLep Dictionary of Attested Forms",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://lexlep.univie.ac.at/wiki/Dictionary_of_Attested_Forms",
+   "found_in_search": true
+  },
+  {
+   "title": "Digital Classicist: Lexicon Leponticum",
+   "type": "academic",
+   "language": "English",
+   "url": "https://wiki.digitalclassicist.org/Lexicon_Leponticum",
+   "found_in_search": true
+  },
+  {
+   "title": "Stifter: Cisalpine Celtic (2020)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://mural.maynoothuniversity.ie/id/eprint/14948/1/DS-Cisalpine-Celtic-2020.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexicon Leponticum (CLL 2024)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://mural.maynoothuniversity.ie/id/eprint/19716/1/LexiconLeponticumCLL2024.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Gaulish community wiki: resources",
+   "type": "other",
+   "language": "English",
+   "url": "https://r.datuan.dev/r/Gaulish/wiki/index/resources",
+   "found_in_search": true
+  }
+ ]
+}
