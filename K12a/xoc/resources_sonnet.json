@@ -1,0 +1,24 @@
+{
+ "iso": "xoc",
+ "name": "O’chi’chi’",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:36:10Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wikipedia: Ọchịchị language",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/%E1%BB%8Cch%E1%BB%8Bch%E1%BB%8B_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: O'chi'chi' (dialect of Obulom)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/xoc",
+   "found_in_search": true
+  }
+ ]
+}
