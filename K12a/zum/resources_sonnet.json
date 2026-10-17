@@ -1,0 +1,45 @@
+{
+ "iso": "zum",
+ "name": "Kumzari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:27:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "A Grammar of Kumzari: a mixed Perso-Arabian language of Oman (Anonby, Leiden dissertation 2015)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2888893/view",
+   "found_in_search": true
+  },
+  {
+   "title": "Study of a thematic Kumzari dictionary project (JFLA)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://jfla.journals.ekb.eg/article_414388.html",
+   "found_in_search": true
+  },
+  {
+   "title": "The Kumzari dialect of the Shihuh tribe, Arabia, and a vocabulary (JRAS 1930)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/kumzari-dialect-of-the-shihuh-tribe-arabia-and-a-vocabulary/12663D632A971AD72938E132DA7F41A7",
+   "found_in_search": true
+  },
+  {
+   "title": "Kumzari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kumzari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "WOWA Kumzari (Musandam) dataset metadata, University of Bamberg",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://static-export-multicast.projects.it-fopro.uni-bamberg.de/resources/wowa/data/iranian/kumzari_musandam/wowa_iran_kumzari_musandam__metadata.pdf",
+   "found_in_search": true
+  }
+ ]
+}
