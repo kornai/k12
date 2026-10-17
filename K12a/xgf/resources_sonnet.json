@@ -1,0 +1,38 @@
+{
+ "iso": "xgf",
+ "name": "Gabrielino-Fernandeño",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:59:08Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yaara' Shiraaw'ax 'Eyooshiraaw'a: Now You're Speaking Our Language (UBC RelLex entry)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/Yaara%27_Shriraaw%27ax_%27Eyooshiraaw%27a:_Now_You%27re_Speaking_Our_Language_Gabrielino/Tongva/Fernande%C3%B1o",
+   "found_in_search": true
+  },
+  {
+   "title": "Topanga, Cahuenga, and Tujunga: Sounds from a Rediscovered Local Language (Zocalo Public Square)",
+   "type": "other",
+   "language": "English",
+   "url": "https://live-zocalopublicsquare.ws.asu.edu/2014/10/27/topanga-cahuenga-and-tujunga-sounds-from-a-rediscovered-local-language/ideas/nexus",
+   "found_in_search": true
+  },
+  {
+   "title": "Tongva language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tongva_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Tongva (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/tongva.htm",
+   "found_in_search": true
+  }
+ ]
+}
