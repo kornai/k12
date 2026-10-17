@@ -1,0 +1,66 @@
+{
+ "iso": "xau",
+ "name": "Kauwera",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:47:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kauwera language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kauwera_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Kauwera",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/kauw1242",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwerba languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwerba_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Kwerbic languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kwerbic_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "New Guinea World: Kwerba",
+   "type": "academic",
+   "language": "English",
+   "url": "https://newguineaworld.linguistik.uzh.ch/families/northwest-new-guinea/foja-range/west-foja-range/apauwar-river/kwerba",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP: Kwerba Kauwerawet I word list",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/KWERBA_KAUWERAWET_I",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Kauwera",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/languages/xau",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikitongues: Kauwera",
+   "type": "audio",
+   "language": "other",
+   "url": "https://wikitongues.org/languages/xau/",
+   "found_in_search": true
+  }
+ ]
+}
