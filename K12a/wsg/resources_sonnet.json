@@ -1,0 +1,59 @@
+{
+ "iso": "wsg",
+ "name": "Adilabad Gondi",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:33:21Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Glottolog: Adilabad Gondi (wsg)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/iso/wsg",
+   "found_in_search": true
+  },
+  {
+   "title": "Gondi (Adilabad) grammar sketch, 2015 (Glottolog reference)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/585866",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Gondi",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/gondi.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "First Gondi dictionary (Vikalp Sangam)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://vikalpsangam.org/article/first-gondi-dictionary",
+   "found_in_search": true
+  },
+  {
+   "title": "First-Ever Gondi Dictionary Tries to Bridge Gaps (The Quint)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.thequint.com/amp/story/news/india/goodnews-first-ever-gondi-dictionary-tries-to-bridge-gaps",
+   "found_in_search": true
+  },
+  {
+   "title": "Birth of the Gondi dictionary (YourStory)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://yourstory.com/2018/03/gondi-language-dictionary-words",
+   "found_in_search": true
+  },
+  {
+   "title": "ScriptureEarth: Adilabad Gondi",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://scriptureearth.org/00eng.php?iso=wsg",
+   "found_in_search": true
+  }
+ ]
+}
