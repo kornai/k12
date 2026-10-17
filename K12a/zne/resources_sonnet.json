@@ -1,0 +1,59 @@
+{
+ "iso": "zne",
+ "name": "Zande",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:05:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "South Sudan: Teaching children to read and pray in their own language (ACN)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.churchinneed.org/south-sudan-teaching-children-to-read-and-pray-in-their-own-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "South Sudan: Biblical literacy (ACN UK)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://acnuk.org/news/south-sudan-biblical-literacy",
+   "found_in_search": true
+  },
+  {
+   "title": "Zande language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zande_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Zande languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Zande_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Bible South Sudan Pazande first edition (Vatican News)",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://www.vaticannews.va/en/africa/news/2020-09/bible-south-sudan-pazande-first-edition.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Translating the Holy Bible into the Pazande language a boost to peace",
+   "type": "scripture",
+   "language": "English",
+   "url": "https://encms.abouna.org/node/40190",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Pazande",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/pa/language/79",
+   "found_in_search": true
+  }
+ ]
+}

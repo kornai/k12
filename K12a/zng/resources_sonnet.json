@@ -1,0 +1,52 @@
+{
+ "iso": "zng",
+ "name": "Mang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:05:28Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Mang language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/M%E1%BA%A3ng_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Mang language, ISO 639 zng (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://wikipedia.com/wiki/ISO_639:zng",
+   "found_in_search": true
+  },
+  {
+   "title": "Mang numeral system, MPI",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Mang.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix: Mang",
+   "type": "other",
+   "language": "English",
+   "url": "https://docs.verbix.com/Languages/Mang",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Mang in Vietnam",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/13495/VM",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project: Mang sample",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://www.endangeredlanguages.com/lang/1236/samples/10372",
+   "found_in_search": true
+  }
+ ]
+}
