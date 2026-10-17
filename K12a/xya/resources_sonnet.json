@@ -1,0 +1,59 @@
+{
+ "iso": "xya",
+ "name": "Yaygir",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:12:17Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yaygirr language (Muurrbay)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://muurrbay.org.au/languages/yaygirr/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yaygirr language today (Muurrbay)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://muurrbay.org.au/?p=150",
+   "found_in_search": true
+  },
+  {
+   "title": "Yaygir language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yaygir_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Bruce 1887, Yegir vocabulary (Glottolog reference)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/40223",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang E10: Yaygirr",
+   "type": "other",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/E10",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS collection record for Yaygirr",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/node/1508436",
+   "found_in_search": true
+  },
+  {
+   "title": "ASJP Yaygir wordlist",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://asjp.clld.org/languages/YAYGIR",
+   "found_in_search": true
+  }
+ ]
+}
