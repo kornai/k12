@@ -1,0 +1,45 @@
+{
+ "iso": "yav",
+ "name": "Yangben",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:23:40Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yangben-French dictionary (SIL Cameroon, draft 2016)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.silcam.org/resources/archives/84830",
+   "found_in_search": true
+  },
+  {
+   "title": "Webonary Yangben dictionary and introduction",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.webonary.org/yangben/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Scripture Earth: Yangben (Nuasue) scripture resources",
+   "type": "scripture",
+   "language": "native",
+   "url": "https://www.scriptureearth.org/00eng.php?iso=yav",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: Yangben",
+   "type": "audio",
+   "language": "native",
+   "url": "https://globalrecordings.net/en/language/yav",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yangben in Cameroon",
+   "type": "other",
+   "language": "English",
+   "url": "https://joshuaproject.net/people_groups/15979",
+   "found_in_search": true
+  }
+ ]
+}
