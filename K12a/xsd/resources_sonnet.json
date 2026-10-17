@@ -1,0 +1,52 @@
+{
+ "iso": "xsd",
+ "name": "Sidetic",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Sidetic language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sidetic_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sidetic language (Britannica)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://www.britannica.com/topic/Sidetic-language",
+   "found_in_search": true
+  },
+  {
+   "title": "Woudhuizen: On the reading and interpretation of the two longer Sidetic inscriptions S I.2.1 and S I.2.5",
+   "type": "academic",
+   "language": "English",
+   "url": "https://antiquitasviva.com/wp-content/uploads/2021/07/70.1-2.04.-woudhuizen-f.-on-the-reading-and-interpretation-of-the-two-longer-sidetic-inscriptions-s-i.2.1-and-s-i.2.5.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Verona repository record: new Sidetic inscriptions from Side",
+   "type": "academic",
+   "language": "English",
+   "url": "https://iris.univr.it/handle/11562/1164487",
+   "found_in_search": true
+  },
+  {
+   "title": "Researchers identify 31 letters in ancient Sidetic language (Hurriyet Daily News)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.hurriyetdailynews.com/amp/researchers-identify-31-letters-in-ancient-sidetic-language-222957",
+   "found_in_search": true
+  },
+  {
+   "title": "An exceptional stater from Side (numismatic auction page)",
+   "type": "other",
+   "language": "English",
+   "url": "https://leunumismatik.com/de/lot/18/238",
+   "found_in_search": true
+  }
+ ]
+}

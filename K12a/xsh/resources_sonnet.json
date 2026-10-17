@@ -1,0 +1,38 @@
+{
+ "iso": "xsh",
+ "name": "Shamang",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:51:31Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Shamang language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Shamang_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Central Plateau languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Central_Plateau_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Plateau languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Plateau_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Global Recordings Network: language page xsh",
+   "type": "audio",
+   "language": "other",
+   "url": "https://globalrecordings.net/en/language/xsh",
+   "found_in_search": true
+  }
+ ]
+}
