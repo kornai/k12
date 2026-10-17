@@ -1,0 +1,59 @@
+{
+ "iso": "wuu",
+ "name": "Wu Chinese",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:38:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Omniglot: Wu Chinese",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/chinese/wu.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Wikibooks: Wu Chinese (Suzhou dialect textbook)",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://en.wikibooks.org/wiki/Wu_Chinese/Printable_version",
+   "found_in_search": true
+  },
+  {
+   "title": "Shanghainese-English/English-Shanghainese Dictionary and Phrasebook (Hippocrene)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://alc.rutgers.edu/people/faculty-bookshelf/bookshelf-list/77-shanghainese-englishenglish-shanghainese-dictionary-and-phrasebook",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: Wu dictionary (English page)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.lexilogos.com/english/wu_dictionary.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Lexilogos: dictionnaire wu",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lexilogos.com/wu_dictionnaire.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Chinese-forums: A dictionary of Wu (discussion)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.chinese-forums.com/forums/topic/7457-a-dictionary-of-wu/",
+   "found_in_search": true
+  },
+  {
+   "title": "Shanghainese wiki (Reddit mirror)",
+   "type": "other",
+   "language": "English",
+   "url": "https://r.datuan.dev/r/shanghainese/wiki/index",
+   "found_in_search": true
+  }
+ ]
+}

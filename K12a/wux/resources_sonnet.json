@@ -1,0 +1,45 @@
+{
+ "iso": "wux",
+ "name": "Wulna",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:38:25Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Wulna language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Wulna_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Djerimanga (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Djerimanga",
+   "found_in_search": true
+  },
+  {
+   "title": "AIATSIS Austlang: Wuna (N29)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://collection.aiatsis.gov.au/austlang/language/N29?code=N29",
+   "found_in_search": true
+  },
+  {
+   "title": "Darwin Region languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Darwin_Region_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Limilngan-Wulna language page",
+   "type": "other",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/nucl1327",
+   "found_in_search": true
+  }
+ ]
+}
