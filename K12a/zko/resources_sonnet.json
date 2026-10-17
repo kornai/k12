@@ -1,0 +1,38 @@
+{
+ "iso": "zko",
+ "name": "Kott",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:52:20Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Kott language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Kott_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Kott: An extinct Central Siberian language (FreeLang)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.freelang.net/blog/?p=718",
+   "found_in_search": true
+  },
+  {
+   "title": "Kinship terminology paper (Univ. of Naples L'Orientale)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://unora.unior.it/retrieve/dfd1bedd-b1a9-d55a-e053-3705fe0af723/kinship%20terminology.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Academia.edu item on Kott",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.academia.edu/40222676",
+   "found_in_search": true
+  }
+ ]
+}
