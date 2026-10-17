@@ -1,0 +1,59 @@
+{
+ "iso": "stq",
+ "name": "Saterfriesisch",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Schulzentrum Saterland (Wikipedia)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Schulzentrum_Saterland",
+   "found_in_search": true
+  },
+  {
+   "title": "Mercator Research wiki: Saterfrisian in Germany",
+   "type": "policy",
+   "language": "English",
+   "url": "https://wiki.mercator-research.eu/languages:saterfrisian_in_germany",
+   "found_in_search": true
+  },
+  {
+   "title": "Fort, Saterfriesisches Wörterbuch (2nd edition, publisher record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.lehmanns.ch/media/87178986",
+   "found_in_search": true
+  },
+  {
+   "title": "Fryske Akademy: lectures for the Oldenburgische Landschaft in Saterland (Sprachlehre and online grammar)",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://fryske-akademy.nl/en/news-and-events/news-item/news/detail/lectures-for-the-oldenburgische-landschaft-in-saterland",
+   "found_in_search": true
+  },
+  {
+   "title": "Saterland Frisian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Saterland_Frisian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Academic article on Saterland Frisian (De Gruyter Brill)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www.degruyterbrill.com/document/doi/10.1075/nss.33.pi/html",
+   "found_in_search": true
+  },
+  {
+   "title": "Fryske Akademy: speechology for the Frisian language of Saterland",
+   "type": "software",
+   "language": "English",
+   "url": "https://fryske-akademy.nl/en/news-and-events/news-item/news/detail/speechology-for-the-frisian-language-of-saterland",
+   "found_in_search": true
+  }
+ ]
+}

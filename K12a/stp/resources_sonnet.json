@@ -1,0 +1,59 @@
+{
+ "iso": "stp",
+ "name": "Southeastern Tepehuan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Tepehuan Dictionary of Santa María Ocotán, Durango (Webonary, SIL/ILV)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/tepehuano-sureste/overview/introduction/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Southeastern Tepehuan dictionary: grammar section",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://www.webonary.work/tepehuano-sureste/language/grammar/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Southeastern Tepehuan dictionary: entries explained",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/tepehuano-sureste/overview/entries-explained/?lang=en",
+   "found_in_search": true
+  },
+  {
+   "title": "Southeastern Tepehuan dictionary: foreword",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.webonary.work/tepehuano-sureste/overview/foreword/",
+   "found_in_search": true
+  },
+  {
+   "title": "García Salido and Everdell 2020, language snapshot, Language Documentation and Description 19",
+   "type": "academic",
+   "language": "English",
+   "url": "https://lddjournal.org/article/1243/galley/2486/download",
+   "found_in_search": true
+  },
+  {
+   "title": "Tepehuán language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Tepehu%C3%A1n_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project record for Southeastern Tepehuan",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/112162",
+   "found_in_search": true
+  }
+ ]
+}

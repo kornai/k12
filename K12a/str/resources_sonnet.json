@@ -1,0 +1,52 @@
+{
+ "iso": "str",
+ "name": "Northern Straits Salish",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:24:49Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "SENĆOŦEN: a Dictionary of the Saanich Language (UBC Knowledge Base record)",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://knowledgebase.arts.ubc.ca/?p=3210",
+   "found_in_search": true
+  },
+  {
+   "title": "UBC RelLex: SENĆOŦEN: a Dictionary of the Saanich Language",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://wiki.ubc.ca/Documentation:RelLex/SEN%C4%86O%C5%A6EN:_a_Dictionary_of_the_Saanich_Language",
+   "found_in_search": true
+  },
+  {
+   "title": "CBC: New dictionary published for Indigenous Vancouver Island language",
+   "type": "other",
+   "language": "English",
+   "url": "https://amp.cbc.ca/lite/story/1.4797281",
+   "found_in_search": true
+  },
+  {
+   "title": "BC Review: Big book, great language",
+   "type": "other",
+   "language": "English",
+   "url": "https://thebcreview.ca/?p=35233",
+   "found_in_search": true
+  },
+  {
+   "title": "BC BookLook: A great book for a big language",
+   "type": "other",
+   "language": "English",
+   "url": "https://bcbooklook.com/547-recording-the-saanich-language/",
+   "found_in_search": true
+  },
+  {
+   "title": "ABC BookWorld: SENĆOŦEN; A Dictionary of the Saanich Language",
+   "type": "other",
+   "language": "English",
+   "url": "https://abcbookworld.com/?p=21490",
+   "found_in_search": true
+  }
+ ]
+}
