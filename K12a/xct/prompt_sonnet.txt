@@ -1,0 +1,35 @@
+You will research 4 languages (xcn, xco, xcr, xct), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE xcn ===
+Please help me gather resources for the Cotoname language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xcn; Glottocode: coto1248; macro-area: North America. Reference description: Cotoname is an extinct language of Mexico and the United States. It belongs to the Comecrudan language family.
+
+=== LANGUAGE xco ===
+Please help me gather resources for the Khwarezmian language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xco; Glottocode: khwa1238; family: Indo-European; macro-area: Eurasia
+
+=== LANGUAGE xcr ===
+Please help me gather resources for the Carian language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xcr; Glottocode: cari1274; family: Indo-European; macro-area: Eurasia
+
+=== LANGUAGE xct ===
+Please help me gather resources for the Classical Tibetan language, both English and native. The language may no longer have native speakers. The goal is a heritage and revitalization curriculum for K-12 schools that uses the language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xct; Glottocode: clas1254; family: Sino-Tibetan; macro-area: Eurasia
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.

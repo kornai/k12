@@ -1,0 +1,38 @@
+{
+ "iso": "xcn",
+ "name": "Cotoname",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:53:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Comecrudan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Comecrudan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Comecrudo language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Comecrudo_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Pakawan languages (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Pakawan_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Gatschet manuscript vocabularies of Comecrudo and Cotoname (NAA MS 297 finding aid)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://sirismm.si.edu/EADpdfs/NAA.MS297.pdf",
+   "found_in_search": true
+  }
+ ]
+}

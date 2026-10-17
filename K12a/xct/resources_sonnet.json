@@ -1,0 +1,59 @@
+{
+ "iso": "xct",
+ "name": "Classical Tibetan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:53:41Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Learning Classical Tibetan (Hackett, Snow Lion) - Shambhala",
+   "type": "textbook",
+   "language": "English",
+   "url": "https://www.shambhala.com/learning-classical-tibetan.html",
+   "found_in_search": true
+  },
+  {
+   "title": "University of Edinburgh Classical Tibetan course page (reading list: Bialek, Wilson, Preston)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://www.drps.ed.ac.uk/26-27/dpt/cxdivi10126.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Indology list thread: Tibetan textbook recommendations (2011)",
+   "type": "other",
+   "language": "English",
+   "url": "https://list.indology.info/pipermail/indology/2011-November/036021.html",
+   "found_in_search": true
+  },
+  {
+   "title": "Monlam Online Dictionary",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://monlamdictionary.com/",
+   "found_in_search": true
+  },
+  {
+   "title": "Old Tibetan Documents Online (OTDO)",
+   "type": "corpus",
+   "language": "native",
+   "url": "https://otdo.aa-ken.jp",
+   "found_in_search": true
+  },
+  {
+   "title": "Buddhist Digital Resource Center (Wikipedia)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Buddhist_Digital_Resource_Center",
+   "found_in_search": true
+  },
+  {
+   "title": "Rangjung Yeshe Wiki (Tsadra): Resources for Translators, Scholars & Practitioners",
+   "type": "other",
+   "language": "English",
+   "url": "https://rywiki.tsadra.org/index.php/Resources",
+   "found_in_search": true
+  }
+ ]
+}
