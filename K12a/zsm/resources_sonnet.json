@@ -1,0 +1,52 @@
+{
+ "iso": "zsm",
+ "name": "Standard Malay",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:19:37Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "KPM hasilkan 70 peratus buku teks digital (Utusan)",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://www.utusan.com.my/berita/2023/03/kpm-hasilkan-70-peratus-buku-teks-digital/",
+   "found_in_search": true
+  },
+  {
+   "title": "Form 2 Bahasa Malaysia textbook (DSKP KSSM), AnyFlip",
+   "type": "textbook",
+   "language": "native",
+   "url": "https://anyflip.com/iwzbp/mxrq/basic",
+   "found_in_search": true
+  },
+  {
+   "title": "Kamus Dewan (Wikipedia)",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://www.wikipedia.org/wiki/Kamus_Dewan",
+   "found_in_search": true
+  },
+  {
+   "title": "Kamus Dewan Perdana DBP perkukuh khazanah tamadun ilmu (Utusan)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.utusan.com.my/gaya/sastera/2025/01/kamus-dewan-perdana-dbp-perkukuh-khazanah-tamadun-ilmu/",
+   "found_in_search": true
+  },
+  {
+   "title": "Usaha DBP perkasa bahasa Melayu (Utusan, on PRPM)",
+   "type": "other",
+   "language": "native",
+   "url": "https://www.utusan.com.my/nasional/2026/07/usaha-dbp-perkasa-bahasa-melayu-mendepani-kepantasan-dunia-digital/",
+   "found_in_search": true
+  },
+  {
+   "title": "KPM eTextbook Reader and digital textbooks (Berita Harian)",
+   "type": "software",
+   "language": "native",
+   "url": "https://www.bharian.com.my/amp/berita/nasional/2021/01/775929/bhplus",
+   "found_in_search": true
+  }
+ ]
+}
