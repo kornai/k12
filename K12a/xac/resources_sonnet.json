@@ -1,0 +1,38 @@
+{
+ "iso": "xac",
+ "name": "Kachari",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:43:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Dimasa Kachari language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Dimasa_Kachari_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Sonowal Kachari people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Sonowal_Kachari_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Endangered Languages Project entry (Kachari)",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/node/91704",
+   "found_in_search": true
+  },
+  {
+   "title": "Sonwal Kachari in India (Joshua Project)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/17296/IN",
+   "found_in_search": true
+  }
+ ]
+}

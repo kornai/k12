@@ -1,0 +1,38 @@
+{
+ "iso": "xag",
+ "name": "Aghwan",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:43:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Caucasian Albanian language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Caucasian_Albanian_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Udi",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/udia1235",
+   "found_in_search": true
+  },
+  {
+   "title": "Grambank: Aghwan",
+   "type": "academic",
+   "language": "English",
+   "url": "https://grambank.clld.org/languages/aghw1237",
+   "found_in_search": true
+  },
+  {
+   "title": "Caucasian Albanian numbers (Omniglot)",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.omniglot.com/language/numbers/caucasianalbanian.htm",
+   "found_in_search": true
+  }
+ ]
+}

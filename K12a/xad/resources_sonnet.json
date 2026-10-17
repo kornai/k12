@@ -1,0 +1,52 @@
+{
+ "iso": "xad",
+ "name": "Adai",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:43:36Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Anthony P. Grant 1995 (Adai vocabulary), Glottolog reference",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/reference/id/76121",
+   "found_in_search": true
+  },
+  {
+   "title": "Adai language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Adai_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Adai people (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Adai_people",
+   "found_in_search": true
+  },
+  {
+   "title": "Adai numerals and word list page (MPI EVA)",
+   "type": "corpus",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Adai.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Caddo materials, American Philosophical Society Archives",
+   "type": "other",
+   "language": "English",
+   "url": "https://indigenousguide.amphilsoc.org/entry/40258",
+   "found_in_search": true
+  },
+  {
+   "title": "Adai Caddo Indian Nation (Tenanat e-Hadeyes page)",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://adaination.com/?p=1528",
+   "found_in_search": true
+  }
+ ]
+}
