@@ -1,0 +1,35 @@
+You will research 4 languages (xkc, xkd, xke, xkf), one after the other. Treat each separately: search for each language on its own and never mix up their resources.
+
+=== LANGUAGE xkc ===
+Please help me gather resources for the Kho’ini language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xkc; Glottocode: khoi1250; family: Indo-European; macro-area: Eurasia. Reference description: Kho’ini is an endangered indigenous language of Iran. It belongs to the Indo-European language family. Direct evidence is lacking, but the language is thought to be used as a first language by adults only. It is not known to be taught in schools.
+
+=== LANGUAGE xkd ===
+Please help me gather resources for the Kayan, Mendalam language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xkd; Glottocode: mend1267; family: Austronesian; macro-area: Papunesia. Reference description: Mendalam Kayan is an endangered indigenous language of Indonesia. It belongs to the Austronesian language family. Direct evidence is lacking, but the language is thought to be used as a first language by a decreasing number of young people. It is not known to be taught in schools.
+
+=== LANGUAGE xke ===
+Please help me gather resources for the Kereho language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xke; Glottocode: kere1285; family: Austronesian; macro-area: Papunesia; approx. speakers: about 500. Reference description: Kereho is an endangered indigenous language of Indonesia. It belongs to the Austronesian language family. The language is used as a first language by all adults in the ethnic community, but not all young people. It is not known to be taught in schools.
+
+=== LANGUAGE xkf ===
+Please help me gather resources for the Khengkha language, both English and native. The goal is to create a comprehensive K-12 school curriculum that uses the native language for as much as possible.
+
+Identification (to avoid confusing it with similarly named languages): ISO 639-3 code: xkf; Glottocode: khen1241; family: Sino-Tibetan; macro-area: Eurasia. Reference description: Khengkha is a stable indigenous language of Bhutan. It belongs to the Sino-Tibetan language family. The language is used as a first language by all in the ethnic community. It is not known to be taught in schools.
+
+For EVERY language: use web search. Cite only resources you actually found in search results, each with its URL. Do not invent resources, URLs, people, or contact details. If little exists, say so plainly. Do not create or modify any files; put everything in your reply.
+
+Reply with one section per language, in the order given, each exactly in this form:
+=== BEGIN <iso> ===
+```latex
+<complete pdflatex document, 12pt article, utf8 inputenc, T1 fontenc, hyperref; title "<Name> Language Resources for K-12 Curriculum Development", \author{Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for Andr\'as Kornai}; sections: Introduction; Primary Educational Resources; Linguistic and Reference Materials; Religious and Community Resources; Digital and Audio Resources; Curriculum Development Context; each resource with \url{...}>
+```
+```json
+[{"title": "...", "type": one of ['primer', 'textbook', 'dictionary', 'grammar', 'orthography', 'scripture', 'audio', 'video', 'corpus', 'software', 'policy', 'school_or_programme', 'community_org', 'academic', 'other'], "language": "native" or "English" or "other", "url": "...", "found_in_search": true}]
+```
+=== END <iso> ===
+
+You are free to decline this task, in whole or for any language; if you do, say so briefly in place of that language's blocks.
