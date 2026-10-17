@@ -1,0 +1,52 @@
+{
+ "iso": "yog",
+ "name": "Yogad",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:05:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Ortografiya nu Yogad (Komisyon sa Wikang Filipino, 2021)",
+   "type": "orthography",
+   "language": "native",
+   "url": "https://kwfwikaatkultura.ph/wp-content/uploads/2024/03/Yogad.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "A Dictionary of Yogad (Davis and Mesa, LINCOM, 2000), announcement",
+   "type": "dictionary",
+   "language": "English",
+   "url": "https://linguistlist.org/issues/11/1367/",
+   "found_in_search": true
+  },
+  {
+   "title": "Yogad language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yogad_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Comparison of orthographies of languages of the Philippines",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Comparison_of_orthographies_of_languages_of_the_Philippines",
+   "found_in_search": true
+  },
+  {
+   "title": "Verbix Yogad verb list",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://docs.verbix.com/Languages/Yogad",
+   "found_in_search": true
+  },
+  {
+   "title": "Tagalog.com Yogad dictionary entry",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.tagalog.com/dictionary/yogad",
+   "found_in_search": true
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "iso": "yoi",
+ "name": "Yonaguni",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:05:02Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Fujita-Round, Dunan school and community video workshops (EAJS 2026 abstract)",
+   "type": "school_or_programme",
+   "language": "English",
+   "url": "https://nomadit.co.uk/conference/eajs2026/paper/96786",
+   "found_in_search": true
+  },
+  {
+   "title": "JALT 2025 panel slides (Sachiyo)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://events.jalt.org/event/37/contributions/1273/attachments/221/490/2025Nov02_JALT_PANEL_Sachiyo.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Nae Ikema Yonaguni dictionary and video (Endangered Languages Project)",
+   "type": "dictionary",
+   "language": "native",
+   "url": "https://www.endangeredlanguages.com/node/103868",
+   "found_in_search": true
+  },
+  {
+   "title": "Dunan (Yonaguni Ryukyuan), Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://endangeredlanguages.com/lang/3170",
+   "found_in_search": true
+  },
+  {
+   "title": "Dunan resources listing, Endangered Languages Project",
+   "type": "other",
+   "language": "English",
+   "url": "https://www.endangeredlanguages.com/node/38730/resources",
+   "found_in_search": true
+  },
+  {
+   "title": "Heinrich, Ryukyuan languages paper (Ca' Foscari repository)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://iris.unive.it/retrieve/a54d8141-80f9-4edb-8a4e-4a75025aeda6/Harararude.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "NINJAL Yamada Masahiro summary",
+   "type": "academic",
+   "language": "other",
+   "url": "https://www2.ninjal.ac.jp/ael/files/resume/2_1_YamadaMasahiro.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yonaguni",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://www.omniglot.com/writing/yonaguni.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "The language in Japan's westernmost island",
+   "type": "other",
+   "language": "English",
+   "url": "https://thelanguagecloset.com/2025/09/20/the-language-in-japans-westernmost-island/",
+   "found_in_search": true
+  },
+  {
+   "title": "EAJS 2026 panel on Ryukyuan revitalization",
+   "type": "academic",
+   "language": "English",
+   "url": "https://nomadit.co.uk/conference/eajs2026/p/19095",
+   "found_in_search": true
+  }
+ ]
+}
