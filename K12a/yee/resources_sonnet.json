@@ -1,0 +1,59 @@
+{
+ "iso": "yee",
+ "name": "Yimas",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T04:33:09Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yimas language (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yimas_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Grammatical sketch of Yimas, Cambridge Handbook of Role and Reference Grammar",
+   "type": "grammar",
+   "language": "English",
+   "url": "https://resolve.cambridge.org/core/books/cambridge-handbook-of-role-and-reference-grammar/grammatical-sketch-of-yimas-lower-sepik-papua-new-guinea/F9948865D85C8428AEF8BD32B643106B",
+   "found_in_search": true
+  },
+  {
+   "title": "Foley 2005 (Trans New Guinea database source)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://transnewguinea.org/source/foley2005?page=8",
+   "found_in_search": true
+  },
+  {
+   "title": "Foley 1986 (PDF)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://cdstar.eva.mpg.de/bitstreams/EAEA0-72DE-267C-1377-0/Foley1986.pdf",
+   "found_in_search": true
+  },
+  {
+   "title": "Mathieu-Reeves thesis on Yimas serial verb constructions (University of Oregon)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://scholarsbank.uoregon.edu/xmlui/handle/1794/9836?show=full",
+   "found_in_search": true
+  },
+  {
+   "title": "Yimas numerals (MPI EVA)",
+   "type": "other",
+   "language": "English",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yimas.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "APiCS survey chapter: Yimas-Arafundi Pidgin",
+   "type": "academic",
+   "language": "English",
+   "url": "https://apics-online.info/surveys/69",
+   "found_in_search": true
+  }
+ ]
+}
