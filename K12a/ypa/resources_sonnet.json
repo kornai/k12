@@ -1,0 +1,38 @@
+{
+ "iso": "ypa",
+ "name": "Phala",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:07:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Phola language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Phola_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Southeastern Loloish languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Southeastern_Loloish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Loloish languages (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Loloish_languages",
+   "found_in_search": true
+  },
+  {
+   "title": "Glottolog: Phala",
+   "type": "academic",
+   "language": "English",
+   "url": "https://glottolog.org/resource/languoid/id/phal1256.bigmap.html",
+   "found_in_search": true
+  }
+ ]
+}

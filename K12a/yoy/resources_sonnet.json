@@ -1,0 +1,45 @@
+{
+ "iso": "yoy",
+ "name": "Yoy",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:07:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yoy language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yoy_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yoy numerals (MPI EVA)",
+   "type": "corpus",
+   "language": "other",
+   "url": "https://lingweb.eva.mpg.de/channumerals/Yoy.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yoy in Thailand",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/16062/TH",
+   "found_in_search": true
+  },
+  {
+   "title": "Joshua Project: Yoy in Laos",
+   "type": "community_org",
+   "language": "English",
+   "url": "https://joshuaproject.net/index.php/people_groups/16062/LA",
+   "found_in_search": true
+  },
+  {
+   "title": "Yoy people-group profile (PDF)",
+   "type": "other",
+   "language": "English",
+   "url": "https://people-groups.asiaharvest.org/Laos/Yoy-PBW.pdf",
+   "found_in_search": true
+  }
+ ]
+}

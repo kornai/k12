@@ -1,0 +1,66 @@
+{
+ "iso": "yox",
+ "name": "Yoron",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T05:07:26Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "resources": [
+  {
+   "title": "Yoron language (Wikipedia)",
+   "type": "academic",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yoron_language",
+   "found_in_search": true
+  },
+  {
+   "title": "Yoronjima (Wikipedia)",
+   "type": "other",
+   "language": "English",
+   "url": "https://en.wikipedia.org/wiki/Yoronjima",
+   "found_in_search": true
+  },
+  {
+   "title": "Omniglot: Yoron writing",
+   "type": "orthography",
+   "language": "English",
+   "url": "https://omniglot.com/writing/yoron.htm",
+   "found_in_search": true
+  },
+  {
+   "title": "JLect: Yunnu futuba",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.jlect.com/entry/5/yunnufutuba/",
+   "found_in_search": true
+  },
+  {
+   "title": "JLect: Yunnunchu",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://www.jlect.com/entry/386/yunnunchu",
+   "found_in_search": true
+  },
+  {
+   "title": "Glosbe: Yoron translations",
+   "type": "dictionary",
+   "language": "other",
+   "url": "https://glosbe.com/ask/yox",
+   "found_in_search": true
+  },
+  {
+   "title": "The potential form in Yoron dialect (Hayashi Yuuka)",
+   "type": "grammar",
+   "language": "other",
+   "url": "https://cir.nii.ac.jp/crid/1050845763866855040",
+   "found_in_search": true
+  },
+  {
+   "title": "Repository record (contents not verified)",
+   "type": "academic",
+   "language": "other",
+   "url": "https://iuk-repo.repo.nii.ac.jp/records/647",
+   "found_in_search": true
+  }
+ ]
+}
