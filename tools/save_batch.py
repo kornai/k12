@@ -94,8 +94,11 @@ def main():
                     free_path(d / f"resources{TAG}.json").write_text(json.dumps(wrapped, indent=1, ensure_ascii=False))
                 except json.JSONDecodeError:
                     pass
-            if not tex and seg and re.search(r"\bdeclin", seg, re.I):
-                (d / "DECLINED").write_text(stamp + "\n"); status = "declined"
+            # a decline is the model saying so in place of the blocks: no latex block, and the section
+            # opens with a refusal. (An earlier test matched "declin" anywhere and mislabelled real
+            # dossiers, 2026-10-17.) The marker carries the model's own words, so a reader can judge.
+            if not tex and seg and re.match(r"\s*(I\s+)?declin", seg, re.I):
+                (d / "DECLINED").write_text(stamp + "\n" + seg.strip()[:1500] + "\n"); status = "declined"
             log.write(f"{r['iso']}\t{r['name']}\t{stamp}\t{status}\t{n_res}\t{'+'.join(codes)}\n")
             print(f"{r['iso']} {r['name'][:28]:28} -> {status} res={n_res}")
 
