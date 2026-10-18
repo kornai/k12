@@ -1,0 +1,11 @@
+{
+ "iso": "pod",
+ "name": "Ponares",
+ "engine": "claude",
+ "model": "claude-sonnet-5-5",
+ "compiled": "2026-10-17T03:22:32Z",
+ "credit": "Compiled by Claude Sonnet 5.5 (claude-sonnet-5-5) for András Kornai",
+ "declined": true,
+ "statement": "I decline to produce a dossier for pod (Ponares). A search found no source that mentions the language at all, and the identification lists its family as \"Bookkeeping\", meaning there is no attested language to document. Any dossier would have to be invented.",
+ "resources": []
+}

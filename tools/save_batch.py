@@ -99,6 +99,8 @@ def main():
             # dossiers, 2026-10-17.) The marker carries the model's own words, so a reader can judge.
             if not tex and seg and re.match(r"\s*(I\s+)?declin", seg, re.I):
                 (d / "DECLINED").write_text(stamp + "\n" + seg.strip()[:1500] + "\n"); status = "declined"
+                from decline_to_tex import write_decline     # the finding is the dossier (AK, 2026-10-18)
+                write_decline(d, r, seg.strip()[:1500], stamp)
             log.write(f"{r['iso']}\t{r['name']}\t{stamp}\t{status}\t{n_res}\t{'+'.join(codes)}\n")
             print(f"{r['iso']} {r['name'][:28]:28} -> {status} res={n_res}")
 
